@@ -38,7 +38,6 @@ def scrape_irun_calendar(url=RACE_CALENDAR_URL):
             if len(parts) >= 3:
                 for gr, en in GREEK_MONTHS.items():
                     if gr in parts:
-                        # Extract day number
                         day = ''.join([c for c in parts[1] if c.isdigit()])
                         if day:
                             try:
@@ -52,25 +51,35 @@ def scrape_irun_calendar(url=RACE_CALENDAR_URL):
                 continue
 
             for li in ul.find_all("li"):
-                # 1️⃣ Extract URL if exists
-                a_tag = li.find("a")
-                link = a_tag["href"] if a_tag and a_tag.has_attr("href") else url
-
-                # 2️⃣ Extract title: prefer <a>, <em>, <i>, skip empty tags
+                # -----------------------------
+                # 1️⃣ Extract URL and Title
+                # -----------------------------
+                link = RACE_CALENDAR_URL  # default fallback
                 title = None
-                for tag_name in ["a", "em", "i"]:
-                    for tag in li.find_all(tag_name):
-                        text = tag.get_text(strip=True)
-                        if text:
-                            title = text
-                            break
-                    if title:
+
+                # Prefer last non-empty <a> text
+                a_tags = li.find_all("a")
+                for a in reversed(a_tags):
+                    text = a.get_text(strip=True)
+                    if text:
+                        title = text
+                        link = a["href"] if a.has_attr("href") else RACE_CALENDAR_URL
                         break
-                # Fallback to text before parentheses
+
+                # If no <a> or empty, pick the longest <em> or <i> text
+                if not title:
+                    candidates = li.find_all(["em", "i"])
+                    texts = [c.get_text(strip=True) for c in candidates if c.get_text(strip=True)]
+                    if texts:
+                        title = max(texts, key=len)
+
+                # Fallback: text before parentheses
                 if not title:
                     title = li.get_text(strip=True).split("(")[0].strip()
 
-                # 3️⃣ Extract location from parentheses
+                # -----------------------------
+                # 2️⃣ Extract Location
+                # -----------------------------
                 text = li.get_text(strip=True)
                 location = "Unknown"
                 if "(" in text and ")" in text:
@@ -106,7 +115,6 @@ def create_ics(races, filename=ICS_FILENAME):
     with open(filename, "w", encoding="utf-8") as f:
         f.writelines(calendar)
     print(f"📅 Saved {len(races)} all-day races to {filename}")
-
 
 # -----------------------------
 # MAIN
