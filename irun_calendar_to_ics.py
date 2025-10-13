@@ -6,7 +6,6 @@ from ics import Calendar, Event
 # -----------------------------
 # CONFIGURATION
 # -----------------------------
-# Change this URL for 2026 when available
 RACE_CALENDAR_URL = "https://irunmag.gr/race-calendar-2025"
 ICS_FILENAME = "irun_2025_calendar.ics"
 
@@ -39,6 +38,7 @@ def scrape_irun_calendar(url=RACE_CALENDAR_URL):
             if len(parts) >= 3:
                 for gr, en in GREEK_MONTHS.items():
                     if gr in parts:
+                        # Extract day number
                         day = ''.join([c for c in parts[1] if c.isdigit()])
                         if day:
                             try:
@@ -52,11 +52,25 @@ def scrape_irun_calendar(url=RACE_CALENDAR_URL):
                 continue
 
             for li in ul.find_all("li"):
-                title_tag = li.find("a") or li.find("em") or li.find("i")
-                title = title_tag.get_text(strip=True) if title_tag else li.get_text(strip=True)
-                link = title_tag["href"] if title_tag and title_tag.has_attr("href") else url
+                # 1️⃣ Extract URL if exists
+                a_tag = li.find("a")
+                link = a_tag["href"] if a_tag and a_tag.has_attr("href") else url
 
-                # Extract location from parentheses
+                # 2️⃣ Extract title: prefer <a>, <em>, <i>, skip empty tags
+                title = None
+                for tag_name in ["a", "em", "i"]:
+                    for tag in li.find_all(tag_name):
+                        text = tag.get_text(strip=True)
+                        if text:
+                            title = text
+                            break
+                    if title:
+                        break
+                # Fallback to text before parentheses
+                if not title:
+                    title = li.get_text(strip=True).split("(")[0].strip()
+
+                # 3️⃣ Extract location from parentheses
                 text = li.get_text(strip=True)
                 location = "Unknown"
                 if "(" in text and ")" in text:
