@@ -5,6 +5,10 @@ on:
   schedule:
     - cron: '0 6 * * 1'  # every Monday at 06:00 UTC
   workflow_dispatch:     # manual trigger
+  push:
+    paths:
+      - "irun_calendar_to_ics.py"
+      - ".github/workflows/update_calendar.yml"
 
 jobs:
   build:
