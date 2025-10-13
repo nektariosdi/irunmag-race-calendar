@@ -3,6 +3,8 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 from ics import Calendar, Event
 
+ICS_FILENAME = "irun_2025_calendar.ics"  # <-- make this a constant at top
+
 # Greek-to-English month map
 GREEK_MONTHS = {
     "Ιανουαρίου": "January", "Φεβρουαρίου": "February", "Μαρτίου": "March",
@@ -81,11 +83,11 @@ def create_ics(races, filename="irun_2025_calendar.ics"):
         event.description = f"{race['title']}\nLocation: {race['location']}\nMore info: {race['url']}"
         calendar.events.add(event)
 
-    with open(filename, "w", encoding="utf-8") as f:
+    with open(ICS_FILENAME, "w", encoding="utf-8") as f:
         f.writelines(calendar)
-    print(f"📅 Saved {len(races)} all-day races to {filename}")
-
+    print(f"📅 Saved {len(races)} all-day races to {ICS_FILENAME}")
 
 if __name__ == "__main__":
     races = scrape_irun_calendar()
     create_ics(races)
+
