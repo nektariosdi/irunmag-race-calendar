@@ -1,40 +1,45 @@
 name: Update iRunMag Calendar
 
+# Run automatically weekly + allow manual trigger
 on:
   schedule:
-    - cron: '0 6 * * 1'   # every Monday at 06:00 UTC
-  workflow_dispatch:       # allow manual trigger
+    - cron: '0 6 * * 1'  # every Monday at 06:00 UTC
+  workflow_dispatch:     # manual trigger
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write   # allow push
+      contents: write  # required to commit files
 
     steps:
+      # 1️⃣ Checkout repo
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # 2️⃣ Set up Python
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
+      # 3️⃣ Install dependencies
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run scraper
+      # 4️⃣ Run the scraper
+      - name: Scrape iRunMag and generate ICS
         run: python irun_calendar_to_ics.py
 
-      - name: Debug working directory
-        run: pwd && ls -la
-        
-      - name: Commit and push .ics file
+      # 5️⃣ Commit and push updated .ics
+      - name: Commit and push ICS file
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add irun_2025_calendar.ics
-
-
-          git commit -m "Auto-update calendar" || echo "No changes to commit"
+          git commit -m "Auto-update iRunMag calendar" || echo "No changes to commit"
           git push
+
+      # 6️⃣ Debug: list files (optional)
+      - name: Debug working directory
+        run: ls -la
