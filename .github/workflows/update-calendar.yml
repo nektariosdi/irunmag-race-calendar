@@ -8,7 +8,7 @@ on:
   push:
     paths:
       - "irun_calendar_to_ics.py"
-      - ".github/workflows/update_calendar.yml"
+      - ".github/workflows/update-calendar.yml"
 
 jobs:
   build:
