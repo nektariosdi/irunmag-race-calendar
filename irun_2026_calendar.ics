@@ -1,4 +1,883 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART:20260913T000000Z
+SUMMARY:Μαστίχαθλον (Χίος\, Τρίαθλον\, Duathlon\, Aquathlon)
+UID:44d3b80f-7084-489c-8019-c5c9e9b9dc4b@44d3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261108T000000Z
+SUMMARY:43ος Αυθεντικός Μαραθώνιος (Αθήνα\, 42k\, 10k)
+UID:b22fd76c-fa59-4afc-893d-f452b4545605@b22f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260117T000000Z
+SUMMARY:4ο Cretan Backyard Ultra (Βορίτσι Ηρακλείου\, 6\,7k σε γύρους)
+UID:10befc66-5cb7-48c5-9e93-0d9525780090@10be.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260404T000000Z
+SUMMARY:Hydra’s Trail Event (4-5/4\, Υδρα\, 38\,5k\, 18k\, 8k\, 5k\, 1\,7k\, 1\,1k\, 200μ.)
+UID:543c052e-9253-4587-ba61-d9e613a30b42@543c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261018T000000Z
+SUMMARY:12οι Ορεινοί Αγώνες Καβουσίου (Καβούσι Ιεράπετρας\, 22\,3k\, 8\,7k)
+UID:59ea5634-9e89-4a9d-8bd5-47ffc4fc589b@59ea.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260315T000000Z
+SUMMARY:Via Egnatia Run (Αλεξανδρούπολη\, 21k\, 10k\, 5k)
+UID:dd46d956-afcb-497a-a89e-427db5804ab6@dd46.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260718T000000Z
+SUMMARY:I Run Myrtos (Ιεράπετρα\, 12k\, 5k\, 750μ.)
+UID:25747551-1b2e-49b8-a7e4-03607e74fee9@2574.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260329T000000Z
+SUMMARY:8ος Κροκόδειλος Trail (Παλαιόχωρα Χανίων\, 20\,5k\, 7k\, 1k)
+UID:5007d656-4b51-49f7-b67c-bb6e94a54258@5007.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260823T000000Z
+SUMMARY:45οι Δικταίοι Αγώνες (Ψυχρό Οροπεδίου Λασιθίου\, 24k\, 6k\, 1\,5k\, 700μ.)
+UID:b0539ed1-58c1-4f9c-8106-1596163c1ee2@b053.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261004T000000Z
+SUMMARY:Ημιμαραθώνιος Κρήτης (Αρκαλοχώρι Ηρακλείου\, 21k\, 10k\, 5k\, 1k)
+UID:3656e379-43a9-4654-8a6f-eeaad0e927bc@3656.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260531T000000Z
+SUMMARY:Rock Solid Kastellorizo (Καστελλόριζο\, 22k\, 10k\, 5k\, 1\,3k)
+UID:d6d53f92-938a-40b3-bd2e-58382f3f9326@d6d5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260329T000000Z
+SUMMARY:4ος Ημιμαραθώνιος Πάτρας (Πάτρα\, 21k\, 10k\, 5k\, 1k)
+UID:056d2226-ce94-48b7-aa4e-ca4dd8837a1b@056d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260418T000000Z
+SUMMARY:6ο Moschopodi Trail Festival (18-19/4\, Θήβα\, 25k\, 11k\, 8k\, 5k\, 1k\, 30km mountain bike)
+UID:0a1dec4b-3903-4a3f-a576-54f04948963d@0a1d.org
+URL:https://irunmag.gr/races/trail/6o-moschopodi-trail-festival/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260104T000000Z
+SUMMARY:27ος Αγώνας Αλσους Δαφνίου (Δαφνί\, 10k)
+UID:9ad4e55f-5704-4294-8d68-7e91d9e2aba0@9ad4.org
+URL:https://irunmag.gr/races/trail/27os-agonas-alsous-dafniou/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260510T000000Z
+SUMMARY:Sohos Mountain Games (Σοχός Θεσσαλονίκης\, 25k\, 10k\, 5k\, 1k)
+UID:ee2fc630-5b2d-48e6-85b6-a584f03a60a2@ee2f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260208T000000Z
+SUMMARY:Malles Nature Run (Μάλλες Ιεράπετρας\, 10k\, 5k)
+UID:696c1458-3f80-4620-87cb-71c28e1c5e34@696c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260503T000000Z
+SUMMARY:Εορδαία Run (Πτολεμαΐδα\, 10k\, 1k)
+UID:cb158f28-e4a1-4da3-bf05-dd338ee5a1d2@cb15.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260201T000000Z
+SUMMARY:26ος Δρόμος Βουνού Υμηττός (Παπάγου-Χολαργός\, 21k)
+UID:0ab90d4e-1e94-49d1-9179-3649c4769164@0ab9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260118T000000Z
+SUMMARY:Frozen Lake (Κάτω Νευροκόπι Δράμας\, 15k)
+UID:d823d3c9-e46c-4ce1-b7e0-b8d95c20c967@d823.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260301T000000Z
+SUMMARY:2ο Ελάτεια Historic Trail (Ελάτεια Λοκρίδος\, Φθιώτιδα)
+UID:11ea5082-d12a-443c-b66f-7fb7759b87fd@11ea.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261004T000000Z
+SUMMARY:Spetses Mini Marathon (3-4/10\, Σπέτσες\, 25k\, 10k\, 5k\, 1k\, 500μ.)
+UID:b1bb89f8-2856-46cf-81ed-c8dee1d96012@b1bb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260118T000000Z
+SUMMARY:Quantum Nicosia Marathon (Λευκωσία\, Κύπρος\, 42k\, 21k\, 12\,3k\, 5k)
+UID:db5f6ec6-1ad3-4018-8060-664531e5ba4f@db5f.org
+URL:https://www.nicosiamarathon.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260426T000000Z
+SUMMARY:6ο City Trail Αγρίνιο (Αγρίνιο\, 15k\, 6k\, 1k)
+UID:d8855181-4b7b-4a25-88ec-e721d6a10ac7@d885.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260607T000000Z
+SUMMARY:11ες Ορεινές Διαδρομές Βοριτσίου (Βορίτσι Ηρακλείου\, 12k\, 5k\, 1500μ.)
+UID:b165c6e0-d338-4682-a591-11f3519ba059@b165.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260308T000000Z
+SUMMARY:10ο Women’s Run (Χίος\, 5k)
+UID:be0dad76-e141-4006-ac9f-0d2d24f7464c@be0d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260118T000000Z
+SUMMARY:14ος Ημιμαραθώνιος Αιγιαλείας (Αίγιο\, 21k\, 5k\, 1\,5k)
+UID:34160ada-783d-41b1-ad86-e582bb7a411e@3416.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260411T000000Z
+SUMMARY:Λαϊκός Ανώμαλος Δρόμος Λεύκτρων (Λεύκτρα Βοιωτίας\, 10k\, 3\,5k\, 1\,5k)
+UID:a10e5a65-62ef-4276-be8e-11deba01ead7@a10e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260131T000000Z
+SUMMARY:2ο Γιαννούλα Vertical Run (Θεσσαλονίκη\, 5\,4k\, 4k)
+UID:2de7a48e-385c-40a1-855b-9c9293545346@2de7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260118T000000Z
+SUMMARY:Λέβαδος Mountain Trail (Λιβαδειά\, 24\,2k\, 10\,7k)
+UID:3db589da-c5e8-4eb7-bf02-774dae16c843@3db5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260816T000000Z
+SUMMARY:Βαλτινές Διαδρομές (Χαλκιόπουλοι Αιτωλοακαρνανίας\, 10k\, 5k\, 1k)
+UID:9b96497c-ec83-42a7-8067-72e2cd8e0aec@9b96.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260208T000000Z
+SUMMARY:8ο Atlas Trail Running (Μαλακάσα Αττικής\, 24k\, 11k\, 6k)
+UID:50ed2798-20a9-491e-a292-740aec9adde3@50ed.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260125T000000Z
+SUMMARY:15ος Ημιμαραθώνιος «Ιωάννης Καποδίστριας» (Αίγινα\, 21k\, 10k\, 3k\, 1k\, 500μ.\, 200μ.)
+UID:5099bf8a-31e3-42a2-a055-67d8994422e8@5099.org
+URL:https://irunmag.gr/races/road/15os-agonas-dromou-ioannis-kapodistrias/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260131T000000Z
+SUMMARY:5ο Koumaria Trail Series (Πετρωτό Αχαΐας\, 20+40k\, 40\,5k\, 22k\, 12k\, 4k\, 1\,2k)
+UID:d81dd2b9-1de8-419a-a220-676add1147b4@d81d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260501T000000Z
+SUMMARY:Tihio Race (1-3/5\, Τείχιο Φωκίδας\, 104k\, 57k\, 30k\, 30k\, 10k)
+UID:a9a62f25-6495-4de5-aa2c-80c19926a1de@a9a6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260607T000000Z
+SUMMARY:Kilkis Trail (Κιλκίς\, 20k\, 5k)
+UID:6fd3c6e7-0139-44cf-b36f-ea40d7a645b3@6fd3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260426T000000Z
+SUMMARY:Ολοι Μαζί Ολοι Μπορούμε (Μαραθώνας\, 10k\, 5k\, 1k)
+UID:27fd0e80-7701-4e93-b077-92c37992c61f@27fd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261011T000000Z
+SUMMARY:1ο Famagusta Run (Πρωταράς\, Κύπρος\, 30k\, 10k\, 5k\, 1k)
+UID:a66e9d7b-3732-4385-b955-cccc3357764e@a66e.org
+URL:https://famagusta.run/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260515T000000Z
+SUMMARY:26ος Ευχίδειος Άθλος (15-17/5\, Δελφοί-Πλαταιές\, 215k\, 107\,5k\, 59k)
+UID:445c12dc-cf61-4270-a03f-f96f73ac0a3f@445c.org
+URL:https://irunmag.gr/races/ultra/26os-euchidios-athlos-15-17-may-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260905T000000Z
+SUMMARY:Σκυταλοδρομία Λέσβου (Λέσβος\, 320k)
+UID:a0870a6f-9a38-45b9-87cd-523716fc754b@a087.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260208T000000Z
+SUMMARY:24ος Δρόμος Αργολικού Κόλπου (Ναύπλιο\, 15\,5k)
+UID:947d4b3a-7198-44d5-9bfa-11cd7c326d9f@947d.org
+URL:https://irunmag.gr/news/24os-dromos-argolikou-kolpou-panagiotis-papavasileiou-afieromenos-sta-atoma-me-anapiria/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260426T000000Z
+SUMMARY:Go Kea (25-26/4\, Κέα\, trail\, swimming)
+UID:8328fac6-c1d9-4a96-9afb-4e9021cdad25@8328.org
+URL:https://irunmag.gr/races/swim-aqualthlon/go-kea-stis-25-26-apriliou-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260228T000000Z
+SUMMARY:2ο Spetses Mountain Run «Σωτήριος Ανάργυρος» (Σπέτσες\, 26k\, 10k)
+UID:bb335ef9-cc70-4208-903d-2fbae5fec528@bb33.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260322T000000Z
+SUMMARY:9ος Μαραθώνιος Σπερχειού (Σπερχειάδα\, 21k\, 5k\, 2\,5k\, 1k)
+UID:ca60b55a-7ac5-4fe7-8c6e-6917db52d6d6@ca60.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260329T000000Z
+SUMMARY:10ος Μαραθώνιος Ναυπλίου (Ναύπλιο\, 42k\, 21k\, 5k\, 1k)
+UID:4cc81e8d-8fe0-436a-ad78-c03008c16026@4cc8.org
+URL:https://irunmag.gr/races/road/10os-marathonios-nafpliou-stis-29-martiou-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260322T000000Z
+SUMMARY:15o Taygetos Challenge (Καρδαμύλη Μεσσηνίας\, 40k\, 22k\, 10k\, 5k\, Vertical 650m\, Kids 1000m)
+UID:f41582c7-8412-42f9-ade9-121ce87d92ca@f415.org
+URL:https://irunmag.gr/news/taygetos-challenge-2026-registrations-open/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260215T000000Z
+SUMMARY:11ος Αγώνας Δρόμου “Η καρδιά του παιδιού” (Φόδελε Ηρακλείου Κρήτης\, 10\,5k\, 7k)
+UID:272830a4-3cde-4948-972e-34b707e5bb6c@2728.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260502T000000Z
+SUMMARY:ROC 50 Miles (Δασικό Χωριό Ερυμάνθου\, Ξάνθη\, 89\,5k)
+UID:c8e77d0d-868e-4208-925d-8162f6f45e50@c8e7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260301T000000Z
+SUMMARY:11ο Μινωικό Μονοπάτι Μύθων Ιεράπετρας (Ιεράπετρα\, 26\,5k\, 12\,5k)
+UID:88263d42-f0d4-4ad5-9413-99bdaff5baec@8826.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260405T000000Z
+SUMMARY:3ο Γρεβενά City Run (Γρεβενά\, 10k\, 5k\, 1k)
+UID:1e6e85e3-3ba6-4a7b-b63d-225c897b32f2@1e6e.org
+URL:https://irunmag.gr/races/road/3o-grevena-city-run/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260524T000000Z
+SUMMARY:Thessaloniki Monuments Run (Θεσσαλονίκη\, 5\,6k)
+UID:d32aec57-a823-4cbb-8ad3-5e79f245e23e@d32a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260329T000000Z
+SUMMARY:14ος Βαλλιάνειος Αγώνας Δρόμου (Αργοστόλι\, 10k)
+UID:9dab4be2-9d5c-446e-95be-60d99743ac1c@9dab.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260329T000000Z
+SUMMARY:10ος Ημιμαραθώνιος Βόλου (28-29/3\, Βόλος\, 21k\, 5k\, 2k\, 500μ.)
+UID:c0f01147-356c-4b4f-87b7-84ddb2509a83@c0f0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261213T000000Z
+SUMMARY:Πεντελικόν Μάραθων (Μαραθώνας\, 12k)
+UID:2ee98266-fd22-4062-9336-092a8c467264@2ee9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260926T000000Z
+SUMMARY:Folegandros Challenge Run (Φολέγανδρος\, 21k\, 10k\, 5k\, 1k)
+UID:1aaaaaa0-b122-4740-a09c-b178767f00fd@1aaa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260426T000000Z
+SUMMARY:20ός Διεθνής Μαραθώνιος «Μέγας Αλέξανδρος» (Θεσσαλονίκη\, 42k\, 10k\, 5k\, 1k)
+UID:bc5d9617-2806-4d49-b639-ea0d6ea61aed@bc5d.org
+URL:https://irunmag.gr/races/road/20os-marathonios-thessalonikis/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260426T000000Z
+SUMMARY:17o Μονοπάτι Παρνασσού (25-26/5\, Αμφίκλεια\, 6k\, 12k\, 25k)
+UID:f427d3a0-cb31-4728-9fed-5eb880870065@f427.org
+URL:https://irunmag.gr/news/monopati-parnassou-2026-stis-25-26-apriliou/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260404T000000Z
+SUMMARY:Evia Ultra Trail (Στενή Ευβοίας\, 108\,5k)
+UID:bfde2083-77dd-46a4-8132-4e77cc31a0d9@bfde.org
+URL:https://irunmag.gr/races/ultra/evia-ultra-trail-4-apriliou-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260711T000000Z
+SUMMARY:4ος Νυχτερινός Αγώνας Μυτιλήνης (Μυτιλήνη\, 10k\, 5k\, 1k)
+UID:68989e6e-b87f-4a05-8101-78d8556d774d@6898.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260524T000000Z
+SUMMARY:Epidavrios Dromos Theater 2 Theater (Επίδαυρος\, 21k\, 5k\, 1\,5k)
+UID:af45f39f-b862-4685-95e2-bcd1bdf962ea@af45.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260913T000000Z
+SUMMARY:8ος Δρόμος Καλών Νερών (Καλά Νερά Πηλίου\, 10k\, 5k\, 1k)
+UID:3468a3fa-b541-457b-9990-3c7657132112@3468.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261011T000000Z
+SUMMARY:7ο Ηρακλής Γορίτσα Trail (Γορίτσα Βόλου\, 25k\, 8k\, 500μ.)
+UID:7f52c9cc-c4b9-4466-86de-8b6131308506@7f52.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260118T000000Z
+SUMMARY:10ο Veikou Trail (Γαλάτσι\, 20k\, 10k\, 5k)
+UID:e5921cbf-efa8-4a13-95d5-19ab5ee61936@e592.org
+URL:https://irunmag.gr/races/trail/epeteiako-10th-veikou-trail-prokiryxi/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260329T000000Z
+SUMMARY:3ος Παράκτιος Ημιμαραθώνιος Θερμαϊκού Αντώνης Ματζάρης (Νέοι Επιβάτες Θεσσαλονίκης\, 21k\, 10k\, 5k\, 1\,6k)
+UID:ae870e7c-148f-4284-aa03-43d9ac133df4@ae87.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260607T000000Z
+SUMMARY:3ο Andros Challenge & Festival (Ανδρος)
+UID:3d732881-2d22-4ff4-9356-912b349c883f@3d73.org
+URL:https://irunmag.gr/news/andros-challenge-festival/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260322T000000Z
+SUMMARY:1ος Αγώνας Δρόμου Ηγουμενίτσας (Ηγουμενίτσα)
+UID:1d1d84d5-ad14-4f18-9908-a9bd4eac5da9@1d1d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260308T000000Z
+SUMMARY:28ος Cyprus Marathon (Πάφος\, 42k\, 21k\, 10k\, 5k)
+UID:b5a1f0a1-fbb8-41a9-b224-2a836c0d5708@b5a1.org
+URL:https://www.logicomcyprusmarathon.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260919T000000Z
+SUMMARY:1ος Διεθνής Ημιμαραθώνιος «Νικηταράς» (εκκίνηση: Άνω Δολιανά –  τερματισμός: Τρίπολη Αρκαδίας)
+UID:0bf2cf9b-14db-41c6-ac2a-8e31c14f36ef@0bf2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260404T000000Z
+SUMMARY:78ος Δρόμος Θυσίας Ιέρας Πόλης Μεσολογγίου (Μεσολόγγι\, 9\,4k)
+UID:e9c788ed-e004-4caa-8f2c-cd3d39db5588@e9c7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260517T000000Z
+SUMMARY:Troodos Terra (Τρόοδος\, Λευκωσία\, 44k\, 29k\, 15k\, 5k)
+UID:c39165ce-743e-47fb-91df-d4103a4930f9@c391.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260104T000000Z
+SUMMARY:12ο Evrotas Run (Περιστέρι Λακωνίας\, 21k\, 10k\, 5k\, 1k)
+UID:0201173e-c300-4fd2-8dec-724c5048599d@0201.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260503T000000Z
+SUMMARY:15ος Ορεινός Αγώνας Ανοπαία Ατραπός (Θερμοπύλες\, 15\,2k)
+UID:4172cd6b-e894-4272-9875-2eb06ba97fa0@4172.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260329T000000Z
+SUMMARY:2ο Amanitis Trail (Χίος\, 40k\, 20k\, 7k)
+UID:b6b2722f-8c8a-42ee-8ff9-2acd32221b64@b6b2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260620T000000Z
+SUMMARY:10ο Πέρασμα Του Αποστόλου Παύλου (Μεθώνη Πιερίας\, 10k)
+UID:06cc9726-0eb4-4ff9-a8eb-d8067e5211fb@06cc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260822T000000Z
+SUMMARY:7ος Λαΐκός Αγώνας Δρόμου Βασιλικής (Βασιλική Λασιθίου\, 10k\, 5k)
+UID:6fc89dbb-de0f-4356-8086-22b10bece9bc@6fc8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260502T000000Z
+SUMMARY:Amorgos Trail Challenge (2-3/5\, Αμοργός\, 19k\, 7\,5k\, Spike\, 500μ.)
+UID:2924a68e-f567-48e6-8fec-f6769b1b0d13@2924.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260612T000000Z
+SUMMARY:Running Under The Moon (Λευκωσία\, 10k\, 5k)
+UID:a7b72838-ac78-421c-b5a0-92a18d05846e@a7b7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260503T000000Z
+SUMMARY:1ο Φάλανθος Trail (Φάλανθος Αρκαδίας\, 32k)
+UID:93e8b257-d0e4-4d8e-810d-5c41e99f4b19@93e8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260510T000000Z
+SUMMARY:5o Ipsilantis Trail (Υψηλάντης Βοιωτίας\, 21k\, 11k)
+UID:3c475d4d-0737-454b-b125-439030870462@3c47.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260524T000000Z
+SUMMARY:Kronio Trail (Τζερμιάδο Λασιθίου\, 42k\, 14k\, 5\,6k\, 1000μ.)
+UID:9441d869-dd1e-479a-a839-bee59ae95c43@9441.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260111T000000Z
+SUMMARY:13ο Pilabox Trail Race (Παλαιά Πεντέλη\, 14k\, 6k)
+UID:304d49d1-5075-4b44-9758-efcbf11a33c2@304d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260613T000000Z
+SUMMARY:Ιεράπετρα City Run in Stadium Vol 6 (Ιεράπετρα\, 10k\, 5k\, Beer Mile)
+UID:8da62a6d-f39c-40a6-9acf-413bd24e9584@8da6.org
+URL:https://www.facebook.com/profile.php?id=100068177657359
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260301T000000Z
+SUMMARY:14ος Χορτιάτης Trail Run (Χορτιάτης Θεσσαλονίκης\, 24k\, 10k)
+UID:eeaeaf8b-e510-44bd-8a10-0b870f9747fd@eeae.org
+URL:https://irunmag.gr/races/trail/14o-chortiatis-trail-run-tin-1i-martiou-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260503T000000Z
+SUMMARY:6ο Chios Hardstone Trail (Καρυές Χίου\, 24k\, 13k\, 6k\, 1k)
+UID:fe0e550c-e323-4070-8124-babae855326a@fe0e.org
+URL:https://irunmag.gr/races/trail/6o-chios-hardstone-trail/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260418T000000Z
+SUMMARY:Υψηλάντειος Αγώνας Δρόμου (Νέα Τραπεζούντα Πιερίας\, 10k\, 5\,3k\, 1\,1k)
+UID:a22af55e-4e3d-4292-b502-e267892fbf14@a22a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261003T000000Z
+SUMMARY:27ος Λαϊκός Αγώνας Δρόμου Νεάπολης Αγρινίου (Νεάπολη Αιτωλοακαρνανίας\, 9\,7k\, 4k\, 1k)
+UID:057870b3-1b35-4341-82e3-8c3755010d20@0578.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260830T000000Z
+SUMMARY:10ο Πολύγυρος Run Χαλκιδική (Πολύγυρος\, 14\,6k\, 5k\, 1k)
+UID:0faaf87d-3d89-4128-9bb0-b02ac19f58a8@0faa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260517T000000Z
+SUMMARY:4ος Axios Running Festival (Κουφάλια Θεσσαλονίκης\, 21k\, 10k\, 5k\, 1\,6k)
+UID:11238f32-66b5-411f-9321-8d6a63394f73@1123.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260426T000000Z
+SUMMARY:17ος Διεθνής Ποσειδώνιος Ημιμαραθώνιος (Παλαιό Φάληρο\, 21k\, 10k\, 5k)
+UID:88aaba43-4a5e-4952-bc76-a82db235f3fe@88aa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260329T000000Z
+SUMMARY:8ος Δρόμος 21 Μαθητών (Μακροχώρι Ημαθίας\, 10\,7k)
+UID:f4c652c3-22df-4ea5-adea-6a9ef43b4add@f4c6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260111T000000Z
+SUMMARY:1ο Ermionida Cross Country Running (Ερμιόνη Αργολίδας\, 10k\, 5k\, 4k\, 2\,6k\, 1\,3k\, 500μ. 300μ.)
+UID:de2feb0a-fedb-4f4f-a64b-03e629874076@de2f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260531T000000Z
+SUMMARY:Evrytania Trail Races (Δομνίστα\, Κρίκελλο Ευρυτανίας\, 80k\, 60k\, 30k\, 20k\, 12k\, 6k\, 1k)
+UID:6b4e04f0-a313-4ce5-9870-fd5e05f7093c@6b4e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260603T000000Z
+SUMMARY:Tihio Race Ultra Edition (3-7/6\, Τείχιο Φωκίδας\, 250k\, 170k\, 75k)
+UID:91d07e5c-7322-4820-9d48-14ca4811d0ba@91d0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260404T000000Z
+SUMMARY:3ο Kefalonia Backyard Ultra (Αργοστόλι Κεφαλονιάς\, 6\,7k σε γύρους)
+UID:3a319b95-1895-4c8a-9e48-f1bee44abdaa@3a31.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260517T000000Z
+SUMMARY:6ος Αγώνας Δρόμου Φαλανναίων (Φαλάνη Λάρισας\, 21k\, 5k\, 1k)
+UID:82f6f4a2-aaa1-4701-92ee-2454593005c3@82f6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260322T000000Z
+SUMMARY:Voio Race – Νεάπολη (10k\, 5k)
+UID:8a63dae4-7aa2-41ec-883b-d6f3d015d960@8a63.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260118T000000Z
+SUMMARY:7ος Βυζαντινός Αγώνας (Μέγαρα\, 50k)
+UID:4b382626-f01f-4ef1-87fc-701ae9c50db8@4b38.org
+URL:https://irunmag.gr/races/ultra/7os-vyzantinos-agonas/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260329T000000Z
+SUMMARY:1ος Μαραθώνιος Ηπείρου «Βασιλιάς Πύρρος» (Αρτα\, 42k\, 10k\, 5k)
+UID:96ab90cf-7adf-497f-86ac-353353183ab5@96ab.org
+URL:https://irunmag.gr/news/marathonios-ipeirou-dynamika/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260627T000000Z
+SUMMARY:Olympus Marathon (27-28/6\, Λιτόχωρο\, 71k\, 44k\, 12\,5k\, 5k\, 4\,25k)
+UID:36a62896-0294-4201-a197-a7492832266f@36a6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260719T000000Z
+SUMMARY:Zagori Mountain Running (18-19/7\, Τσεπέλοβο Ιωαννίνων\, 60k\, 33k\, 21k\, 10k\, 5k\, 1k)
+UID:78eb4e52-8122-41f3-b1aa-d3c9c448d96f@78eb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260509T000000Z
+SUMMARY:4ο Triantafilia Mountain Trail Races (9-10/5\, Τριανταφυλλιά Ευρυτανίας\, 37k\, 15k\, 9k)
+UID:8d3747fe-2122-473a-87d3-84b4bfc3fb4b@8d37.org
+URL:https://irunmag.gr/races/trail/4o-triantafilia-mountain-trail-races/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260503T000000Z
+SUMMARY:Λαφονήσιος Δρόμος (Χρυσοσκαλίτισσα Χανίων\, 21k\, 8\,7k\, 1\,1k)
+UID:97f448d0-21f5-4b4f-98fe-695e9644910e@97f4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260215T000000Z
+SUMMARY:Γεντίκι Trail 9 (Γεντίκι Λάρισας\, 21k\, 5k)
+UID:38f842d6-4fba-4621-9871-edef53e3459b@38f8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261213T000000Z
+SUMMARY:6ο Κέρη Cross Country Race (Δάσος Κέρης Ηρακλείου\, 10k\, 5k\, 1600μ.)
+UID:b725c84d-14e8-4c4d-8042-8d78d2fc81e0@b725.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260426T000000Z
+SUMMARY:8ο Kissavos Marathon Race Ευάγγελος Κουμπάρος (Αγιά Λάρισας\, 40k\, 21k\, 12k\, 1\,5k)
+UID:905746fd-45c3-42c5-a787-16d2e8e417b0@9057.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260322T000000Z
+SUMMARY:Piraeus Port Run (Πειραιάς)
+UID:b90c16a2-d338-4eca-89c5-41516b21a55a@b90c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260405T000000Z
+SUMMARY:Νικηφόρειος Δρόμος (Ατσιπόπουλο\, Καλονύκτης\, Ρέθυμνο\, 26k\, 10k\, 5\,3k\, 2k)
+UID:7aa51f30-e5c6-4257-ba9a-4c3c227c15c1@7aa5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260322T000000Z
+SUMMARY:5ο Coast To Coast Race (Ιεράπετρα\, 21k\, 5k\, 1k\, 200μ.)
+UID:69fb45e1-09de-4d28-ab7a-5a55605758a6@69fb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260419T000000Z
+SUMMARY:Lake Plastiras Trail (Λίμνη Πλαστήρα\, Καρδίτσα\, 42k\, 23k\, 10k\, 5k)
+UID:4167b14b-1d55-4a7f-8d2a-435df128b6a2@4167.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260920T000000Z
+SUMMARY:1ος Διεθνής Διπλός Μαραθώνιος Δρόμος “Γιάννης Κούρος 2026” (Τρίπολη Αρκαδίας)
+UID:74252e77-c56d-4dba-9ebd-927ae6574a0c@7425.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260503T000000Z
+SUMMARY:Corfu Mountain Trail (2-3/5\, Κέρκυρα\, 103k\, 44k\, 24k\, 12k)
+UID:5460eeb5-4880-454a-b0cd-815bdf9da547@5460.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260315T000000Z
+SUMMARY:5ος Γύρος Περιβολίων (Περιβόλια Χανίων\, 10k\, 5k)
+UID:fb654da6-962f-41df-a894-59a7c535f3e5@fb65.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260912T000000Z
+SUMMARY:Oiti Ultra Trail (Οίτη\, Φθιώτιδα)
+UID:cdc4d52f-9935-408a-9456-57f5ed820c1e@cdc4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260215T000000Z
+SUMMARY:11ο Lycabettus Run (Λυκαβηττός\, 11k\, 9k\, 5\,5k\, 4k)
+UID:509b65b4-946f-447f-a473-d9bb8a6e5d2b@509b.org
+URL:https://irunmag.gr/races/road-trail/11o-lycabettus-run-prokyrixi/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260426T000000Z
+SUMMARY:3ος Παλλήνιος Δρόμος (Παλλήνη\, 10k\, 5k\, 1k)
+UID:94258045-bd5b-441f-8ed2-ef04dc701cff@9425.org
+URL:https://irunmag.gr/races/road/3os-pallinios-dromos/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261017T000000Z
+SUMMARY:14ος Νυχτερινός Ημιμαραθώνιος Θεσσαλονίκης (Αμπελόκηποι Θεσσαλονίκης\, 21k\, 10k\, 5k\, 1\,6k)
+UID:de8c9290-1392-46b7-b5cc-768150762418@de8c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260201T000000Z
+SUMMARY:1ος Ημιμαραθώνιος Γυθείου «Δημήτρης Θεοδωρακάκος» (Γύθειο\, 21k\, 5k\, 1k)
+UID:8db637f2-64f5-4896-a2bf-72696acc685f@8db6.org
+URL:https://irunmag.gr/races/road/1os-imimarathonios-gytheiou/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260808T000000Z
+SUMMARY:2ο Olympia Night Run «Run Under Zeus» (Αρχαία Ολυμπία\, 10k\, 5k\, 1k)
+UID:6eac38dd-5217-4cac-8d91-e752efe5f0a2@6eac.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260329T000000Z
+SUMMARY:Ολοι Μαζί Ολοι Μπορούμε (Υμηττός\, 10k\, 5k\, 1k)
+UID:025cc79a-c1c1-4a66-b8d7-71d91e3770da@025c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260501T000000Z
+SUMMARY:2o Rodopi Backyard Ultra (Κομοτηνή\, κυκλική διαδρομή 6\,7 χλμ.)
+UID:87c98367-9b11-4dc2-9015-59e6d15a455d@87c9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260404T000000Z
+SUMMARY:4ο L’Étape Greece by Tour de France (Σπάρτη\, ποδηλασία: 138k\, 64k)
+UID:acea4fe7-d777-4c73-8fb8-36594b455ee8@acea.org
+URL:https://irunmag.gr/races/cycling/letape-greece-by-tour-de-france-sparti/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260920T000000Z
+SUMMARY:10ο Lailias Mountain Running (Χιονοδρομικό κέντρο Λαϊλιά\, Σέρρες)
+UID:1b1ca775-f35e-43ff-97d9-5889e5c48fbf@1b1c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260201T000000Z
+SUMMARY:2ος Αγώνας για την Πανελλήνια Ημέρα Φιλάθλου (Θεσσαλονίκη\, 5k\, 1k)
+UID:367e017d-a9f3-4548-a79b-e364db07395e@367e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260510T000000Z
+SUMMARY:Kassios Dias (Κασσιόπη\, Κέρκυρα\, 25k\, 12k\, 1\,2k)
+UID:c7436ade-d3eb-42ea-86a3-9c470f57faf0@c743.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260201T000000Z
+SUMMARY:Mitsero Mine Run (Μιτσερό\, Λευκωσία\, 21k\, 12k\, 5\,5k\, 880μ.)
+UID:11d0e37b-0b21-43cc-a49b-2d9a3dec46e4@11d0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260207T000000Z
+SUMMARY:5ο Sparta City Ultra (Σπάρτη\, 24ωρο\, 12ωρο\, 6ωρο)
+UID:a5f94f59-cab6-4092-ac92-6423ca4c6a2d@a5f9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260503T000000Z
+SUMMARY:15ος Ιπποκράτειος Αγώνας Δρόμου (Λάρισα\, 10k\, 3k)
+UID:26cd83dd-cba5-4184-80ef-e4e60912b701@26cd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260503T000000Z
+SUMMARY:2o Sithonia Trail Run (Νέος Μαρμαράς Χαλκιδικής\, 23k\, 10k)
+UID:894f0ff7-8a52-4407-952b-837b291067b3@894f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260329T000000Z
+SUMMARY:29ος Δρόμος Κουδουμά (Στέρνες Ηρακλείου\, 22\,5k)
+UID:e07ab9f9-e9df-47a2-b398-f274b5c93cc9@e07a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260523T000000Z
+SUMMARY:Ursa Trail (22-24/5\, Μέτσοβο\, 65\,6k\, 40k\, 21k\, 11k\, 4\,6k)
+UID:f4f3deb3-bac4-4bbb-8c25-52a69d03990d@f4f3.org
+URL:https://irunmag.gr/races/trail/ursa-trail-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260912T000000Z
+SUMMARY:Serifos Sunset Race (Σέριφος\, 10k\, 5k\, 1k. Κολύμβηση: 3k\, 1\,5k\, 750μ.)
+UID:7e62abca-896b-47b4-8903-b2f52bf0a5b8@7e62.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261011T000000Z
+SUMMARY:Run The City – Latsia / Geri (Λατσιά\, Γέρι\, Κύπρος\, 10\,8k\, 5k\, 1k)
+UID:05a7a32e-3d27-4648-8a10-f3112c4ca909@05a7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260517T000000Z
+SUMMARY:10ο Vavdos Trail Run (Βάβδος Χαλκιδικής)
+UID:627477a2-dee7-4eb2-ac7f-200e5a5fa62f@6274.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260329T000000Z
+SUMMARY:10ος Εύκλειος Αγώνας Βουνού & 6ο Υμηττός Marathon (Υμηττός\, 18k\, 10k\, 5k)
+UID:39c0c9d1-97c5-4555-9c2d-54a613f58241@39c0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260301T000000Z
+SUMMARY:Klirou Atovrysi (Κλήρου\, Λευκωσία\, 23k\, 12k\, 5k)
+UID:0900fbd8-7161-485b-958b-86d04d5259cc@0900.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260321T000000Z
+SUMMARY:Serres Circuit Run (21-22/3\, Σέρρες\, 24h\, 12h\, 6h\, 3 x 2h (relay)\, 6k)
+UID:a67ea447-bd3f-4c6e-ac2a-07f79836c0e1@a67e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260405T000000Z
+SUMMARY:13ο Poikilo Rocky Mountain (Πετρούπολη\, 29k\, 18k\, 10k\, 4k)
+UID:c0e08dab-11cb-49a6-83f2-2503612fc2dc@c0e0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260823T000000Z
+SUMMARY:14ος Ημιμαραθώνιος Χίου (21k\, 10\,5k\, 5k\, 1\,5k)
+UID:64a8293b-8a4b-4bee-b0be-6a278af1f60f@64a8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260524T000000Z
+SUMMARY:Λίμνη Μαραθώνα (Λίμνη Μαραθώνα\, 10k)
+UID:747882b2-2f18-41a8-8599-499a7c653478@7478.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260125T000000Z
+SUMMARY:2ο Kanalaki Run (Καναλάκι Πρέβεζας\, 21k\, 10k\, 5k\, 1k)
+UID:1866e5c4-fea6-42bc-b350-2959eba95db1@1866.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261018T000000Z
+SUMMARY:10ος Ημιμαραθώνιος Παλαιόχωρας (21k\, 10k\, 5k\, 1k)
+UID:85d098c4-d3c0-4a6b-8b0d-94aa2619d9a8@85d0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260919T000000Z
+SUMMARY:20ός Γύρος Λίμνης Ιωαννίνων (19-20/9\, Ιωάννινα 30k\, 10k\, 5k)
+UID:e671ab34-e18f-4023-8803-06f0acbc8306@e671.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260502T000000Z
+SUMMARY:8ος Αγώνας Δρόμου Υγείας Αντιπάρου (Αντίπαρος)
+UID:cdcc7a3b-2727-4d59-a715-180cc42b0f86@cdcc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260329T000000Z
+SUMMARY:Run For Autism (Αγία Νάπα\, 21k\, 10k\, 5k\, 1k)
+UID:15429ddf-781f-4949-b0cd-6572a3ffa916@1542.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260405T000000Z
+SUMMARY:14ο Kallithea Run (Καλλιθέα\, 10k\, 5k\, 2\,5k)
+UID:c1e4715a-16e5-4d9c-88f7-70663597f58a@c1e4.org
+URL:https://irunmag.gr/races/road/14o-kallithea-run/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260228T000000Z
+SUMMARY:All Terrain Ultra Race Ioannina (Ιωάννινα\, 6ωρο\, 3ωρο\, 10k\, 5k)
+UID:80a807a8-f815-4fe6-9ac2-e1cd8985ab39@80a8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260405T000000Z
+SUMMARY:Tsaritsani Trails (Τσαριτσάνη Λάρισας\, 32k\, 17k\, 9k\, 1k)
+UID:523a112c-cb6b-4888-a265-6bcf46176532@523a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260419T000000Z
+SUMMARY:1ο Kotylaion Run (Κουτσελιό Ιωαννίνων\, 10k\, 5k\, 1k)
+UID:d20e545f-49c0-4e50-89d2-63932f45356b@d20e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260101T000000Z
+SUMMARY:SNF Run: First Run (Καλλιθέα\, 3k)
+UID:c950e82a-7c5f-4826-b989-bcd4f64fa49e@c950.org
+URL:https://irunmag.gr/races/road/snf-run-2026-first-run/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260215T000000Z
+SUMMARY:8ος Αγώνας Trail Φανερωμένης Χιλιομοδίου (Χιλιομόδι Κορινθίας\, 23k\, 10\,5k\, 6k\, 2\,1k)
+UID:f2c159de-292e-4c08-b4df-4b564625f701@f2c1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260315T000000Z
+SUMMARY:17ος Ημιμαραθώνιος Καλαμπάκα – Τρίκαλα (Τρίκαλα\, 21k\, 5k)
+UID:0c805696-74af-4a0d-8ad6-0872717c89b8@0c80.org
+URL:https://irunmag.gr/races/road/17os-kalampaka/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260620T000000Z
+SUMMARY:Chios Night Half Marathon (Χίος\, 21k\, 10k\, 5k)
+UID:c49243b9-9ca4-4f1a-a38c-889533e3794b@c492.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260405T000000Z
+SUMMARY:Sougliani Trail (Σταυρός Θεσσαλονίκης\, 50k\, 25k\, 13k\, 5k)
+UID:863cc1a5-6066-4aa7-8014-0c733ca4be36@863c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260419T000000Z
+SUMMARY:10ος Μαραθώνιος Κρήτης (Χανιά\, 42k\, 10k\, 5k\, 2\,5k)
+UID:c2de6903-e908-41cc-8b20-3b39d3d5a988@c2de.org
+URL:https://irunmag.gr/races/road/10os-marathonios-kritis/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260418T000000Z
+SUMMARY:Lefkara Country Run & Vertical Challenge (Λεύκαρα\, Λάρνακα\, 23k\, 13k\, 4k)
+UID:1e44b833-3c1f-4e55-9cf5-7a99d54e4e4d@1e44.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261004T000000Z
+SUMMARY:4ο Γόμφοι Trail (Γόμφοι Τρικάλων\, 19k\, 7k\, 1k)
+UID:46d29e5f-3252-480e-823d-741d507d7560@46d2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260503T000000Z
+SUMMARY:Voio Race Series – Μπούρινος (Μπούρινος Βοΐου Κοζάνης\, 19k\, 10k)
+UID:f4b5db6b-5992-40bf-9079-3a8292330cb8@f4b5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260725T000000Z
+SUMMARY:WAVE Running (24-25/7\, Αβδηρα Ξάνθης\, 28k\, 10k\, 5k\, 500μ.)
+UID:b231f1e1-1cd0-41c0-a6e1-1d42956094ee@b231.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261107T000000Z
+SUMMARY:43ος Αυθεντικός Μαραθώνιος (Αθήνα\, 5k\, 1\,2k)
+UID:6682186b-7b99-4a32-a184-d2a9c08c19d3@6682.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260308T000000Z
+SUMMARY:14ος Ημιμαραθώνιος Αθήνας (Αθήνα\, 21k\, 10k\, 5k)
+UID:dd15e21b-6e65-451e-a9ca-2dfbb69b1950@dd15.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260426T000000Z
+SUMMARY:11ος Μαραθώνιος Ρόδου (Ρόδος\, 42k\, 21k\, 10k\, 5k)
+UID:174bd9cc-9afa-4ac5-8ad3-7345256a9be1@174b.org
+URL:https://irunmag.gr/races/road/11-rhodes-marathon/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260912T000000Z
+SUMMARY:Syros Trail Challenge (Σύρος\, 10k\, 3k)
+UID:1b731b13-7dff-4955-9d24-2d7a8dfe8c1f@1b73.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260322T000000Z
+SUMMARY:18ος XM Limassol Marathon (Λεμεσός\, Κύπρος\, 42k\, 21k\, 10k\, 5k\, 1k)
+UID:4929c4cd-c8fb-4960-8f97-9cace16cc504@4929.org
+URL:https://www.limassolmarathon.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260201T000000Z
+SUMMARY:Ρέτζακας Trail Run (Πλοκαμιανά Ιναχωρίου Χανίων\, 24\,7k\, 6\,8k)
+UID:cd691526-4e16-4c7b-8b30-b79fdd43ad1b@cd69.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260111T000000Z
+SUMMARY:Kambos Mountain Race (Λευκωσία\, 22k\, 11k)
+UID:1ba169a8-70a8-4837-a1fe-abe6e0cad1d2@1ba1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260531T000000Z
+SUMMARY:2οι Ορεινοί Αγώνες Τρεξίματος Χαλκιόπουλοι Βάλτου (Χαλκιόπουλοι Αιτωλοακαρνανίας\, 27k\, 10k)
+UID:f8c7d02f-d1cb-4a22-9054-66a26aadbee3@f8c7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260524T000000Z
+SUMMARY:14ο Skiathos Trail Run (Σκιάθος\, 24k\, 10k\, 1\,5k\, 1k)
+UID:52af0fdd-75f1-4bae-b019-cb9e825c637e@52af.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260301T000000Z
+SUMMARY:Τρέχω Στον Μαραθώνα (Μαραθώνας)
+UID:074850b3-c4b2-4459-a63a-43cd7fdb9b36@0748.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260118T000000Z
+SUMMARY:7ος Arkoudilas Trail (Κέρκυρα\, 22k\, 10k\, 1k)
+UID:718ad06b-3c62-4b76-9e8b-11e2566c9f64@718a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260301T000000Z
+SUMMARY:Ολοι Μαζί Μπορούμε (Πάρνηθα\, 10k\, 5k\, 1k)
+UID:5f365948-de5b-4239-89aa-aad318dda8ae@5f36.org
+END:VEVENT
 END:VCALENDAR
