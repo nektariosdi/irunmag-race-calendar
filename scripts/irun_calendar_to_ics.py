@@ -7,7 +7,7 @@
 # # CONFIGURATION
 # # -----------------------------
 # RACE_CALENDAR_URL = "https://irunmag.gr/race-calendar-2025"
-# ICS_FILENAME = "ics/irun_2025_calendar.ics"
+# ICS_FILENAME = "docs/irun_2025_calendar.ics"
 
 # # Greek month mapping to English for parsing
 # GREEK_MONTHS = {
@@ -237,5 +237,6 @@ def scrape():
 
 if __name__ == "__main__":
     scrape()
+
 
 
