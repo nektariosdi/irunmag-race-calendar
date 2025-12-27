@@ -135,7 +135,7 @@ import re
 
 YEAR = 2026
 URL = f"https://irunmag.gr/race-calendar-{YEAR}"
-ICS_FILENAME = f"ics/irun_{YEAR}_calendar.ics"
+ICS_FILENAME = f"docs/irun_{YEAR}_calendar.ics"
 
 # Greek month names → English month names
 GREEK_MONTHS = {
@@ -237,4 +237,5 @@ def scrape():
 
 if __name__ == "__main__":
     scrape()
+
 
