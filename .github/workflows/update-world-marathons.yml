@@ -31,7 +31,7 @@ jobs:
 
       - name: Run World Marathons scraper
         run: |
-          python scipts/irun_world_marathons_to_ics.py
+          python scipts/irun_world_marathons_2026_to_ics.py
 
       - name: Commit updated ICS
         run: |
