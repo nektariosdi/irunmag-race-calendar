@@ -41,7 +41,7 @@ def scrape_irun_calendar(url=RACE_CALENDAR_URL):
                         day = ''.join([c for c in parts[1] if c.isdigit()])
                         if day:
                             try:
-                                date = datetime.strptime(f"{day} {en} 2025", "%d %B %Y")
+                                date = datetime.strptime(f"{day} {en} 2026", "%d %B %Y")
                             except Exception:
                                 pass
                         break
@@ -122,4 +122,5 @@ def create_ics(races, filename=ICS_FILENAME):
 if __name__ == "__main__":
     races = scrape_irun_calendar()
     create_ics(races)
+
 
