@@ -6,8 +6,8 @@ from ics import Calendar, Event
 # -----------------------------
 # CONFIGURATION
 # -----------------------------
-RACE_CALENDAR_URL = "https://irunmag.gr/race-calendar-2025"
-ICS_FILENAME = "irun_2025_calendar.ics"
+RACE_CALENDAR_URL = "https://irunmag.gr/race-calendar-2026"
+ICS_FILENAME = "irun_2026_calendar.ics"
 
 # Greek month mapping to English for parsing
 GREEK_MONTHS = {
@@ -122,3 +122,4 @@ def create_ics(races, filename=ICS_FILENAME):
 if __name__ == "__main__":
     races = scrape_irun_calendar()
     create_ics(races)
+
