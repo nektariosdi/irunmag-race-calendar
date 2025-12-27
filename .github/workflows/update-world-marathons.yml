@@ -6,7 +6,7 @@ on:
     - cron: "0 6 * * 1"   # Every Monday at 06:00 UTC
   push:
     paths:
-      - "scipts/irun_world_marathons_to_ics.py"
+      - "scipts/irun_world_marathons_2026_to_ics.py"
 
 permissions:
   contents: write
