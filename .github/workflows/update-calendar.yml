@@ -40,7 +40,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add irun_2025_calendar.ics
+          git add irun_2026_calendar.ics
           git commit -m "Auto-update iRunMag calendar" || echo "No changes to commit"
           git push
 
