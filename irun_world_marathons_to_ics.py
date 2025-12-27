@@ -4,6 +4,9 @@ from datetime import datetime
 from ics import Calendar, Event
 import re
 
+# -----------------------------
+# CONFIG
+# -----------------------------
 URL = "https://irunmag.gr/races/world-race/world-marathons-2026"
 ICS_FILENAME = "irun_world_marathons_2026_calendar.ics"
 
@@ -24,6 +27,9 @@ GREEK_MONTHS = {
 
 DATE_RE = re.compile(r"(\d{1,2})\s+([Α-Ωα-ωΐάέήίόύώ]+)\s+(\d{4})")
 
+# -----------------------------
+# DATE PARSER
+# -----------------------------
 def parse_date(text):
     match = DATE_RE.search(text)
     if not match:
@@ -36,14 +42,19 @@ def parse_date(text):
 
     return datetime.strptime(f"{day} {en_month} {year}", "%d %B %Y")
 
+# -----------------------------
+# SCRAPER
+# -----------------------------
 def scrape():
-    r = requests.get(URL)
-    r.raise_for_status()
-    soup = BeautifulSoup(r.text, "html.parser")
+    response = requests.get(URL)
+    response.raise_for_status()
+    soup = BeautifulSoup(response.text, "html.parser")
 
     content = soup.select_one("#penci-post-entry-inner")
-    races = []
+    if not content:
+        raise RuntimeError("Could not find main content container")
 
+    races = []
     current_date = None
 
     for el in content.find_all(["h2", "p"], recursive=True):
@@ -63,30 +74,35 @@ def scrape():
 
         # Race line
         if current_date:
-            a = el.find("a")
+            a = el.find("a", href=True)
             em = el.find("em")
 
-            if a and em:
-                title = em.get_text(strip=True)
-                url = a.get("href")
+            if not (a and em):
+                continue
 
-                text = el.get_text(" ", strip=True)
-                location = "Unknown"
-                if "(" in text and ")" in text:
-                    location = text.split("(", 1)[1].split(")")[0].strip()
+            title = em.get_text(strip=True)
+            url = a["href"]
 
-                races.append({
-                    "title": title,
-                    "date": current_date,
-                    "location": location,
-                    "url": url,
-                })
+            text = el.get_text(" ", strip=True)
+            location = "Unknown"
+            if "(" in text and ")" in text:
+                location = text.split("(", 1)[1].split(")")[0].strip()
 
-    print(f"✅ Found {len(races)} races")
+            races.append({
+                "title": title,
+                "date": current_date,
+                "location": location,
+                "url": url,
+            })
+
+    print(f"✅ Found {len(races)} world marathon races")
     return races
 
+# -----------------------------
+# ICS GENERATOR
+# -----------------------------
 def create_ics(races):
-    cal = Calendar()
+    calendar = Calendar()
 
     for r in races:
         e = Event()
@@ -95,4 +111,21 @@ def create_ics(races):
         e.make_all_day()
         e.location = r["location"]
         e.url = r["url"]
-        e.description = f"{r['title']}\n{r['location']()
+        e.description = (
+            f"{r['title']}\n"
+            f"Location: {r['location']}\n"
+            f"More info: {r['url']}"
+        )
+        calendar.events.add(e)
+
+    with open(ICS_FILENAME, "w", encoding="utf-8") as f:
+        f.writelines(calendar)
+
+    print(f"📅 Saved {ICS_FILENAME}")
+
+# -----------------------------
+# MAIN
+# -----------------------------
+if __name__ == "__main__":
+    races = scrape()
+    create_ics(races)
