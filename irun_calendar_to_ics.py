@@ -133,9 +133,9 @@ from datetime import datetime
 from ics import Calendar, Event
 import re
 
-YEAR = "2026"
-URL = "https://irunmag.gr/races/calendar/greece-{YEAR}"
-ICS_FILENAME = "irun_greece_{YEAR}_calendar.ics"
+YEAR = 2026
+URL = f"https://irunmag.gr/race-calendar-{YEAR}"
+ICS_FILENAME = f"irun_{YEAR}_calendar.ics"
 
 # Greek month names → English month names
 GREEK_MONTHS = {
@@ -221,7 +221,7 @@ def scrape():
                     "url": url or "",
                 })
 
-    print(f"✅ Found {len(races)} races in Greece {YEAR}")
+    print(f"✅ Found {len(races)} races in {YEAR}")
     return races
 
 def create_ics(races):
@@ -243,4 +243,5 @@ def create_ics(races):
 if __name__ == "__main__":
     races = scrape()
     create_ics(races)
+
 
