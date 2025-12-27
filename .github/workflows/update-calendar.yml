@@ -7,7 +7,7 @@ on:
   workflow_dispatch:     # manual trigger
   push:
     paths:
-      - "irun_calendar_to_ics.py"
+      - "scripts/irun_calendar_to_ics.py"
       - ".github/workflows/update-calendar.yml"
 
 jobs:
