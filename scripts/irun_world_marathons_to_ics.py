@@ -88,16 +88,40 @@ def scrape():
             # if "(" in text and ")" in text:
             #     location = text.split("(", 1)[1].split(")")[0].strip()
 
+            # text = el.get_text(strip=True)
+            # location = "Unknown"
+            # if "(" in text and ")" in text:
+            #     inside = text.split("(", 1)[1].split(")")[0]
+            #     location = inside.split(",")[0].strip()
+
             text = el.get_text(strip=True)
-            location = "Unknown"
-            if "(" in text and ")" in text:
-                inside = text.split("(", 1)[1].split(")")[0]
-                location = inside.split(",")[0].strip()
             
+            town = None
+            country = None
+            distances = None
+            
+            match = re.search(r"\((.*?)\)", text)
+            if match:
+                parts = [p.strip() for p in match.group(1).split(",")]
+            
+                if len(parts) >= 2:
+                    town = parts[0]
+                    country = parts[1]
+                    location = f"{town}, {country}"
+            
+                elif len(parts) == 1:
+                    location = parts[0]
+            
+                if len(parts) > 2:
+                    distances = ", ".join(parts[2:])
+            else:
+                location = "Unknown"
+
             races.append({
                 "title": title,
                 "date": current_date,
                 "location": location,
+                "distances": distances,
                 "url": url,
             })
 
@@ -117,11 +141,18 @@ def create_ics(races):
         e.make_all_day()
         e.location = r["location"]
         e.url = r["url"]
-        e.description = (
-            f"{r['title']}\n"
-            f"Location: {r['location']}\n"
-            f"More info: {r['url']}"
-        )
+
+        description_lines = [
+            r["title"],
+            f"Location: {r['location']}",
+        ]
+
+        if r.get("distances"):
+            description_lines.append(f"Distances: {r['distances']}")
+
+        description_lines.append(f"More info: {r['url']}")
+
+        e.description = "\n".join(description_lines)
         calendar.events.add(e)
 
     with open(ICS_FILENAME, "w", encoding="utf-8") as f:
