@@ -153,95 +153,55 @@ GREEK_MONTHS = {
     "Δεκεμβρίου": "December",
 }
 
-DATE_RE = re.compile(r"(\d{1,2})\s+([Α-Ωα-ωΐάέήίόύώ]+)\s+(\d{4})")
-
-def parse_date(text):
-    """Parse Greek date strings into datetime"""
-    match = DATE_RE.search(text)
-    if not match:
-        return None
-    day, gr_month, year = match.groups()
-    en_month = GREEK_MONTHS.get(gr_month)
-    if not en_month:
-        return None
-    return datetime.strptime(f"{day} {en_month} {year}", "%d %B %Y")
+def parse_greek_date(text):
+    """Parse Greek date strings into datetime objects."""
+    # Example: "Κυριακή 4 Ιανουαρίου"
+    parts = text.strip().split()
+    if len(parts) >= 3:
+        day = parts[1]
+        gr_month = parts[2]
+        en_month = GREEK_MONTHS.get(gr_month)
+        if en_month:
+            return datetime.strptime(f"{day} {en_month} {YEAR}", "%d %B %Y")
+    return None
 
 def scrape():
     response = requests.get(URL)
     response.raise_for_status()
+
     soup = BeautifulSoup(response.text, "html.parser")
+    content = soup.find("div", class_="inner-post-entry entry-content")
 
-    content = soup.select_one(".inner-post-entry.entry-content")
-    if not content:
-        raise RuntimeError("Cannot find main content")
+    calendar = Calendar()
 
-    races = []
-    current_date = None
-
-    for el in content.find_all(["h4", "ul"], recursive=True):
-
-        # h4 with day name → new date
-        if el.name == "h4" and any(day in el.text for day in ["Κυριακή", "Σάββατο", "Δευτέρα", "Τρίτη", "Τετάρτη", "Πέμπτη", "Παρασκευή"]):
-            parsed = parse_date(el.text)
-            if parsed:
-                current_date = parsed
+    # Find all <h4> elements which contain dates
+    for h4 in content.find_all("h4"):
+        date = parse_greek_date(h4.get_text())
+        if not date:
             continue
 
-        # ul → race list
-        if el.name == "ul" and current_date:
-            for li in el.find_all("li"):
-                title = None
-                url = None
-                location = None
+        # The next sibling <ul> contains the events
+        ul = h4.find_next_sibling("ul")
+        if not ul:
+            continue
 
-                # Check for <em> or <a>
-                em = li.find("em")
-                a = li.find("a", href=True)
-                if em:
-                    title = em.get_text(strip=True)
-                    if a:
-                        url = a["href"]
-                elif a:
-                    title = a.get_text(strip=True)
-                    url = a["href"]
-                else:
-                    title = li.get_text(strip=True)
+        for li in ul.find_all("li"):
+            event_name = li.get_text(separator=" ", strip=True)
+            # Extract link if present
+            link_tag = li.find("a")
+            link = link_tag["href"] if link_tag else None
 
-                # Location is in parentheses
-                text = li.get_text(" ", strip=True)
-                if "(" in text and ")" in text:
-                    location = text.split("(", 1)[1].split(")")[0].strip()
-                else:
-                    location = "Unknown"
+            e = Event()
+            e.name = event_name
+            e.begin = date
+            e.url = link
+            calendar.events.add(e)
 
-                races.append({
-                    "title": title,
-                    "date": current_date,
-                    "location": location,
-                    "url": url or "",
-                })
-
-    print(f"✅ Found {len(races)} races in {YEAR}")
-    return races
-
-def create_ics(races):
-    calendar = Calendar()
-    for r in races:
-        e = Event()
-        e.name = r["title"]
-        e.begin = r["date"].date()
-        e.make_all_day()
-        e.location = r["location"]
-        e.url = r["url"]
-        e.description = f"{r['title']}\nLocation: {r['location']}\nMore info: {r['url']}"
-        calendar.events.add(e)
-
+    # Save to ICS file
     with open(ICS_FILENAME, "w", encoding="utf-8") as f:
         f.writelines(calendar)
-    print(f"📅 Saved {ICS_FILENAME}")
+
+    print(f"Scraped {len(calendar.events)} events and saved to {ICS_FILENAME}")
 
 if __name__ == "__main__":
-    races = scrape()
-    create_ics(races)
-
-
+    scrape()
