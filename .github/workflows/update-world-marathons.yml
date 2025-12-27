@@ -1,12 +1,14 @@
 name: Update World Marathons Calendar
 
+# Run automatically weekly + allow manual trigger
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "0 6 * * 1"   # Every Monday at 06:00 UTC
+    - cron: '0 6 * * 1'  # every Monday at 06:00 UTC
+  workflow_dispatch:     # manual trigger
   push:
     paths:
       - "scripts/irun_world_marathons_2026_to_ics.py"
+      - ".github/workflows/update-world-marathons.yml"
 
 permissions:
   contents: write
@@ -25,15 +27,12 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 ics
+        run: pip install -r requirements.txt
 
       - name: Run World Marathons scraper
-        run: |
-          python scripts/irun_world_marathons_2026_to_ics.py
+        run: python scripts/irun_world_marathons_2026_to_ics.py
 
-      - name: Commit updated ICS
+      - name: Commit and push updated .ics
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -47,6 +46,6 @@ jobs:
             git push
           fi
 
-      # 6️⃣ Debug: list files (optional)
+      # Debug: list files (optional)
       - name: Debug working directory
         run: ls -la
