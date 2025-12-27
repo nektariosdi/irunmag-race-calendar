@@ -155,13 +155,12 @@ GREEK_MONTHS = {
 
 def parse_greek_date(text):
     """Parse Greek date strings into datetime objects."""
-    # Example: "Κυριακή 4 Ιανουαρίου"
     parts = text.strip().split()
     if len(parts) >= 3:
-        day = parts[1]
+        day = ''.join(filter(str.isdigit, parts[1]))
         gr_month = parts[2]
         en_month = GREEK_MONTHS.get(gr_month)
-        if en_month:
+        if day and en_month:
             return datetime.strptime(f"{day} {en_month} {YEAR}", "%d %B %Y")
     return None
 
@@ -174,30 +173,63 @@ def scrape():
 
     calendar = Calendar()
 
-    # Find all <h4> elements which contain dates
     for h4 in content.find_all("h4"):
         date = parse_greek_date(h4.get_text())
         if not date:
             continue
 
-        # The next sibling <ul> contains the events
         ul = h4.find_next_sibling("ul")
         if not ul:
             continue
 
         for li in ul.find_all("li"):
-            event_name = li.get_text(separator=" ", strip=True)
-            # Extract link if present
-            link_tag = li.find("a")
-            link = link_tag["href"] if link_tag else None
+            # -----------------------------
+            # Extract title
+            # -----------------------------
+            title = None
+            link = None
 
+            # Prefer last non-empty <a> text
+            a_tags = li.find_all("a")
+            for a in reversed(a_tags):
+                text = a.get_text(strip=True)
+                if text:
+                    title = text
+                    link = a.get("href")
+                    break
+
+            # Fallback to <em> or <i> if no <a>
+            if not title:
+                em_i_tags = li.find_all(["em", "i"])
+                texts = [t.get_text(strip=True) for t in em_i_tags if t.get_text(strip=True)]
+                if texts:
+                    title = max(texts, key=len)
+
+            # Fallback to plain text before parentheses
+            if not title:
+                title = li.get_text(strip=True).split("(")[0].strip()
+
+            # -----------------------------
+            # Extract location from parentheses
+            # -----------------------------
+            text = li.get_text(strip=True)
+            location = "Unknown"
+            if "(" in text and ")" in text:
+                inside = text.split("(", 1)[1].split(")")[0]
+                location = inside.split(",")[0].strip()
+
+            # -----------------------------
+            # Create event
+            # -----------------------------
             e = Event()
-            e.name = event_name
-            e.begin = date
+            e.name = title
+            e.begin = date.date()  # all-day event
+            e.make_all_day()
+            e.location = location
             e.url = link
+            e.description = f"{title}\nLocation: {location}\nMore info: {link if link else URL}"
             calendar.events.add(e)
 
-    # Save to ICS file
     with open(ICS_FILENAME, "w", encoding="utf-8") as f:
         f.writelines(calendar)
 
