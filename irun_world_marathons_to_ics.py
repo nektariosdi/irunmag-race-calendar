@@ -83,11 +83,17 @@ def scrape():
             title = em.get_text(strip=True)
             url = a["href"]
 
-            text = el.get_text(" ", strip=True)
+            # text = el.get_text(" ", strip=True)
+            # location = "Unknown"
+            # if "(" in text and ")" in text:
+            #     location = text.split("(", 1)[1].split(")")[0].strip()
+
+            text = el.get_text(strip=True)
             location = "Unknown"
             if "(" in text and ")" in text:
-                location = text.split("(", 1)[1].split(")")[0].strip()
-
+                inside = text.split("(", 1)[1].split(")")[0]
+                location = inside.split(",")[0].strip()
+            
             races.append({
                 "title": title,
                 "date": current_date,
