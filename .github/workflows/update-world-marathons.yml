@@ -7,7 +7,7 @@ on:
   workflow_dispatch:     # manual trigger
   push:
     paths:
-      - "scripts/irun_world_marathons_2026_to_ics.py"
+      - "scripts/irun_world_marathons_to_ics.py"
       - ".github/workflows/update-world-marathons.yml"
 
 permissions:
@@ -30,7 +30,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run World Marathons scraper
-        run: python scripts/irun_world_marathons_2026_to_ics.py
+        run: python scripts/irun_world_marathons_to_ics.py
 
       - name: Commit and push updated .ics
         run: |
