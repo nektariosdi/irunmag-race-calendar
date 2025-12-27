@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251220
+DESCRIPTION:1 Διεθνής Μαραθώνιος Κρήτης 2026: Έτοιμος να σπάσει όλα τα ρεκόρ! 20/12/2025\nLocation: Unknown\nMore info: https://irunmag.gr/news/diethnis-marathonios-kritis-2026-etoimos-na-spasei-ola-ta-rekor/
+LOCATION:Unknown
+SUMMARY:1 Διεθνής Μαραθώνιος Κρήτης 2026: Έτοιμος να σπάσει όλα τα ρεκόρ! 20/12/2025
+UID:497ecde9-f07c-43c3-a54b-f726da197eea@497e.org
+URL:https://irunmag.gr/news/diethnis-marathonios-kritis-2026-etoimos-na-spasei-ola-ta-rekor/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251219
+DESCRIPTION:4 Μαραθώνιος Βουκουρεστίου στις 11 Οκτωβρίου 2026 19/12/2025\nLocation: Unknown\nMore info: https://irunmag.gr/travel/bucharest-marathon-2026/
+LOCATION:Unknown
+SUMMARY:4 Μαραθώνιος Βουκουρεστίου στις 11 Οκτωβρίου 2026 19/12/2025
+UID:abd53d79-bcc7-4009-ad4f-a1cfc675cce8@abd5.org
+URL:https://irunmag.gr/travel/bucharest-marathon-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251222
+DESCRIPTION:3 Οι διεθνείς μαραθώνιοι του 2026 22/12/2025\nLocation: Unknown\nMore info: https://irunmag.gr/races/world-race/world-marathons-2026/
+LOCATION:Unknown
+SUMMARY:3 Οι διεθνείς μαραθώνιοι του 2026 22/12/2025
+UID:1d5555df-7e9f-4901-839c-23a5e5153063@1d55.org
+URL:https://irunmag.gr/races/world-race/world-marathons-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251219
+DESCRIPTION:5 iRun Christmas Box: Γιορτές με δώρα! 19/12/2025\nLocation: Unknown\nMore info: https://irunmag.gr/smart-living/unboxing-irun-christmas-box-limited-edition/
+LOCATION:Unknown
+SUMMARY:5 iRun Christmas Box: Γιορτές με δώρα! 19/12/2025
+UID:35140f25-6c1e-4719-bc36-2dc5d4f31426@3514.org
+URL:https://irunmag.gr/smart-living/unboxing-irun-christmas-box-limited-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251217
+DESCRIPTION:2 12ος Φιλίππειος Δρόμος: Γιώργος Σταμούλης και Φωτεινή Μυστακίδου οι νικητές 17/12/2025\nLocation: Unknown\nMore info: https://irunmag.gr/races/results/12os-filippeios-dromos-giorgos-stamoulis-kai-foteini-mystakidou-oi-nikites/
+LOCATION:Unknown
+SUMMARY:2 12ος Φιλίππειος Δρόμος: Γιώργος Σταμούλης και Φωτεινή Μυστακίδου οι νικητές 17/12/2025
+UID:2dd0e796-7b29-41ed-84ec-007f2107ee73@2dd0.org
+URL:https://irunmag.gr/races/results/12os-filippeios-dromos-giorgos-stamoulis-kai-foteini-mystakidou-oi-nikites/
+END:VEVENT
+END:VCALENDAR
