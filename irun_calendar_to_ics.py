@@ -6,7 +6,11 @@ from ics import Calendar, Event
 # -----------------------------
 # CONFIGURATION
 # -----------------------------
-RACE_CALENDAR_URL = "https://irunmag.gr/race-calendar-2025"
+RACE_CALENDAR_URLS = [
+    "https://irunmag.gr/race-calendar-2025",
+    "https://irunmag.gr/races/world-race/world-marathons-2026/",
+]
+#RACE_CALENDAR_URLS.append("https://irunmag.gr/race-calendar-2026")
 ICS_FILENAME = "irun_2025_calendar.ics"
 
 # Greek month mapping to English for parsing
@@ -20,8 +24,8 @@ GREEK_MONTHS = {
 # -----------------------------
 # SCRAPER
 # -----------------------------
-def scrape_irun_calendar(url=RACE_CALENDAR_URL):
-    """Scrape iRunMag race calendar and return a list of race dicts."""
+def scrape_irun_calendar(url):
+    """Scrape ONE iRunMag calendar page and return races."""
     response = requests.get(url)
     response.raise_for_status()
     soup = BeautifulSoup(response.text, "html.parser")
@@ -38,7 +42,7 @@ def scrape_irun_calendar(url=RACE_CALENDAR_URL):
             if len(parts) >= 3:
                 for gr, en in GREEK_MONTHS.items():
                     if gr in parts:
-                        day = ''.join([c for c in parts[1] if c.isdigit()])
+                        day = ''.join(c for c in parts[1] if c.isdigit())
                         if day:
                             try:
                                 date = datetime.strptime(f"{day} {en} 2025", "%d %B %Y")
@@ -51,40 +55,37 @@ def scrape_irun_calendar(url=RACE_CALENDAR_URL):
                 continue
 
             for li in ul.find_all("li"):
-                # -----------------------------
-                # 1️⃣ Extract URL and Title
-                # -----------------------------
-                link = RACE_CALENDAR_URL  # default fallback
+                link = url  # fallback to page URL
                 title = None
 
-                # Prefer last non-empty <a> text
-                a_tags = li.find_all("a")
-                for a in reversed(a_tags):
+                # Prefer last non-empty <a>
+                for a in reversed(li.find_all("a")):
                     text = a.get_text(strip=True)
                     if text:
                         title = text
-                        link = a["href"] if a.has_attr("href") else RACE_CALENDAR_URL
+                        if a.has_attr("href"):
+                            link = a["href"]
                         break
 
-                # If no <a> or empty, pick the longest <em> or <i> text
+                # Fallback: longest <em> or <i>
                 if not title:
-                    candidates = li.find_all(["em", "i"])
-                    texts = [c.get_text(strip=True) for c in candidates if c.get_text(strip=True)]
+                    texts = [
+                        t.get_text(strip=True)
+                        for t in li.find_all(["em", "i"])
+                        if t.get_text(strip=True)
+                    ]
                     if texts:
                         title = max(texts, key=len)
 
-                # Fallback: text before parentheses
+                # Final fallback
                 if not title:
                     title = li.get_text(strip=True).split("(")[0].strip()
 
-                # -----------------------------
-                # 2️⃣ Extract Location
-                # -----------------------------
+                # Location
                 text = li.get_text(strip=True)
                 location = "Unknown"
                 if "(" in text and ")" in text:
-                    inside = text.split("(", 1)[1].split(")")[0]
-                    location = inside.split(",")[0].strip()
+                    location = text.split("(", 1)[1].split(")")[0].split(",")[0].strip()
 
                 races.append({
                     "title": title,
@@ -93,7 +94,7 @@ def scrape_irun_calendar(url=RACE_CALENDAR_URL):
                     "url": link
                 })
 
-    print(f"✅ Found {len(races)} races.")
+    print(f"✅ {len(races)} races scraped from {url}")
     return races
 
 # -----------------------------
@@ -120,5 +121,14 @@ def create_ics(races, filename=ICS_FILENAME):
 # MAIN
 # -----------------------------
 if __name__ == "__main__":
-    races = scrape_irun_calendar()
-    create_ics(races)
+    all_races = []
+
+    for url in RACE_CALENDAR_URLS:
+        try:
+            races = scrape_irun_calendar(url)
+            all_races.extend(races)
+        except Exception as e:
+            print(f"❌ Failed scraping {url}: {e}")
+
+    create_ics(all_races)
+
