@@ -133,7 +133,7 @@ from datetime import datetime
 from ics import Calendar, Event
 import re
 
-YEAR = 2026
+YEAR = "2026"
 URL = "https://irunmag.gr/races/calendar/greece-{YEAR}"
 ICS_FILENAME = "irun_greece_{YEAR}_calendar.ics"
 
@@ -243,3 +243,4 @@ def create_ics(races):
 if __name__ == "__main__":
     races = scrape()
     create_ics(races)
+
