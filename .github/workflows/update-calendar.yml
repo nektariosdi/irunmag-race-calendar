@@ -33,7 +33,7 @@ jobs:
 
       # 4️⃣ Run the scraper
       - name: Scrape iRunMag and generate ICS
-        run: python irun_calendar_to_ics.py
+        run: python scripts/irun_calendar_to_ics.py
 
       # 5️⃣ Commit and push updated .ics
       - name: Commit and push ICS file
