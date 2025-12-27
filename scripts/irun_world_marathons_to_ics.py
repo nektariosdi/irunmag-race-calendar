@@ -8,7 +8,7 @@ import re
 # CONFIG
 # -----------------------------
 URL = "https://irunmag.gr/races/world-race/world-marathons-2026"
-ICS_FILENAME = "irun_world_marathons_2026_calendar.ics"
+ICS_FILENAME = "ics/irun_world_marathons_2026_calendar.ics"
 
 GREEK_MONTHS = {
     "Ιανουαρίου": "January",
