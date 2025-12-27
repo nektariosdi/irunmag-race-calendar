@@ -209,25 +209,60 @@ def scrape():
             if not title:
                 title = li.get_text(strip=True).split("(")[0].strip()
 
+            # # -----------------------------
+            # # Extract location from parentheses
+            # # -----------------------------
+            # text = li.get_text(strip=True)
+            # location = "Unknown"
+            # if "(" in text and ")" in text:
+            #     inside = text.split("(", 1)[1].split(")")[0]
+            #     location = inside.split(",")[0].strip()
+
             # -----------------------------
-            # Extract location from parentheses
+            # Extract location & distances
             # -----------------------------
             text = li.get_text(strip=True)
             location = "Unknown"
-            if "(" in text and ")" in text:
-                inside = text.split("(", 1)[1].split(")")[0]
-                location = inside.split(",")[0].strip()
+            distances = None
+            
+            match = re.search(r"\((.*?)\)", text)
+            if match:
+                parts = [p.strip() for p in match.group(1).split(",")]
+                if parts:
+                    location = parts[0]
+                    if len(parts) > 1:
+                        distances = ", ".join(parts[1:])
 
             # -----------------------------
             # Create event
             # -----------------------------
+            # e = Event()
+            # e.name = title
+            # e.begin = date.date()  # all-day event
+            # e.make_all_day()
+            # e.location = location
+            # e.url = link
+            # e.description = f"{title}\nLocation: {location}\nMore info: {link if link else URL}"
+            # calendar.events.add(e)
+
             e = Event()
             e.name = title
-            e.begin = date.date()  # all-day event
+            e.begin = date.date()
             e.make_all_day()
             e.location = location
             e.url = link
-            e.description = f"{title}\nLocation: {location}\nMore info: {link if link else URL}"
+            
+            description_lines = [
+                title,
+                f"Location: {location}"
+            ]
+            
+            if distances:
+                description_lines.append(f"Distances: {distances}")
+            
+            description_lines.append(f"More info: {link if link else URL}")
+            
+            e.description = "\n".join(description_lines)
             calendar.events.add(e)
 
     with open(ICS_FILENAME, "w", encoding="utf-8") as f:
@@ -237,6 +272,7 @@ def scrape():
 
 if __name__ == "__main__":
     scrape()
+
 
 
 
