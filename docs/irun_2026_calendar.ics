@@ -2,1960 +2,1993 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260322
-DESCRIPTION:1ος Αγώνας Δρόμου Ηγουμενίτσας\nLocation: Ηγουμενίτσα\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Ηγουμενίτσα
-SUMMARY:1ος Αγώνας Δρόμου Ηγουμενίτσας
-UID:a66082d4-3eca-48be-8e57-e30c06ee49dd@a660.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260510
-DESCRIPTION:Kassios Dias\nLocation: Κασσιόπη\nDistances: Κέρκυρα\, 25k\, 12k\, 1\, 2k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Κασσιόπη
-SUMMARY:Kassios Dias
-UID:95432ec2-9527-4604-9c50-a6197c6e967e@9543.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260927
-DESCRIPTION:Ainos Mountain Marathon\nLocation: Πυργί Κεφαλονιάς\nDistances: 40\, 5k\, 23\, 5k\, 11\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Πυργί Κεφαλονιάς
-SUMMARY:Ainos Mountain Marathon
-UID:673f2702-f073-4ced-8a7c-40c17f11cb6d@673f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260509
-DESCRIPTION:6ο Thrace Night Run\nLocation: Αλεξανδρούπολη\nDistances: 10k\, 5k\, 1500μ.\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Αλεξανδρούπολη
-SUMMARY:6ο Thrace Night Run
-UID:b559af03-f831-4569-b892-b0bec31c0fab@b559.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260104
-DESCRIPTION:12ο Evrotas Run\nLocation: Περιστέρι Λακωνίας\nDistances: 21k\, 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Περιστέρι Λακωνίας
-SUMMARY:12ο Evrotas Run
-UID:26456dc9-722b-4f9d-9d65-0838ff6f5d09@2645.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260301
-DESCRIPTION:2ο Ελάτεια Historic Trail\nLocation: Ελάτεια Λοκρίδος\nDistances: Φθιώτιδα\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Ελάτεια Λοκρίδος
-SUMMARY:2ο Ελάτεια Historic Trail
-UID:a5a61d33-540e-4c31-814b-112be9633598@a5a6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260215
-DESCRIPTION:2ος Αγώνας για την Πανελλήνια Ημέρα Φιλάθλου\nLocation: Θεσσαλονίκη\nDistances: 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Θεσσαλονίκη
-SUMMARY:2ος Αγώνας για την Πανελλήνια Ημέρα Φιλάθλου
-UID:5b14026b-d534-4df9-8d8e-745e3c23bf9a@5b14.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260426
-DESCRIPTION:11ος Δρόμος Εκεχειρίας\nLocation: Αρχαία Ολυμπία\nDistances: 50k\, 5k\, 2k\nMore info: https://irunmag.gr/races/ultra/11os-dromos-ekexeirias/
-LOCATION:Αρχαία Ολυμπία
-SUMMARY:11ος Δρόμος Εκεχειρίας
-UID:f7a7a40b-7e46-4a9a-adab-5f395c613865@f7a7.org
-URL:https://irunmag.gr/races/ultra/11os-dromos-ekexeirias/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260516
-DESCRIPTION:Goulinas Trail\nLocation: Σπερχειάδα Φθιώτιδας\nDistances: 30k\, 12k\, 6k\nMore info: https://irunmag.gr/races/trail/goulinas-trail-16-17-maiou-2026-prokiryxi/
-LOCATION:Σπερχειάδα Φθιώτιδας
-SUMMARY:Goulinas Trail
-UID:10e3f0b3-ba46-449f-b632-a6253a7a90f0@10e3.org
-URL:https://irunmag.gr/races/trail/goulinas-trail-16-17-maiou-2026-prokiryxi/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260426
-DESCRIPTION:Ολοι Μαζί Μπορούμε\nLocation: Μαραθώνας\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Μαραθώνας
-SUMMARY:Ολοι Μαζί Μπορούμε
-UID:d1422414-4373-4fb9-a3bc-2645aeb43ca7@d142.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260620
-DESCRIPTION:9ο Koufalia Hill Run «Δήμητρα Ιορδανίδου»\nLocation: Κουφάλια Θεσσαλονίκης\nDistances: 10k\, 6k\nMore info: https://irunmag.gr/races/road/9o-koufalia-hill-run/
-LOCATION:Κουφάλια Θεσσαλονίκης
-SUMMARY:9ο Koufalia Hill Run «Δήμητρα Ιορδανίδου»
-UID:9e38b006-1ac3-4f1d-b688-fc6f4791ae84@9e38.org
-URL:https://irunmag.gr/races/road/9o-koufalia-hill-run/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260524
-DESCRIPTION:14ο Skiathos Trail Run\nLocation: Σκιάθος\nDistances: 24k\, 10k\, 1\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Σκιάθος
-SUMMARY:14ο Skiathos Trail Run
-UID:e329a38a-3ece-48db-8923-3a78d5860d61@e329.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260315
-DESCRIPTION:Piraeus Port Run\nLocation: Πειραιάς\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/races/road/piraeus-port-run/
-LOCATION:Πειραιάς
-SUMMARY:Piraeus Port Run
-UID:de9cd285-fbe9-4e43-b02b-a98796deba7b@de9c.org
-URL:https://irunmag.gr/races/road/piraeus-port-run/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261017
-DESCRIPTION:14ος Νυχτερινός Ημιμαραθώνιος Θεσσαλονίκης\nLocation: Αμπελόκηποι Θεσσαλονίκης\nDistances: 21k\, 10k\, 5k\, 1\, 6k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Αμπελόκηποι Θεσσαλονίκης
-SUMMARY:14ος Νυχτερινός Ημιμαραθώνιος Θεσσαλονίκης
-UID:94137548-38a9-4df9-94d2-76f208206877@9413.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260523
-DESCRIPTION:13ος Πράσινος Ημιμαραθώνιος Λευκάδας\nLocation: 21k\nDistances: 8k\, 1000μ.\nMore info: https://irunmag.gr/races/road/prasinos-imimarathonios-lefkadas-2026/
-LOCATION:21k
-SUMMARY:13ος Πράσινος Ημιμαραθώνιος Λευκάδας
-UID:fb1c5102-3c95-48bb-8084-c54f622b2c8b@fb1c.org
-URL:https://irunmag.gr/races/road/prasinos-imimarathonios-lefkadas-2026/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260829
-DESCRIPTION:Voio Race Series\nLocation: Αυγερινός Κοζάνης\nDistances: 22k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Αυγερινός Κοζάνης
-SUMMARY:Voio Race Series
-UID:281d301d-fa88-42c1-a23f-15a2d569c2b4@281d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261213
-DESCRIPTION:Πεντελικόν Μάραθων\nLocation: Μαραθώνας\nDistances: 12k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Μαραθώνας
-SUMMARY:Πεντελικόν Μάραθων
-UID:6fea3cad-9ff3-4442-b1a4-7ddf98b0b5b6@6fea.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260531
-DESCRIPTION:2οι Ορεινοί Αγώνες Τρεξίματος Χαλκιόπουλοι Βάλτου\nLocation: Χαλκιόπουλοι Αιτωλοακαρνανίας\nDistances: 27k\, 10k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Χαλκιόπουλοι Αιτωλοακαρνανίας
-SUMMARY:2οι Ορεινοί Αγώνες Τρεξίματος Χαλκιόπουλοι Βάλτου
-UID:cb1cf752-7ec3-416c-b033-d90178c5253a@cb1c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260926
-DESCRIPTION:44ο Σπάρταθλον\nLocation: Αθήνα – Σπάρτη\nDistances: 246k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Αθήνα – Σπάρτη
-SUMMARY:44ο Σπάρταθλον
-UID:4d289b99-caba-4ee5-9d20-ae96ef327679@4d28.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260125
-DESCRIPTION:Salomon Mountain Cup\nLocation: Πεντέλη\nDistances: 10\, 3k\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Πεντέλη
-SUMMARY:Salomon Mountain Cup
-UID:c5f7c445-2af1-4327-bc42-2826ff41db51@c5f7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261004
-DESCRIPTION:Ημιμαραθώνιος Κρήτης\nLocation: Αρκαλοχώρι Ηρακλείου\nDistances: 21k\, 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Αρκαλοχώρι Ηρακλείου
-SUMMARY:Ημιμαραθώνιος Κρήτης
-UID:03549d5a-ebe9-4eef-9724-9c488086a631@0354.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260426
-DESCRIPTION:3ος Παλλήνιος Δρόμος\nLocation: Παλλήνη\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/races/road/3os-pallinios-dromos/
-LOCATION:Παλλήνη
-SUMMARY:3ος Παλλήνιος Δρόμος
-UID:e60cd4ba-def4-42e2-b2ce-4b7400799463@e60c.org
-URL:https://irunmag.gr/races/road/3os-pallinios-dromos/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260422
-DESCRIPTION:10ο No Finish Line Athens\nLocation: Πεδίον του Αρεως\nDistances: 100h\, 24h\, 5k\, 1\, 6k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Πεδίον του Αρεως
-SUMMARY:10ο No Finish Line Athens
-UID:1d8f89e8-a44f-4ca7-a9da-f6ab5111dac8@1d8f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260515
-DESCRIPTION:26ος Ευχίδειος Άθλος\nLocation: 15-17/5\nDistances: Δελφοί-Πλαταιές\, 215k\, 107\, 5k\, 59k\nMore info: https://irunmag.gr/races/ultra/26os-euchidios-athlos-15-17-may-2026/
-LOCATION:15-17/5
-SUMMARY:26ος Ευχίδειος Άθλος
-UID:922b4bca-b673-4350-be45-719adb1b4e68@922b.org
-URL:https://irunmag.gr/races/ultra/26os-euchidios-athlos-15-17-may-2026/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260627
-DESCRIPTION:11ες Ορεινές Διαδρομές Βοριτσίου\nLocation: Βορίτσι Ηρακλείου\nDistances: 12k\, 5k\, 1500μ.\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Βορίτσι Ηρακλείου
-SUMMARY:11ες Ορεινές Διαδρομές Βοριτσίου
-UID:c6af2a34-bbbe-4aac-bb54-80816300b66e@c6af.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260118
-DESCRIPTION:7ος Βυζαντινός Αγώνας\nLocation: Μέγαρα\nDistances: 50k\nMore info: https://irunmag.gr/races/ultra/7os-vyzantinos-agonas/
-LOCATION:Μέγαρα
-SUMMARY:7ος Βυζαντινός Αγώνας
-UID:ee63ab42-ea8d-42bb-8190-963d06689632@ee63.org
-URL:https://irunmag.gr/races/ultra/7os-vyzantinos-agonas/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-DESCRIPTION:8ος Κροκόδειλος Trail\nLocation: Παλαιόχωρα Χανίων\nDistances: 20\, 5k\, 7k\, 1k\nMore info: https://irunmag.gr/races/trail/8os-krokodeilos-trail-stis-29-martiou-2026/
-LOCATION:Παλαιόχωρα Χανίων
-SUMMARY:8ος Κροκόδειλος Trail
-UID:10327511-6819-4f55-b04e-e880e99bd5c0@1032.org
-URL:https://irunmag.gr/races/trail/8os-krokodeilos-trail-stis-29-martiou-2026/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260215
-DESCRIPTION:Προπονητική Ημερίδα Νίκης Βύρωνα\nLocation: Δημ. στάδιο Δήμου Βύρωνα\nDistances: 10k\, 5k\nMore info: https://irunmag.gr/stivos/niki-vyrona-diorganonei-proponitiki-imerida-sto-dimotiko-stadio-vyrona/
-LOCATION:Δημ. στάδιο Δήμου Βύρωνα
-SUMMARY:Προπονητική Ημερίδα Νίκης Βύρωνα
-UID:3dc81f7a-5e8b-4905-93d8-14a783a59949@3dc8.org
-URL:https://irunmag.gr/stivos/niki-vyrona-diorganonei-proponitiki-imerida-sto-dimotiko-stadio-vyrona/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260620
-DESCRIPTION:10ο Πέρασμα Του Αποστόλου Παύλου\nLocation: Μεθώνη Πιερίας\nDistances: 10k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Μεθώνη Πιερίας
-SUMMARY:10ο Πέρασμα Του Αποστόλου Παύλου
-UID:b0963689-fab3-458c-be77-26df681af6ae@b096.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260404
-DESCRIPTION:78ος Δρόμος Θυσίας Ιέρας Πόλης Μεσολογγίου\nLocation: Μεσολόγγι\nDistances: 9\, 4k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Μεσολόγγι
-SUMMARY:78ος Δρόμος Θυσίας Ιέρας Πόλης Μεσολογγίου
-UID:eb65a657-8b2d-4939-8f15-99283e1a3a00@eb65.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260419
-DESCRIPTION:1ο Kotylaion Run\nLocation: Κουτσελιό Ιωαννίνων\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Κουτσελιό Ιωαννίνων
-SUMMARY:1ο Kotylaion Run
-UID:a60c703b-b356-454a-a64e-8e9e75c6dab2@a60c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260614
-DESCRIPTION:10ος Ορεινός Ημιμαραθώνιος Δολιανών\nLocation: Ανω Δολιανά Αρκαδίας\nDistances: 21k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Ανω Δολιανά Αρκαδίας
-SUMMARY:10ος Ορεινός Ημιμαραθώνιος Δολιανών
-UID:9edb162d-fbd2-426f-b130-b38b6ec74458@9edb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260322
-DESCRIPTION:Voio Race – Νεάπολη\nLocation: Νεάπολη Κοζάνης\nDistances: 10k\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Νεάπολη Κοζάνης
-SUMMARY:Voio Race – Νεάπολη
-UID:0d467c9d-00c7-49eb-a836-ef6a761a0617@0d46.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260613
-DESCRIPTION:5ο Paros Way\nLocation: Πάρος\nDistances: 21k\, 5k. Κολύμβηση: 3k\, 1\, 5k\, 750μ.\nMore info: https://irunmag.gr/news/5th-paros-way/
-LOCATION:Πάρος
-SUMMARY:5ο Paros Way
-UID:44a78f8f-6a89-4a51-9382-ea00a6e4c1ff@44a7.org
-URL:https://irunmag.gr/news/5th-paros-way/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-DESCRIPTION:29ος Δρόμος Κουδουμά\nLocation: Στέρνες Ηρακλείου\nDistances: 22\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Στέρνες Ηρακλείου
-SUMMARY:29ος Δρόμος Κουδουμά
-UID:cf827e32-b2d1-4edf-8c33-ad8ffb477a68@cf82.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260912
-DESCRIPTION:Serifos Sunset Race\nLocation: Σέριφος\nDistances: 10k\, 5k\, 1k. Κολύμβηση: 3k\, 1\, 5k\, 750μ.\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Σέριφος
-SUMMARY:Serifos Sunset Race
-UID:b39b901e-58e9-4af5-80ea-a7fdc3a9ce0b@b39b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260418
-DESCRIPTION:Lefkara Country Run & Ve.rtical Challenge\nLocation: Λεύκαρα\nDistances: Λάρνακα\, 23k\, 13k\, 4k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Λεύκαρα
-SUMMARY:Lefkara Country Run & Ve.rtical Challenge
-UID:93ad92e3-54ab-4fa2-bd45-43e50ef2b090@93ad.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260301
-DESCRIPTION:11ο Μινωικό Μονοπάτι Μύθων Ιεράπετρας\nLocation: Ιεράπετρα\nDistances: 26\, 5k\, 12\, 5k\nMore info: https://irunmag.gr/races/trail/11o-minoiko-monopati-mython/
-LOCATION:Ιεράπετρα
-SUMMARY:11ο Μινωικό Μονοπάτι Μύθων Ιεράπετρας
-UID:7ba52442-4a51-41a6-9e29-03203bf0db2e@7ba5.org
-URL:https://irunmag.gr/races/trail/11o-minoiko-monopati-mython/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260215
-DESCRIPTION:10ο MaskaRun\nLocation: Ορχομενός Βοιωτίας\nDistances: 5k\, 3k\nMore info: https://irunmag.gr/races/road/10o-maskarun-epeteiaki-diorganosi-ston-orchomeno-stis-15-feb/
-LOCATION:Ορχομενός Βοιωτίας
-SUMMARY:10ο MaskaRun
-UID:bea5dbda-7e51-449e-8f60-0b484f02b67d@bea5.org
-URL:https://irunmag.gr/races/road/10o-maskarun-epeteiaki-diorganosi-ston-orchomeno-stis-15-feb/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260531
-DESCRIPTION:Rock Solid Kastellorizo\nLocation: Καστελλόριζο\nDistances: 22k\, 10k\, 5k\, 1\, 3k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Καστελλόριζο
-SUMMARY:Rock Solid Kastellorizo
-UID:a467a362-8575-48f4-b6ab-7970fbfa5791@a467.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260223
-DESCRIPTION:18ος Αγώνας Δρόμου Καθαράς Δευτέρας\nLocation: Αλεποχώρι Αττικής\nDistances: 10k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Αλεποχώρι Αττικής
-SUMMARY:18ος Αγώνας Δρόμου Καθαράς Δευτέρας
-UID:d96c7250-a720-443f-bf41-f6743accfb1c@d96c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260531
-DESCRIPTION:6ο Karya Olympus Trail\nLocation: Καρυά Ολύμπου\nDistances: 25k\, 13k\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Καρυά Ολύμπου
-SUMMARY:6ο Karya Olympus Trail
-UID:62ebf294-8bab-4bf9-8902-c1c1a1d43a02@62eb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260411
-DESCRIPTION:Λαϊκός Ανώμαλος Δρόμος Λεύκτρων\nLocation: Λεύκτρα Βοιωτίας\nDistances: 10k\, 3\, 5k\, 1\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Λεύκτρα Βοιωτίας
-SUMMARY:Λαϊκός Ανώμαλος Δρόμος Λεύκτρων
-UID:07ef3224-7aa8-410b-8cdc-57337ea2656c@07ef.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260417
-DESCRIPTION:15ος Αγώνας Δρόμου Δόλιχος «Δελφοί-Ολυμπία»\nLocation: 17-19/4\nDistances: Δελφοί\, Ρίο\, Αρχαία Ολυμπία\, 255k\, 144k\, 111k\nMore info: https://irunmag.gr/races/ultra/15os-dolichos/
-LOCATION:17-19/4
-SUMMARY:15ος Αγώνας Δρόμου Δόλιχος «Δελφοί-Ολυμπία»
-UID:cb91191a-5714-4185-95a3-9b15f6f297b7@cb91.org
-URL:https://irunmag.gr/races/ultra/15os-dolichos/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260208
-DESCRIPTION:49ος Αγώνας Δρόμου Υγείας Αθήνας 21 χλμ.\nLocation: Σχοινιάς\nDistances: 21k\, 10k\, 5k\nMore info: https://irunmag.gr/races/road/49os-agonas-dromou-ygeias-athinas/
-LOCATION:Σχοινιάς
-SUMMARY:49ος Αγώνας Δρόμου Υγείας Αθήνας 21 χλμ.
-UID:06878f89-3395-486f-aafe-6c29f77ee4c2@0687.org
-URL:https://irunmag.gr/races/road/49os-agonas-dromou-ygeias-athinas/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260322
-DESCRIPTION:5ο Coast To Coast Race\nLocation: Ιεράπετρα\nDistances: 21k\, 5k\, 1k\, 200μ.\nMore info: https://irunmag.gr/races/road/5o-coast-to-coast-race/
-LOCATION:Ιεράπετρα
-SUMMARY:5ο Coast To Coast Race
-UID:10785c05-1626-4069-9085-1c367d799ed0@1078.org
-URL:https://irunmag.gr/races/road/5o-coast-to-coast-race/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260503
-DESCRIPTION:Εορδαία Run\nLocation: Πτολεμαΐδα\nDistances: 10k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Πτολεμαΐδα
-SUMMARY:Εορδαία Run
-UID:fb9eef6f-e925-4184-a43d-d91e0fb7af3d@fb9e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260301
-DESCRIPTION:Salomon Mountain Cup\nLocation: Πάρνηθα\nDistances: 12k\, 7\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Πάρνηθα
-SUMMARY:Salomon Mountain Cup
-UID:b13a7745-a800-4f67-b9f6-0d3bd6fc3ac5@b13a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260405
-DESCRIPTION:10ος Ορεινός Αγώνας Γερανείων\nLocation: Λουτράκι\nDistances: 22k\, 10k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Λουτράκι
-SUMMARY:10ος Ορεινός Αγώνας Γερανείων
-UID:3cbdc304-4d0e-40b1-9a83-a75c0ce5378c@3cbd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260404
-DESCRIPTION:Evia Ultra Trail\nLocation: Στενή Ευβοίας\nDistances: 108\, 5k\nMore info: https://irunmag.gr/races/ultra/evia-ultra-trail-4-apriliou-2026/
-LOCATION:Στενή Ευβοίας
-SUMMARY:Evia Ultra Trail
-UID:12791bfc-1fda-4448-a2b1-10123c036906@1279.org
-URL:https://irunmag.gr/races/ultra/evia-ultra-trail-4-apriliou-2026/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260118
-DESCRIPTION:10ο Veikou Trail\nLocation: Γαλάτσι\nDistances: 20k\, 10k\, 5k\nMore info: https://irunmag.gr/races/trail/epeteiako-10th-veikou-trail-prokiryxi/
-LOCATION:Γαλάτσι
-SUMMARY:10ο Veikou Trail
-UID:c2dbef43-daa8-45d8-b78d-aa76b984748c@c2db.org
-URL:https://irunmag.gr/races/trail/epeteiako-10th-veikou-trail-prokiryxi/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260228
-DESCRIPTION:5ο Koumaria Trail Series\nLocation: Πετρωτό Αχαΐας\nDistances: 20+40k\, 40\, 5k\, 22k\, 12k\, 4k\, 1\, 2k\nMore info: https://irunmag.gr/races/trail/5o-koumaria-trail-series/
-LOCATION:Πετρωτό Αχαΐας
-SUMMARY:5ο Koumaria Trail Series
-UID:e22573da-b586-4e96-80af-7ff395458bb4@e225.org
-URL:https://irunmag.gr/races/trail/5o-koumaria-trail-series/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260118
-DESCRIPTION:14ος Ημιμαραθώνιος Αιγιαλείας\nLocation: Αίγιο\nDistances: 21k\, 5k\, 1\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Αίγιο
-SUMMARY:14ος Ημιμαραθώνιος Αιγιαλείας
-UID:234e04ab-d17f-487b-b68e-9ad1e9b49e12@234e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260308
-DESCRIPTION:10ο Women’s Run\nLocation: Χίος\nDistances: 5k\nMore info: https://irunmag.gr/races/road/10o-womens-run/
-LOCATION:Χίος
-SUMMARY:10ο Women’s Run
-UID:98d4e7af-baa8-4de4-8d51-9c4808ab8429@98d4.org
-URL:https://irunmag.gr/races/road/10o-womens-run/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260328
-DESCRIPTION:Ο Γύρος της Κατσαρόλας\nLocation: Αθήνα\nDistances: 5k\nMore info: https://irunmag.gr/races/road/o-gyros-tis-katsarolas/
-LOCATION:Αθήνα
-SUMMARY:Ο Γύρος της Κατσαρόλας
-UID:d0f2fcf0-3068-442d-99fd-2f1d46364f98@d0f2.org
-URL:https://irunmag.gr/races/road/o-gyros-tis-katsarolas/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-DESCRIPTION:2ο Vertical Challenge\nLocation: Γέρακας Ξάνθης\nDistances: 8\, 5k\, 5k\, 3\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Γέρακας Ξάνθης
-SUMMARY:2ο Vertical Challenge
-UID:70ba7350-429e-44ac-8e9f-de7052e3e358@70ba.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-DESCRIPTION:4ος Ημιμαραθώνιος Πάτρας\nLocation: Πάτρα\nDistances: 21k\, 10k\, 5k\, 1k\nMore info: https://irunmag.gr/races/road/4os-imimarathonios-patras/
-LOCATION:Πάτρα
-SUMMARY:4ος Ημιμαραθώνιος Πάτρας
-UID:6da0689e-cb3e-4242-8c2c-4b177cda154f@6da0.org
-URL:https://irunmag.gr/races/road/4os-imimarathonios-patras/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260920
-DESCRIPTION:3ο Dadia Trail Run\nLocation: Σουφλί Εβρου\nDistances: 23k\, 10k\, 6k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Σουφλί Εβρου
-SUMMARY:3ο Dadia Trail Run
-UID:a078ca50-de07-4d23-9a86-65e4dcf9a767@a078.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260315
-DESCRIPTION:3ο Πλατανάκια Ecological Route\nLocation: Πανόραμα Θεσσαλονίκης\nDistances: 10.2k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Πανόραμα Θεσσαλονίκης
-SUMMARY:3ο Πλατανάκια Ecological Route
-UID:541c98d2-5312-438b-825e-e39f50e7b9cb@541c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-DESCRIPTION:2ο DUTH Campus Half Marathon\nLocation: Πανεπιστημιούπολη Κομοτηνής\nDistances: 21k\, 7k\nMore info: https://irunmag.gr/races/road/2o-duth-campus-half/
-LOCATION:Πανεπιστημιούπολη Κομοτηνής
-SUMMARY:2ο DUTH Campus Half Marathon
-UID:72dbbca2-d228-4562-9369-0cfc9244d8b2@72db.org
-URL:https://irunmag.gr/races/road/2o-duth-campus-half/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260501
-DESCRIPTION:2o Rodopi Backyard Ultra\nLocation: Κομοτηνή\nDistances: κυκλική διαδρομή 6\, 7 χλμ.\nMore info: https://irunmag.gr/races/ultra/2o-rodopi-backyard-ultra/
-LOCATION:Κομοτηνή
-SUMMARY:2o Rodopi Backyard Ultra
-UID:73f3028a-f9a3-49d9-8df0-223365873a6e@73f3.org
-URL:https://irunmag.gr/races/ultra/2o-rodopi-backyard-ultra/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260405
-DESCRIPTION:9ος Αγώνας Πεδίου Αρεως «Στις Γειτονιές της Αθήνας»\nLocation: 10k\nDistances: 5k\, 1\, 3k\nMore info: https://irunmag.gr/races/road/9os-agonas-pediou-areos/
-LOCATION:10k
-SUMMARY:9ος Αγώνας Πεδίου Αρεως «Στις Γειτονιές της Αθήνας»
-UID:2d44f13b-a7c9-4fea-979b-b46b86cbe397@2d44.org
-URL:https://irunmag.gr/races/road/9os-agonas-pediou-areos/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261107
-DESCRIPTION:43ος Αυθεντικός Μαραθώνιος\nLocation: Αθήνα\nDistances: 5k\, 1\, 2k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Αθήνα
-SUMMARY:43ος Αυθεντικός Μαραθώνιος
-UID:2dc5ddba-5d80-482e-a9aa-36a7ac0eaf07@2dc5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260919
-DESCRIPTION:1ος Διεθνής Ημιμαραθώνιος «Νικηταράς»\nLocation: εκκίνηση: Άνω Δολιανά –  τερματισμός: Τρίπολη Αρκαδίας\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:εκκίνηση: Άνω Δολιανά –  τερματισμός: Τρίπολη Αρκαδίας
-SUMMARY:1ος Διεθνής Ημιμαραθώνιος «Νικηταράς»
-UID:c37afa38-2d1c-4903-9192-6382f2e6593a@c37a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260503
-DESCRIPTION:Corfu Mountain Trail\nLocation: 2-3/5\nDistances: Κέρκυρα\, 103k\, 44k\, 24k\, 12k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:2-3/5
-SUMMARY:Corfu Mountain Trail
-UID:ecb2049b-dea4-40fb-9d47-9a6c5243b5ca@ecb2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-DESCRIPTION:5ο Run For Autism Half Marathon\nLocation: Αγία Νάπα\nDistances: 21k\, 10k\, 5k\, 1k\nMore info: https://irunmag.gr/travel/5o-run-for-autism-half-marathon/
-LOCATION:Αγία Νάπα
-SUMMARY:5ο Run For Autism Half Marathon
-UID:aa517791-4775-46bb-bcac-2e91faa09069@aa51.org
-URL:https://irunmag.gr/travel/5o-run-for-autism-half-marathon/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260321
-DESCRIPTION:4ο Serres Circuit Run\nLocation: 21-22/3\nDistances: Σέρρες\, 24h\, 12h\, 6h\, 3 x 2h (relay\nMore info: https://irunmag.gr/races/ultra/4o-serres-circuit-run/
-LOCATION:21-22/3
-SUMMARY:4ο Serres Circuit Run
-UID:af03673e-b249-4317-92cc-f0a0e5923117@af03.org
-URL:https://irunmag.gr/races/ultra/4o-serres-circuit-run/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260920
-DESCRIPTION:10ο Lailias Mountain Running\nLocation: Χιονοδρομικό κέντρο Λαϊλιά\nDistances: Σέρρες\, 21k\, 6k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Χιονοδρομικό κέντρο Λαϊλιά
-SUMMARY:10ο Lailias Mountain Running
-UID:3a2c866c-8540-4060-b373-4e9955e5c623@3a2c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-DESCRIPTION:Ολοι Μαζί Μπορούμε\nLocation: Υμηττός\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Υμηττός
-SUMMARY:Ολοι Μαζί Μπορούμε
-UID:d501eb45-df7a-4026-82bb-3bebc800d717@d501.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260208
-DESCRIPTION:Malles Nature Run\nLocation: Μάλλες Ιεράπετρας\nDistances: 10k\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Μάλλες Ιεράπετρας
-SUMMARY:Malles Nature Run
-UID:5aab86c2-f354-4260-a92a-9f42f7a509a8@5aab.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-DESCRIPTION:5ο Μυρμιδόνων Αθλος\nLocation: Φάρσαλα\nDistances: 21k\, 10k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Φάρσαλα
-SUMMARY:5ο Μυρμιδόνων Αθλος
-UID:c5d92da7-07d1-4bb0-b10d-22b8ffb999e2@c5d9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260725
-DESCRIPTION:10ο WAVE Running\nLocation: 24-25/7\nDistances: Αβδηρα Ξάνθης\, 28k\, 10k\, 5k\, 500μ.\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:24-25/7
-SUMMARY:10ο WAVE Running
-UID:b8dc2739-1f8a-4cff-86b9-b9e0fe8f8781@b8dc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260308
-DESCRIPTION:Στα Βήματα του Ζορμπά\nLocation: Κολινδρός Πιερίας\nDistances: 13k\, 4k\, 500μ.\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Κολινδρός Πιερίας
-SUMMARY:Στα Βήματα του Ζορμπά
-UID:19464c4b-289d-40ab-a3fd-23838f46331c@1946.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260510
-DESCRIPTION:1ο Kotroni Trail\nLocation: Καπανδρίτι Αττικής\nDistances: 20k\, 12k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Καπανδρίτι Αττικής
-SUMMARY:1ο Kotroni Trail
-UID:31cf4017-1d92-4ac5-91e6-edd9cb29e07c@31cf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260612
-DESCRIPTION:Running Under The Moon\nLocation: Λευκωσία\nDistances: 10k\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Λευκωσία
-SUMMARY:Running Under The Moon
-UID:f0ced37e-0394-4fc7-b3ce-b2392ce3cf20@f0ce.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260301
-DESCRIPTION:Klirou Atovrysi\nLocation: Κλήρου\nDistances: Λευκωσία\, 23k\, 12k\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Κλήρου
-SUMMARY:Klirou Atovrysi
-UID:3525fcfc-5d0a-46a1-89f7-92e2d6bd29a3@3525.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260510
-DESCRIPTION:3ο Koziakas Trail\nLocation: Ελάτη Τρικάλων\nDistances: 25k\, 8k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Ελάτη Τρικάλων
-SUMMARY:3ο Koziakas Trail
-UID:fc02dd94-1344-40bb-960a-810698744045@fc02.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260523
-DESCRIPTION:11ο Tinos Running Experience\nLocation: Τήνος\nDistances: 21k\, 10k\, 5k\, 1k\, 100μ.\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Τήνος
-SUMMARY:11ο Tinos Running Experience
-UID:c8116ebe-6809-4fdd-acb4-c68ec3bc053f@c811.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260926
-DESCRIPTION:2ο Folegandros Challenge Run\nLocation: Φολέγανδρος\nDistances: 21k\, 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Φολέγανδρος
-SUMMARY:2ο Folegandros Challenge Run
-UID:f6a84125-815b-4dbf-bdb6-acf786d9cccb@f6a8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260423
-DESCRIPTION:1ος Δρόμος Ελευθερίας\nLocation: Μεσολόγγι – Ναύπλιο\nDistances: 439\, 2k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Μεσολόγγι – Ναύπλιο
-SUMMARY:1ος Δρόμος Ελευθερίας
-UID:a15bb37c-bb2e-437b-9523-5142605ea5cd@a15b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260425
-DESCRIPTION:24ος Αγώνας Δρόμου Καλαμάτας\nLocation: Καλαμάτα\nDistances: 10k\, 1\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Καλαμάτα
-SUMMARY:24ος Αγώνας Δρόμου Καλαμάτας
-UID:26bb713e-491a-4f18-a98c-2eda7f064379@26bb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260503
-DESCRIPTION:1ο Φάλανθος Trail\nLocation: Φάλανθος Αρκαδίας\nDistances: 32k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Φάλανθος Αρκαδίας
-SUMMARY:1ο Φάλανθος Trail
-UID:3513656c-eac4-4f73-9fa4-5b69613ee52b@3513.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-DESCRIPTION:10ος Μαραθώνιος Ναυπλίου\nLocation: Ναύπλιο\nDistances: 42k\, 21k\, 5k\, 1k\nMore info: https://irunmag.gr/races/road/10os-marathonios-nafpliou-stis-29-martiou-2026/
-LOCATION:Ναύπλιο
-SUMMARY:10ος Μαραθώνιος Ναυπλίου
-UID:ed0c15e3-c4fb-46c4-90bc-f1cc2e0374f6@ed0c.org
-URL:https://irunmag.gr/races/road/10os-marathonios-nafpliou-stis-29-martiou-2026/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260419
-DESCRIPTION:4ος Ορεινός Αγώνας Χανδρινού\nLocation: Χανδρινό Μεσσηνίας\nDistances: 11k\, 6k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Χανδρινό Μεσσηνίας
-SUMMARY:4ος Ορεινός Αγώνας Χανδρινού
-UID:f552d153-a3d0-4656-af06-f1333a6da859@f552.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260301
-DESCRIPTION:Ολοι Μαζί Μπορούμε\nLocation: Πάρνηθα\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Πάρνηθα
-SUMMARY:Ολοι Μαζί Μπορούμε
-UID:ee075dac-733e-4267-a5e9-c2d3b74b4d78@ee07.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260404
-DESCRIPTION:3ο Kefalonia Backyard Ultra\nLocation: Αργοστόλι Κεφαλονιάς\nDistances: 6\, 7k σε γύρους\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Αργοστόλι Κεφαλονιάς
-SUMMARY:3ο Kefalonia Backyard Ultra
-UID:58db3572-7736-4c52-92f7-f14f79882961@58db.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260517
-DESCRIPTION:10ο Vavdos Trail Run\nLocation: Βάβδος Χαλκιδικής\nDistances: 21k\, 6k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Βάβδος Χαλκιδικής
-SUMMARY:10ο Vavdos Trail Run
-UID:c72312be-c44e-416c-b24b-9cfeee66d3a5@c723.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260118
-DESCRIPTION:10ο Λέβαδος Mountain Trail\nLocation: Λιβαδειά\nDistances: 24\, 2k\, 10\, 7k\nMore info: https://irunmag.gr/races/trail/10o-levados-mountain-trail/
-LOCATION:Λιβαδειά
-SUMMARY:10ο Λέβαδος Mountain Trail
-UID:03eac1fe-944f-4b5d-aff3-157b36610167@03ea.org
-URL:https://irunmag.gr/races/trail/10o-levados-mountain-trail/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260726
-DESCRIPTION:2ο Oinousses Run\nLocation: Οινούσσες\nDistances: 10k\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Οινούσσες
-SUMMARY:2ο Oinousses Run
-UID:2ba97b58-66f6-4d88-9cac-16180d9f8c66@2ba9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260215
-DESCRIPTION:5ος Ημιμαραθώνιος Αγάπης\nLocation: Μυτιλήνη\nDistances: 21k\, 10k\, 5k\, 2\, 5k\, 1k\nMore info: https://irunmag.gr/races/road/5os-imimarathonios-agapis/
-LOCATION:Μυτιλήνη
-SUMMARY:5ος Ημιμαραθώνιος Αγάπης
-UID:24511775-9342-4bd0-89a2-a0cef2441c8b@2451.org
-URL:https://irunmag.gr/races/road/5os-imimarathonios-agapis/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260405
-DESCRIPTION:3ο Γρεβενά City Run\nLocation: Γρεβενά\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/races/road/3o-grevena-city-run/
-LOCATION:Γρεβενά
-SUMMARY:3ο Γρεβενά City Run
-UID:d00edacb-b58f-4869-a262-dda93f95bc70@d00e.org
-URL:https://irunmag.gr/races/road/3o-grevena-city-run/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260906
-DESCRIPTION:Voio Race Series\nLocation: Μπούρινος Κοζάνης\nDistances: 19k\, 7k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Μπούρινος Κοζάνης
-SUMMARY:Voio Race Series
-UID:b82aabaa-7fb4-4dd0-ad70-12f4588bce8f@b82a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260118
-DESCRIPTION:Frozen Lake\nLocation: Κάτω Νευροκόπι Δράμας\nDistances: 15k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Κάτω Νευροκόπι Δράμας
-SUMMARY:Frozen Lake
-UID:8054bba9-37f0-40d1-ae20-a38216cf0c23@8054.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260322
-DESCRIPTION:4ος Καλλιγώνιος Ημιμαραθώνιος\nLocation: Λευκάδα\nDistances: 21k\, 9k\, 1k\nMore info: https://irunmag.gr/news/4os-kalligonios-imimarathonios-open/
-LOCATION:Λευκάδα
-SUMMARY:4ος Καλλιγώνιος Ημιμαραθώνιος
-UID:ac9b209d-b5ea-4297-aff8-44d44bcd1e19@ac9b.org
-URL:https://irunmag.gr/news/4os-kalligonios-imimarathonios-open/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260808
-DESCRIPTION:2ο Olympia Night Run «Run Under Zeus»\nLocation: Αρχαία Ολυμπία\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Αρχαία Ολυμπία
-SUMMARY:2ο Olympia Night Run «Run Under Zeus»
-UID:d9d0a5f0-f73d-4e2c-bcab-6f186c33a052@d9d0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260911
-DESCRIPTION:20ό Hercules Series\nLocation: 11-13/9\nDistances: Υπάτη Φθιώτιδας\, 42\, 3k\, 16\, 7k\, 7\, 2\, 1\, 2k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:11-13/9
-SUMMARY:20ό Hercules Series
-UID:f5d0333c-53d3-4e59-8ff6-8dc77749aefb@f5d0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261018
-DESCRIPTION:10ος Ημιμαραθώνιος Παλαιόχωρας\nLocation: 21k\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:21k
-SUMMARY:10ος Ημιμαραθώνιος Παλαιόχωρας
-UID:2ed5b819-db9d-412a-8820-2720231013df@2ed5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261003
-DESCRIPTION:2ο Makrakomi Backyard Ultra\nLocation: Μακρακώμη Φθιώτιδας\nDistances: 6\, 7k σε γύρους\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Μακρακώμη Φθιώτιδας
-SUMMARY:2ο Makrakomi Backyard Ultra
-UID:228ee1fc-8f50-4210-95e1-261fbb8583f4@228e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261018
-DESCRIPTION:12οι Ορεινοί Αγώνες Καβουσίου\nLocation: Καβούσι Ιεράπετρας\nDistances: 22\, 3k\, 8\, 7k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Καβούσι Ιεράπετρας
-SUMMARY:12οι Ορεινοί Αγώνες Καβουσίου
-UID:d3eaeba2-1437-4da4-afcd-203fbb4cdc8f@d3ea.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260517
-DESCRIPTION:6ος Αγώνας Δρόμου Φαλανναίων\nLocation: Φαλάνη Λάρισας\nDistances: 21k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Φαλάνη Λάρισας
-SUMMARY:6ος Αγώνας Δρόμου Φαλανναίων
-UID:e7338c1a-097b-4c72-94b1-69f7323fbbef@e733.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260404
-DESCRIPTION:Hydra’s Trail Event\nLocation: 4-5/4\nDistances: Υδρα\, 38\, 5k\, 18k\, 8k\, 5k\, 1\, 7k\, 1\, 1k\, 200μ.\nMore info: https://irunmag.gr/races/trail/hydras-trail-event-2026-enarxi-engrafon-stis-15-dekemvriou/
-LOCATION:4-5/4
-SUMMARY:Hydra’s Trail Event
-UID:4d373adc-9f16-4187-bab2-b8d0835115a5@4d37.org
-URL:https://irunmag.gr/races/trail/hydras-trail-event-2026-enarxi-engrafon-stis-15-dekemvriou/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261004
-DESCRIPTION:Spetses Mini Marathon\nLocation: 3-4/10\nDistances: Σπέτσες\, 25k\, 10k\, 5k\, 1k\, 500μ.\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:3-4/10
-SUMMARY:Spetses Mini Marathon
-UID:91618ce1-f93c-4a34-8355-c83e2968a937@9161.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260208
-DESCRIPTION:2ο Tsiggla Trail Run\nLocation: Διδυμότειχο\nDistances: 8k\nMore info: https://irunmag.gr/races/road/tsiggla-trail-run-fun/
-LOCATION:Διδυμότειχο
-SUMMARY:2ο Tsiggla Trail Run
-UID:56742513-830e-42d3-a754-0fcfb7b4f592@5674.org
-URL:https://irunmag.gr/races/road/tsiggla-trail-run-fun/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260912
-DESCRIPTION:Oiti Ultra Trail\nLocation: Οίτη\nDistances: Φθιώτιδα\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Οίτη
-SUMMARY:Oiti Ultra Trail
-UID:df84d528-a1c7-4624-880a-8174409dbb8f@df84.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-DESCRIPTION:3ος Παράκτιος Ημιμαραθώνιος Θερμαϊκού Αντώνης Ματζάρης\nLocation: Νέοι Επιβάτες Θεσσαλονίκης\nDistances: 21k\, 10k\, 5k\, 1\, 6k\nMore info: https://irunmag.gr/races/road/3os-paraktios-thermaikos/
-LOCATION:Νέοι Επιβάτες Θεσσαλονίκης
-SUMMARY:3ος Παράκτιος Ημιμαραθώνιος Θερμαϊκού Αντώνης Ματζάρης
-UID:d267ed7b-bbe6-4c73-a043-f8f17816e202@d267.org
-URL:https://irunmag.gr/races/road/3os-paraktios-thermaikos/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260222
-DESCRIPTION:10ος Δρόμος Αξιών\nLocation: Κεφαλάρι Αργολίδας\nDistances: 10k\, 700μ.\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Κεφαλάρι Αργολίδας
-SUMMARY:10ος Δρόμος Αξιών
-UID:673f9326-defb-4066-941e-d8b3ddc64a2a@673f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260620
-DESCRIPTION:3ο Oiti Mountain Bike Race – Mavrolithari\nLocation: 20-21/6\nDistances: Μαυρολιθάρι Φωκίδας\, ορεινή ποδηλασία 60k\, 28k\, 18k\, 3\, 5k\nMore info: https://irunmag.gr/races/cycling/3o-oiti-mountain-bike-race/
-LOCATION:20-21/6
-SUMMARY:3ο Oiti Mountain Bike Race – Mavrolithari
-UID:da361328-532f-4357-ae78-b0c9d97b04bd@da36.org
-URL:https://irunmag.gr/races/cycling/3o-oiti-mountain-bike-race/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260510
-DESCRIPTION:39ος Κορακοβούνιος Δρόμος\nLocation: Κορακοβούνι Ηρακλείου Κρήτης\nDistances: 4k\, 1k\, 500μ.\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Κορακοβούνι Ηρακλείου Κρήτης
-SUMMARY:39ος Κορακοβούνιος Δρόμος
-UID:fc39be39-e9d3-4fd3-a744-5a22d915c71f@fc39.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260913
-DESCRIPTION:Μαστίχαθλον\nLocation: Χίος\nDistances: Τρίαθλον\, Duathlon\, Aquathlon\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Χίος
-SUMMARY:Μαστίχαθλον
-UID:06c6d889-7ff6-4b7b-b62a-0e22b13060f1@06c6.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260607
-DESCRIPTION:5ο Farmakas Mountain Running\nLocation: Πλατάνι Αργολίδας\nDistances: 19k\, 6k\, 1\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Πλατάνι Αργολίδας
-SUMMARY:5ο Farmakas Mountain Running
-UID:f2137d9b-060d-4fde-9016-b4ac5f3191e5@f213.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260719
-DESCRIPTION:15ο Zagori Mountain Running\nLocation: 18-19/7\nDistances: Τσεπέλοβο Ιωαννίνων\, 60k\, 33k\, 21k\, 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:18-19/7
-SUMMARY:15ο Zagori Mountain Running
-UID:917f7ddb-e260-4e19-921e-849aaccc5e30@917f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260301
-DESCRIPTION:2ο Τρέχω Στον Μαραθώνα\nLocation: Νέα Μάκρη\nDistances: 6\, 8k\nMore info: https://irunmag.gr/races/road/2os-agonas-dromou-marathon-trecho-ston-marathona-1-martiou-2026/
-LOCATION:Νέα Μάκρη
-SUMMARY:2ο Τρέχω Στον Μαραθώνα
-UID:8c3e4e74-3ed4-42f9-9fe1-d4458ddd9c18@8c3e.org
-URL:https://irunmag.gr/races/road/2os-agonas-dromou-marathon-trecho-ston-marathona-1-martiou-2026/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260426
-DESCRIPTION:17o Μονοπάτι Παρνασσού\nLocation: 25-26/5\nDistances: Αμφίκλεια\, 6k\, 12k\, 25k\nMore info: https://irunmag.gr/news/monopati-parnassou-2026-stis-25-26-apriliou/
-LOCATION:25-26/5
-SUMMARY:17o Μονοπάτι Παρνασσού
-UID:aea517b3-099a-4cbf-8707-ead224af1cc2@aea5.org
-URL:https://irunmag.gr/news/monopati-parnassou-2026-stis-25-26-apriliou/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260118
-DESCRIPTION:Quantum Nicosia Marathon\nLocation: Λευκωσία\nDistances: Κύπρος\, 42k\, 21k\, 12\, 3k\, 5k\nMore info: https://www.nicosiamarathon.com/
-LOCATION:Λευκωσία
-SUMMARY:Quantum Nicosia Marathon
-UID:37026ee4-c7d2-4bc0-92df-2422410f5bf7@3702.org
-URL:https://www.nicosiamarathon.com/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-DESCRIPTION:1ος Μαραθώνιος Ηπείρου «Βασιλιάς Πύρρος»\nLocation: Αρτα\nDistances: 42k\, 10k\, 5k\nMore info: https://irunmag.gr/news/marathonios-ipeirou-dynamika/
-LOCATION:Αρτα
-SUMMARY:1ος Μαραθώνιος Ηπείρου «Βασιλιάς Πύρρος»
-UID:2ec68e6d-a198-404c-b3f8-493f659207b3@2ec6.org
-URL:https://irunmag.gr/news/marathonios-ipeirou-dynamika/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260905
-DESCRIPTION:Σκυταλοδρομία Λέσβου\nLocation: Λέσβος\nDistances: 320k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Λέσβος
-SUMMARY:Σκυταλοδρομία Λέσβου
-UID:3dd6b6f6-65ed-4e4e-bdc6-03db2d116771@3dd6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260215
-DESCRIPTION:8ος Αγώνας Trail Φανερωμένης Χιλιομοδίου\nLocation: Χιλιομόδι Κορινθίας\nDistances: 23k\, 10\, 5k\, 6k\, 2\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Χιλιομόδι Κορινθίας
-SUMMARY:8ος Αγώνας Trail Φανερωμένης Χιλιομοδίου
-UID:37c79915-7dc2-4074-8312-a1f196c71648@37c7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260131
-DESCRIPTION:2ο Γιαννούλα Vertical Run\nLocation: Θεσσαλονίκη\nDistances: 5\, 4k\, 4k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Θεσσαλονίκη
-SUMMARY:2ο Γιαννούλα Vertical Run
-UID:d6c6518f-6b10-4d67-8298-597c94dd0305@d6c6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260503
-DESCRIPTION:15η Ανοπαία Ατραπός\nLocation: Θερμοπύλες\nDistances: 15\, 2k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Θερμοπύλες
-SUMMARY:15η Ανοπαία Ατραπός
-UID:3bdf6481-840d-4264-b789-2ac3ddf70888@3bdf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260117
-DESCRIPTION:4ο Cretan Backyard Ultra\nLocation: Βορίτσι Ηρακλείου\nDistances: 6\, 7k σε γύρους\nMore info: https://irunmag.gr/races/ultra/4o-cretan-backyard-ultra/
-LOCATION:Βορίτσι Ηρακλείου
-SUMMARY:4ο Cretan Backyard Ultra
-UID:97b737b5-3a26-4546-a014-d9f567b6f267@97b7.org
-URL:https://irunmag.gr/races/ultra/4o-cretan-backyard-ultra/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260208
-DESCRIPTION:7ο Atlas Trail Running\nLocation: Μαλακάσα Αττικής\nDistances: 24k\, 11k\, 6k\nMore info: https://irunmag.gr/races/trail/7o-atlas-trail-running/
-LOCATION:Μαλακάσα Αττικής
-SUMMARY:7ο Atlas Trail Running
-UID:2d550180-de45-4e46-9176-e02062f918b5@2d55.org
-URL:https://irunmag.gr/races/trail/7o-atlas-trail-running/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260315
-DESCRIPTION:Φλόγα Του Ησαΐα Hard Trail\nLocation: Δεσφίνα Φωκίδας\nDistances: 22\, 5k\, 12k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Δεσφίνα Φωκίδας
-SUMMARY:Φλόγα Του Ησαΐα Hard Trail
-UID:e81ee89f-441c-4fe8-8aa6-13c9a2f20d32@e81e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260228
-DESCRIPTION:1ο All Terrain Ultra Race Ioannina\nLocation: Ιωάννινα\nDistances: 6ωρο\, 3ωρο\, 10k\, 5k\nMore info: https://irunmag.gr/races/ultra/all-terrain-ultra-race-ioannina/
-LOCATION:Ιωάννινα
-SUMMARY:1ο All Terrain Ultra Race Ioannina
-UID:b74386b5-1e6c-4381-9cc7-2c265af78652@b743.org
-URL:https://irunmag.gr/races/ultra/all-terrain-ultra-race-ioannina/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260405
-DESCRIPTION:19ος Μαραθώνιος Μεσσήνης\nLocation: Μεσσήνη\nDistances: 42k\, 10k\, 3k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Μεσσήνη
-SUMMARY:19ος Μαραθώνιος Μεσσήνης
-UID:e0424664-98bd-46df-aa85-6f5b8926c62f@e042.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260419
-DESCRIPTION:10ος Μαραθώνιος Κρήτης\nLocation: Χανιά\nDistances: 42k\, 10k\, 5k\, 2\, 5k\nMore info: https://irunmag.gr/races/road/10os-marathonios-kritis/
-LOCATION:Χανιά
-SUMMARY:10ος Μαραθώνιος Κρήτης
-UID:a4ea5662-536b-4949-aa71-051fe97f028b@a4ea.org
-URL:https://irunmag.gr/races/road/10os-marathonios-kritis/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260913
-DESCRIPTION:8ος Δρόμος Καλών Νερών\nLocation: Καλά Νερά Πηλίου\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Καλά Νερά Πηλίου
-SUMMARY:8ος Δρόμος Καλών Νερών
-UID:0a2763f3-7e0c-4c66-8ff0-fd7fb60f3bf0@0a27.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260502
-DESCRIPTION:ROC 50 Miles\nLocation: Δασικό Χωριό Ερυμάνθου\nDistances: Ξάνθη\, 89\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Δασικό Χωριό Ερυμάνθου
-SUMMARY:ROC 50 Miles
-UID:62a60607-e2f5-49b5-a9fa-80b496b25320@62a6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260125
-DESCRIPTION:2ο Kanalaki Run\nLocation: Καναλάκι Πρέβεζας\nDistances: 21k\, 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Καναλάκι Πρέβεζας
-SUMMARY:2ο Kanalaki Run
-UID:18679574-0c01-41ae-b678-1ea55c0a68fc@1867.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260603
-DESCRIPTION:Tihio Race Ultra Edition\nLocation: 3-7/6\nDistances: Τείχιο Φωκίδας\, 250k\, 170k\, 75k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:3-7/6
-SUMMARY:Tihio Race Ultra Edition
-UID:26d06334-8bc1-45e1-9715-2a08117c46e2@26d0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260405
-DESCRIPTION:11ος Νικηφόρειος Δρόμος\nLocation: 4-5/4\nDistances: Καλονύκτης Ρεθύμνου\, 23k\, 10k\, 5\, 3k\, 2k\nMore info: https://irunmag.gr/races/road-trail/11os-nikiforeios-dromos-stis-4-5-apriliou-2026/
-LOCATION:4-5/4
-SUMMARY:11ος Νικηφόρειος Δρόμος
-UID:d8223837-fe1a-4189-9190-747fb29d880f@d822.org
-URL:https://irunmag.gr/races/road-trail/11os-nikiforeios-dromos-stis-4-5-apriliou-2026/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260501
-DESCRIPTION:TihioRace\nLocation: 1-3/5\nDistances: Τείχιο Φωκίδας\, 104k\, 57k\, 30k\, 30k\, 11k\, 10k\, πορεία με αμαξίδιο\nMore info: https://irunmag.gr/races/trail/tihio-race-2026/
-LOCATION:1-3/5
-SUMMARY:TihioRace
-UID:26b5d641-f97a-456d-a083-fcd0f4269e1e@26b5.org
-URL:https://irunmag.gr/races/trail/tihio-race-2026/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260920
-DESCRIPTION:Run Greece Trikala\nLocation: Τρίκαλα\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Τρίκαλα
-SUMMARY:Run Greece Trikala
-UID:e49d6f69-2ac1-44d5-9353-9f814a0b7c18@e49d.org
+DESCRIPTION:2ος Αγώνας Δρόμου Κουρούτας\nLocation: Κουρούτα Ηλείας\nDistances: 10k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Κουρούτα Ηλείας
+SUMMARY:2ος Αγώνας Δρόμου Κουρούτας
+UID:3fb9cfb8-ab2a-4d9a-9e84-ae0b392bb613@3fb9.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260426
 DESCRIPTION:8ο Kissavos Marathon Race Ευάγγελος Κουμπάρος\nLocation: Αγιά Λάρισας\nDistances: 40k\, 21k\, 12k\, 1\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
 LOCATION:Αγιά Λάρισας
 SUMMARY:8ο Kissavos Marathon Race Ευάγγελος Κουμπάρος
-UID:59556a45-8e52-495d-9ad7-2b475a7aeb3f@5955.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260508
-DESCRIPTION:Messinia Challenge 2026\nLocation: 8-10/5\nDistances: Πύλος\, Costa Navarino\, 21\, 1k\, 10k\, 5\, 4k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:8-10/5
-SUMMARY:Messinia Challenge 2026
-UID:39be11c9-ae07-41d9-9455-dd8169fbeeba@39be.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260405
-DESCRIPTION:14ο Kallithea Run\nLocation: Καλλιθέα\nDistances: 10k\, 5k\, 2\, 5k\nMore info: https://irunmag.gr/races/road/14o-kallithea-run/
-LOCATION:Καλλιθέα
-SUMMARY:14ο Kallithea Run
-UID:5160eff5-13c5-456f-921d-d8b597b0b89b@5160.org
-URL:https://irunmag.gr/races/road/14o-kallithea-run/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260822
-DESCRIPTION:7ος Λαΐκός Αγώνας Δρόμου Βασιλικής\nLocation: Βασιλική Λασιθίου\nDistances: 10k\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Βασιλική Λασιθίου
-SUMMARY:7ος Λαΐκός Αγώνας Δρόμου Βασιλικής
-UID:3674fd37-d983-425c-8cb7-1412dd608b7f@3674.org
+UID:be2424e0-78a6-43d4-b1a4-4e0520fb4c2f@be24.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260517
-DESCRIPTION:Troodos Terra\nLocation: Τρόοδος\nDistances: Λευκωσία\, 44k\, 29k\, 15k\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Τρόοδος
-SUMMARY:Troodos Terra
-UID:cceadee0-5176-4ad2-b5c1-3be328cf6e02@ccea.org
+DESCRIPTION:10ο Vavdos Trail Run\nLocation: Βάβδος Χαλκιδικής\nDistances: 21k\, 6k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Βάβδος Χαλκιδικής
+SUMMARY:10ο Vavdos Trail Run
+UID:6fb97f69-7e1f-413a-a880-e4f5f3b6ae7b@6fb9.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260208
-DESCRIPTION:3ος Φιλανθρωπικός Αγώνας στη μνήμη του Γιώργου Πολάκη\nLocation: Χανιά\nDistances: 5k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Χανιά
-SUMMARY:3ος Φιλανθρωπικός Αγώνας στη μνήμη του Γιώργου Πολάκη
-UID:f789ddfc-a841-4ba8-a65a-32379c9c4581@f789.org
+DTSTART;VALUE=DATE:20260328
+DESCRIPTION:Ο Γύρος της Κατσαρόλας\nLocation: Αθήνα\nDistances: 5k\nMore info: https://irunmag.gr/races/road/o-gyros-tis-katsarolas/
+LOCATION:Αθήνα
+SUMMARY:Ο Γύρος της Κατσαρόλας
+UID:39e79797-17c5-4fa5-b026-b1320db395ba@39e7.org
+URL:https://irunmag.gr/races/road/o-gyros-tis-katsarolas/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260215
-DESCRIPTION:Ο Δρόμος της Κλείσοβας\nLocation: Μεσολόγγι\nDistances: 7k\, 1k\nMore info: https://irunmag.gr/races/road/dromos-kleisovas/
-LOCATION:Μεσολόγγι
-SUMMARY:Ο Δρόμος της Κλείσοβας
-UID:0fe5bc40-6dba-4512-9ca8-c944ec3b4d16@0fe5.org
-URL:https://irunmag.gr/races/road/dromos-kleisovas/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260510
-DESCRIPTION:AXD Sprint Triathlon\nLocation: Αλεξανδρούπολη\nDistances: sprint tri με 700m swim – 20k bike – 5k run\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Αλεξανδρούπολη
-SUMMARY:AXD Sprint Triathlon
-UID:4722dc61-9f5b-4dad-8bd1-51a360bdb3bd@4722.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260927
-DESCRIPTION:Run Greece Alexandroupoli\nLocation: Αλεξανδρούπολη\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Αλεξανδρούπολη
-SUMMARY:Run Greece Alexandroupoli
-UID:1ef158ae-c7d4-46f2-ad86-3524605d489b@1ef1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260322
-DESCRIPTION:15o Taygetos Challenge\nLocation: Καρδαμύλη Μεσσηνίας\nDistances: 40k\, 22k\, 10k\, 5k\, Vertical 650m\, Kids 1000m\nMore info: https://irunmag.gr/news/taygetos-challenge-2026-registrations-open/
-LOCATION:Καρδαμύλη Μεσσηνίας
-SUMMARY:15o Taygetos Challenge
-UID:b5d6a9fd-7213-4e5e-981c-b57be5a5a3af@b5d6.org
-URL:https://irunmag.gr/news/taygetos-challenge-2026-registrations-open/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260503
-DESCRIPTION:2oSithonia Trail Run\nLocation: Νέος Μαρμαράς Χαλκιδικής\nDistances: 23k\, 10k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Νέος Μαρμαράς Χαλκιδικής
-SUMMARY:2oSithonia Trail Run
-UID:7a2672fa-27a4-4995-a8d1-483821e8e569@7a26.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260207
-DESCRIPTION:5ο Sparta City Ultra\nLocation: Σπάρτη\nDistances: 24ωρο\, 12ωρο\, 6ωρο\nMore info: https://irunmag.gr/races/ultra/5o-sparta-city-ultra/
-LOCATION:Σπάρτη
-SUMMARY:5ο Sparta City Ultra
-UID:681db4a7-30d8-4b84-81c2-d1f9961ffe73@681d.org
-URL:https://irunmag.gr/races/ultra/5o-sparta-city-ultra/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260418
-DESCRIPTION:Υψηλάντειος Αγώνας Δρόμου\nLocation: Νέα Τραπεζούντα Πιερίας\nDistances: 10k\, 5\, 3k\, 1\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Νέα Τραπεζούντα Πιερίας
-SUMMARY:Υψηλάντειος Αγώνας Δρόμου
-UID:2c346a2f-60bd-46cf-84f7-b8d0f2fc8610@2c34.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260906
-DESCRIPTION:Δρόμος Μάχης Μαραθώνα\nLocation: Μαραθώνας\nDistances: 35k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Μαραθώνας
-SUMMARY:Δρόμος Μάχης Μαραθώνα
-UID:a76cd2bd-bcb7-4120-8e5c-656463ef418d@a76c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261011
-DESCRIPTION:Run The City – Latsia / Geri\nLocation: Λατσιά\nDistances: Γέρι\, Κύπρος\, 10\, 8k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Λατσιά
-SUMMARY:Run The City – Latsia / Geri
-UID:8927d43d-e6bf-44e5-b427-f39542f9b391@8927.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260418
-DESCRIPTION:6ο Moschopodi Trail Festival\nLocation: 18-19/4\nDistances: Θήβα\, 25k\, 11k\, 8k\, 5k\, 1k\, 30km mountain bike\nMore info: https://irunmag.gr/races/trail/6o-moschopodi-trail-festival/
-LOCATION:18-19/4
-SUMMARY:6ο Moschopodi Trail Festival
-UID:fdb13b39-f677-467a-a05b-3c498898e68e@fdb1.org
-URL:https://irunmag.gr/races/trail/6o-moschopodi-trail-festival/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260426
-DESCRIPTION:20ός Διεθνής Μαραθώνιος «Μέγας Αλέξανδρος»\nLocation: Θεσσαλονίκη\nDistances: 42k\, 10k\, 5k\, 1k\nMore info: https://irunmag.gr/races/road/20os-marathonios-thessalonikis/
-LOCATION:Θεσσαλονίκη
-SUMMARY:20ός Διεθνής Μαραθώνιος «Μέγας Αλέξανδρος»
-UID:a3e18894-428c-45cd-94d4-3651df9fe60c@a3e1.org
-URL:https://irunmag.gr/races/road/20os-marathonios-thessalonikis/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260503
-DESCRIPTION:6ο Chios Hardstone Trail\nLocation: Καρυές Χίου\nDistances: 24k\, 13k\, 6k\, 1k\nMore info: https://irunmag.gr/races/trail/6o-chios-hardstone-trail/
-LOCATION:Καρυές Χίου
-SUMMARY:6ο Chios Hardstone Trail
-UID:df4a8189-24c5-469b-9586-ccf8ec075fdf@df4a.org
-URL:https://irunmag.gr/races/trail/6o-chios-hardstone-trail/
+DTSTART;VALUE=DATE:20261003
+DESCRIPTION:2ο Makrakomi Backyard Ultra\nLocation: Μακρακώμη Φθιώτιδας\nDistances: 6\, 7k σε γύρους\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Μακρακώμη Φθιώτιδας
+SUMMARY:2ο Makrakomi Backyard Ultra
+UID:d4b46677-efe2-4818-860b-4e5fd1535d9e@d4b4.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261213
 DESCRIPTION:6ο Κέρη Cross Country Race\nLocation: Δάσος Κέρης Ηρακλείου\nDistances: 10k\, 5k\, 1600μ.\nMore info: https://irunmag.gr/race-calendar-2026
 LOCATION:Δάσος Κέρης Ηρακλείου
 SUMMARY:6ο Κέρη Cross Country Race
-UID:4196c2a1-9aca-4146-bd50-fe82411dc8e3@4196.org
+UID:e56e945d-f816-4f4c-a6c4-ccccc3dbc5f2@e56e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260222
+DESCRIPTION:10ος Δρόμος Αξιών\nLocation: Κεφαλάρι Αργολίδας\nDistances: 10k\, 700μ.\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Κεφαλάρι Αργολίδας
+SUMMARY:10ος Δρόμος Αξιών
+UID:1208c063-de6a-4dd7-b6d5-393dc89a651b@1208.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260329
 DESCRIPTION:8ος Δρόμος 21 Μαθητών\nLocation: Μακροχώρι Ημαθίας\nDistances: 10\, 7k\nMore info: https://irunmag.gr/race-calendar-2026
 LOCATION:Μακροχώρι Ημαθίας
 SUMMARY:8ος Δρόμος 21 Μαθητών
-UID:5c2fa2d5-7d49-46e2-9f08-05e3dc997735@5c2f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260523
-DESCRIPTION:Ursa Trail\nLocation: 22-24/5\nDistances: Μέτσοβο\, 65\, 6k\, 40k\, 21k\, 11k\, 4\, 6k\nMore info: https://irunmag.gr/races/trail/ursa-trail-2026/
-LOCATION:22-24/5
-SUMMARY:Ursa Trail
-UID:2833310f-63e8-4aab-8c48-3cccce310383@2833.org
-URL:https://irunmag.gr/races/trail/ursa-trail-2026/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260419
-DESCRIPTION:Lake Plastiras Trail\nLocation: 18-19/4\nDistances: Λίμνη Πλαστήρα\, Καρδίτσα\, 42k\, 23k\, 10k\, 5k\nMore info: https://irunmag.gr/races/trail/lake-plastiras-trail-2026/
-LOCATION:18-19/4
-SUMMARY:Lake Plastiras Trail
-UID:a36f8196-e0bf-49ff-8193-aa0f16512570@a36f.org
-URL:https://irunmag.gr/races/trail/lake-plastiras-trail-2026/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260823
-DESCRIPTION:45οι Δικταίοι Αγώνες\nLocation: Unknown\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Unknown
-SUMMARY:45οι Δικταίοι Αγώνες
-UID:92bffbfd-8ab2-44a3-909f-dc283ebaf301@92bf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261011
-DESCRIPTION:1ο Famagusta Run\nLocation: Πρωταράς\nDistances: Κύπρος\, 30k\, 10k\, 5k\, 1k\nMore info: https://famagusta.run/
-LOCATION:Πρωταράς
-SUMMARY:1ο Famagusta Run
-UID:ad2b9f31-f904-4b4d-afdc-e92ed996b718@ad2b.org
-URL:https://famagusta.run/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260510
-DESCRIPTION:5o Ipsilantis Trail\nLocation: Υψηλάντης Βοιωτίας\nDistances: 21k\, 11k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Υψηλάντης Βοιωτίας
-SUMMARY:5o Ipsilantis Trail
-UID:1d08cafe-de56-4786-9134-b2920390deda@1d08.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260524
-DESCRIPTION:Λίμνη Μαραθώνα\nLocation: Λίμνη Μαραθώνα\nDistances: 10k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Λίμνη Μαραθώνα
-SUMMARY:Λίμνη Μαραθώνα
-UID:c0420f2f-b248-4eb5-8ed5-e731688df34b@c042.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260215
-DESCRIPTION:10ος Αγώνας Αγχαίου Ορους\nLocation: Οικισμός Τιτάν Αττικής\nDistances: 28\, 4k\, 14\, 4k\, 6\, 2k\nMore info: https://irunmag.gr/races/road/10os-agonas-agxaiou-orus/
-LOCATION:Οικισμός Τιτάν Αττικής
-SUMMARY:10ος Αγώνας Αγχαίου Ορους
-UID:f5b0bdf2-ba00-4f59-ab8a-63eba566c920@f5b0.org
-URL:https://irunmag.gr/races/road/10os-agonas-agxaiou-orus/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260405
-DESCRIPTION:Sougliani Trail\nLocation: Σταυρός Θεσσαλονίκης\nDistances: 50k\, 25k\, 13k\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Σταυρός Θεσσαλονίκης
-SUMMARY:Sougliani Trail
-UID:f779795e-1045-4300-b08a-06b56ed9be70@f779.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260424
-DESCRIPTION:13ο Xterra Greece Vouliagmeni\nLocation: 24-26/4\nDistances: Βουλιαγμένη\, τρίαθλο\, aquathlon\, 6k trail\nMore info: https://www.xterraplanet.com/event/xterra-greece
-LOCATION:24-26/4
-SUMMARY:13ο Xterra Greece Vouliagmeni
-UID:a345a986-902f-451b-b47a-6360104cac17@a345.org
-URL:https://www.xterraplanet.com/event/xterra-greece
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-DESCRIPTION:PepsiCo Gives Back – Kifissia\nLocation: Κάτω Κηφισιά\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Κάτω Κηφισιά
-SUMMARY:PepsiCo Gives Back – Kifissia
-UID:0edc7393-ce90-46d3-bb60-7f3b75e947ef@0edc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260517
-DESCRIPTION:4ος Axios Running Festival\nLocation: Κουφάλια Θεσσαλονίκης\nDistances: 21k\, 10k\, 5k\, 1\, 6k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Κουφάλια Θεσσαλονίκης
-SUMMARY:4ος Axios Running Festival
-UID:fa088576-fd8e-49bb-9936-02246ac93e50@fa08.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260228
-DESCRIPTION:2ο Spetses Mountain Run «Σωτήριος Ανάργυρος»\nLocation: Σπέτσες\nDistances: 26k\, 10k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Σπέτσες
-SUMMARY:2ο Spetses Mountain Run «Σωτήριος Ανάργυρος»
-UID:99c6aa73-f64c-4cd4-801d-12e6e2f7ab89@99c6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260307
-DESCRIPTION:6η Γύρα Μάνης\nLocation: Αρεόπολη Λακωνίας\nDistances: 80\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Αρεόπολη Λακωνίας
-SUMMARY:6η Γύρα Μάνης
-UID:24ac936f-f2b2-4a62-9612-a80093a3e6ea@24ac.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260208
-DESCRIPTION:24ος Δρόμος Αργολικού Κόλπου\nLocation: Ναύπλιο\nDistances: 15\, 3k\, 1k\nMore info: https://irunmag.gr/races/road/24os-dromos-argolikou-kolpou/
-LOCATION:Ναύπλιο
-SUMMARY:24ος Δρόμος Αργολικού Κόλπου
-UID:ce8f37b3-1135-49b3-b3b1-c2c2240456bc@ce8f.org
-URL:https://irunmag.gr/races/road/24os-dromos-argolikou-kolpou/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-DESCRIPTION:10ος Ημιμαραθώνιος Βόλου\nLocation: 28-29/3\nDistances: Βόλος\, 21k\, 5k\, 2k\, 500μ.\nMore info: https://irunmag.gr/races/road/10os-imimarathonios-volou/
-LOCATION:28-29/3
-SUMMARY:10ος Ημιμαραθώνιος Βόλου
-UID:c995b987-3ba5-477b-86df-716798de71c9@c995.org
-URL:https://irunmag.gr/races/road/10os-imimarathonios-volou/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260301
-DESCRIPTION:Πανελλήνιοι Αγώνες Βετεράνων Στίβου\nLocation: Αλσύλλιο Σπιάντζας Ηλείας\nDistances: 8k\, 6k\, 4k\, 2k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Αλσύλλιο Σπιάντζας Ηλείας
-SUMMARY:Πανελλήνιοι Αγώνες Βετεράνων Στίβου
-UID:6ffde231-66d1-4e8b-a17e-83d6ba2625d7@6ffd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260315
-DESCRIPTION:39ο Μπλόκο Καλογρέζας\nLocation: Νέα Ιωνία Αττικής\nDistances: 10k\, 5k\, 1\, 5k\nMore info: https://irunmag.gr/races/road/39o-bloko-kalogrezas/
-LOCATION:Νέα Ιωνία Αττικής
-SUMMARY:39ο Μπλόκο Καλογρέζας
-UID:5870585b-a9c7-4b12-8a45-994369c17e72@5870.org
-URL:https://irunmag.gr/races/road/39o-bloko-kalogrezas/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260503
-DESCRIPTION:Run Greece Καβάλα\nLocation: Καβάλα\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Καβάλα
-SUMMARY:Run Greece Καβάλα
-UID:716cf102-7fae-4923-b2c5-49f3c962fadb@716c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-DESCRIPTION:2ο Amanitis Trail\nLocation: Χίος\nDistances: 40k\, 20k\, 7k\nMore info: https://irunmag.gr/races/trail/2o-amanitis-trail/
-LOCATION:Χίος
-SUMMARY:2ο Amanitis Trail
-UID:f521382f-773d-4586-8610-28b81b72cd9e@f521.org
-URL:https://irunmag.gr/races/trail/2o-amanitis-trail/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260517
-DESCRIPTION:1ο «Το Καλωσόρισμα των Πελαργών»\nLocation: Αιγίνιο Πιερίας\nDistances: 10k\, 4k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Αιγίνιο Πιερίας
-SUMMARY:1ο «Το Καλωσόρισμα των Πελαργών»
-UID:2573230c-0892-433c-8b01-24445cdcb4ab@2573.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260215
-DESCRIPTION:11ος Αγώνας Δρόμου “Η καρδιά του παιδιού”\nLocation: Φόδελε Ηρακλείου Κρήτης\nDistances: 10\, 5k\, 7k\, 100μ. ΑμεΑ\nMore info: https://irunmag.gr/races/road/11os-agonas-dromou-fodele-run/
-LOCATION:Φόδελε Ηρακλείου Κρήτης
-SUMMARY:11ος Αγώνας Δρόμου “Η καρδιά του παιδιού”
-UID:e1511185-7ace-44f2-8a93-2055d602b6b7@e151.org
-URL:https://irunmag.gr/races/road/11os-agonas-dromou-fodele-run/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260404
-DESCRIPTION:Helicon Mountain Race\nLocation: Λιβαδειά\nDistances: 38k\, 26k\, 14k\, 5\, 6k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Λιβαδειά
-SUMMARY:Helicon Mountain Race
-UID:e9fd7111-b45e-4020-9917-9aa38b4d99a4@e9fd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-DESCRIPTION:Run Greece Heraklion\nLocation: Ηράκλειο Κρήτης\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/races/road/run-greece-irakleio/
-LOCATION:Ηράκλειο Κρήτης
-SUMMARY:Run Greece Heraklion
-UID:404a1155-8647-4be9-b027-36107ee9fb69@404a.org
-URL:https://irunmag.gr/races/road/run-greece-irakleio/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260530
-DESCRIPTION:1ο Backyard Ultra Δράμας\nLocation: Δράμα\nDistances: 6\, 7k\nMore info: https://irunmag.gr/races/ultra/1o-backyard-ultra-dramas/
-LOCATION:Δράμα
-SUMMARY:1ο Backyard Ultra Δράμας
-UID:739aed75-4436-4c18-9cf1-7e8baef49acc@739a.org
-URL:https://irunmag.gr/races/ultra/1o-backyard-ultra-dramas/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260516
-DESCRIPTION:Spetsathlon\nLocation: Σπέτσες\nDistances: 5k\, τρίαθλον\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Σπέτσες
-SUMMARY:Spetsathlon
-UID:ae2134b3-9220-4555-a9b6-78341e36ec99@ae21.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260607
-DESCRIPTION:3ο Andros Challenge & Festival\nLocation: Ανδρος\nDistances: 34k\, 15k\, 5k\, 1\, 6k\, 1k. Κολύμβηση: 11k\, 3k\, 1\, 7k\nMore info: https://irunmag.gr/news/andros-challenge-festival/
-LOCATION:Ανδρος
-SUMMARY:3ο Andros Challenge & Festival
-UID:1077f805-3679-427e-a638-108a71af1aff@1077.org
-URL:https://irunmag.gr/news/andros-challenge-festival/
+UID:d4bec430-77f2-40e7-bca8-7cd9ccb8b4f4@d4be.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260919
-DESCRIPTION:20ός Γύρος Λίμνης Ιωαννίνων\nLocation: 19-20/9\nDistances: Ιωάννινα 30k\, 10k\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:19-20/9
-SUMMARY:20ός Γύρος Λίμνης Ιωαννίνων
-UID:75ce0b04-2ade-4b29-85f6-df0aa7112224@75ce.org
+DESCRIPTION:1ος Διεθνής Ημιμαραθώνιος «Νικηταράς»\nLocation: εκκίνηση: Άνω Δολιανά –  τερματισμός: Τρίπολη Αρκαδίας\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:εκκίνηση: Άνω Δολιανά –  τερματισμός: Τρίπολη Αρκαδίας
+SUMMARY:1ος Διεθνής Ημιμαραθώνιος «Νικηταράς»
+UID:cf54e0e5-5445-44d9-bbcf-d16f499bf6fc@cf54.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-DESCRIPTION:10ος Αραφήνειος Δρόμος\nLocation: Δημοτικό Κολυμβητήριο Ραφήνας\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/races/road/10os-epeteiakos-arafineios-dromos-stis-29-martiou-2026-prokiryxi/
-LOCATION:Δημοτικό Κολυμβητήριο Ραφήνας
-SUMMARY:10ος Αραφήνειος Δρόμος
-UID:22779bf5-7e67-4150-b586-369801bb7106@2277.org
-URL:https://irunmag.gr/races/road/10os-epeteiakos-arafineios-dromos-stis-29-martiou-2026-prokiryxi/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260104
-DESCRIPTION:27ος Αγώνας Αλσους Δαφνίου\nLocation: Δαφνί\nDistances: 10k\nMore info: https://irunmag.gr/races/trail/27os-agonas-alsous-dafniou/
-LOCATION:Δαφνί
-SUMMARY:27ος Αγώνας Αλσους Δαφνίου
-UID:272a7f6a-5911-4cd7-acb0-4b813fbab3fa@272a.org
-URL:https://irunmag.gr/races/trail/27os-agonas-alsous-dafniou/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260208
-DESCRIPTION:26ος Δρόμος Βουνού Υμηττός\nLocation: Παπάγου-Χολαργός\nDistances: 21k\, 5k\nMore info: https://irunmag.gr/races/trail/26os-ymittos-8-feb-2026/
-LOCATION:Παπάγου-Χολαργός
-SUMMARY:26ος Δρόμος Βουνού Υμηττός
-UID:f2e7d27f-8458-4151-a80e-beedea08e4ce@f2e7.org
-URL:https://irunmag.gr/races/trail/26os-ymittos-8-feb-2026/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260308
-DESCRIPTION:2ο Cholomon Run\nLocation: Πολύγυρος Χαλκιδικής\nDistances: 60k\, 30k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Πολύγυρος Χαλκιδικής
-SUMMARY:2ο Cholomon Run
-UID:909c87d4-4b85-4a5a-a535-c49829e4317b@909c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260322
-DESCRIPTION:76ος Βενιζέλειος Δρόμος\nLocation: Χανιά\nDistances: 10k\, 2\, 3k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Χανιά
-SUMMARY:76ος Βενιζέλειος Δρόμος
-UID:61e0183d-32d6-4639-b16d-c92c68baba5a@61e0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-DESCRIPTION:10ος Εύκλειος Αγώνας Βουνού\nLocation: Υμηττός\nDistances: 18k\, 10k\, 5k\nMore info: https://irunmag.gr/races/trail/10os-efkleios/
-LOCATION:Υμηττός
-SUMMARY:10ος Εύκλειος Αγώνας Βουνού
-UID:94c9f940-caa7-4628-848f-b0b3b2e1b678@94c9.org
-URL:https://irunmag.gr/races/trail/10os-efkleios/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:11ος Λαϊκός Αγώνας Δρόμου Παναγία Μερέντα\nLocation: Μαρκόπουλο Αττικής\nDistances: 9k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Μαρκόπουλο Αττικής
-SUMMARY:11ος Λαϊκός Αγώνας Δρόμου Παναγία Μερέντα
-UID:737a495f-6418-4d10-b5a4-8ac9c34efa93@737a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260322
-DESCRIPTION:9ος Ημιμαραθώνιος Σπερχειού\nLocation: Σπερχειάδα\nDistances: 21k\, 5k\, 2\, 5k\, 1k\nMore info: https://irunmag.gr/races/road/9os-imimarathonios-spercheiou/
-LOCATION:Σπερχειάδα
-SUMMARY:9ος Ημιμαραθώνιος Σπερχειού
-UID:ddc411a4-286f-411f-bdcd-a5121f556ec6@ddc4.org
-URL:https://irunmag.gr/races/road/9os-imimarathonios-spercheiou/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260627
-DESCRIPTION:Olympus Marathon\nLocation: 27-28/6\nDistances: Λιτόχωρο\, 71k\, 44k\, 12\, 5k\, 5k\, 4\, 25k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:27-28/6
-SUMMARY:Olympus Marathon
-UID:1852a277-f3a7-4afa-9ca4-06bcee3a5daa@1852.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260315
-DESCRIPTION:17ος Ημιμαραθώνιος Καλαμπάκα – Τρίκαλα\nLocation: Τρίκαλα\nDistances: 21k\, 5k\nMore info: https://irunmag.gr/races/road/17os-kalampaka/
-LOCATION:Τρίκαλα
-SUMMARY:17ος Ημιμαραθώνιος Καλαμπάκα – Τρίκαλα
-UID:a1881555-fcba-4609-9a2a-16102578b953@a188.org
-URL:https://irunmag.gr/races/road/17os-kalampaka/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260510
-DESCRIPTION:14ος Αγώνας Ορεινού Τρεξίματος «Σαμαριά»\nLocation: Ομαλός Χανίων\nDistances: 21\, 6k\, 7k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Ομαλός Χανίων
-SUMMARY:14ος Αγώνας Ορεινού Τρεξίματος «Σαμαριά»
-UID:2a26a88f-7dd2-4ee6-8b80-c84982e3cba8@2a26.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260215
-DESCRIPTION:11ο Lycabettus Run\nLocation: Λυκαβηττός\nDistances: 11k\, 9k\, 5\, 5k\, 4k\nMore info: https://irunmag.gr/races/road-trail/11o-lycabettus-run-prokyrixi/
-LOCATION:Λυκαβηττός
-SUMMARY:11ο Lycabettus Run
-UID:09d59f58-b95e-434f-9656-5c430642a1ee@09d5.org
-URL:https://irunmag.gr/races/road-trail/11o-lycabettus-run-prokyrixi/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260308
-DESCRIPTION:3ος Δρόμος Μνήμης Τεμπών\nLocation: Λάρισα\nDistances: 30k\, 15k\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Λάρισα
-SUMMARY:3ος Δρόμος Μνήμης Τεμπών
-UID:6a2ae9b8-0f2e-41b9-9218-e7e95518bb5e@6a2a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260426
-DESCRIPTION:17ος Διεθνής Ποσειδώνιος Ημιμαραθώνιος\nLocation: Παλαιό Φάληρο\nDistances: 21k\, 10k\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Παλαιό Φάληρο
-SUMMARY:17ος Διεθνής Ποσειδώνιος Ημιμαραθώνιος
-UID:9710d370-c236-4642-b94c-724f60d291b2@9710.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260426
-DESCRIPTION:Go Kea\nLocation: 25-26/4\nDistances: Κέα\, 6k\, 3k. Κολύμβηση: 3k\, 1\, 5k\nMore info: https://irunmag.gr/races/swim-aqualthlon/go-kea-stis-25-26-apriliou-2026/
-LOCATION:25-26/4
-SUMMARY:Go Kea
-UID:c783665f-6264-496f-bb03-ed9aac460a9b@c783.org
-URL:https://irunmag.gr/races/swim-aqualthlon/go-kea-stis-25-26-apriliou-2026/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260418
-DESCRIPTION:Ε’ Δρόμος Γερακιού\nLocation: Μυστράς – Γεράκι Λακωνίας\nDistances: 47\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Μυστράς – Γεράκι Λακωνίας
-SUMMARY:Ε’ Δρόμος Γερακιού
-UID:cc99892c-ccad-4024-9e4e-1d1b08743ca9@cc99.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260510
-DESCRIPTION:6ο City Trail Αγρίνιο\nLocation: Αγρίνιο\nDistances: 15k\, 6k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Αγρίνιο
-SUMMARY:6ο City Trail Αγρίνιο
-UID:be5c670a-4f29-42f0-af3d-23d5457dd508@be5c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260503
-DESCRIPTION:Voio Race Series – Μπούρινος\nLocation: Μπούρινος Βοΐου Κοζάνης\nDistances: 19k\, 10k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Μπούρινος Βοΐου Κοζάνης
-SUMMARY:Voio Race Series – Μπούρινος
-UID:2eafeeba-18c6-4651-905f-e02cd3c68f25@2eaf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260125
-DESCRIPTION:15ος Ημιμαραθώνιος «Ιωάννης Καποδίστριας»\nLocation: Αίγινα\nDistances: 21k\, 10k\, 3k\, 1k\, 500μ.\, 200μ.\nMore info: https://irunmag.gr/races/road/15os-agonas-dromou-ioannis-kapodistrias/
-LOCATION:Αίγινα
-SUMMARY:15ος Ημιμαραθώνιος «Ιωάννης Καποδίστριας»
-UID:b3dc6b3d-e157-463a-aacd-db9edddbf44d@b3dc.org
-URL:https://irunmag.gr/races/road/15os-agonas-dromou-ioannis-kapodistrias/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260524
-DESCRIPTION:Epidavrios Dromos Theater 2 Theater\nLocation: Επίδαυρος\nDistances: 21k\, 5k\, 1\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Επίδαυρος
-SUMMARY:Epidavrios Dromos Theater 2 Theater
-UID:3c3b10d6-ba51-4a70-b726-e77bb31383a5@3c3b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260405
-DESCRIPTION:13ο Poikilo Rocky Mountain\nLocation: Πετρούπολη\nDistances: 29k\, 18k\, 10k\, 4k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Πετρούπολη
-SUMMARY:13ο Poikilo Rocky Mountain
-UID:23a4c703-f2a0-424e-b004-2a38b7d3e598@23a4.org
+DTSTART;VALUE=DATE:20261011
+DESCRIPTION:Run The City – Latsia / Geri\nLocation: Λατσιά\nDistances: Γέρι\, Κύπρος\, 10\, 8k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Λατσιά
+SUMMARY:Run The City – Latsia / Geri
+UID:813d891b-5ff9-447a-b6ea-a24079282b33@813d.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260118
-DESCRIPTION:7ος Arkoudilas Trail\nLocation: Κέρκυρα\nDistances: 22k\, 10k\, 1k\nMore info: https://irunmag.gr/races/trail/7o-arkoudilas-trail-stis-18-ianouariou-2026/
-LOCATION:Κέρκυρα
-SUMMARY:7ος Arkoudilas Trail
-UID:c431fc24-ac6f-458b-aa61-63b9615ddc17@c431.org
-URL:https://irunmag.gr/races/trail/7o-arkoudilas-trail-stis-18-ianouariou-2026/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260322
-DESCRIPTION:18ος XM Limassol Marathon\nLocation: Λεμεσός\nDistances: Κύπρος\, 42k\, 21k\, 10k\, 5k\, 1k\nMore info: https://www.limassolmarathon.com/
-LOCATION:Λεμεσός
-SUMMARY:18ος XM Limassol Marathon
-UID:3f36d6fc-a1a0-465a-b801-822f2209865d@3f36.org
-URL:https://www.limassolmarathon.com/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260301
-DESCRIPTION:14ος Χορτιάτης Trail Run\nLocation: Χορτιάτης Θεσσαλονίκης\nDistances: 24k\, 10k\nMore info: https://irunmag.gr/races/trail/14o-xortiatis-trail-run/
-LOCATION:Χορτιάτης Θεσσαλονίκης
-SUMMARY:14ος Χορτιάτης Trail Run
-UID:9790590a-03d2-4dec-bd21-3dc4c2c0d851@9790.org
-URL:https://irunmag.gr/races/trail/14o-xortiatis-trail-run/
+DESCRIPTION:7ος Βυζαντινός Αγώνας\nLocation: Μέγαρα\nDistances: 50k\nMore info: https://irunmag.gr/races/ultra/7os-vyzantinos-agonas/
+LOCATION:Μέγαρα
+SUMMARY:7ος Βυζαντινός Αγώνας
+UID:da323d18-a5d0-49b3-9431-d30390060838@da32.org
+URL:https://irunmag.gr/races/ultra/7os-vyzantinos-agonas/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260531
 DESCRIPTION:5ο Posidonia Running Event\nLocation: Πειραιάς\nDistances: 5k\nMore info: https://irunmag.gr/race-calendar-2026
 LOCATION:Πειραιάς
 SUMMARY:5ο Posidonia Running Event
-UID:99f618f0-ad79-4924-a833-c029c3001eb8@99f6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260215
-DESCRIPTION:Salomon Mountain Cup\nLocation: Υμηττός\nDistances: 10k\, 4k\nMore info: https://irunmag.gr/races/trail/salomon-mountain-cup-ymittos/
-LOCATION:Υμηττός
-SUMMARY:Salomon Mountain Cup
-UID:525bffbf-cf3a-4c03-9ebc-b4df1f78e986@525b.org
-URL:https://irunmag.gr/races/trail/salomon-mountain-cup-ymittos/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260516
-DESCRIPTION:Αγώνας Δρόμου Κάστρου Διδυμότειχου «Κώστας Γκατσιούδης»\nLocation: Διδυμότειχο\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Διδυμότειχο
-SUMMARY:Αγώνας Δρόμου Κάστρου Διδυμότειχου «Κώστας Γκατσιούδης»
-UID:dc37c91a-ec95-4510-808b-dbf3cdb57877@dc37.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260510
-DESCRIPTION:13ο Paggaio Trail Run\nLocation: Δωμάτια Καβάλας\nDistances: 27k\, 10k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Δωμάτια Καβάλας
-SUMMARY:13ο Paggaio Trail Run
-UID:bcc388e2-c823-4ce2-9d74-596b7f0a9c65@bcc3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260201
-DESCRIPTION:Mitsero Mine Run\nLocation: Μιτσερό\nDistances: Λευκωσία\, 21k\, 12k\, 5\, 5k\, 880μ.\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Μιτσερό
-SUMMARY:Mitsero Mine Run
-UID:76ab34f3-2b5d-44be-85ef-eab3778740c0@76ab.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260620
-DESCRIPTION:Chios Night Half Marathon\nLocation: Χίος\nDistances: 21k\, 10k\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Χίος
-SUMMARY:Chios Night Half Marathon
-UID:7b5f15fc-b48b-4e39-b8d5-8edec430c4bc@7b5f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260718
-DESCRIPTION:I Run Myrtos\nLocation: Ιεράπετρα\nDistances: 12k\, 5k\, 750μ.\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Ιεράπετρα
-SUMMARY:I Run Myrtos
-UID:95746eae-3ede-4d3d-bdd9-7eb31352f964@9574.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260809
-DESCRIPTION:Voio Race Series\nLocation: Νάματα Κοζάνης\nDistances: 24k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Νάματα Κοζάνης
-SUMMARY:Voio Race Series
-UID:b9dcfa0d-af87-435a-ab78-58389d7cd10d@b9dc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260418
-DESCRIPTION:Αγώνες υπεραποστάσεων εντός σταδίου\nLocation: Μέγαρα\nDistances: 24h\, 12h\, 6h\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Μέγαρα
-SUMMARY:Αγώνες υπεραποστάσεων εντός σταδίου
-UID:11fa5c58-63ba-42b5-a9a3-a02ab53c0643@11fa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260509
-DESCRIPTION:4ο Triantafilia Mountain Trail Races\nLocation: 9-10/5\nDistances: Τριανταφυλλιά Ευρυτανίας\, 37k\, 15k\, 9k\nMore info: https://irunmag.gr/news/eyrytania-panaitoliko-triantafilia-mountain-trail-races-anoigma-engrafon/
-LOCATION:9-10/5
-SUMMARY:4ο Triantafilia Mountain Trail Races
-UID:93d13394-5a2a-4f19-af56-e1f04e59a665@93d1.org
-URL:https://irunmag.gr/news/eyrytania-panaitoliko-triantafilia-mountain-trail-races-anoigma-engrafon/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260920
-DESCRIPTION:1ος Διεθνής Διπλός Μαραθώνιος Δρόμος “Γιάννης Κούρος 2026”\nLocation: Τρίπολη\nDistances: 85k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Τρίπολη
-SUMMARY:1ος Διεθνής Διπλός Μαραθώνιος Δρόμος “Γιάννης Κούρος 2026”
-UID:e3b81ac8-7806-4af9-badc-728afc0b5966@e3b8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260301
-DESCRIPTION:8ο La Grande Course\nLocation: Αγία Παρασκευή\nDistances: 11k\, 4\, 8k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Αγία Παρασκευή
-SUMMARY:8ο La Grande Course
-UID:300d5723-4074-43ac-b2cc-e8985cd0a220@300d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260222
-DESCRIPTION:5ος Αγώνας Δρόμου Φιλίας και Αλληλλεγγύης\nLocation: Βαρυμπόμπη\nDistances: 14\, 5k\, 6\, 3k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Βαρυμπόμπη
-SUMMARY:5ος Αγώνας Δρόμου Φιλίας και Αλληλλεγγύης
-UID:c139d5d3-3ab5-4ff6-a554-6d9a417e0df6@c139.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260503
-DESCRIPTION:Λαφονήσιος Δρόμος\nLocation: Χρυσοσκαλίτισσα Χανίων\nDistances: 21k\, 8\, 7k\, 1\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Χρυσοσκαλίτισσα Χανίων
-SUMMARY:Λαφονήσιος Δρόμος
-UID:34218196-accd-4afa-9161-22ce83c8e459@3421.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260524
-DESCRIPTION:Thessaloniki Monuments Run\nLocation: Θεσσαλονίκη\nDistances: 5\, 6k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Θεσσαλονίκη
-SUMMARY:Thessaloniki Monuments Run
-UID:64497da8-3a03-4ce3-a952-76c919194ea9@6449.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260308
-DESCRIPTION:28ος Cyprus Marathon\nLocation: Πάφος\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://www.logicomcyprusmarathon.com/
-LOCATION:Πάφος
-SUMMARY:28ος Cyprus Marathon
-UID:6ebb4902-378a-4f91-a73e-6c8d1d30a934@6ebb.org
-URL:https://www.logicomcyprusmarathon.com/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260111
-DESCRIPTION:1ο Ermionida Cross Country Running\nLocation: Ερμιόνη Αργολίδας\nDistances: 10k\, 5k\, 4k\, 2\, 6k\, 1\, 3k\, 500μ. 300μ.\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Ερμιόνη Αργολίδας
-SUMMARY:1ο Ermionida Cross Country Running
-UID:ec2df049-5bd6-48b5-97d3-dc6ba0a2763d@ec2d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260215
-DESCRIPTION:26ος Μπιζάνιος Δρόμος\nLocation: Ιωάννινα\nDistances: 11\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Ιωάννινα
-SUMMARY:26ος Μπιζάνιος Δρόμος
-UID:a847dba9-9007-4f4c-9989-58499f4f6289@a847.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260503
-DESCRIPTION:9ος Αγώνας Δρόμου Λιμένων Μεγάρων – Νέας Περάμου\nLocation: Λιμάνι Νέας Περάμου\nDistances: Πάχης Μεγάρων\, 18k\, 9k\, 1k\nMore info: https://irunmag.gr/races/road/9os-agonas-dromou-limenon-megaron-neas-peramou/
-LOCATION:Λιμάνι Νέας Περάμου
-SUMMARY:9ος Αγώνας Δρόμου Λιμένων Μεγάρων – Νέας Περάμου
-UID:1111a980-8c4a-40c1-8cc9-8bf01d3adf00@1111.org
-URL:https://irunmag.gr/races/road/9os-agonas-dromou-limenon-megaron-neas-peramou/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260816
-DESCRIPTION:Βαλτινές Διαδρομές\nLocation: Χαλκιόπουλοι Αιτωλοακαρνανίας\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Χαλκιόπουλοι Αιτωλοακαρνανίας
-SUMMARY:Βαλτινές Διαδρομές
-UID:9326c7af-0b3d-4e5d-98d3-d118dad782b9@9326.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260215
-DESCRIPTION:Γεντίκι Trail 9\nLocation: Γεντίκι Λάρισας\nDistances: 21k\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Γεντίκι Λάρισας
-SUMMARY:Γεντίκι Trail 9
-UID:4fe033c8-08e2-4fdd-8a08-f0d0f4d86e4e@4fe0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260613
-DESCRIPTION:Ιεράπετρα City Run in Stadium Vol 6\nLocation: Ιεράπετρα\nDistances: 10k\, 5k\, Beer Mile\nMore info: https://www.facebook.com/profile.php?id=100068177657359
-LOCATION:Ιεράπετρα
-SUMMARY:Ιεράπετρα City Run in Stadium Vol 6
-UID:c4ded09b-bd89-4507-8002-63bab9e00170@c4de.org
-URL:https://www.facebook.com/profile.php?id=100068177657359
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260208
-DESCRIPTION:11ο Cycle Trail Run\nLocation: Θεσσαλονίκη\nDistances: 11k\, 4k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Θεσσαλονίκη
-SUMMARY:11ο Cycle Trail Run
-UID:49bce1e0-8713-4b37-a7be-98ee0a4dda92@49bc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260405
-DESCRIPTION:Tsaritsani Trails\nLocation: Τσαριτσάνη Λάρισας\nDistances: 32k\, 17k\, 9k\, 1k\nMore info: https://irunmag.gr/races/trail/tsaritsani-trails-2026/
-LOCATION:Τσαριτσάνη Λάρισας
-SUMMARY:Tsaritsani Trails
-UID:eb9c008b-a605-4ffc-bd2d-4a7a960ed11c@eb9c.org
-URL:https://irunmag.gr/races/trail/tsaritsani-trails-2026/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260502
-DESCRIPTION:8ος Αγώνας Δρόμου Υγείας Αντιπάρου\nLocation: Αντίπαρος\nDistances: 24\, 4k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Αντίπαρος
-SUMMARY:8ος Αγώνας Δρόμου Υγείας Αντιπάρου
-UID:a550a3d1-03c1-4336-8fe6-de88ef15f164@a550.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-DESCRIPTION:5ο Pravi Trail Run\nLocation: Ελευθερούπολη Καβάλας\nDistances: 21\, 5k\, 12k\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Ελευθερούπολη Καβάλας
-SUMMARY:5ο Pravi Trail Run
-UID:13c57145-42c7-44c4-a407-aca512efdf2e@13c5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260315
-DESCRIPTION:7ο Via Egnatia Run\nLocation: Αλεξανδρούπολη\nDistances: 21k\, 10k\, 5k\nMore info: https://irunmag.gr/races/road/7o-via-egnatia-run/
-LOCATION:Αλεξανδρούπολη
-SUMMARY:7ο Via Egnatia Run
-UID:0945e5d9-9498-4904-b676-0acbdea4f035@0945.org
-URL:https://irunmag.gr/races/road/7o-via-egnatia-run/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-DESCRIPTION:14ος Βαλλιάνειος Αγώνας Δρόμου\nLocation: Αργοστόλι\nDistances: 10k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Αργοστόλι
-SUMMARY:14ος Βαλλιάνειος Αγώνας Δρόμου
-UID:5c52042d-2eb4-44e4-960f-caf52112bf5b@5c52.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260404
-DESCRIPTION:4ο L’Étape Greece by Tour de France\nLocation: Σπάρτη\nDistances: ποδηλασία: 138k\, 64k\nMore info: https://irunmag.gr/races/cycling/letape-greece-by-tour-de-france-sparti/
-LOCATION:Σπάρτη
-SUMMARY:4ο L’Étape Greece by Tour de France
-UID:b0462200-4a7f-4b54-a5a7-3d50918756ae@b046.org
-URL:https://irunmag.gr/races/cycling/letape-greece-by-tour-de-france-sparti/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260201
-DESCRIPTION:26ος Δρόμος Βουνού Υμηττός\nLocation: Παπάγου-Χολαργός\nDistances: 21k\, 5k\nMore info: https://irunmag.gr/races/road/26os-dromos-vunu-ymittos/
-LOCATION:Παπάγου-Χολαργός
-SUMMARY:26ος Δρόμος Βουνού Υμηττός
-UID:527f8241-fbe8-466d-af30-f3374872153c@527f.org
-URL:https://irunmag.gr/races/road/26os-dromos-vunu-ymittos/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260607
-DESCRIPTION:2ος Αγώνας Δρόμου Κουρούτας\nLocation: Κουρούτα Ηλείας\nDistances: 10k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Κουρούτα Ηλείας
-SUMMARY:2ος Αγώνας Δρόμου Κουρούτας
-UID:7f8be73b-6342-4b82-bf30-9e19524a5ef9@7f8b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260912
-DESCRIPTION:Syros Trail Challenge\nLocation: Σύρος\nDistances: 10k\, 3k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Σύρος
-SUMMARY:Syros Trail Challenge
-UID:cdadbfd3-503f-43ff-b0f9-659e98e9c94e@cdad.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260711
-DESCRIPTION:4ος Νυχτερινός Αγώνας Μυτιλήνης\nLocation: Μυτιλήνη\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Μυτιλήνη
-SUMMARY:4ος Νυχτερινός Αγώνας Μυτιλήνης
-UID:f177d5e2-2b87-4f5a-82d9-29b670c9fefd@f177.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260607
-DESCRIPTION:Kilkis Trail\nLocation: Κιλκίς\nDistances: 20k\, 4\, 8k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Κιλκίς
-SUMMARY:Kilkis Trail
-UID:1b34a766-dca8-4612-bb67-85c793816f85@1b34.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261004
-DESCRIPTION:4ο Γόμφοι Trail\nLocation: Γόμφοι Τρικάλων\nDistances: 19k\, 7k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Γόμφοι Τρικάλων
-SUMMARY:4ο Γόμφοι Trail
-UID:58f22e95-e0e5-415b-8946-5bfec7d9202b@58f2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260308
-DESCRIPTION:14ος Ημιμαραθώνιος Αθήνας\nLocation: Αθήνα\nDistances: 21k\, 10k\, 5k\, Family Run 700μ.\nMore info: https://irunmag.gr/races/road/14os-imimarathonios-athinas/
-LOCATION:Αθήνα
-SUMMARY:14ος Ημιμαραθώνιος Αθήνας
-UID:362d2b20-a97a-4054-9ca0-2bcdffa2a4cb@362d.org
-URL:https://irunmag.gr/races/road/14os-imimarathonios-athinas/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260111
-DESCRIPTION:Kambos Mountain Race\nLocation: Λευκωσία\nDistances: 22k\, 11k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Λευκωσία
-SUMMARY:Kambos Mountain Race
-UID:a485c91d-e6c1-47de-8462-be77400b0b15@a485.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260503
-DESCRIPTION:15ος Ιπποκράτειος Αγώνας Δρόμου\nLocation: Λάρισα\nDistances: 10k\, 3k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Λάρισα
-SUMMARY:15ος Ιπποκράτειος Αγώνας Δρόμου
-UID:2118c1c0-0f61-4dc1-a836-980ebbd1081a@2118.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260502
-DESCRIPTION:4ο Heyday Road IV\nLocation: Σπάρτη – Αρχαία Ολυμπία\nDistances: 165k\, 72k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Σπάρτη – Αρχαία Ολυμπία
-SUMMARY:4ο Heyday Road IV
-UID:bf14d57c-7180-4dfc-b1aa-3c37b81c03d9@bf14.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260530
-DESCRIPTION:6ο Vasiliki Lefkada (\nLocation: Βασιλική Λευκάδας\nDistances: 42k\, 13k\, 10k\, 3\, 5k 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Βασιλική Λευκάδας
-SUMMARY:6ο Vasiliki Lefkada (
-UID:2c8aff83-06ec-4ad1-9eae-2bd35df0e60b@2c8a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260531
-DESCRIPTION:5ο Evrytania Trail Races\nLocation: Δομνίστα\nDistances: Κρίκελλο Ευρυτανίας\, 80k\, 60k\, 30k\, 20k\, 12k\, 6k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Δομνίστα
-SUMMARY:5ο Evrytania Trail Races
-UID:d4236142-75e5-48d1-81b4-f9cd36ae7d8e@d423.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260524
-DESCRIPTION:Kronio Trail\nLocation: Τζερμιάδο Λασιθίου\nDistances: 42k\, 14k\, 5\, 6k\, 1000μ.\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Τζερμιάδο Λασιθίου
-SUMMARY:Kronio Trail
-UID:9f15bd7e-b52e-45fa-b549-c8573e35fd25@9f15.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260809
-DESCRIPTION:7ος Λαϊκός Δρόμος Φράγμα Λίμνης Πλαστήρα-Μούχα-Καστανιά\nLocation: Λίμνη Πλαστήρα\nDistances: 10k\, 5\, 5k\, 600μ.\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Λίμνη Πλαστήρα
-SUMMARY:7ος Λαϊκός Δρόμος Φράγμα Λίμνης Πλαστήρα-Μούχα-Καστανιά
-UID:2628d095-e389-479a-82c4-098bebb77b3d@2628.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260201
-DESCRIPTION:1ος Ημιμαραθώνιος Γυθείου «Δημήτρης Θεοδωρακάκος»\nLocation: Γύθειο\nDistances: 21k\, 5k\, 1k\nMore info: https://irunmag.gr/races/road/1os-imimarathonios-gytheiou/
-LOCATION:Γύθειο
-SUMMARY:1ος Ημιμαραθώνιος Γυθείου «Δημήτρης Θεοδωρακάκος»
-UID:b0fc317e-5035-404d-89fd-1d4e161417de@b0fc.org
-URL:https://irunmag.gr/races/road/1os-imimarathonios-gytheiou/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260829
-DESCRIPTION:10ο Πολύγυρος Run Χαλκιδική\nLocation: Πολύγυρος\nDistances: 14\, 6k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Πολύγυρος
-SUMMARY:10ο Πολύγυρος Run Χαλκιδική
-UID:f8fda022-6b51-4584-a448-b1969e054b54@f8fd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260315
-DESCRIPTION:5ος Γύρος Περιβολίων\nLocation: Περιβόλια Χανίων\nDistances: 10k\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Περιβόλια Χανίων
-SUMMARY:5ος Γύρος Περιβολίων
-UID:505dcb08-002d-4d86-b87f-9f524e7dd1f0@505d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260510
-DESCRIPTION:Sohos Mountain Games\nLocation: Σοχός Θεσσαλονίκης\nDistances: 25k\, 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Σοχός Θεσσαλονίκης
-SUMMARY:Sohos Mountain Games
-UID:a4ec457a-24a6-4582-b8bd-8aaffd43a473@a4ec.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261011
-DESCRIPTION:7ο Ηρακλής Γορίτσα Trail\nLocation: Γορίτσα Βόλου\nDistances: 25k\, 8k\, 500μ.\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Γορίτσα Βόλου
-SUMMARY:7ο Ηρακλής Γορίτσα Trail
-UID:d15eba86-3b34-4316-83b5-f796739e1ad6@d15e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261108
-DESCRIPTION:43ος Αυθεντικός Μαραθώνιος\nLocation: Αθήνα\nDistances: 42k\, 10k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Αθήνα
-SUMMARY:43ος Αυθεντικός Μαραθώνιος
-UID:eeab8dd0-a96b-4cf5-8a3b-e8a53c616458@eeab.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260201
-DESCRIPTION:Ρέτζακας Trail Run\nLocation: Πλοκαμιανά Ιναχωρίου Χανίων\nDistances: 24\, 7k\, 6\, 8k\nMore info: https://irunmag.gr/races/trail/retzakas-trail-run-2026/
-LOCATION:Πλοκαμιανά Ιναχωρίου Χανίων
-SUMMARY:Ρέτζακας Trail Run
-UID:e85cbae8-058a-44ab-b8c0-826345d3710f@e85c.org
-URL:https://irunmag.gr/races/trail/retzakas-trail-run-2026/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260503
-DESCRIPTION:5o Pamvotis View Trail\nLocation: Δροσοχώρι Ιωαννίνων\nDistances: 21k\, 9k\, 1k\nMore info: https://irunmag.gr/races/trail/5o-pamvotis-view-trail-3-may-2026/
-LOCATION:Δροσοχώρι Ιωαννίνων
-SUMMARY:5o Pamvotis View Trail
-UID:787e8a1e-41b5-4941-b274-13ed9968298b@787e.org
-URL:https://irunmag.gr/races/trail/5o-pamvotis-view-trail-3-may-2026/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261003
-DESCRIPTION:27ος Λαϊκός Αγώνας Δρόμου Νεάπολης Αγρινίου\nLocation: Νεάπολη Αιτωλοακαρνανίας\nDistances: 9\, 7k\, 4k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Νεάπολη Αιτωλοακαρνανίας
-SUMMARY:27ος Λαϊκός Αγώνας Δρόμου Νεάπολης Αγρινίου
-UID:1dde9939-fa9e-4ed5-b5c3-a490ff2a2712@1dde.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260509
-DESCRIPTION:Tyros Run\nLocation: Τυρός Αρκαδίας\nDistances: 16k\, 8k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Τυρός Αρκαδίας
-SUMMARY:Tyros Run
-UID:4a6530a0-b985-437c-b6a4-0842f0c5e74a@4a65.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260111
-DESCRIPTION:13ο Pilabox Trail Race\nLocation: Παλαιά Πεντέλη\nDistances: 14k\, 6k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Παλαιά Πεντέλη
-SUMMARY:13ο Pilabox Trail Race
-UID:2fd856ca-a57d-40d1-9370-80cc26406c9d@2fd8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260426
-DESCRIPTION:11ος Μαραθώνιος Ρόδου\nLocation: Ρόδος\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://irunmag.gr/races/road/11-rhodes-marathon/
-LOCATION:Ρόδος
-SUMMARY:11ος Μαραθώνιος Ρόδου
-UID:220f4061-856e-4cef-8122-537d41990cfe@220f.org
-URL:https://irunmag.gr/races/road/11-rhodes-marathon/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260404
-DESCRIPTION:Run Greece Syros\nLocation: Σύρος\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/races/road/run-greece-syros-2026/
-LOCATION:Σύρος
-SUMMARY:Run Greece Syros
-UID:a5d30330-b75e-4f02-a55e-a7a51b5632e2@a5d3.org
-URL:https://irunmag.gr/races/road/run-greece-syros-2026/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260823
-DESCRIPTION:14ος Ημιμαραθώνιος Χίου\nLocation: 21k\nDistances: 10\, 5k\, 5k\, 1\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:21k
-SUMMARY:14ος Ημιμαραθώνιος Χίου
-UID:3ca416ef-87d9-4f5e-bc36-9d74ed0c19c7@3ca4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260419
-DESCRIPTION:Run Greece Σπάρτη\nLocation: Σπάρτη\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/races/road/run-greece-sparti-2026/
-LOCATION:Σπάρτη
-SUMMARY:Run Greece Σπάρτη
-UID:ac554272-dae9-47a4-b713-e16d36220705@ac55.org
-URL:https://irunmag.gr/races/road/run-greece-sparti-2026/
+UID:d57a9644-91a9-4858-b60c-abd592fcccf4@d57a.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261004
 DESCRIPTION:Run Greece Piraeus\nLocation: Περαιάς\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
 LOCATION:Περαιάς
 SUMMARY:Run Greece Piraeus
-UID:d693fc03-814b-4bd0-9135-429a35d9972c@d693.org
+UID:694b2e12-cf73-4c3d-95ed-b48420c786ee@694b.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260101
-DESCRIPTION:SNF Run: First Run\nLocation: Καλλιθέα\nDistances: 3k\nMore info: https://irunmag.gr/races/road/snf-run-2026-first-run/
-LOCATION:Καλλιθέα
-SUMMARY:SNF Run: First Run
-UID:0c1d254f-a65d-4325-b05e-5c64a24906bb@0c1d.org
-URL:https://irunmag.gr/races/road/snf-run-2026-first-run/
+DTSTART;VALUE=DATE:20260523
+DESCRIPTION:13ος Πράσινος Ημιμαραθώνιος Λευκάδας\nLocation: 21k\nDistances: 8k\, 1000μ.\nMore info: https://irunmag.gr/races/road/prasinos-imimarathonios-lefkadas-2026/
+LOCATION:21k
+SUMMARY:13ος Πράσινος Ημιμαραθώνιος Λευκάδας
+UID:5ca9ff14-606e-433b-bdaf-fa0d0f0b717b@5ca9.org
+URL:https://irunmag.gr/races/road/prasinos-imimarathonios-lefkadas-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260510
+DESCRIPTION:13ο Paggaio Trail Run\nLocation: Δωμάτια Καβάλας\nDistances: 27k\, 10k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Δωμάτια Καβάλας
+SUMMARY:13ο Paggaio Trail Run
+UID:a4178a90-eeb5-4bb3-bac4-d3741ac673da@a417.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260111
+DESCRIPTION:13ο Pilabox Trail Race\nLocation: Παλαιά Πεντέλη\nDistances: 14k\, 6k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Παλαιά Πεντέλη
+SUMMARY:13ο Pilabox Trail Race
+UID:70615a8f-faf1-47e0-b1cb-3ec4dee31dc2@7061.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260315
+DESCRIPTION:17ος Ημιμαραθώνιος Καλαμπάκα – Τρίκαλα\nLocation: Τρίκαλα\nDistances: 21k\, 5k\nMore info: https://irunmag.gr/races/road/17os-kalampaka/
+LOCATION:Τρίκαλα
+SUMMARY:17ος Ημιμαραθώνιος Καλαμπάκα – Τρίκαλα
+UID:3026a201-99c4-4805-bfb0-17cb9a75d080@3026.org
+URL:https://irunmag.gr/races/road/17os-kalampaka/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+DESCRIPTION:10ος Μαραθώνιος Ναυπλίου\nLocation: Ναύπλιο\nDistances: 42k\, 21k\, 5k\, 1k\nMore info: https://irunmag.gr/races/road/10os-marathonios-nafpliou-stis-29-martiou-2026/
+LOCATION:Ναύπλιο
+SUMMARY:10ος Μαραθώνιος Ναυπλίου
+UID:e575994f-fa3f-4ca9-887b-0864174b6d59@e575.org
+URL:https://irunmag.gr/races/road/10os-marathonios-nafpliou-stis-29-martiou-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260808
+DESCRIPTION:2ο Olympia Night Run «Run Under Zeus»\nLocation: Αρχαία Ολυμπία\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Αρχαία Ολυμπία
+SUMMARY:2ο Olympia Night Run «Run Under Zeus»
+UID:24267b1d-1458-4436-b152-0c50b413a22a@2426.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260426
+DESCRIPTION:Ολοι Μαζί Μπορούμε\nLocation: Μαραθώνας\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Μαραθώνας
+SUMMARY:Ολοι Μαζί Μπορούμε
+UID:ca319ea0-48a5-45ce-9b40-b761b21fc82b@ca31.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260906
+DESCRIPTION:Voio Race Series\nLocation: Μπούρινος Κοζάνης\nDistances: 19k\, 7k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Μπούρινος Κοζάνης
+SUMMARY:Voio Race Series
+UID:c62e3525-7814-40d3-af04-fbf5304631f8@c62e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260502
+DESCRIPTION:4ο Heyday Road IV\nLocation: Σπάρτη – Αρχαία Ολυμπία\nDistances: 165k\, 72k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Σπάρτη – Αρχαία Ολυμπία
+SUMMARY:4ο Heyday Road IV
+UID:d0671d4b-5c4e-45a0-b207-0b307033449b@d067.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260322
+DESCRIPTION:Voio Race – Νεάπολη\nLocation: Νεάπολη Κοζάνης\nDistances: 10k\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Νεάπολη Κοζάνης
+SUMMARY:Voio Race – Νεάπολη
+UID:ce457d68-a4a1-441f-b763-3d7e0060d733@ce45.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260822
+DESCRIPTION:7ος Λαΐκός Αγώνας Δρόμου Βασιλικής\nLocation: Βασιλική Λασιθίου\nDistances: 10k\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Βασιλική Λασιθίου
+SUMMARY:7ος Λαΐκός Αγώνας Δρόμου Βασιλικής
+UID:d29750cf-80e8-41a9-9b85-43ca6d7f701e@d297.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260509
+DESCRIPTION:4ο Triantafilia Mountain Trail Races\nLocation: 9-10/5\nDistances: Τριανταφυλλιά Ευρυτανίας\, 37k\, 15k\, 9k\nMore info: https://irunmag.gr/news/eyrytania-panaitoliko-triantafilia-mountain-trail-races-anoigma-engrafon/
+LOCATION:9-10/5
+SUMMARY:4ο Triantafilia Mountain Trail Races
+UID:9aa68a6e-c891-492d-8e9e-e41df16f66a7@9aa6.org
+URL:https://irunmag.gr/news/eyrytania-panaitoliko-triantafilia-mountain-trail-races-anoigma-engrafon/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260613
+DESCRIPTION:Ιεράπετρα City Run in Stadium Vol 6\nLocation: Ιεράπετρα\nDistances: 10k\, 5k\, Beer Mile\nMore info: https://www.facebook.com/profile.php?id=100068177657359
+LOCATION:Ιεράπετρα
+SUMMARY:Ιεράπετρα City Run in Stadium Vol 6
+UID:414786f6-7a4a-4e1a-93e1-f00c58f5a38b@4147.org
+URL:https://www.facebook.com/profile.php?id=100068177657359
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260524
+DESCRIPTION:Thessaloniki Monuments Run\nLocation: Θεσσαλονίκη\nDistances: 5\, 6k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Θεσσαλονίκη
+SUMMARY:Thessaloniki Monuments Run
+UID:37d74e09-ab22-44f2-816c-5b15c7d05748@37d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260125
+DESCRIPTION:15ος Ημιμαραθώνιος «Ιωάννης Καποδίστριας»\nLocation: Αίγινα\nDistances: 21k\, 10k\, 3k\, 1k\, 500μ.\, 200μ.\nMore info: https://irunmag.gr/races/road/15os-agonas-dromou-ioannis-kapodistrias/
+LOCATION:Αίγινα
+SUMMARY:15ος Ημιμαραθώνιος «Ιωάννης Καποδίστριας»
+UID:ea4454da-8df1-4db7-b555-ace733b5410c@ea44.org
+URL:https://irunmag.gr/races/road/15os-agonas-dromou-ioannis-kapodistrias/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260417
+DESCRIPTION:15ος Αγώνας Δρόμου Δόλιχος «Δελφοί-Ολυμπία»\nLocation: 17-19/4\nDistances: Δελφοί\, Ρίο\, Αρχαία Ολυμπία\, 255k\, 144k\, 111k\nMore info: https://irunmag.gr/races/ultra/15os-dolichos/
+LOCATION:17-19/4
+SUMMARY:15ος Αγώνας Δρόμου Δόλιχος «Δελφοί-Ολυμπία»
+UID:e39ed4fe-6fb0-4728-a426-c9417cb53a96@e39e.org
+URL:https://irunmag.gr/races/ultra/15os-dolichos/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260510
+DESCRIPTION:AXD Sprint Triathlon\nLocation: Αλεξανδρούπολη\nDistances: sprint tri με 700m swim – 20k bike – 5k run\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Αλεξανδρούπολη
+SUMMARY:AXD Sprint Triathlon
+UID:ea27c53e-5f6d-47ad-8fcc-44350dfa224b@ea27.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260524
+DESCRIPTION:14ο Skiathos Trail Run\nLocation: Σκιάθος\nDistances: 24k\, 10k\, 1\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Σκιάθος
+SUMMARY:14ο Skiathos Trail Run
+UID:50b3aca3-fb82-4b2d-bf16-36c56925c38a@50b3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:18ος Αγώνας Δρόμου Καθαράς Δευτέρας\nLocation: Αλεποχώρι Αττικής\nDistances: 10k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Αλεποχώρι Αττικής
+SUMMARY:18ος Αγώνας Δρόμου Καθαράς Δευτέρας
+UID:83ab80ae-dc03-43f3-ade4-d1120eff68e7@83ab.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260405
-DESCRIPTION:12ος Φιλανθρωπικός Αγώνας Βουνού Αυτισμός – Ελπίδα 2026\nLocation: Ωραιόκαστρο Θεσσαλονίκης\nDistances: 15k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
-LOCATION:Ωραιόκαστρο Θεσσαλονίκης
-SUMMARY:12ος Φιλανθρωπικός Αγώνας Βουνού Αυτισμός – Ελπίδα 2026
-UID:c92494d9-a575-4048-bcc9-58bfc10ad265@c924.org
+DESCRIPTION:11ος Νικηφόρειος Δρόμος\nLocation: 4-5/4\nDistances: Καλονύκτης Ρεθύμνου\, 23k\, 10k\, 5\, 3k\, 2k\nMore info: https://irunmag.gr/races/road-trail/11os-nikiforeios-dromos-stis-4-5-apriliou-2026/
+LOCATION:4-5/4
+SUMMARY:11ος Νικηφόρειος Δρόμος
+UID:4a17b27b-f569-44dd-8b83-12fb5e8b9d73@4a17.org
+URL:https://irunmag.gr/races/road-trail/11os-nikiforeios-dromos-stis-4-5-apriliou-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:4ο L’Étape Greece by Tour de France\nLocation: Σπάρτη\nDistances: ποδηλασία: 138k\, 64k\nMore info: https://irunmag.gr/races/cycling/letape-greece-by-tour-de-france-sparti/
+LOCATION:Σπάρτη
+SUMMARY:4ο L’Étape Greece by Tour de France
+UID:b2d86dfb-d748-4c06-bd43-8df599c9e158@b2d8.org
+URL:https://irunmag.gr/races/cycling/letape-greece-by-tour-de-france-sparti/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260725
+DESCRIPTION:10ο WAVE Running\nLocation: 24-25/7\nDistances: Αβδηρα Ξάνθης\, 28k\, 10k\, 5k\, 500μ.\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:24-25/7
+SUMMARY:10ο WAVE Running
+UID:aa8718b7-7e33-4823-899b-132c473d4b1c@aa87.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260405
+DESCRIPTION:9ος Αγώνας Πεδίου Αρεως «Στις Γειτονιές της Αθήνας»\nLocation: 10k\nDistances: 5k\, 1\, 3k\nMore info: https://irunmag.gr/races/road/9os-agonas-pediou-areos/
+LOCATION:10k
+SUMMARY:9ος Αγώνας Πεδίου Αρεως «Στις Γειτονιές της Αθήνας»
+UID:1e05519f-5e9f-4af6-bcde-908d48a732bf@1e05.org
+URL:https://irunmag.gr/races/road/9os-agonas-pediou-areos/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260208
+DESCRIPTION:24ος Δρόμος Αργολικού Κόλπου\nLocation: Ναύπλιο\nDistances: 15\, 3k\, 1k\nMore info: https://irunmag.gr/races/road/24os-dromos-argolikou-kolpou/
+LOCATION:Ναύπλιο
+SUMMARY:24ος Δρόμος Αργολικού Κόλπου
+UID:0d1948a2-e14e-4f5c-a29d-7ab68235da80@0d19.org
+URL:https://irunmag.gr/races/road/24os-dromos-argolikou-kolpou/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260510
+DESCRIPTION:39ος Κορακοβούνιος Δρόμος\nLocation: Κορακοβούνι Ηρακλείου Κρήτης\nDistances: 4k\, 1k\, 500μ.\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Κορακοβούνι Ηρακλείου Κρήτης
+SUMMARY:39ος Κορακοβούνιος Δρόμος
+UID:18626fa5-6f91-4d94-8435-ec8a360f86e4@1862.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+DESCRIPTION:5ο Μυρμιδόνων Αθλος\nLocation: Φάρσαλα\nDistances: 21k\, 10k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Φάρσαλα
+SUMMARY:5ο Μυρμιδόνων Αθλος
+UID:149a6f6c-2fbd-4524-9f56-1a97bfe33f49@149a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260322
+DESCRIPTION:18ος XM Limassol Marathon\nLocation: Λεμεσός\nDistances: Κύπρος\, 42k\, 21k\, 10k\, 5k\, 1k\nMore info: https://www.limassolmarathon.com/
+LOCATION:Λεμεσός
+SUMMARY:18ος XM Limassol Marathon
+UID:7520fb52-fe44-463e-800a-020247115a99@7520.org
+URL:https://www.limassolmarathon.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260125
+DESCRIPTION:2ο Kanalaki Run\nLocation: Καναλάκι Πρέβεζας\nDistances: 21k\, 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Καναλάκι Πρέβεζας
+SUMMARY:2ο Kanalaki Run
+UID:dcaa1159-6a3f-46a3-b878-b45319c87799@dcaa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260215
+DESCRIPTION:5ος Ημιμαραθώνιος Αγάπης\nLocation: Μυτιλήνη\nDistances: 21k\, 10k\, 5k\, 2\, 5k\, 1k\nMore info: https://irunmag.gr/races/road/5os-imimarathonios-agapis/
+LOCATION:Μυτιλήνη
+SUMMARY:5ος Ημιμαραθώνιος Αγάπης
+UID:59813184-de64-4179-aa04-e537ef2487fc@5981.org
+URL:https://irunmag.gr/races/road/5os-imimarathonios-agapis/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260426
+DESCRIPTION:11ος Μαραθώνιος Ρόδου\nLocation: Ρόδος\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://irunmag.gr/races/road/11-rhodes-marathon/
+LOCATION:Ρόδος
+SUMMARY:11ος Μαραθώνιος Ρόδου
+UID:2be0d9ca-d4aa-4a35-b757-ca3557c2c97b@2be0.org
+URL:https://irunmag.gr/races/road/11-rhodes-marathon/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260503
+DESCRIPTION:Λαφονήσιος Δρόμος\nLocation: Χρυσοσκαλίτισσα Χανίων\nDistances: 21k\, 8\, 7k\, 1\, 1k\nMore info: https://irunmag.gr/races/road/lafonisios-dromos-2026/
+LOCATION:Χρυσοσκαλίτισσα Χανίων
+SUMMARY:Λαφονήσιος Δρόμος
+UID:d4fbfdb9-b55f-4c76-885d-aea29c4f7c07@d4fb.org
+URL:https://irunmag.gr/races/road/lafonisios-dromos-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260911
+DESCRIPTION:20ό Hercules Series\nLocation: 11-13/9\nDistances: Υπάτη Φθιώτιδας\, 42\, 3k\, 16\, 7k\, 7\, 2\, 1\, 2k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:11-13/9
+SUMMARY:20ό Hercules Series
+UID:b56d4fda-335e-449a-b22e-e8aa7289426c@b56d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260607
+DESCRIPTION:5ο Farmakas Mountain Running\nLocation: Πλατάνι Αργολίδας\nDistances: 19k\, 6k\, 1\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Πλατάνι Αργολίδας
+SUMMARY:5ο Farmakas Mountain Running
+UID:b6405514-5fd2-4492-8fa3-31a372a48cfe@b640.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260517
+DESCRIPTION:4ος Axios Running Festival\nLocation: Κουφάλια Θεσσαλονίκης\nDistances: 21k\, 10k\, 5k\, 1\, 6k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Κουφάλια Θεσσαλονίκης
+SUMMARY:4ος Axios Running Festival
+UID:704a0f21-5e5b-48f1-acf9-574bc5f265ec@704a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260301
+DESCRIPTION:14ος Χορτιάτης Trail Run\nLocation: Χορτιάτης Θεσσαλονίκης\nDistances: 24k\, 10k\nMore info: https://irunmag.gr/races/trail/14o-xortiatis-trail-run/
+LOCATION:Χορτιάτης Θεσσαλονίκης
+SUMMARY:14ος Χορτιάτης Trail Run
+UID:d6a46431-356f-4835-9d6b-37d3af25d34f@d6a4.org
+URL:https://irunmag.gr/races/trail/14o-xortiatis-trail-run/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260308
+DESCRIPTION:3ος Δρόμος Μνήμης Τεμπών\nLocation: Λάρισα\nDistances: 30k\, 15k\, 5k\nMore info: https://irunmag.gr/races/road/dromos-mnimis-tempon-2026/
+LOCATION:Λάρισα
+SUMMARY:3ος Δρόμος Μνήμης Τεμπών
+UID:c0539548-cfb5-4e77-9bb4-b8dd7f343601@c053.org
+URL:https://irunmag.gr/races/road/dromos-mnimis-tempon-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260809
+DESCRIPTION:7ος Λαϊκός Δρόμος Φράγμα Λίμνης Πλαστήρα-Μούχα-Καστανιά\nLocation: Λίμνη Πλαστήρα\nDistances: 10k\, 5\, 5k\, 600μ.\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Λίμνη Πλαστήρα
+SUMMARY:7ος Λαϊκός Δρόμος Φράγμα Λίμνης Πλαστήρα-Μούχα-Καστανιά
+UID:3660fbe2-fe69-424f-837a-0d061e5e9918@3660.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+DESCRIPTION:8ος Κροκόδειλος Trail\nLocation: Παλαιόχωρα Χανίων\nDistances: 20\, 5k\, 7k\, 1k\nMore info: https://irunmag.gr/races/trail/8os-krokodeilos-trail-stis-29-martiou-2026/
+LOCATION:Παλαιόχωρα Χανίων
+SUMMARY:8ος Κροκόδειλος Trail
+UID:fde11dd4-8aea-4fea-9be9-d5e585fd9504@fde1.org
+URL:https://irunmag.gr/races/trail/8os-krokodeilos-trail-stis-29-martiou-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260315
+DESCRIPTION:5ος Γύρος Περιβολίων\nLocation: Περιβόλια Χανίων\nDistances: 10k\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Περιβόλια Χανίων
+SUMMARY:5ος Γύρος Περιβολίων
+UID:21868051-ee03-40d4-a25e-1629efebfe58@2186.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260215
+DESCRIPTION:11ος Αγώνας Δρόμου “Η καρδιά του παιδιού”\nLocation: Φόδελε Ηρακλείου Κρήτης\nDistances: 10\, 5k\, 7k\, 100μ. ΑμεΑ\nMore info: https://irunmag.gr/races/road/11os-agonas-dromou-fodele-run/
+LOCATION:Φόδελε Ηρακλείου Κρήτης
+SUMMARY:11ος Αγώνας Δρόμου “Η καρδιά του παιδιού”
+UID:cadf2b25-ffcb-440d-8264-41ae2f8a9375@cadf.org
+URL:https://irunmag.gr/races/road/11os-agonas-dromou-fodele-run/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260201
+DESCRIPTION:Ρέτζακας Trail Run\nLocation: Πλοκαμιανά Ιναχωρίου Χανίων\nDistances: 24\, 7k\, 6\, 8k\nMore info: https://irunmag.gr/races/trail/retzakas-trail-run-2026/
+LOCATION:Πλοκαμιανά Ιναχωρίου Χανίων
+SUMMARY:Ρέτζακας Trail Run
+UID:0d09342d-41f0-42c8-a408-e137339af3fe@0d09.org
+URL:https://irunmag.gr/races/trail/retzakas-trail-run-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260515
+DESCRIPTION:26ος Ευχίδειος Άθλος\nLocation: 15-17/5\nDistances: Δελφοί-Πλαταιές\, 215k\, 107\, 5k\, 59k\nMore info: https://irunmag.gr/races/ultra/26os-euchidios-athlos-15-17-may-2026/
+LOCATION:15-17/5
+SUMMARY:26ος Ευχίδειος Άθλος
+UID:76a3d35e-e31c-41f0-8c73-5603d3a48459@76a3.org
+URL:https://irunmag.gr/races/ultra/26os-euchidios-athlos-15-17-may-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+DESCRIPTION:5ο Pravi Trail Run\nLocation: Ελευθερούπολη Καβάλας\nDistances: 21\, 5k\, 12k\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Ελευθερούπολη Καβάλας
+SUMMARY:5ο Pravi Trail Run
+UID:50a90b6b-6e91-4e28-bf04-2ef67b47bee2@50a9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260829
+DESCRIPTION:10ο Πολύγυρος Run Χαλκιδική\nLocation: Πολύγυρος\nDistances: 14\, 6k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Πολύγυρος
+SUMMARY:10ο Πολύγυρος Run Χαλκιδική
+UID:9ddc5fbf-ccdc-4e80-971a-8f2298e45945@9ddc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260215
+DESCRIPTION:Προπονητική Ημερίδα Νίκης Βύρωνα\nLocation: Δημ. στάδιο Δήμου Βύρωνα\nDistances: 10k\, 5k\nMore info: https://irunmag.gr/stivos/niki-vyrona-diorganonei-proponitiki-imerida-sto-dimotiko-stadio-vyrona/
+LOCATION:Δημ. στάδιο Δήμου Βύρωνα
+SUMMARY:Προπονητική Ημερίδα Νίκης Βύρωνα
+UID:ff502dbd-8c20-489e-b793-c1f3ead2704c@ff50.org
+URL:https://irunmag.gr/stivos/niki-vyrona-diorganonei-proponitiki-imerida-sto-dimotiko-stadio-vyrona/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260321
+DESCRIPTION:4ο Serres Circuit Run\nLocation: 21-22/3\nDistances: Σέρρες\, 24h\, 12h\, 6h\, 3 x 2h (relay\nMore info: https://irunmag.gr/races/ultra/4o-serres-circuit-run/
+LOCATION:21-22/3
+SUMMARY:4ο Serres Circuit Run
+UID:989049fa-c621-4465-a367-80fd892d5a78@9890.org
+URL:https://irunmag.gr/races/ultra/4o-serres-circuit-run/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+DESCRIPTION:24ος Αγώνας Δρόμου Καλαμάτας\nLocation: Καλαμάτα\nDistances: 10k\, 1\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Καλαμάτα
+SUMMARY:24ος Αγώνας Δρόμου Καλαμάτας
+UID:e64ac268-ca4b-4647-a71a-235e3baf875c@e64a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260517
+DESCRIPTION:1ο «Το Καλωσόρισμα των Πελαργών»\nLocation: Αιγίνιο Πιερίας\nDistances: 10k\, 4k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Αιγίνιο Πιερίας
+SUMMARY:1ο «Το Καλωσόρισμα των Πελαργών»
+UID:8a868330-9f26-45bf-af94-383564a6e16d@8a86.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260913
+DESCRIPTION:Μαστίχαθλον\nLocation: Χίος\nDistances: Τρίαθλον\, Duathlon\, Aquathlon\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Χίος
+SUMMARY:Μαστίχαθλον
+UID:9d5ec12f-15dc-456f-a6aa-ea1e70d2b2f0@9d5e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260208
+DESCRIPTION:11ο Cycle Trail Run\nLocation: Θεσσαλονίκη\nDistances: 11k\, 4k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Θεσσαλονίκη
+SUMMARY:11ο Cycle Trail Run
+UID:1fa0ec3c-0b2b-4fff-907e-77262d5fac84@1fa0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260207
+DESCRIPTION:5ο Sparta City Ultra\nLocation: Σπάρτη\nDistances: 24ωρο\, 12ωρο\, 6ωρο\nMore info: https://irunmag.gr/races/ultra/5o-sparta-city-ultra/
+LOCATION:Σπάρτη
+SUMMARY:5ο Sparta City Ultra
+UID:b39d6a86-0d4a-481e-a37e-f8fb871674e8@b39d.org
+URL:https://irunmag.gr/races/ultra/5o-sparta-city-ultra/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260208
+DESCRIPTION:26ος Δρόμος Βουνού Υμηττός\nLocation: Παπάγου-Χολαργός\nDistances: 21k\, 5k\nMore info: https://irunmag.gr/races/trail/26os-ymittos-8-feb-2026/
+LOCATION:Παπάγου-Χολαργός
+SUMMARY:26ος Δρόμος Βουνού Υμηττός
+UID:ab5deceb-b2e5-45b3-bd45-789fd91f6d50@ab5d.org
+URL:https://irunmag.gr/races/trail/26os-ymittos-8-feb-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260222
+DESCRIPTION:5ος Αγώνας Δρόμου Φιλίας και Αλληλλεγγύης\nLocation: Βαρυμπόμπη\nDistances: 14\, 5k\, 6\, 3k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Βαρυμπόμπη
+SUMMARY:5ος Αγώνας Δρόμου Φιλίας και Αλληλλεγγύης
+UID:09951afb-c66d-4d6c-b03b-5b064476adae@0995.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260322
+DESCRIPTION:5ο Coast To Coast Race\nLocation: Ιεράπετρα\nDistances: 21k\, 5k\, 1k\, 200μ.\nMore info: https://irunmag.gr/races/road/5o-coast-to-coast-race/
+LOCATION:Ιεράπετρα
+SUMMARY:5ο Coast To Coast Race
+UID:bf931f0f-3f87-466d-8a1a-110ab68720f1@bf93.org
+URL:https://irunmag.gr/races/road/5o-coast-to-coast-race/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260510
+DESCRIPTION:3ο Koziakas Trail\nLocation: Ελάτη Τρικάλων\nDistances: 25k\, 8k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Ελάτη Τρικάλων
+SUMMARY:3ο Koziakas Trail
+UID:c9c12235-e844-4ff7-b652-3176936e8341@c9c1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260927
+DESCRIPTION:Ainos Mountain Marathon\nLocation: Πυργί Κεφαλονιάς\nDistances: 40\, 5k\, 23\, 5k\, 11\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Πυργί Κεφαλονιάς
+SUMMARY:Ainos Mountain Marathon
+UID:23a03db1-88eb-4625-aec9-556eaaf528c8@23a0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260118
+DESCRIPTION:Quantum Nicosia Marathon\nLocation: Λευκωσία\nDistances: Κύπρος\, 42k\, 21k\, 12\, 3k\, 5k\nMore info: https://www.nicosiamarathon.com/
+LOCATION:Λευκωσία
+SUMMARY:Quantum Nicosia Marathon
+UID:72d2239c-9dbb-491b-abb6-8d5fe3f65296@72d2.org
+URL:https://www.nicosiamarathon.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260215
+DESCRIPTION:10ο MaskaRun\nLocation: Ορχομενός Βοιωτίας\nDistances: 5k\, 3k\nMore info: https://irunmag.gr/races/road/10o-maskarun-epeteiaki-diorganosi-ston-orchomeno-stis-15-feb/
+LOCATION:Ορχομενός Βοιωτίας
+SUMMARY:10ο MaskaRun
+UID:3ff9f952-3e8f-46a9-894f-2c3769685c40@3ff9.org
+URL:https://irunmag.gr/races/road/10o-maskarun-epeteiaki-diorganosi-ston-orchomeno-stis-15-feb/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+DESCRIPTION:10ος Εύκλειος Αγώνας Βουνού\nLocation: Υμηττός\nDistances: 18k\, 10k\, 5k\nMore info: https://irunmag.gr/races/trail/10os-efkleios/
+LOCATION:Υμηττός
+SUMMARY:10ος Εύκλειος Αγώνας Βουνού
+UID:64026f25-b12e-4eaa-a04b-0ed6b231ac8f@6402.org
+URL:https://irunmag.gr/races/trail/10os-efkleios/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260111
+DESCRIPTION:1ο Ermionida Cross Country Running\nLocation: Ερμιόνη Αργολίδας\nDistances: 10k\, 5k\, 4k\, 2\, 6k\, 1\, 3k\, 500μ. 300μ.\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Ερμιόνη Αργολίδας
+SUMMARY:1ο Ermionida Cross Country Running
+UID:ef4af233-951d-48aa-9dfe-f3a01e13ef56@ef4a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260503
+DESCRIPTION:5o Pamvotis View Trail\nLocation: Δροσοχώρι Ιωαννίνων\nDistances: 21k\, 9k\, 1k\nMore info: https://irunmag.gr/races/trail/5o-pamvotis-view-trail-3-may-2026/
+LOCATION:Δροσοχώρι Ιωαννίνων
+SUMMARY:5o Pamvotis View Trail
+UID:fda6a246-930e-4c20-820b-bff82e7b02e6@fda6.org
+URL:https://irunmag.gr/races/trail/5o-pamvotis-view-trail-3-may-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260503
+DESCRIPTION:Corfu Mountain Trail\nLocation: 2-3/5\nDistances: Κέρκυρα\, 103k\, 44k\, 24k\, 12k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:2-3/5
+SUMMARY:Corfu Mountain Trail
+UID:6b59d598-4596-43f6-9540-4ad2b0dec58a@6b59.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260118
+DESCRIPTION:10ο Λέβαδος Mountain Trail\nLocation: Λιβαδειά\nDistances: 24\, 2k\, 10\, 7k\nMore info: https://irunmag.gr/races/trail/10o-levados-mountain-trail/
+LOCATION:Λιβαδειά
+SUMMARY:10ο Λέβαδος Mountain Trail
+UID:d9746998-1cc0-4615-80bb-14ee51a9dc89@d974.org
+URL:https://irunmag.gr/races/trail/10o-levados-mountain-trail/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260510
+DESCRIPTION:14ος Αγώνας Ορεινού Τρεξίματος «Σαμαριά»\nLocation: Ομαλός Χανίων\nDistances: 21\, 6k\, 7k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Ομαλός Χανίων
+SUMMARY:14ος Αγώνας Ορεινού Τρεξίματος «Σαμαριά»
+UID:729172bd-65c1-4152-8ca9-b9280e79d1f7@7291.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260322
+DESCRIPTION:76ος Βενιζέλειος Δρόμος\nLocation: Χανιά\nDistances: 10k\, 2\, 3k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Χανιά
+SUMMARY:76ος Βενιζέλειος Δρόμος
+UID:7e91d237-5ec7-44f3-9cd4-721c1b072c6d@7e91.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260208
+DESCRIPTION:2ο Tsiggla Trail Run\nLocation: Διδυμότειχο\nDistances: 8k\nMore info: https://irunmag.gr/races/road/tsiggla-trail-run-fun/
+LOCATION:Διδυμότειχο
+SUMMARY:2ο Tsiggla Trail Run
+UID:a452ea67-d108-43b3-a1b3-221fbb5b71b9@a452.org
+URL:https://irunmag.gr/races/road/tsiggla-trail-run-fun/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260228
+DESCRIPTION:5ο Koumaria Trail Series\nLocation: Πετρωτό Αχαΐας\nDistances: 20+40k\, 40\, 5k\, 22k\, 12k\, 4k\, 1\, 2k\nMore info: https://irunmag.gr/races/trail/5o-koumaria-trail-series/
+LOCATION:Πετρωτό Αχαΐας
+SUMMARY:5ο Koumaria Trail Series
+UID:bc9a4325-6138-4cf1-af96-735f5f3b1117@bc9a.org
+URL:https://irunmag.gr/races/trail/5o-koumaria-trail-series/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260215
+DESCRIPTION:26ος Μπιζάνιος Δρόμος\nLocation: Ιωάννινα\nDistances: 11\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Ιωάννινα
+SUMMARY:26ος Μπιζάνιος Δρόμος
+UID:a9e16262-9914-4536-9e29-366a606075fc@a9e1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260405
+DESCRIPTION:13ο Poikilo Rocky Mountain\nLocation: Πετρούπολη\nDistances: 29k\, 18k\, 10k\, 4k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Πετρούπολη
+SUMMARY:13ο Poikilo Rocky Mountain
+UID:27fd1135-0127-47a4-8c8f-d29e72a401b7@27fd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260530
+DESCRIPTION:1ο Backyard Ultra Δράμας\nLocation: Δράμα\nDistances: 6\, 7k\nMore info: https://irunmag.gr/races/ultra/1o-backyard-ultra-dramas/
+LOCATION:Δράμα
+SUMMARY:1ο Backyard Ultra Δράμας
+UID:ec199e96-5820-4e5c-a42c-aa4b03036e40@ec19.org
+URL:https://irunmag.gr/races/ultra/1o-backyard-ultra-dramas/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+DESCRIPTION:10ος Αραφήνειος Δρόμος\nLocation: Δημοτικό Κολυμβητήριο Ραφήνας\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/races/road/10os-epeteiakos-arafineios-dromos-stis-29-martiou-2026-prokiryxi/
+LOCATION:Δημοτικό Κολυμβητήριο Ραφήνας
+SUMMARY:10ος Αραφήνειος Δρόμος
+UID:f8b8db1b-6389-4ae4-82f1-d0be298b8601@f8b8.org
+URL:https://irunmag.gr/races/road/10os-epeteiakos-arafineios-dromos-stis-29-martiou-2026-prokiryxi/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+DESCRIPTION:10ος Ημιμαραθώνιος Βόλου\nLocation: 28-29/3\nDistances: Βόλος\, 21k\, 5k\, 2k\, 500μ.\nMore info: https://irunmag.gr/races/road/10os-imimarathonios-volou/
+LOCATION:28-29/3
+SUMMARY:10ος Ημιμαραθώνιος Βόλου
+UID:199fe936-4923-4f0d-a4ac-158f7e7a1d8c@199f.org
+URL:https://irunmag.gr/races/road/10os-imimarathonios-volou/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260503
+DESCRIPTION:1ο Φάλανθος Trail\nLocation: Φάλανθος Αρκαδίας\nDistances: 32k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Φάλανθος Αρκαδίας
+SUMMARY:1ο Φάλανθος Trail
+UID:e213272a-ab89-4e61-92e7-17d723e75227@e213.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260905
+DESCRIPTION:Σκυταλοδρομία Λέσβου\nLocation: Λέσβος\nDistances: 320k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Λέσβος
+SUMMARY:Σκυταλοδρομία Λέσβου
+UID:3f51f692-9905-450a-863c-dd5fec9d95e5@3f51.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260912
+DESCRIPTION:8ο Acheloos Run\nLocation: (Νεοχώρι Μεσολογγίου\nDistances: 21k\, 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:(Νεοχώρι Μεσολογγίου
+SUMMARY:8ο Acheloos Run
+UID:8a90e0ee-a180-4629-bac4-37276ba10c97@8a90.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260503
+DESCRIPTION:Εορδαία Run\nLocation: Πτολεμαΐδα\nDistances: 10k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Πτολεμαΐδα
+SUMMARY:Εορδαία Run
+UID:40a3b2df-54dc-43f5-8aa0-257fc283768b@40a3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260613
+DESCRIPTION:5ο Paros Way\nLocation: Πάρος\nDistances: 21k\, 5k. Κολύμβηση: 3k\, 1\, 5k\, 750μ.\nMore info: https://irunmag.gr/news/5th-paros-way/
+LOCATION:Πάρος
+SUMMARY:5ο Paros Way
+UID:b2fee651-fecd-40b9-8466-f0c124733afa@b2fe.org
+URL:https://irunmag.gr/news/5th-paros-way/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260215
+DESCRIPTION:11ο Lycabettus Run\nLocation: Λυκαβηττός\nDistances: 11k\, 9k\, 5\, 5k\, 4k\nMore info: https://irunmag.gr/races/road-trail/11o-lycabettus-run-prokyrixi/
+LOCATION:Λυκαβηττός
+SUMMARY:11ο Lycabettus Run
+UID:5f444e5e-f261-4d98-aad3-9bf66e43207b@5f44.org
+URL:https://irunmag.gr/races/road-trail/11o-lycabettus-run-prokyrixi/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260503
+DESCRIPTION:15ος Ιπποκράτειος Αγώνας Δρόμου\nLocation: Λάρισα\nDistances: 10k\, 3k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Λάρισα
+SUMMARY:15ος Ιπποκράτειος Αγώνας Δρόμου
+UID:8c6f66c2-8991-4d44-b629-141672d59a6a@8c6f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260118
+DESCRIPTION:10ο Veikou Trail\nLocation: Γαλάτσι\nDistances: 20k\, 10k\, 5k\nMore info: https://irunmag.gr/races/trail/epeteiako-10th-veikou-trail-prokiryxi/
+LOCATION:Γαλάτσι
+SUMMARY:10ο Veikou Trail
+UID:59003a44-c439-46b2-a6d4-1db415370517@5900.org
+URL:https://irunmag.gr/races/trail/epeteiako-10th-veikou-trail-prokiryxi/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260510
+DESCRIPTION:Sohos Mountain Games\nLocation: Σοχός Θεσσαλονίκης\nDistances: 25k\, 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Σοχός Θεσσαλονίκης
+SUMMARY:Sohos Mountain Games
+UID:74e6cd40-3f96-4c49-9c54-7b1b9275e536@74e6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Run Greece Syros\nLocation: Σύρος\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/races/road/run-greece-syros-2026/
+LOCATION:Σύρος
+SUMMARY:Run Greece Syros
+UID:a73c3cc1-1947-4d84-ad96-fce527529cbd@a73c.org
+URL:https://irunmag.gr/races/road/run-greece-syros-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260926
+DESCRIPTION:44ο Σπάρταθλον\nLocation: Αθήνα – Σπάρτη\nDistances: 246k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Αθήνα – Σπάρτη
+SUMMARY:44ο Σπάρταθλον
+UID:4d3ce88a-cf79-41db-9456-bc6cb3034773@4d3c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260419
+DESCRIPTION:1ο Kotylaion Run\nLocation: Κουτσελιό Ιωαννίνων\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Κουτσελιό Ιωαννίνων
+SUMMARY:1ο Kotylaion Run
+UID:ac4db4e0-8d0b-4baa-ac26-b2aef1869ee1@ac4d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260418
+DESCRIPTION:Αγώνες υπεραποστάσεων εντός σταδίου\nLocation: Μέγαρα\nDistances: 24h\, 12h\, 6h\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Μέγαρα
+SUMMARY:Αγώνες υπεραποστάσεων εντός σταδίου
+UID:f1450557-4b99-46d8-8c24-19f1d316f54f@f145.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261004
+DESCRIPTION:Spetses Mini Marathon\nLocation: 3-4/10\nDistances: Σπέτσες\, 25k\, 10k\, 5k\, 1k\, 500μ.\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:3-4/10
+SUMMARY:Spetses Mini Marathon
+UID:895e2f4e-2567-46bc-9175-e7d3e6622dfd@895e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260201
+DESCRIPTION:1ος Ημιμαραθώνιος Γυθείου «Δημήτρης Θεοδωρακάκος»\nLocation: Γύθειο\nDistances: 21k\, 5k\, 1k\nMore info: https://irunmag.gr/races/road/1os-imimarathonios-gytheiou/
+LOCATION:Γύθειο
+SUMMARY:1ος Ημιμαραθώνιος Γυθείου «Δημήτρης Θεοδωρακάκος»
+UID:53e95451-c7b1-444b-babf-dffd6786d2a2@53e9.org
+URL:https://irunmag.gr/races/road/1os-imimarathonios-gytheiou/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260531
+DESCRIPTION:2οι Ορεινοί Αγώνες Τρεξίματος Χαλκιόπουλοι Βάλτου\nLocation: Χαλκιόπουλοι Αιτωλοακαρνανίας\nDistances: 27k\, 10k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Χαλκιόπουλοι Αιτωλοακαρνανίας
+SUMMARY:2οι Ορεινοί Αγώνες Τρεξίματος Χαλκιόπουλοι Βάλτου
+UID:db172641-16ff-4ed1-a26e-ebb2a3305803@db17.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260607
+DESCRIPTION:Kilkis Trail\nLocation: Κιλκίς\nDistances: 20k\, 4\, 8k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Κιλκίς
+SUMMARY:Kilkis Trail
+UID:c5b8a1a2-352b-4fd2-aba6-f25cfc8ed9ad@c5b8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260418
+DESCRIPTION:Υψηλάντειος Αγώνας Δρόμου\nLocation: Νέα Τραπεζούντα Πιερίας\nDistances: 10k\, 5\, 3k\, 1\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Νέα Τραπεζούντα Πιερίας
+SUMMARY:Υψηλάντειος Αγώνας Δρόμου
+UID:d95bb058-4469-42be-81fa-4ea80f4c12a6@d95b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260308
+DESCRIPTION:28ος Cyprus Marathon\nLocation: Πάφος\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://www.logicomcyprusmarathon.com/
+LOCATION:Πάφος
+SUMMARY:28ος Cyprus Marathon
+UID:51fb9c21-6be0-4c9a-9f23-a449e79ed0e4@51fb.org
+URL:https://www.logicomcyprusmarathon.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260531
+DESCRIPTION:6ο Karya Olympus Trail\nLocation: Καρυά Ολύμπου\nDistances: 25k\, 13k\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Καρυά Ολύμπου
+SUMMARY:6ο Karya Olympus Trail
+UID:08f4d9b6-5a2a-4d06-96cc-78c55cab6c19@08f4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260614
+DESCRIPTION:10ος Ορεινός Ημιμαραθώνιος Δολιανών\nLocation: Ανω Δολιανά Αρκαδίας\nDistances: 21k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Ανω Δολιανά Αρκαδίας
+SUMMARY:10ος Ορεινός Ημιμαραθώνιος Δολιανών
+UID:81f1fb80-b785-41d7-82e9-93283ae388d4@81f1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260906
+DESCRIPTION:Δρόμος Μάχης Μαραθώνα\nLocation: Μαραθώνας\nDistances: 35k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Μαραθώνας
+SUMMARY:Δρόμος Μάχης Μαραθώνα
+UID:1168f32a-4327-4b04-ad20-454c7e2cd23f@1168.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:3ο Kefalonia Backyard Ultra\nLocation: Αργοστόλι Κεφαλονιάς\nDistances: 6\, 7k σε γύρους\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Αργοστόλι Κεφαλονιάς
+SUMMARY:3ο Kefalonia Backyard Ultra
+UID:b55b89b1-79ad-485e-a0af-7d58994badc5@b55b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261004
+DESCRIPTION:4ο Γόμφοι Trail\nLocation: Γόμφοι Τρικάλων\nDistances: 19k\, 7k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Γόμφοι Τρικάλων
+SUMMARY:4ο Γόμφοι Trail
+UID:b6cf1496-7b97-4373-befe-4a81ca45dcbd@b6cf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260215
+DESCRIPTION:8ος Αγώνας Trail Φανερωμένης Χιλιομοδίου\nLocation: Χιλιομόδι Κορινθίας\nDistances: 23k\, 10\, 5k\, 6k\, 2\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Χιλιομόδι Κορινθίας
+SUMMARY:8ος Αγώνας Trail Φανερωμένης Χιλιομοδίου
+UID:d127538f-e270-49c6-9a74-ec568e4cfa1d@d127.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260503
+DESCRIPTION:6ο Chios Hardstone Trail\nLocation: Καρυές Χίου\nDistances: 24k\, 13k\, 6k\, 1k\nMore info: https://irunmag.gr/races/trail/6o-chios-hardstone-trail/
+LOCATION:Καρυές Χίου
+SUMMARY:6ο Chios Hardstone Trail
+UID:4a9c28bc-5223-427d-b34f-534a577d6bbe@4a9c.org
+URL:https://irunmag.gr/races/trail/6o-chios-hardstone-trail/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260131
+DESCRIPTION:2ο Γιαννούλα Vertical Run\nLocation: Θεσσαλονίκη\nDistances: 5\, 4k\, 4k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Θεσσαλονίκη
+SUMMARY:2ο Γιαννούλα Vertical Run
+UID:b55692df-e17c-4269-9e47-9e4d9c0b6e66@b556.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260301
+DESCRIPTION:8ο La Grande Course\nLocation: Αγία Παρασκευή\nDistances: 11k\, 4\, 8k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Αγία Παρασκευή
+SUMMARY:8ο La Grande Course
+UID:a0b1fc30-fcbc-4270-bc00-ad8f0480237b@a0b1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260603
+DESCRIPTION:Tihio Race Ultra Edition\nLocation: 3-7/6\nDistances: Τείχιο Φωκίδας\, 250k\, 170k\, 75k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:3-7/6
+SUMMARY:Tihio Race Ultra Edition
+UID:6467719c-c6af-4727-bce7-a43bfb24c6d9@6467.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260510
+DESCRIPTION:5o Ipsilantis Trail\nLocation: Υψηλάντης Βοιωτίας\nDistances: 21k\, 11k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Υψηλάντης Βοιωτίας
+SUMMARY:5o Ipsilantis Trail
+UID:121c8e16-713d-44ad-8d73-f25fee45070c@121c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260620
+DESCRIPTION:9ο Koufalia Hill Run «Δήμητρα Ιορδανίδου»\nLocation: Κουφάλια Θεσσαλονίκης\nDistances: 10k\, 6k\nMore info: https://irunmag.gr/races/road/9o-koufalia-hill-run/
+LOCATION:Κουφάλια Θεσσαλονίκης
+SUMMARY:9ο Koufalia Hill Run «Δήμητρα Ιορδανίδου»
+UID:95525d63-e46e-4de5-9575-3a468c7f2c01@9552.org
+URL:https://irunmag.gr/races/road/9o-koufalia-hill-run/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Helicon Mountain Race\nLocation: Λιβαδειά\nDistances: 38k\, 26k\, 14k\, 5\, 6k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Λιβαδειά
+SUMMARY:Helicon Mountain Race
+UID:2d47545b-c787-4eab-9f36-6671d1b65de5@2d47.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260503
+DESCRIPTION:9ος Αγώνας Δρόμου Λιμένων Μεγάρων – Νέας Περάμου\nLocation: Λιμάνι Νέας Περάμου\nDistances: Πάχης Μεγάρων\, 18k\, 9k\, 1k\nMore info: https://irunmag.gr/races/road/9os-agonas-dromou-limenon-megaron-neas-peramou/
+LOCATION:Λιμάνι Νέας Περάμου
+SUMMARY:9ος Αγώνας Δρόμου Λιμένων Μεγάρων – Νέας Περάμου
+UID:cb35910c-9307-4f6f-bb19-a216ab2e7d10@cb35.org
+URL:https://irunmag.gr/races/road/9os-agonas-dromou-limenon-megaron-neas-peramou/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260426
+DESCRIPTION:3ος Παλλήνιος Δρόμος\nLocation: Παλλήνη\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/races/road/3os-pallinios-dromos/
+LOCATION:Παλλήνη
+SUMMARY:3ος Παλλήνιος Δρόμος
+UID:401ddb9d-43cb-4669-b1c7-08a32ab52d1f@401d.org
+URL:https://irunmag.gr/races/road/3os-pallinios-dromos/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261004
+DESCRIPTION:Ημιμαραθώνιος Κρήτης\nLocation: Αρκαλοχώρι Ηρακλείου\nDistances: 21k\, 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Αρκαλοχώρι Ηρακλείου
+SUMMARY:Ημιμαραθώνιος Κρήτης
+UID:3e84a038-e3bf-4f8a-83b3-a9fd85267b75@3e84.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260912
 DESCRIPTION:8ο Νάουσα Βέρμιο Trail\nLocation: Νάουσα\nDistances: 44k\, 24k\, 10k\, 6k\nMore info: https://irunmag.gr/race-calendar-2026
 LOCATION:Νάουσα
 SUMMARY:8ο Νάουσα Βέρμιο Trail
-UID:f3f3ec50-831f-4d55-b18c-1e10a39cb43b@f3f3.org
+UID:de9cf50b-65a6-4ab9-94b9-e933e0ebcfdd@de9c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260405
+DESCRIPTION:Tsaritsani Trails\nLocation: Τσαριτσάνη Λάρισας\nDistances: 32k\, 17k\, 9k\, 1k\nMore info: https://irunmag.gr/races/trail/tsaritsani-trails-2026/
+LOCATION:Τσαριτσάνη Λάρισας
+SUMMARY:Tsaritsani Trails
+UID:9e293e80-df43-448b-93e7-f6802f44562e@9e29.org
+URL:https://irunmag.gr/races/trail/tsaritsani-trails-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260920
+DESCRIPTION:1ος Διεθνής Διπλός Μαραθώνιος Δρόμος “Γιάννης Κούρος 2026”\nLocation: Τρίπολη\nDistances: 85k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Τρίπολη
+SUMMARY:1ος Διεθνής Διπλός Μαραθώνιος Δρόμος “Γιάννης Κούρος 2026”
+UID:0c645693-a688-4985-9c5c-7e41eefc28c7@0c64.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260118
+DESCRIPTION:Frozen Lake\nLocation: Κάτω Νευροκόπι Δράμας\nDistances: 15k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Κάτω Νευροκόπι Δράμας
+SUMMARY:Frozen Lake
+UID:a2f3d6df-3d96-45ab-8acf-db6e65c3d0f8@a2f3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260523
+DESCRIPTION:11ο Tinos Running Experience\nLocation: Τήνος\nDistances: 21k\, 10k\, 5k\, 1k\, 100μ.\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Τήνος
+SUMMARY:11ο Tinos Running Experience
+UID:2434deb3-8ccc-4ad3-9aa7-22f5486269e1@2434.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260627
+DESCRIPTION:Olympus Marathon\nLocation: 27-28/6\nDistances: Λιτόχωρο\, 71k\, 44k\, 12\, 5k\, 5k\, 4\, 25k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:27-28/6
+SUMMARY:Olympus Marathon
+UID:64d91799-9d6d-4c4b-8c69-bce4311025e1@64d9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260423
+DESCRIPTION:1ος Δρόμος Ελευθερίας\nLocation: Μεσολόγγι – Ναύπλιο\nDistances: 439\, 2k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Μεσολόγγι – Ναύπλιο
+SUMMARY:1ος Δρόμος Ελευθερίας
+UID:0baae9db-9a26-43bd-ab4f-9e1d7623acd5@0baa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260523
+DESCRIPTION:Ursa Trail\nLocation: 22-24/5\nDistances: Μέτσοβο\, 65\, 6k\, 40k\, 21k\, 11k\, 4\, 6k\nMore info: https://irunmag.gr/races/trail/ursa-trail-2026/
+LOCATION:22-24/5
+SUMMARY:Ursa Trail
+UID:2e0ca461-fb20-49fb-9e86-bff0d5a578e6@2e0c.org
+URL:https://irunmag.gr/races/trail/ursa-trail-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260920
+DESCRIPTION:3ο Dadia Trail Run\nLocation: Σουφλί Εβρου\nDistances: 23k\, 10k\, 6k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Σουφλί Εβρου
+SUMMARY:3ο Dadia Trail Run
+UID:feaba137-31da-4f32-b854-a700cb8ab4bc@feab.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+DESCRIPTION:3ος Παράκτιος Ημιμαραθώνιος Θερμαϊκού Αντώνης Ματζάρης\nLocation: Νέοι Επιβάτες Θεσσαλονίκης\nDistances: 21k\, 10k\, 5k\, 1\, 6k\nMore info: https://irunmag.gr/races/road/3os-paraktios-thermaikos/
+LOCATION:Νέοι Επιβάτες Θεσσαλονίκης
+SUMMARY:3ος Παράκτιος Ημιμαραθώνιος Θερμαϊκού Αντώνης Ματζάρης
+UID:3692c03e-bf23-4e32-b7f4-7d49248b7595@3692.org
+URL:https://irunmag.gr/races/road/3os-paraktios-thermaikos/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260509
+DESCRIPTION:Tyros Run\nLocation: Τυρός Αρκαδίας\nDistances: 16k\, 8k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Τυρός Αρκαδίας
+SUMMARY:Tyros Run
+UID:765437c6-69b3-4406-b55a-d56cb5dffd4c@7654.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260315
+DESCRIPTION:Φλόγα Του Ησαΐα Hard Trail\nLocation: Δεσφίνα Φωκίδας\nDistances: 22\, 5k\, 12k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Δεσφίνα Φωκίδας
+SUMMARY:Φλόγα Του Ησαΐα Hard Trail
+UID:bda440ff-028d-4229-aba6-f1a81d60c913@bda4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260322
+DESCRIPTION:9ος Ημιμαραθώνιος Σπερχειού\nLocation: Σπερχειάδα\nDistances: 21k\, 5k\, 2\, 5k\, 1k\nMore info: https://irunmag.gr/races/road/9os-imimarathonios-spercheiou/
+LOCATION:Σπερχειάδα
+SUMMARY:9ος Ημιμαραθώνιος Σπερχειού
+UID:7a7ffcc2-7551-424d-acb0-0f4da306aa3c@7a7f.org
+URL:https://irunmag.gr/races/road/9os-imimarathonios-spercheiou/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260620
+DESCRIPTION:3ο Oiti Mountain Bike Race – Mavrolithari\nLocation: 20-21/6\nDistances: Μαυρολιθάρι Φωκίδας\, ορεινή ποδηλασία 60k\, 28k\, 18k\, 3\, 5k\nMore info: https://irunmag.gr/races/cycling/3o-oiti-mountain-bike-race/
+LOCATION:20-21/6
+SUMMARY:3ο Oiti Mountain Bike Race – Mavrolithari
+UID:558ad70f-f1c8-4883-b40a-1ed605fcf7c9@558a.org
+URL:https://irunmag.gr/races/cycling/3o-oiti-mountain-bike-race/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260912
+DESCRIPTION:Serifos Sunset Race\nLocation: Σέριφος\nDistances: 10k\, 5k\, 1k. Κολύμβηση: 3k\, 1\, 5k\, 750μ.\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Σέριφος
+SUMMARY:Serifos Sunset Race
+UID:f2d90029-29d6-4bc0-a9c9-92720aa3943a@f2d9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261011
+DESCRIPTION:7ο Ηρακλής Γορίτσα Trail\nLocation: Γορίτσα Βόλου\nDistances: 25k\, 8k\, 500μ.\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Γορίτσα Βόλου
+SUMMARY:7ο Ηρακλής Γορίτσα Trail
+UID:edbe1576-5c05-4bee-a3d8-59dad16a4594@edbe.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260524
+DESCRIPTION:Kronio Trail\nLocation: Τζερμιάδο Λασιθίου\nDistances: 42k\, 14k\, 5\, 6k\, 1000μ.\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Τζερμιάδο Λασιθίου
+SUMMARY:Kronio Trail
+UID:c2daf963-dc37-4fd5-b1d9-804afe3be44d@c2da.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260926
+DESCRIPTION:2ο Folegandros Challenge Run\nLocation: Φολέγανδρος\nDistances: 21k\, 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Φολέγανδρος
+SUMMARY:2ο Folegandros Challenge Run
+UID:eecd90a6-7162-4e81-ba6c-4e8b83d8d3b3@eecd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260301
+DESCRIPTION:2ο Τρέχω Στον Μαραθώνα\nLocation: Νέα Μάκρη\nDistances: 6\, 8k\nMore info: https://irunmag.gr/races/road/2os-agonas-dromou-marathon-trecho-ston-marathona-1-martiou-2026/
+LOCATION:Νέα Μάκρη
+SUMMARY:2ο Τρέχω Στον Μαραθώνα
+UID:2c58bf82-c8ef-4e7f-acd5-fddd418d473c@2c58.org
+URL:https://irunmag.gr/races/road/2os-agonas-dromou-marathon-trecho-ston-marathona-1-martiou-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260308
+DESCRIPTION:14ος Ημιμαραθώνιος Αθήνας\nLocation: Αθήνα\nDistances: 21k\, 10k\, 5k\, Family Run 700μ.\nMore info: https://irunmag.gr/races/road/14os-imimarathonios-athinas/
+LOCATION:Αθήνα
+SUMMARY:14ος Ημιμαραθώνιος Αθήνας
+UID:dcfd1d36-b348-4940-8014-aeecf01dd220@dcfd.org
+URL:https://irunmag.gr/races/road/14os-imimarathonios-athinas/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260501
+DESCRIPTION:2o Rodopi Backyard Ultra\nLocation: Κομοτηνή\nDistances: κυκλική διαδρομή 6\, 7 χλμ.\nMore info: https://irunmag.gr/races/ultra/2o-rodopi-backyard-ultra/
+LOCATION:Κομοτηνή
+SUMMARY:2o Rodopi Backyard Ultra
+UID:74bb7655-46b3-4e69-a948-0e7248644dac@74bb.org
+URL:https://irunmag.gr/races/ultra/2o-rodopi-backyard-ultra/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260125
+DESCRIPTION:Salomon Mountain Cup\nLocation: Πεντέλη\nDistances: 10\, 3k\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Πεντέλη
+SUMMARY:Salomon Mountain Cup
+UID:83cc20a1-f089-4fb1-a180-a9c6a0809cca@83cc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261018
+DESCRIPTION:12οι Ορεινοί Αγώνες Καβουσίου\nLocation: Καβούσι Ιεράπετρας\nDistances: 22\, 3k\, 8\, 7k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Καβούσι Ιεράπετρας
+SUMMARY:12οι Ορεινοί Αγώνες Καβουσίου
+UID:c06d0859-6ce8-452f-a557-df8d248d49f1@c06d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Evia Ultra Trail\nLocation: Στενή Ευβοίας\nDistances: 108\, 5k\nMore info: https://irunmag.gr/races/ultra/evia-ultra-trail-4-apriliou-2026/
+LOCATION:Στενή Ευβοίας
+SUMMARY:Evia Ultra Trail
+UID:b989476a-f846-4443-9e61-7078888d0195@b989.org
+URL:https://irunmag.gr/races/ultra/evia-ultra-trail-4-apriliou-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260215
+DESCRIPTION:Γεντίκι Trail 9\nLocation: Γεντίκι Λάρισας\nDistances: 21k\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Γεντίκι Λάρισας
+SUMMARY:Γεντίκι Trail 9
+UID:559c3435-e8b1-47b3-8fdd-4c18dc26ffd1@559c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260508
+DESCRIPTION:Messinia Challenge 2026\nLocation: 8-10/5\nDistances: Πύλος\, Costa Navarino\, 21\, 1k\, 10k\, 5\, 4k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:8-10/5
+SUMMARY:Messinia Challenge 2026
+UID:d30b1dc5-8492-4ece-ac27-f5b6fd19463d@d30b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260422
+DESCRIPTION:10ο No Finish Line Athens\nLocation: Πεδίον του Αρεως\nDistances: 100h\, 24h\, 5k\, 1\, 6k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Πεδίον του Αρεως
+SUMMARY:10ο No Finish Line Athens
+UID:6212471c-0bd4-43cd-a45b-f13f09008d47@6212.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260531
+DESCRIPTION:Rock Solid Kastellorizo\nLocation: Καστελλόριζο\nDistances: 22k\, 10k\, 5k\, 1\, 3k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Καστελλόριζο
+SUMMARY:Rock Solid Kastellorizo
+UID:786a2f68-0717-4d0b-94e4-2cc59a3d647b@786a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260816
+DESCRIPTION:Βαλτινές Διαδρομές\nLocation: Χαλκιόπουλοι Αιτωλοακαρνανίας\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Χαλκιόπουλοι Αιτωλοακαρνανίας
+SUMMARY:Βαλτινές Διαδρομές
+UID:881e8a88-ca20-436b-b343-7cb4b3668ddd@881e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260215
+DESCRIPTION:Salomon Mountain Cup\nLocation: Υμηττός\nDistances: 10k\, 4k\nMore info: https://irunmag.gr/races/trail/salomon-mountain-cup-ymittos/
+LOCATION:Υμηττός
+SUMMARY:Salomon Mountain Cup
+UID:22fdbacf-203d-4b3a-adc5-db164d413264@22fd.org
+URL:https://irunmag.gr/races/trail/salomon-mountain-cup-ymittos/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260718
+DESCRIPTION:I Run Myrtos\nLocation: Ιεράπετρα\nDistances: 12k\, 5k\, 750μ.\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Ιεράπετρα
+SUMMARY:I Run Myrtos
+UID:b9e58d1b-a470-472b-a657-3ace4d21297a@b9e5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260920
+DESCRIPTION:10ο Lailias Mountain Running\nLocation: Χιονοδρομικό κέντρο Λαϊλιά\nDistances: Σέρρες\, 21k\, 6k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Χιονοδρομικό κέντρο Λαϊλιά
+SUMMARY:10ο Lailias Mountain Running
+UID:956a559c-a719-4b8c-b585-62afaf97c263@956a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260510
+DESCRIPTION:9ος Ημιμαραθώνιος Ιωαννίνων\nLocation: 9-10/5\nDistances: Ιωάννινα\, 21k\, 10k\, 5k\, 1k\nMore info: https://irunmag.gr/races/road/9os-imimarathonios-ioanninon/
+LOCATION:9-10/5
+SUMMARY:9ος Ημιμαραθώνιος Ιωαννίνων
+UID:4509893c-4e47-40a9-8a3d-12c08d8573e4@4509.org
+URL:https://irunmag.gr/races/road/9os-imimarathonios-ioanninon/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260809
+DESCRIPTION:Voio Race Series\nLocation: Νάματα Κοζάνης\nDistances: 24k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Νάματα Κοζάνης
+SUMMARY:Voio Race Series
+UID:2a28cd2b-607e-4bb6-a6f5-71923f6f1303@2a28.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260228
+DESCRIPTION:1ο All Terrain Ultra Race Ioannina\nLocation: Ιωάννινα\nDistances: 6ωρο\, 3ωρο\, 10k\, 5k\nMore info: https://irunmag.gr/races/ultra/all-terrain-ultra-race-ioannina/
+LOCATION:Ιωάννινα
+SUMMARY:1ο All Terrain Ultra Race Ioannina
+UID:1102b4b1-e0e3-4e87-9cf4-51d574f3f5a0@1102.org
+URL:https://irunmag.gr/races/ultra/all-terrain-ultra-race-ioannina/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260516
+DESCRIPTION:Spetsathlon\nLocation: Σπέτσες\nDistances: 5k\, τρίαθλον\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Σπέτσες
+SUMMARY:Spetsathlon
+UID:a25c0d39-70d3-497a-a899-b682c6135e5b@a25c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260912
+DESCRIPTION:Oiti Ultra Trail\nLocation: Οίτη\nDistances: Φθιώτιδα\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Οίτη
+SUMMARY:Oiti Ultra Trail
+UID:1ab6212d-9bdb-4fa1-8bf6-6e2dce499fff@1ab6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+DESCRIPTION:PepsiCo Gives Back – Kifissia\nLocation: Κάτω Κηφισιά\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Κάτω Κηφισιά
+SUMMARY:PepsiCo Gives Back – Kifissia
+UID:4e9b1f71-7181-437f-bf1d-1e47614500b3@4e9b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260315
+DESCRIPTION:7ο Via Egnatia Run\nLocation: Αλεξανδρούπολη\nDistances: 21k\, 10k\, 5k\nMore info: https://irunmag.gr/races/road/7o-via-egnatia-run/
+LOCATION:Αλεξανδρούπολη
+SUMMARY:7ο Via Egnatia Run
+UID:6ed777c5-a040-4966-9bd3-49f0277e9eb5@6ed7.org
+URL:https://irunmag.gr/races/road/7o-via-egnatia-run/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260118
+DESCRIPTION:14ος Ημιμαραθώνιος Αιγιαλείας\nLocation: Αίγιο\nDistances: 21k\, 5k\, 1\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Αίγιο
+SUMMARY:14ος Ημιμαραθώνιος Αιγιαλείας
+UID:e4ec12f2-0e57-43ed-baa8-b7f5ab2a2ade@e4ec.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260426
+DESCRIPTION:Go Kea\nLocation: 25-26/4\nDistances: Κέα\, 6k\, 3k. Κολύμβηση: 3k\, 1\, 5k\nMore info: https://irunmag.gr/races/swim-aqualthlon/go-kea-stis-25-26-apriliou-2026/
+LOCATION:25-26/4
+SUMMARY:Go Kea
+UID:686d3be4-46c4-44cd-bb97-9ac2603003b4@686d.org
+URL:https://irunmag.gr/races/swim-aqualthlon/go-kea-stis-25-26-apriliou-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260913
+DESCRIPTION:8ος Δρόμος Καλών Νερών\nLocation: Καλά Νερά Πηλίου\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Καλά Νερά Πηλίου
+SUMMARY:8ος Δρόμος Καλών Νερών
+UID:aaeee51b-05c0-478b-96f6-fecac283d12e@aaee.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261017
+DESCRIPTION:14ος Νυχτερινός Ημιμαραθώνιος Θεσσαλονίκης\nLocation: Αμπελόκηποι Θεσσαλονίκης\nDistances: 21k\, 10k\, 5k\, 1\, 6k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Αμπελόκηποι Θεσσαλονίκης
+SUMMARY:14ος Νυχτερινός Ημιμαραθώνιος Θεσσαλονίκης
+UID:0a69774c-6215-4874-85aa-b65faf02e67a@0a69.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260531
+DESCRIPTION:5ο Evrytania Trail Races\nLocation: Δομνίστα\nDistances: Κρίκελλο Ευρυτανίας\, 80k\, 60k\, 30k\, 20k\, 12k\, 6k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Δομνίστα
+SUMMARY:5ο Evrytania Trail Races
+UID:e03ab1e8-06b5-4bd7-a6b4-ca168b04363b@e03a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260117
+DESCRIPTION:4ο Cretan Backyard Ultra\nLocation: Βορίτσι Ηρακλείου\nDistances: 6\, 7k σε γύρους\nMore info: https://irunmag.gr/races/ultra/4o-cretan-backyard-ultra/
+LOCATION:Βορίτσι Ηρακλείου
+SUMMARY:4ο Cretan Backyard Ultra
+UID:87b761ac-ff6a-4996-a59a-7d8807e99f7c@87b7.org
+URL:https://irunmag.gr/races/ultra/4o-cretan-backyard-ultra/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260920
+DESCRIPTION:Run Greece Trikala\nLocation: Τρίκαλα\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Τρίκαλα
+SUMMARY:Run Greece Trikala
+UID:21f33335-db3f-4230-9e5e-194315f58797@21f3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260719
+DESCRIPTION:15ο Zagori Mountain Running\nLocation: 18-19/7\nDistances: Τσεπέλοβο Ιωαννίνων\, 60k\, 33k\, 21k\, 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:18-19/7
+SUMMARY:15ο Zagori Mountain Running
+UID:c8652920-1b03-4b6e-ab46-773c8022727e@c865.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260301
+DESCRIPTION:Klirou Atovrysi\nLocation: Κλήρου\nDistances: Λευκωσία\, 23k\, 12k\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Κλήρου
+SUMMARY:Klirou Atovrysi
+UID:3f8746b1-cc36-47c9-ad0b-c7554a6e647c@3f87.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260726
+DESCRIPTION:2ο Oinousses Run\nLocation: Οινούσσες\nDistances: 10k\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Οινούσσες
+SUMMARY:2ο Oinousses Run
+UID:d1486dcf-d335-4bf8-a412-09c7eebdaa40@d148.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260301
+DESCRIPTION:11ο Μινωικό Μονοπάτι Μύθων Ιεράπετρας\nLocation: Ιεράπετρα\nDistances: 26\, 5k\, 12\, 5k\nMore info: https://irunmag.gr/races/trail/11o-minoiko-monopati-mython/
+LOCATION:Ιεράπετρα
+SUMMARY:11ο Μινωικό Μονοπάτι Μύθων Ιεράπετρας
+UID:f2a402b4-5184-45b2-922f-1e77174c56cb@f2a4.org
+URL:https://irunmag.gr/races/trail/11o-minoiko-monopati-mython/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+DESCRIPTION:2ο Amanitis Trail\nLocation: Χίος\nDistances: 40k\, 20k\, 7k\nMore info: https://irunmag.gr/races/trail/2o-amanitis-trail/
+LOCATION:Χίος
+SUMMARY:2ο Amanitis Trail
+UID:24562264-866a-4533-ac83-bdebb2ea111e@2456.org
+URL:https://irunmag.gr/races/trail/2o-amanitis-trail/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260104
+DESCRIPTION:12ο Evrotas Run\nLocation: Περιστέρι Λακωνίας\nDistances: 21k\, 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Περιστέρι Λακωνίας
+SUMMARY:12ο Evrotas Run
+UID:0e763900-b469-4563-af95-c07269446080@0e76.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260228
+DESCRIPTION:2ο Spetses Mountain Run «Σωτήριος Ανάργυρος»\nLocation: Σπέτσες\nDistances: 26k\, 10k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Σπέτσες
+SUMMARY:2ο Spetses Mountain Run «Σωτήριος Ανάργυρος»
+UID:25044761-e016-4dab-94d3-7f58239a7cce@2504.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260418
+DESCRIPTION:Lefkara Country Run & Ve.rtical Challenge\nLocation: Λεύκαρα\nDistances: Λάρνακα\, 23k\, 13k\, 4k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Λεύκαρα
+SUMMARY:Lefkara Country Run & Ve.rtical Challenge
+UID:35ae7919-b665-4faf-b1f9-ee56801ff71b@35ae.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260524
+DESCRIPTION:Epidavrios Dromos Theater 2 Theater\nLocation: Επίδαυρος\nDistances: 21k\, 5k\, 1\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Επίδαυρος
+SUMMARY:Epidavrios Dromos Theater 2 Theater
+UID:4ed83107-4d4b-42f4-a780-5cc222b0e9be@4ed8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260627
+DESCRIPTION:11ες Ορεινές Διαδρομές Βοριτσίου\nLocation: Βορίτσι Ηρακλείου\nDistances: 12k\, 5k\, 1500μ.\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Βορίτσι Ηρακλείου
+SUMMARY:11ες Ορεινές Διαδρομές Βοριτσίου
+UID:7ee1d2ec-3924-4c0b-9af5-eb05188ff348@7ee1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260215
+DESCRIPTION:10ος Αγώνας Αγχαίου Ορους\nLocation: Οικισμός Τιτάν Αττικής\nDistances: 28\, 4k\, 14\, 4k\, 6\, 2k\nMore info: https://irunmag.gr/races/road/10os-agonas-agxaiou-orus/
+LOCATION:Οικισμός Τιτάν Αττικής
+SUMMARY:10ος Αγώνας Αγχαίου Ορους
+UID:a501a744-df59-4dac-8ea8-784299ab9d58@a501.org
+URL:https://irunmag.gr/races/road/10os-agonas-agxaiou-orus/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260208
+DESCRIPTION:Malles Nature Run\nLocation: Μάλλες Ιεράπετρας\nDistances: 10k\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Μάλλες Ιεράπετρας
+SUMMARY:Malles Nature Run
+UID:7e5e206d-4b0f-40e3-b92b-6ab7983743b8@7e5e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260322
+DESCRIPTION:4ος Καλλιγώνιος Ημιμαραθώνιος\nLocation: Λευκάδα\nDistances: 21k\, 9k\, 1k\nMore info: https://irunmag.gr/news/4os-kalligonios-imimarathonios-open/
+LOCATION:Λευκάδα
+SUMMARY:4ος Καλλιγώνιος Ημιμαραθώνιος
+UID:55b232d4-b5d8-4e59-9237-3dc0ae61e56f@55b2.org
+URL:https://irunmag.gr/news/4os-kalligonios-imimarathonios-open/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260510
+DESCRIPTION:6ο City Trail Αγρίνιο\nLocation: Αγρίνιο\nDistances: 15k\, 6k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Αγρίνιο
+SUMMARY:6ο City Trail Αγρίνιο
+UID:4e48ff50-b4d6-48da-b66a-49c37923d8ac@4e48.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260426
+DESCRIPTION:11ος Δρόμος Εκεχειρίας\nLocation: Αρχαία Ολυμπία\nDistances: 50k\, 5k\, 2k\nMore info: https://irunmag.gr/races/ultra/11os-dromos-ekexeirias/
+LOCATION:Αρχαία Ολυμπία
+SUMMARY:11ος Δρόμος Εκεχειρίας
+UID:314b55d0-8a97-4511-bd36-ccbfa24995d7@314b.org
+URL:https://irunmag.gr/races/ultra/11os-dromos-ekexeirias/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260919
+DESCRIPTION:20ός Γύρος Λίμνης Ιωαννίνων\nLocation: 19-20/9\nDistances: Ιωάννινα 30k\, 10k\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:19-20/9
+SUMMARY:20ός Γύρος Λίμνης Ιωαννίνων
+UID:e15369c4-29be-4be0-9fb4-bd0a22559769@e153.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:78ος Δρόμος Θυσίας Ιέρας Πόλης Μεσολογγίου\nLocation: Μεσολόγγι\nDistances: 9\, 4k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Μεσολόγγι
+SUMMARY:78ος Δρόμος Θυσίας Ιέρας Πόλης Μεσολογγίου
+UID:6442651e-97bd-408d-b050-a6c350c56b0b@6442.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260405
+DESCRIPTION:19ος Μαραθώνιος Μεσσήνης\nLocation: Μεσσήνη\nDistances: 42k\, 10k\, 3k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Μεσσήνη
+SUMMARY:19ος Μαραθώνιος Μεσσήνης
+UID:e9703bb7-dbc4-485b-9ebe-a9a9576f4825@e970.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:11ος Λαϊκός Αγώνας Δρόμου Παναγία Μερέντα\nLocation: Μαρκόπουλο Αττικής\nDistances: 9k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Μαρκόπουλο Αττικής
+SUMMARY:11ος Λαϊκός Αγώνας Δρόμου Παναγία Μερέντα
+UID:46b7fc86-ad9b-435a-af22-4b7a935cc765@46b7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260419
+DESCRIPTION:10ος Μαραθώνιος Κρήτης\nLocation: Χανιά\nDistances: 42k\, 10k\, 5k\, 2\, 5k\nMore info: https://irunmag.gr/races/road/10os-marathonios-kritis/
+LOCATION:Χανιά
+SUMMARY:10ος Μαραθώνιος Κρήτης
+UID:5889c194-c362-4917-aff3-2c4d9c9b5734@5889.org
+URL:https://irunmag.gr/races/road/10os-marathonios-kritis/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260612
+DESCRIPTION:Running Under The Moon\nLocation: Λευκωσία\nDistances: 10k\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Λευκωσία
+SUMMARY:Running Under The Moon
+UID:f3725cc3-cc18-42c9-af33-7e8bc159a042@f372.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260208
+DESCRIPTION:3ος Φιλανθρωπικός Αγώνας στη μνήμη του Γιώργου Πολάκη\nLocation: Χανιά\nDistances: 5k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Χανιά
+SUMMARY:3ος Φιλανθρωπικός Αγώνας στη μνήμη του Γιώργου Πολάκη
+UID:5c1edcc8-08ee-4cb4-b2f5-e9a70c9dc00e@5c1e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260517
+DESCRIPTION:6ος Αγώνας Δρόμου Φαλανναίων\nLocation: Φαλάνη Λάρισας\nDistances: 21k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Φαλάνη Λάρισας
+SUMMARY:6ος Αγώνας Δρόμου Φαλανναίων
+UID:72fc93b4-508f-4cdd-a776-8ca422a0a32b@72fc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260118
+DESCRIPTION:7ος Arkoudilas Trail\nLocation: Κέρκυρα\nDistances: 22k\, 10k\, 1k\nMore info: https://irunmag.gr/races/trail/7o-arkoudilas-trail-stis-18-ianouariou-2026/
+LOCATION:Κέρκυρα
+SUMMARY:7ος Arkoudilas Trail
+UID:3e65b027-6dd2-4ba2-bfea-37572c15e34f@3e65.org
+URL:https://irunmag.gr/races/trail/7o-arkoudilas-trail-stis-18-ianouariou-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+DESCRIPTION:Ολοι Μαζί Μπορούμε\nLocation: Υμηττός\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Υμηττός
+SUMMARY:Ολοι Μαζί Μπορούμε
+UID:7ee4ceb5-186a-4c5d-939f-c9cdcc6c614a@7ee4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260405
+DESCRIPTION:14ο Kallithea Run\nLocation: Καλλιθέα\nDistances: 10k\, 5k\, 2\, 5k\nMore info: https://irunmag.gr/races/road/14o-kallithea-run/
+LOCATION:Καλλιθέα
+SUMMARY:14ο Kallithea Run
+UID:82cfdab3-edb4-41e5-bd2e-652a65963ed2@82cf.org
+URL:https://irunmag.gr/races/road/14o-kallithea-run/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260927
+DESCRIPTION:Run Greece Alexandroupoli\nLocation: Αλεξανδρούπολη\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Αλεξανδρούπολη
+SUMMARY:Run Greece Alexandroupoli
+UID:edf3750b-b0a9-4ae7-9e47-ce6beb4f09ca@edf3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261108
+DESCRIPTION:43ος Αυθεντικός Μαραθώνιος\nLocation: Αθήνα\nDistances: 42k\, 10k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Αθήνα
+SUMMARY:43ος Αυθεντικός Μαραθώνιος
+UID:0b80e08b-14ff-42ec-9f7e-efb67874f34d@0b80.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260208
+DESCRIPTION:7ο Atlas Trail Running\nLocation: Μαλακάσα Αττικής\nDistances: 24k\, 11k\, 6k\nMore info: https://irunmag.gr/races/trail/7o-atlas-trail-running/
+LOCATION:Μαλακάσα Αττικής
+SUMMARY:7ο Atlas Trail Running
+UID:97bb681a-c4ed-4d56-9fa2-70a46abd0769@97bb.org
+URL:https://irunmag.gr/races/trail/7o-atlas-trail-running/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260308
+DESCRIPTION:2ο Cholomon Run\nLocation: Πολύγυρος Χαλκιδικής\nDistances: 60k\, 30k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Πολύγυρος Χαλκιδικής
+SUMMARY:2ο Cholomon Run
+UID:16033e4b-95c9-4b98-b866-7c715cbbd25f@1603.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260509
+DESCRIPTION:6ο Thrace Night Run\nLocation: Αλεξανδρούπολη\nDistances: 10k\, 5k\, 1500μ.\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Αλεξανδρούπολη
+SUMMARY:6ο Thrace Night Run
+UID:1173d731-e95f-4751-bfbd-aa3020c46f46@1173.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260912
+DESCRIPTION:Syros Trail Challenge\nLocation: Σύρος\nDistances: 10k\, 3k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Σύρος
+SUMMARY:Syros Trail Challenge
+UID:2b555496-aa8a-428c-ad2f-760fd52467c0@2b55.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+DESCRIPTION:5ο Run For Autism Half Marathon\nLocation: Αγία Νάπα\nDistances: 21k\, 10k\, 5k\, 1k\nMore info: https://irunmag.gr/travel/5o-run-for-autism-half-marathon/
+LOCATION:Αγία Νάπα
+SUMMARY:5ο Run For Autism Half Marathon
+UID:2f4baeb7-ee59-4914-8264-df7fd657e59b@2f4b.org
+URL:https://irunmag.gr/travel/5o-run-for-autism-half-marathon/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261018
+DESCRIPTION:10ος Ημιμαραθώνιος Παλαιόχωρας\nLocation: 21k\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:21k
+SUMMARY:10ος Ημιμαραθώνιος Παλαιόχωρας
+UID:b481f44d-29db-45b8-a2dc-b5254798b71b@b481.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260201
+DESCRIPTION:Mitsero Mine Run\nLocation: Μιτσερό\nDistances: Λευκωσία\, 21k\, 12k\, 5\, 5k\, 880μ.\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Μιτσερό
+SUMMARY:Mitsero Mine Run
+UID:da797c0b-4a1e-4d7b-bf86-48c8879cf912@da79.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+DESCRIPTION:Run Greece Heraklion\nLocation: Ηράκλειο Κρήτης\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/races/road/run-greece-irakleio/
+LOCATION:Ηράκλειο Κρήτης
+SUMMARY:Run Greece Heraklion
+UID:ae6b956b-ae23-4954-8605-d08a7bbfe0f0@ae6b.org
+URL:https://irunmag.gr/races/road/run-greece-irakleio/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260405
+DESCRIPTION:10ος Ορεινός Αγώνας Γερανείων\nLocation: Λουτράκι\nDistances: 22k\, 10k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Λουτράκι
+SUMMARY:10ος Ορεινός Αγώνας Γερανείων
+UID:8b0bcbc3-9fda-45d3-bd01-c5aab917dd63@8b0b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260315
+DESCRIPTION:Piraeus Port Run\nLocation: Πειραιάς\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/races/road/piraeus-port-run/
+LOCATION:Πειραιάς
+SUMMARY:Piraeus Port Run
+UID:aaa33f1b-c18b-4e9e-8f93-69a012747f69@aaa3.org
+URL:https://irunmag.gr/races/road/piraeus-port-run/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+DESCRIPTION:14ος Βαλλιάνειος Αγώνας Δρόμου\nLocation: Αργοστόλι\nDistances: 10k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Αργοστόλι
+SUMMARY:14ος Βαλλιάνειος Αγώνας Δρόμου
+UID:f63167b0-f47d-42aa-8d6c-6bdaa56393ce@f631.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260620
+DESCRIPTION:10ο Πέρασμα Του Αποστόλου Παύλου\nLocation: Μεθώνη Πιερίας\nDistances: 10k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Μεθώνη Πιερίας
+SUMMARY:10ο Πέρασμα Του Αποστόλου Παύλου
+UID:afed7059-1e05-47eb-a0a9-fe4e7351be5c@afed.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261011
+DESCRIPTION:1ο Famagusta Run\nLocation: Πρωταράς\nDistances: Κύπρος\, 30k\, 10k\, 5k\, 1k\nMore info: https://famagusta.run/
+LOCATION:Πρωταράς
+SUMMARY:1ο Famagusta Run
+UID:2dedb05c-2eab-4e3d-aa05-14eaab0ec36e@2ded.org
+URL:https://famagusta.run/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260711
+DESCRIPTION:4ος Νυχτερινός Αγώνας Μυτιλήνης\nLocation: Μυτιλήνη\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Μυτιλήνη
+SUMMARY:4ος Νυχτερινός Αγώνας Μυτιλήνης
+UID:75bb0b6e-0db9-46cc-915c-f9c6233cda03@75bb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260208
+DESCRIPTION:49ος Αγώνας Δρόμου Υγείας Αθήνας 21 χλμ.\nLocation: Σχοινιάς\nDistances: 21k\, 10k\, 5k\nMore info: https://irunmag.gr/races/road/49os-agonas-dromou-ygeias-athinas/
+LOCATION:Σχοινιάς
+SUMMARY:49ος Αγώνας Δρόμου Υγείας Αθήνας 21 χλμ.
+UID:b137e8b3-ec8a-40b3-baa0-1c3d2711ea33@b137.org
+URL:https://irunmag.gr/races/road/49os-agonas-dromou-ygeias-athinas/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260322
+DESCRIPTION:15o Taygetos Challenge\nLocation: Καρδαμύλη Μεσσηνίας\nDistances: 40k\, 22k\, 10k\, 5k\, Vertical 650m\, Kids 1000m\nMore info: https://irunmag.gr/news/taygetos-challenge-2026-registrations-open/
+LOCATION:Καρδαμύλη Μεσσηνίας
+SUMMARY:15o Taygetos Challenge
+UID:08491771-2741-40d3-b314-03c2533a3451@0849.org
+URL:https://irunmag.gr/news/taygetos-challenge-2026-registrations-open/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260301
+DESCRIPTION:Πανελλήνιοι Αγώνες Βετεράνων Στίβου\nLocation: Αλσύλλιο Σπιάντζας Ηλείας\nDistances: 8k\, 6k\, 4k\, 2k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Αλσύλλιο Σπιάντζας Ηλείας
+SUMMARY:Πανελλήνιοι Αγώνες Βετεράνων Στίβου
+UID:3b64b79e-6d9d-4bc7-8fce-3d0da6144dc8@3b64.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260517
+DESCRIPTION:Troodos Terra\nLocation: Τρόοδος\nDistances: Λευκωσία\, 44k\, 29k\, 15k\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Τρόοδος
+SUMMARY:Troodos Terra
+UID:1c462dee-db53-406b-934c-d76bad2c9fc0@1c46.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260516
+DESCRIPTION:Αγώνας Δρόμου Κάστρου Διδυμότειχου «Κώστας Γκατσιούδης»\nLocation: Διδυμότειχο\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Διδυμότειχο
+SUMMARY:Αγώνας Δρόμου Κάστρου Διδυμότειχου «Κώστας Γκατσιούδης»
+UID:15ca1eaf-181d-49d5-acb9-19314a34add4@15ca.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260516
+DESCRIPTION:Goulinas Trail\nLocation: Σπερχειάδα Φθιώτιδας\nDistances: 30k\, 12k\, 6k\nMore info: https://irunmag.gr/races/trail/goulinas-trail-16-17-maiou-2026-prokiryxi/
+LOCATION:Σπερχειάδα Φθιώτιδας
+SUMMARY:Goulinas Trail
+UID:c23e5bdd-8753-4bd0-9fa3-879a193cff88@c23e.org
+URL:https://irunmag.gr/races/trail/goulinas-trail-16-17-maiou-2026-prokiryxi/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260418
+DESCRIPTION:6ο Moschopodi Trail Festival\nLocation: 18-19/4\nDistances: Θήβα\, 25k\, 11k\, 8k\, 5k\, 1k\, 30km mountain bike\nMore info: https://irunmag.gr/races/trail/6o-moschopodi-trail-festival/
+LOCATION:18-19/4
+SUMMARY:6ο Moschopodi Trail Festival
+UID:bc094e66-9693-4c0e-ab7d-2516d292d48c@bc09.org
+URL:https://irunmag.gr/races/trail/6o-moschopodi-trail-festival/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260426
+DESCRIPTION:17o Μονοπάτι Παρνασσού\nLocation: 25-26/5\nDistances: Αμφίκλεια\, 6k\, 12k\, 25k\nMore info: https://irunmag.gr/news/monopati-parnassou-2026-stis-25-26-apriliou/
+LOCATION:25-26/5
+SUMMARY:17o Μονοπάτι Παρνασσού
+UID:21adb358-904f-41eb-a229-65407b675d5c@21ad.org
+URL:https://irunmag.gr/news/monopati-parnassou-2026-stis-25-26-apriliou/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260510
+DESCRIPTION:Kassios Dias\nLocation: Κασσιόπη\nDistances: Κέρκυρα\, 25k\, 12k\, 1\, 2k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Κασσιόπη
+SUMMARY:Kassios Dias
+UID:20811066-364e-4f7f-8f2e-c3eaf3e6193a@2081.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260405
+DESCRIPTION:12ος Φιλανθρωπικός Αγώνας Βουνού Αυτισμός – Ελπίδα 2026\nLocation: Ωραιόκαστρο Θεσσαλονίκης\nDistances: 15k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Ωραιόκαστρο Θεσσαλονίκης
+SUMMARY:12ος Φιλανθρωπικός Αγώνας Βουνού Αυτισμός – Ελπίδα 2026
+UID:79eef4e6-0bb5-4b7e-9ffc-6e726ea5800a@79ee.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260419
+DESCRIPTION:Lake Plastiras Trail\nLocation: 18-19/4\nDistances: Λίμνη Πλαστήρα\, Καρδίτσα\, 42k\, 23k\, 10k\, 5k\nMore info: https://irunmag.gr/races/trail/lake-plastiras-trail-2026/
+LOCATION:18-19/4
+SUMMARY:Lake Plastiras Trail
+UID:5ac87176-ef2a-435e-bea8-48ae3b33e454@5ac8.org
+URL:https://irunmag.gr/races/trail/lake-plastiras-trail-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260502
+DESCRIPTION:8ος Αγώνας Δρόμου Υγείας Αντιπάρου\nLocation: Αντίπαρος\nDistances: 24\, 4k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Αντίπαρος
+SUMMARY:8ος Αγώνας Δρόμου Υγείας Αντιπάρου
+UID:b4dc176d-5fe6-4f14-a890-a9938d0e442e@b4dc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260503
+DESCRIPTION:Voio Race Series – Μπούρινος\nLocation: Μπούρινος Βοΐου Κοζάνης\nDistances: 19k\, 10k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Μπούρινος Βοΐου Κοζάνης
+SUMMARY:Voio Race Series – Μπούρινος
+UID:a8cf0420-e71c-455f-abc3-84c98c5feddd@a8cf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260301
+DESCRIPTION:Ολοι Μαζί Μπορούμε\nLocation: Πάρνηθα\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Πάρνηθα
+SUMMARY:Ολοι Μαζί Μπορούμε
+UID:6a7baded-014c-4909-8f9f-07d4e665db6b@6a7b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260823
+DESCRIPTION:14ος Ημιμαραθώνιος Χίου\nLocation: 21k\nDistances: 10\, 5k\, 5k\, 1\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:21k
+SUMMARY:14ος Ημιμαραθώνιος Χίου
+UID:4fae21d2-e230-42d2-a502-dce21a47ec31@4fae.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+DESCRIPTION:4ος Ημιμαραθώνιος Πάτρας\nLocation: Πάτρα\nDistances: 21k\, 10k\, 5k\, 1k\nMore info: https://irunmag.gr/races/road/4os-imimarathonios-patras/
+LOCATION:Πάτρα
+SUMMARY:4ος Ημιμαραθώνιος Πάτρας
+UID:ae0ee5ca-0b51-4e4b-a901-d990cce697d9@ae0e.org
+URL:https://irunmag.gr/races/road/4os-imimarathonios-patras/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261213
+DESCRIPTION:Πεντελικόν Μάραθων\nLocation: Μαραθώνας\nDistances: 12k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Μαραθώνας
+SUMMARY:Πεντελικόν Μάραθων
+UID:c401b2a6-c304-4060-a287-f8f1ecb510e5@c401.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260315
+DESCRIPTION:3ο Πλατανάκια Ecological Route\nLocation: Πανόραμα Θεσσαλονίκης\nDistances: 10.2k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Πανόραμα Θεσσαλονίκης
+SUMMARY:3ο Πλατανάκια Ecological Route
+UID:708936d5-cf6f-4baf-90db-44d9fd587f57@7089.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260419
+DESCRIPTION:Run Greece Σπάρτη\nLocation: Σπάρτη\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/races/road/run-greece-sparti-2026/
+LOCATION:Σπάρτη
+SUMMARY:Run Greece Σπάρτη
+UID:282014c9-e8ed-425a-aa8a-dd03faa8671f@2820.org
+URL:https://irunmag.gr/races/road/run-greece-sparti-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260530
+DESCRIPTION:6ο Vasiliki Lefkada (\nLocation: Βασιλική Λευκάδας\nDistances: 42k\, 13k\, 10k\, 3\, 5k 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Βασιλική Λευκάδας
+SUMMARY:6ο Vasiliki Lefkada (
+UID:b1c26271-7670-4659-98a5-d31ca4d7fa02@b1c2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260503
+DESCRIPTION:15η Ανοπαία Ατραπός\nLocation: Θερμοπύλες\nDistances: 15\, 2k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Θερμοπύλες
+SUMMARY:15η Ανοπαία Ατραπός
+UID:dac76baa-d92f-4ca1-b72c-214c2d080167@dac7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260308
+DESCRIPTION:Στα Βήματα του Ζορμπά\nLocation: Κολινδρός Πιερίας\nDistances: 13k\, 4k\, 500μ.\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Κολινδρός Πιερίας
+SUMMARY:Στα Βήματα του Ζορμπά
+UID:328032bf-3f85-48e2-b928-6d34efeb7f0d@3280.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260301
+DESCRIPTION:2ο Ελάτεια Historic Trail\nLocation: Ελάτεια Λοκρίδος\nDistances: Φθιώτιδα\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Ελάτεια Λοκρίδος
+SUMMARY:2ο Ελάτεια Historic Trail
+UID:bad50a0c-29f6-4d48-9c9e-64c1c6c11951@bad5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260426
+DESCRIPTION:20ός Διεθνής Μαραθώνιος «Μέγας Αλέξανδρος»\nLocation: Θεσσαλονίκη\nDistances: 42k\, 10k\, 5k\, 1k\nMore info: https://irunmag.gr/races/road/20os-marathonios-thessalonikis/
+LOCATION:Θεσσαλονίκη
+SUMMARY:20ός Διεθνής Μαραθώνιος «Μέγας Αλέξανδρος»
+UID:cd706e98-5414-4baa-90b0-975b4fee231e@cd70.org
+URL:https://irunmag.gr/races/road/20os-marathonios-thessalonikis/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260502
+DESCRIPTION:ROC 50 Miles\nLocation: Δασικό Χωριό Ερυμάνθου\nDistances: Ξάνθη\, 89\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Δασικό Χωριό Ερυμάνθου
+SUMMARY:ROC 50 Miles
+UID:f8c11312-a656-4794-87f5-2a68f088183c@f8c1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260315
+DESCRIPTION:39ο Μπλόκο Καλογρέζας\nLocation: Νέα Ιωνία Αττικής\nDistances: 10k\, 5k\, 1\, 5k\nMore info: https://irunmag.gr/races/road/39o-bloko-kalogrezas/
+LOCATION:Νέα Ιωνία Αττικής
+SUMMARY:39ο Μπλόκο Καλογρέζας
+UID:765aa51a-5f8f-45ea-ba44-50d45f4eb9ff@765a.org
+URL:https://irunmag.gr/races/road/39o-bloko-kalogrezas/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260426
+DESCRIPTION:17ος Διεθνής Ποσειδώνιος Ημιμαραθώνιος\nLocation: Παλαιό Φάληρο\nDistances: 21k\, 10k\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Παλαιό Φάληρο
+SUMMARY:17ος Διεθνής Ποσειδώνιος Ημιμαραθώνιος
+UID:fbb14e86-63e6-4d27-af02-1a98855fe034@fbb1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260308
+DESCRIPTION:10ο Women’s Run\nLocation: Χίος\nDistances: 5k\nMore info: https://irunmag.gr/races/road/10o-womens-run/
+LOCATION:Χίος
+SUMMARY:10ο Women’s Run
+UID:06ccadca-222d-4c1b-893a-f8c7dfc406f3@06cc.org
+URL:https://irunmag.gr/races/road/10o-womens-run/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260101
+DESCRIPTION:SNF Run: First Run\nLocation: Καλλιθέα\nDistances: 3k\nMore info: https://irunmag.gr/races/road/snf-run-2026-first-run/
+LOCATION:Καλλιθέα
+SUMMARY:SNF Run: First Run
+UID:d8d64789-2c83-4f62-a5f2-02f7215f9b9e@d8d6.org
+URL:https://irunmag.gr/races/road/snf-run-2026-first-run/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260424
+DESCRIPTION:13ο Xterra Greece Vouliagmeni\nLocation: 24-26/4\nDistances: Βουλιαγμένη\, τρίαθλο\, aquathlon\, 6k trail\nMore info: https://www.xterraplanet.com/event/xterra-greece
+LOCATION:24-26/4
+SUMMARY:13ο Xterra Greece Vouliagmeni
+UID:751a7ebe-9328-4960-b18c-5c8379500e34@751a.org
+URL:https://www.xterraplanet.com/event/xterra-greece
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260301
+DESCRIPTION:Salomon Mountain Cup\nLocation: Πάρνηθα\nDistances: 12k\, 7\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Πάρνηθα
+SUMMARY:Salomon Mountain Cup
+UID:a2f0e757-f197-4bfe-aa27-83b71f45eeb4@a2f0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260607
+DESCRIPTION:3ο Andros Challenge & Festival\nLocation: Ανδρος\nDistances: 34k\, 15k\, 5k\, 1\, 6k\, 1k. Κολύμβηση: 11k\, 3k\, 1\, 7k\nMore info: https://irunmag.gr/news/andros-challenge-festival/
+LOCATION:Ανδρος
+SUMMARY:3ο Andros Challenge & Festival
+UID:74500d7c-cf4c-405d-8674-db1f29f79c3d@7450.org
+URL:https://irunmag.gr/news/andros-challenge-festival/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+DESCRIPTION:1ος Μαραθώνιος Ηπείρου «Βασιλιάς Πύρρος»\nLocation: Αρτα\nDistances: 42k\, 10k\, 5k\nMore info: https://irunmag.gr/news/marathonios-ipeirou-dynamika/
+LOCATION:Αρτα
+SUMMARY:1ος Μαραθώνιος Ηπείρου «Βασιλιάς Πύρρος»
+UID:dd5e89db-e595-409f-b761-4322098c614c@dd5e.org
+URL:https://irunmag.gr/news/marathonios-ipeirou-dynamika/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260215
+DESCRIPTION:Ο Δρόμος της Κλείσοβας\nLocation: Μεσολόγγι\nDistances: 7k\, 1k\nMore info: https://irunmag.gr/races/road/dromos-kleisovas/
+LOCATION:Μεσολόγγι
+SUMMARY:Ο Δρόμος της Κλείσοβας
+UID:55f13bac-9343-4995-b650-edde21dc8eda@55f1.org
+URL:https://irunmag.gr/races/road/dromos-kleisovas/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260405
+DESCRIPTION:Sougliani Trail\nLocation: Σταυρός Θεσσαλονίκης\nDistances: 50k\, 25k\, 13k\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Σταυρός Θεσσαλονίκης
+SUMMARY:Sougliani Trail
+UID:ae533303-ed89-4206-b19b-dc846743c1ad@ae53.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260503
+DESCRIPTION:2oSithonia Trail Run\nLocation: Νέος Μαρμαράς Χαλκιδικής\nDistances: 23k\, 10k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Νέος Μαρμαράς Χαλκιδικής
+SUMMARY:2oSithonia Trail Run
+UID:2897f8d8-d1aa-4ee4-9821-0de4e7048f07@2897.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260620
+DESCRIPTION:Chios Night Half Marathon\nLocation: Χίος\nDistances: 21k\, 10k\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Χίος
+SUMMARY:Chios Night Half Marathon
+UID:bd412633-0651-4c81-b2f6-ec7b7b3f97cc@bd41.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260502
 DESCRIPTION:Amorgos Trail Challenge\nLocation: 2-3/5\nDistances: Αμοργός\, 19k\, 7\, 5k\, Spike\, 500μ.\nMore info: https://irunmag.gr/race-calendar-2026
 LOCATION:2-3/5
 SUMMARY:Amorgos Trail Challenge
-UID:cf9f9ba4-40bc-47f6-a615-f40ce07da4b9@cf9f.org
+UID:ba2c143d-5701-4145-a32d-7c2496f3c38d@ba2c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260215
+DESCRIPTION:2ος Αγώνας για την Πανελλήνια Ημέρα Φιλάθλου\nLocation: Θεσσαλονίκη\nDistances: 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Θεσσαλονίκη
+SUMMARY:2ος Αγώνας για την Πανελλήνια Ημέρα Φιλάθλου
+UID:47f65c35-0c78-4f90-9ab0-83758d1eba8b@47f6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260405
+DESCRIPTION:3ο Γρεβενά City Run\nLocation: Γρεβενά\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/races/road/3o-grevena-city-run/
+LOCATION:Γρεβενά
+SUMMARY:3ο Γρεβενά City Run
+UID:129883e4-8351-4c13-8dde-4d5c6922c24d@1298.org
+URL:https://irunmag.gr/races/road/3o-grevena-city-run/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260418
+DESCRIPTION:Ε’ Δρόμος Γερακιού\nLocation: Μυστράς – Γεράκι Λακωνίας\nDistances: 47\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Μυστράς – Γεράκι Λακωνίας
+SUMMARY:Ε’ Δρόμος Γερακιού
+UID:61a3e35c-d101-4e14-aafe-63ebdb98b1d3@61a3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260201
+DESCRIPTION:26ος Δρόμος Βουνού Υμηττός\nLocation: Παπάγου-Χολαργός\nDistances: 21k\, 5k\nMore info: https://irunmag.gr/races/road/26os-dromos-vunu-ymittos/
+LOCATION:Παπάγου-Χολαργός
+SUMMARY:26ος Δρόμος Βουνού Υμηττός
+UID:f509c151-253d-4237-8965-e5f65ded6256@f509.org
+URL:https://irunmag.gr/races/road/26os-dromos-vunu-ymittos/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260322
+DESCRIPTION:1ος Αγώνας Δρόμου Ηγουμενίτσας\nLocation: Ηγουμενίτσα\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Ηγουμενίτσα
+SUMMARY:1ος Αγώνας Δρόμου Ηγουμενίτσας
+UID:d37f27e0-add1-46c2-9188-dd7c84ad72d2@d37f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260419
+DESCRIPTION:4ος Ορεινός Αγώνας Χανδρινού\nLocation: Χανδρινό Μεσσηνίας\nDistances: 11k\, 6k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Χανδρινό Μεσσηνίας
+SUMMARY:4ος Ορεινός Αγώνας Χανδρινού
+UID:7403f15d-c08b-4ccd-9daf-bc738003634f@7403.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261107
+DESCRIPTION:43ος Αυθεντικός Μαραθώνιος\nLocation: Αθήνα\nDistances: 5k\, 1\, 2k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Αθήνα
+SUMMARY:43ος Αυθεντικός Μαραθώνιος
+UID:c491bc8e-369a-40c3-b371-eb3a8c3ae249@c491.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260307
+DESCRIPTION:6η Γύρα Μάνης\nLocation: Αρεόπολη Λακωνίας\nDistances: 80\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Αρεόπολη Λακωνίας
+SUMMARY:6η Γύρα Μάνης
+UID:a60b157d-c16e-40db-9023-44d55a5134dc@a60b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260823
+DESCRIPTION:45οι Δικταίοι Αγώνες\nLocation: Unknown\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Unknown
+SUMMARY:45οι Δικταίοι Αγώνες
+UID:2175ea27-b56b-4374-b89c-32ae89709b59@2175.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260104
+DESCRIPTION:27ος Αγώνας Αλσους Δαφνίου\nLocation: Δαφνί\nDistances: 10k\nMore info: https://irunmag.gr/races/trail/27os-agonas-alsous-dafniou/
+LOCATION:Δαφνί
+SUMMARY:27ος Αγώνας Αλσους Δαφνίου
+UID:5b6ad461-8c7f-4d92-add3-89611ec0dc70@5b6a.org
+URL:https://irunmag.gr/races/trail/27os-agonas-alsous-dafniou/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260411
+DESCRIPTION:Λαϊκός Ανώμαλος Δρόμος Λεύκτρων\nLocation: Λεύκτρα Βοιωτίας\nDistances: 10k\, 3\, 5k\, 1\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Λεύκτρα Βοιωτίας
+SUMMARY:Λαϊκός Ανώμαλος Δρόμος Λεύκτρων
+UID:fef8e054-7959-4d5d-b09f-b8f411570dd1@fef8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260524
+DESCRIPTION:Λίμνη Μαραθώνα\nLocation: Λίμνη Μαραθώνα\nDistances: 10k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Λίμνη Μαραθώνα
+SUMMARY:Λίμνη Μαραθώνα
+UID:d458172c-2427-466b-81c9-de9117ac8527@d458.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261003
+DESCRIPTION:27ος Λαϊκός Αγώνας Δρόμου Νεάπολης Αγρινίου\nLocation: Νεάπολη Αιτωλοακαρνανίας\nDistances: 9\, 7k\, 4k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Νεάπολη Αιτωλοακαρνανίας
+SUMMARY:27ος Λαϊκός Αγώνας Δρόμου Νεάπολης Αγρινίου
+UID:a8a69573-a873-46aa-b2b2-3ce9231ee11a@a8a6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260503
+DESCRIPTION:Run Greece Καβάλα\nLocation: Καβάλα\nDistances: 10k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Καβάλα
+SUMMARY:Run Greece Καβάλα
+UID:30df0a1c-c7a7-4e40-80ac-db84ff037094@30df.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260510
+DESCRIPTION:1ο Kotroni Trail\nLocation: Καπανδρίτι Αττικής\nDistances: 20k\, 12k\, 5k\, 1k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Καπανδρίτι Αττικής
+SUMMARY:1ο Kotroni Trail
+UID:e4bc7106-798a-4791-9f12-d0ff13dbd3e8@e4bc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260621
+DESCRIPTION:3ο Panetoliko Mountain Trail Run\nLocation: Παρακαμπύλια Αγρινίου\nDistances: 21k\, 8k\, 1k\nMore info: https://irunmag.gr/races/trail/3o-panetoliko-mountain-trail/
+LOCATION:Παρακαμπύλια Αγρινίου
+SUMMARY:3ο Panetoliko Mountain Trail Run
+UID:b823c8ed-4c37-4b9e-9eba-441e1bee1764@b823.org
+URL:https://irunmag.gr/races/trail/3o-panetoliko-mountain-trail/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+DESCRIPTION:2ο Vertical Challenge\nLocation: Γέρακας Ξάνθης\nDistances: 8\, 5k\, 5k\, 3\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Γέρακας Ξάνθης
+SUMMARY:2ο Vertical Challenge
+UID:6b36a383-02e6-4f1e-9889-6762e48b7feb@6b36.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260111
+DESCRIPTION:Kambos Mountain Race\nLocation: Λευκωσία\nDistances: 22k\, 11k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Λευκωσία
+SUMMARY:Kambos Mountain Race
+UID:5b9d9bdc-d717-472e-a757-0dd0bcd5579a@5b9d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+DESCRIPTION:2ο DUTH Campus Half Marathon\nLocation: Πανεπιστημιούπολη Κομοτηνής\nDistances: 21k\, 7k\nMore info: https://irunmag.gr/races/road/2o-duth-campus-half/
+LOCATION:Πανεπιστημιούπολη Κομοτηνής
+SUMMARY:2ο DUTH Campus Half Marathon
+UID:bfd9c7f1-eb44-4300-aabb-b1f3f8ff2607@bfd9.org
+URL:https://irunmag.gr/races/road/2o-duth-campus-half/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260829
+DESCRIPTION:Voio Race Series\nLocation: Αυγερινός Κοζάνης\nDistances: 22k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Αυγερινός Κοζάνης
+SUMMARY:Voio Race Series
+UID:cd05b9eb-d32a-4877-be10-fcf1232d7c38@cd05.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Hydra’s Trail Event\nLocation: 4-5/4\nDistances: Υδρα\, 38\, 5k\, 18k\, 8k\, 5k\, 1\, 7k\, 1\, 1k\, 200μ.\nMore info: https://irunmag.gr/races/trail/hydras-trail-event-2026-enarxi-engrafon-stis-15-dekemvriou/
+LOCATION:4-5/4
+SUMMARY:Hydra’s Trail Event
+UID:8c165ba6-39ac-4e55-a0dc-3c047b319e51@8c16.org
+URL:https://irunmag.gr/races/trail/hydras-trail-event-2026-enarxi-engrafon-stis-15-dekemvriou/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260501
+DESCRIPTION:TihioRace\nLocation: 1-3/5\nDistances: Τείχιο Φωκίδας\, 104k\, 57k\, 30k\, 30k\, 11k\, 10k\, πορεία με αμαξίδιο\nMore info: https://irunmag.gr/races/trail/tihio-race-2026/
+LOCATION:1-3/5
+SUMMARY:TihioRace
+UID:15decf97-c880-4d8d-ad9d-c4ed5ad8c186@15de.org
+URL:https://irunmag.gr/races/trail/tihio-race-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261025
+DESCRIPTION:ΔΕΗ IRONMAN 70.3 Costa Navarino\, Peloponnese\, Greece\nLocation: Costa Navarino\nDistances: Πύλος\nMore info: https://irunmag.gr/races/triathlon/dei-ironman-2026/
+LOCATION:Costa Navarino
+SUMMARY:ΔΕΗ IRONMAN 70.3 Costa Navarino\, Peloponnese\, Greece
+UID:9aa365e1-f6d7-4533-afc3-8bffe6dc0b78@9aa3.org
+URL:https://irunmag.gr/races/triathlon/dei-ironman-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+DESCRIPTION:29ος Δρόμος Κουδουμά\nLocation: Στέρνες Ηρακλείου\nDistances: 22\, 5k\nMore info: https://irunmag.gr/race-calendar-2026
+LOCATION:Στέρνες Ηρακλείου
+SUMMARY:29ος Δρόμος Κουδουμά
+UID:8b3f17bc-b1fa-4730-a912-6663a5e84b29@8b3f.org
 END:VEVENT
 END:VCALENDAR
