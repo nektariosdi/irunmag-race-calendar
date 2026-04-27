@@ -2,1451 +2,1299 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260322
-DESCRIPTION:11th Zagreb21\nLocation: Ζάγκρεμπ\, Κροατία\nDistances: 21k\, 5k\nMore info: https://zagreb21.run/?lang=en
-LOCATION:Ζάγκρεμπ\, Κροατία
-SUMMARY:11th Zagreb21
-UID:5e915e05-9d75-4f22-9081-f759c898b5fd@5e91.org
-URL:https://zagreb21.run/?lang=en
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260927
-DESCRIPTION:48th Warsaw Marathon\nLocation: Βαρσοβία\, Πολωνία\nDistances: 42k\, 10k\nMore info: https://nnmaratonwarszawski.com/en/news/we-know-the-date-of-the-next-edition-of-the-warsaw-marathon/
-LOCATION:Βαρσοβία\, Πολωνία
-SUMMARY:48th Warsaw Marathon
-UID:3f75dcf1-097f-4782-b246-765858cd5545@3f75.org
-URL:https://nnmaratonwarszawski.com/en/news/we-know-the-date-of-the-next-edition-of-the-warsaw-marathon/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260606
-DESCRIPTION:Spitzbergen Marathon\nLocation: Σβάλμπαρ\, Νορβηγία\nDistances: 42k\, 21k\, 10k\, 4k\nMore info: https://spitsbergenmarathon.no/
-LOCATION:Σβάλμπαρ\, Νορβηγία
-SUMMARY:Spitzbergen Marathon
-UID:eb7d2558-845f-4646-b215-e9a30346d73e@eb7d.org
-URL:https://spitsbergenmarathon.no/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260531
-DESCRIPTION:Maratonul International Sibiu\nLocation: Σίμπιου\, Ρουμανία\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://maratonsibiu.ro/
-LOCATION:Σίμπιου\, Ρουμανία
-SUMMARY:Maratonul International Sibiu
-UID:d9aef438-d110-4b40-8121-bf822fdb664b@d9ae.org
-URL:https://maratonsibiu.ro/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260412
-DESCRIPTION:ADAC Hannover Marathon\nLocation: Ανόβερο\, Γερμανία\nDistances: 42k\, 21k\, 10k\nMore info: https://www.marathon-hannover.de/index.html
-LOCATION:Ανόβερο\, Γερμανία
-SUMMARY:ADAC Hannover Marathon
-UID:b7169d6e-4bfa-453d-9bf8-7c045ffab359@b716.org
-URL:https://www.marathon-hannover.de/index.html
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-DESCRIPTION:10ος Μαραθώνιος Ναυπλίου\nLocation: Ναύπλιο\, Ελλάδα\nDistances: 42k\, 21k\, 5k\, 1k\nMore info: https://irunmag.gr/races/road/10os-marathonios-nafpliou-stis-29-martiou-2026/
-LOCATION:Ναύπλιο\, Ελλάδα
-SUMMARY:10ος Μαραθώνιος Ναυπλίου
-UID:84eb14e7-97cb-4bdb-be6a-7a227683e53a@84eb.org
-URL:https://irunmag.gr/races/road/10os-marathonios-nafpliou-stis-29-martiou-2026/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260426
-DESCRIPTION:11ος Μαραθώνιος Ρόδου\nLocation: Ρόδος\, Ελλάδα\nMore info: https://irunmag.gr/races/road/11-rhodes-marathon/
-LOCATION:Ρόδος\, Ελλάδα
-SUMMARY:11ος Μαραθώνιος Ρόδου
-UID:83f4ab69-43c6-4a8f-815e-16b60e79153d@83f4.org
-URL:https://irunmag.gr/races/road/11-rhodes-marathon/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260215
-DESCRIPTION:Zurich Maraton Sevilla\nLocation: Σεβίλλη\, Ισπανία\nDistances: 42k\, 5k\nMore info: https://en.zurichmaratonsevilla.es/
-LOCATION:Σεβίλλη\, Ισπανία
-SUMMARY:Zurich Maraton Sevilla
-UID:cd13a1b3-ebbd-4a41-ba84-f4dff49f2fdd@cd13.org
-URL:https://en.zurichmaratonsevilla.es/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260531
-DESCRIPTION:Ruddy Rothwell’s Cakeathon Marathon\nLocation: Λιντς\, Αγγλία\nDistances: 48k\, 42k\, 21k\, 10\, 7k\nMore info: https://www.itsgrimupnorthrunning.co.uk/e/ruddy-rothwells-cakeathon-11604
-LOCATION:Λιντς\, Αγγλία
-SUMMARY:Ruddy Rothwell’s Cakeathon Marathon
-UID:beea8f91-da17-4e86-a79b-935b906941c5@beea.org
-URL:https://www.itsgrimupnorthrunning.co.uk/e/ruddy-rothwells-cakeathon-11604
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260510
-DESCRIPTION:Würzburg Marathon\nLocation: Βούρτσμπουργκ\, Γερμανία\nDistances: 42k\, 21k\, 10k\nMore info: https://www.wuerzburg-marathon.de/
-LOCATION:Βούρτσμπουργκ\, Γερμανία
-SUMMARY:Würzburg Marathon
-UID:f9945e1e-9cb4-466f-9786-821065bd6e9e@f994.org
-URL:https://www.wuerzburg-marathon.de/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260704
-DESCRIPTION:Mikkeli Marathon\nLocation: Μίκελι\, Φινλανδία\nDistances: 42k\, 21k\, 10\, 5k\, 5k\nMore info: https://www.mikkelinklassikot.fi/mikkelijuoksu/in-english/
-LOCATION:Μίκελι\, Φινλανδία
-SUMMARY:Mikkeli Marathon
-UID:4a4f34a0-209a-4108-87cf-68cf5f383425@4a4f.org
-URL:https://www.mikkelinklassikot.fi/mikkelijuoksu/in-english/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260913
-DESCRIPTION:Tampere Marathon\nLocation: Τάμπερε\, Φινλανδία\nDistances: 42k\, 21k\, 10\, 5k\nMore info: https://www.tampereenmaratonklubi.com/tamperemaraton/?fbclid=PAZXh0bgNhZW0CMTEAAafOb8pQ5MCRi2hmOtBNXMfyVDpi0OJH88hqybTt8HnKZC1PxvOrKfVykViwKg_aem_PVgHz6snu6qLDlUhm8Blog
-LOCATION:Τάμπερε\, Φινλανδία
-SUMMARY:Tampere Marathon
-UID:8b1f1d4a-b372-42a5-a31d-26d958d55f43@8b1f.org
-URL:https://www.tampereenmaratonklubi.com/tamperemaraton/?fbclid=PAZXh0bgNhZW0CMTEAAafOb8pQ5MCRi2hmOtBNXMfyVDpi0OJH88hqybTt8HnKZC1PxvOrKfVykViwKg_aem_PVgHz6snu6qLDlUhm8Blog
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260412
-DESCRIPTION:Marathon de Paris\nLocation: Παρίσι\, Γαλλία\nDistances: 42k\nMore info: https://www.schneiderelectricparismarathon.com/en/
-LOCATION:Παρίσι\, Γαλλία
-SUMMARY:Marathon de Paris
-UID:ddcbf255-d911-4365-bb1b-033df2d03925@ddcb.org
-URL:https://www.schneiderelectricparismarathon.com/en/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260725
-DESCRIPTION:41. Hämeenlinna City Marathon\nLocation: Χάμεενλινα\, Φινλανδία\nDistances: 42k\, 21k\, 10k\nMore info: https://hameenlinnantarmo.sporttisaitti.com/kilpailut/kaupunki-maraton/
-LOCATION:Χάμεενλινα\, Φινλανδία
-SUMMARY:41. Hämeenlinna City Marathon
-UID:d5d8cc42-7234-4cc8-8692-77bb7e9f0218@d5d8.org
-URL:https://hameenlinnantarmo.sporttisaitti.com/kilpailut/kaupunki-maraton/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260517
-DESCRIPTION:Salzburg Marathon\nLocation: Ζάλτσμπουργκ\, Αυστρία\nDistances: 42k\, 21k\, 10k\, 5\, 5k\nMore info: https://irunmag.gr/travel/23th-salzburg-marathon/
-LOCATION:Ζάλτσμπουργκ\, Αυστρία
-SUMMARY:Salzburg Marathon
-UID:3f134341-7371-4fb8-996c-23556ce96f80@3f13.org
-URL:https://irunmag.gr/travel/23th-salzburg-marathon/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260503
-DESCRIPTION:Trieste 21k\nLocation: Τριέστε\, Ιταλία\nDistances: 21k\, 7k\nMore info: https://www.trieste21k.com/en/
-LOCATION:Τριέστε\, Ιταλία
-SUMMARY:Trieste 21k
-UID:ccd56b47-856c-4ec2-9ee8-fca98ff5118c@ccd5.org
-URL:https://www.trieste21k.com/en/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260620
-DESCRIPTION:Aabenraa Mountain Marathon\nLocation: Ομπενρο\, Δανία\nDistances: 42k\, 21k\, 10k\, 5\, 8k\nMore info: https://bjergmarathon.dk/?lang=en
-LOCATION:Ομπενρο\, Δανία
-SUMMARY:Aabenraa Mountain Marathon
-UID:6212e714-06db-47ca-a327-ae95fd7007b4@6212.org
-URL:https://bjergmarathon.dk/?lang=en
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260913
-DESCRIPTION:21. swb Marathon Bremen\nLocation: Βρέμη\, Γερμανία\nDistances: 42k\, 21k\, 10k\nMore info: https://irunmag.gr/travel/21-bremen-marathon/
-LOCATION:Βρέμη\, Γερμανία
-SUMMARY:21. swb Marathon Bremen
-UID:5e908793-9401-475a-a8e5-c626dbafc2f5@5e90.org
-URL:https://irunmag.gr/travel/21-bremen-marathon/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261206
-DESCRIPTION:Sanremo Marathon\nLocation: Σανρέμο\, Ιταλία\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://sanremomarathon.it/en/
-LOCATION:Σανρέμο\, Ιταλία
-SUMMARY:Sanremo Marathon
-UID:fc22c6c6-e16d-4120-86d6-17c1ca652cf7@fc22.org
-URL:https://sanremomarathon.it/en/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260419
-DESCRIPTION:Rimini Marathon\nLocation: Ρίμινι\, Ιταλία\nDistances: 42k\, 21k\, 16k\, 7k\, 4k\nMore info: https://www.riminimarathon.it/?lang=en
-LOCATION:Ρίμινι\, Ιταλία
-SUMMARY:Rimini Marathon
-UID:9b191126-c55d-44a4-857f-53b5759a7f76@9b19.org
-URL:https://www.riminimarathon.it/?lang=en
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260920
-DESCRIPTION:Kassel Marathon\nLocation: 18-20/9\, Κάσελ\nDistances: Γερμανία\, 42k\, 21k\, 4k\nMore info: https://kassel-marathon.de/
-LOCATION:18-20/9\, Κάσελ
-SUMMARY:Kassel Marathon
-UID:dfd04086-abc5-495c-bb36-87ea323a35a2@dfd0.org
-URL:https://kassel-marathon.de/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261129
-DESCRIPTION:42. Firenze Marathon\nLocation: Φλωρεντία\, Ιταλία\nDistances: 42k\nMore info: https://www.firenzemarathon.it/en/marathon/
-LOCATION:Φλωρεντία\, Ιταλία
-SUMMARY:42. Firenze Marathon
-UID:f21ec53a-196c-4a50-b936-266865fd2c89@f21e.org
-URL:https://www.firenzemarathon.it/en/marathon/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261025
-DESCRIPTION:Lausanne Marathon\nLocation: Λωζάννη\, Ελβετία\nDistances: 42k\, 21k\, 10k\nMore info: https://en.lausanne-marathon.com/
-LOCATION:Λωζάννη\, Ελβετία
-SUMMARY:Lausanne Marathon
-UID:2c071f23-960c-4801-be48-5939093fbd5f@2c07.org
-URL:https://en.lausanne-marathon.com/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261011
-DESCRIPTION:34. Zagrebacki Maraton\nLocation: Ζάγκρεμπ\, Κροατία\nDistances: 42k\, 21k\, 10k\nMore info: https://www.zagreb-marathon.com/en/
-LOCATION:Ζάγκρεμπ\, Κροατία
-SUMMARY:34. Zagrebacki Maraton
-UID:7c7ae69b-6063-42a6-a611-c725a046656e@7c7a.org
-URL:https://www.zagreb-marathon.com/en/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260801
-DESCRIPTION:Hella Marathon Nacht Rostock\nLocation: Ροστόκ\, Γερμανία\nDistances: 42k\, 21k\, 7\, 7k\, 1\, 7k\nMore info: https://www.rostocker-marathon-nacht.com/
-LOCATION:Ροστόκ\, Γερμανία
-SUMMARY:Hella Marathon Nacht Rostock
-UID:f8c0178e-d79c-41fc-8234-0ebac79deaf3@f8c0.org
-URL:https://www.rostocker-marathon-nacht.com/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261025
-DESCRIPTION:Polar Circle Marathon\nLocation: Κάνγκερλουσουακ\, Γροιλανδία\nDistances: 42k\, 21k\nMore info: https://polar-circle-marathon.com/
-LOCATION:Κάνγκερλουσουακ\, Γροιλανδία
-SUMMARY:Polar Circle Marathon
-UID:32e5ea78-03a1-47e6-8144-760a4abb8d63@32e5.org
-URL:https://polar-circle-marathon.com/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261004
-DESCRIPTION:25. Poznan Marathon\nLocation: Πόζναν\, Πολωνία\nDistances: 42k\, 5k\nMore info: https://marathon.poznan.pl/en/
-LOCATION:Πόζναν\, Πολωνία
-SUMMARY:25. Poznan Marathon
-UID:75a91eeb-f364-4f5e-99cc-57d9a0b69494@75a9.org
-URL:https://marathon.poznan.pl/en/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260829
-DESCRIPTION:Jönköping Marathon\nLocation: Γιονσέπινγκ\, Σουηδία\nDistances: 42k\, 21k\nMore info: https://jonkopingmarathon.se/en/
-LOCATION:Γιονσέπινγκ\, Σουηδία
-SUMMARY:Jönköping Marathon
-UID:5ec0f015-7ea4-41de-bd5f-eeae3ea7a8bc@5ec0.org
-URL:https://jonkopingmarathon.se/en/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260201
-DESCRIPTION:Murcia Marathon\nLocation: Μούρθια\, Ισπανία\nDistances: 42k\, 21k\, 10k\nMore info: https://www.maratonmurcia.com/en
-LOCATION:Μούρθια\, Ισπανία
-SUMMARY:Murcia Marathon
-UID:021029da-6095-485f-9c5c-906ab788c71b@0210.org
-URL:https://www.maratonmurcia.com/en
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260215
-DESCRIPTION:Split Marathon\nLocation: Σπλιτ\, Κροατία\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://www.splitmarathon.com/marathon/?lang=en
-LOCATION:Σπλιτ\, Κροατία
-SUMMARY:Split Marathon
-UID:b4f28070-4ceb-4a75-a842-55f8ca2a78ac@b4f2.org
-URL:https://www.splitmarathon.com/marathon/?lang=en
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260403
-DESCRIPTION:Aalborg Brutal Marathon\nLocation: Ολμποργκ\, Δανία\nDistances: 42k\, 21k\nMore info: https://www.marathoniaalborg.dk/english.htm
-LOCATION:Ολμποργκ\, Δανία
-SUMMARY:Aalborg Brutal Marathon
-UID:db58c705-3b02-402a-9cc7-e455c7793550@db58.org
-URL:https://www.marathoniaalborg.dk/english.htm
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260426
-DESCRIPTION:40ός Μαραθώνιος Αμβούργου\nLocation: Αμβούργο\, Γερμανία\nMore info: https://haspa-marathon-hamburg.de/en/
-LOCATION:Αμβούργο\, Γερμανία
-SUMMARY:40ός Μαραθώνιος Αμβούργου
-UID:08ed743d-92b6-4473-bca2-9b29499a9dd5@08ed.org
-URL:https://haspa-marathon-hamburg.de/en/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260517
-DESCRIPTION:Pescara Half Marathon\nLocation: Πεσκάρα\, Ιταλία\nDistances: 21k\, 10k\nMore info: https://www.pescarahalfmarathon.it/
-LOCATION:Πεσκάρα\, Ιταλία
-SUMMARY:Pescara Half Marathon
-UID:8229ad07-7e6f-4b04-858d-cdb661f2a05e@8229.org
-URL:https://www.pescarahalfmarathon.it/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261017
-DESCRIPTION:Uppsala Marathon\nLocation: Ουψάλα\, Σουηδία\nDistances: 42k\, 21k\nMore info: https://www.uppsalamarathon.se/en/welcome-2/
-LOCATION:Ουψάλα\, Σουηδία
-SUMMARY:Uppsala Marathon
-UID:9afc6337-dbd4-4d3a-9b2b-529f14cc07d8@9afc.org
-URL:https://www.uppsalamarathon.se/en/welcome-2/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260426
-DESCRIPTION:TCS London Marathon\nLocation: Λονδίνο\, Αγγλία\nMore info: https://www.tcslondonmarathon.com/
-LOCATION:Λονδίνο\, Αγγλία
-SUMMARY:TCS London Marathon
-UID:bf98ec94-25ae-4b77-ae4c-ea7b7e1c0fff@bf98.org
-URL:https://www.tcslondonmarathon.com/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260927
-DESCRIPTION:52. BMW Berlin Marathon\nLocation: Βερολίνο\, Γερμανία\nDistances: 42k\nMore info: https://www.bmw-berlin-marathon.com/en/
-LOCATION:Βερολίνο\, Γερμανία
-SUMMARY:52. BMW Berlin Marathon
-UID:ddba2861-7cd4-4b3d-9341-7a3debaf17b0@ddba.org
-URL:https://www.bmw-berlin-marathon.com/en/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260419
-DESCRIPTION:Adidas Manchester Marathon\nLocation: Μάντσεστερ\, Αγγλία\nDistances: 42k\nMore info: https://irunmag.gr/travel/manchester-marathon/
-LOCATION:Μάντσεστερ\, Αγγλία
-SUMMARY:Adidas Manchester Marathon
-UID:774ca350-9ae2-442c-b72f-80021b9e28d8@774c.org
-URL:https://irunmag.gr/travel/manchester-marathon/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260405
-DESCRIPTION:Marathon d’ Ajaccio\nLocation: Αζαξιό\, Γαλλία\nDistances: 42k\, 21k\, 10k\nMore info: https://www.aspttajaccioathletisme.fr/
-LOCATION:Αζαξιό\, Γαλλία
-SUMMARY:Marathon d’ Ajaccio
-UID:cfdb0073-2778-4e4f-94e8-361187b58db1@cfdb.org
-URL:https://www.aspttajaccioathletisme.fr/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260523
-DESCRIPTION:Göteborgsvarvet Marathon\nLocation: Γέτεμπορι\, Σουηδία\nDistances: 21k\nMore info: https://www.goteborgsvarvet.se/en/
-LOCATION:Γέτεμπορι\, Σουηδία
-SUMMARY:Göteborgsvarvet Marathon
-UID:1c66225f-b10a-49c9-93c6-744dd61adbdb@1c66.org
-URL:https://www.goteborgsvarvet.se/en/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260516
-DESCRIPTION:44. Three Hearts Marathon\nLocation: Ραντέντσι\, Σλοβενία\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://www.maraton-radenci.si/en/
-LOCATION:Ραντέντσι\, Σλοβενία
-SUMMARY:44. Three Hearts Marathon
-UID:86e1262b-2df0-4908-9fdf-f9657f9b7660@86e1.org
-URL:https://www.maraton-radenci.si/en/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260412
-DESCRIPTION:Zaragoza International Marathon\nLocation: Σαραγόσα\, Ισπανία\nDistances: 42k\, 10k\nMore info: https://www.spain.info/en/calendar/zaragoza-international-marathon/
-LOCATION:Σαραγόσα\, Ισπανία
-SUMMARY:Zaragoza International Marathon
-UID:46eb7a2c-ea09-49d1-a0dc-d8316ec6299a@46eb.org
-URL:https://www.spain.info/en/calendar/zaragoza-international-marathon/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260419
-DESCRIPTION:23rd Cracovia Marathon\nLocation: Κρακοβία\, Πολωνία\nDistances: 42k\, 10k\, 4\, 2k\nMore info: https://cracoviamaraton.pl/
-LOCATION:Κρακοβία\, Πολωνία
-SUMMARY:23rd Cracovia Marathon
-UID:740b930c-8ca1-4fb4-91dd-adba78e5c446@740b.org
-URL:https://cracoviamaraton.pl/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261025
-DESCRIPTION:Valencia Half Marathon\nLocation: Βαλένθια\, Ισπανία\nDistances: 21k\nMore info: https://www.valenciaciudaddelrunning.com/en/half/half-marathon/
-LOCATION:Βαλένθια\, Ισπανία
-SUMMARY:Valencia Half Marathon
-UID:4bd0f8d0-b353-4ddf-9f29-7eb21ba48eaf@4bd0.org
-URL:https://www.valenciaciudaddelrunning.com/en/half/half-marathon/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261018
-DESCRIPTION:30th Ljubljana Marathon\nLocation: Λιουμπλιάνα\, Σλοβενία\nDistances: 42k\, 21k\, 10k\nMore info: https://ljubljanskimaraton.si/en/
-LOCATION:Λιουμπλιάνα\, Σλοβενία
-SUMMARY:30th Ljubljana Marathon
-UID:5792b24e-114e-47d8-aa83-928524073a65@5792.org
-URL:https://ljubljanskimaraton.si/en/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260118
-DESCRIPTION:Maratona do Funchal\nLocation: Φουνσάλ\, Πορτογαλία\nDistances: 42k\, 21k\, 8k\nMore info: https://www.madeiramarathon.com/
-LOCATION:Φουνσάλ\, Πορτογαλία
-SUMMARY:Maratona do Funchal
-UID:94011d0a-c38a-4859-ad77-d89a47c0051c@9401.org
-URL:https://www.madeiramarathon.com/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260426
-DESCRIPTION:20ός Διεθνής Μαραθώνιος «Μέγας Αλέξανδρος»\nLocation: Θεσσαλονίκη\, Ελλάδα\nMore info: https://irunmag.gr/races/road/20os-marathonios-thessalonikis/
-LOCATION:Θεσσαλονίκη\, Ελλάδα
-SUMMARY:20ός Διεθνής Μαραθώνιος «Μέγας Αλέξανδρος»
-UID:fcd84f62-7576-4add-a5be-4b48ee75ec10@fcd8.org
-URL:https://irunmag.gr/races/road/20os-marathonios-thessalonikis/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260927
-DESCRIPTION:Almaty Marathon\nLocation: Αλμάτι\, Καζακστάν\nDistances: 42k\, 21k\, 10k\nMore info: https://almaty-marathon.kz/en/
-LOCATION:Αλμάτι\, Καζακστάν
-SUMMARY:Almaty Marathon
-UID:432d3569-6f2c-46f8-84a6-8b42892353cc@432d.org
-URL:https://almaty-marathon.kz/en/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261025
-DESCRIPTION:Höstrusket\nLocation: Στοκχόλμη\, Σουηδία\nDistances: 42k\, 10k\nMore info: https://hostrusket.se/
-LOCATION:Στοκχόλμη\, Σουηδία
-SUMMARY:Höstrusket
-UID:51cd501b-0fa0-4939-b185-f5faffd44486@51cd.org
-URL:https://hostrusket.se/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261115
-DESCRIPTION:31st Maratona di Palermo\nLocation: Παλέρμο\, Ιταλία\nDistances: 42k\, 21k\nMore info: https://www.palermomaratona.it/
-LOCATION:Παλέρμο\, Ιταλία
-SUMMARY:31st Maratona di Palermo
-UID:eefb627c-a346-4db2-b765-ee992c02f3dd@eefb.org
-URL:https://www.palermomaratona.it/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260531
-DESCRIPTION:Cork City Marathon\nLocation: Κορκ\, Ιρλανδία\nDistances: 42k\, 21k\, 10k\nMore info: https://www.corkcity.ie/en/cork-city-marathon/
-LOCATION:Κορκ\, Ιρλανδία
-SUMMARY:Cork City Marathon
-UID:fcf7c63b-de27-4c5e-a652-e62090db5ee2@fcf7.org
-URL:https://www.corkcity.ie/en/cork-city-marathon/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261122
-DESCRIPTION:Belgrade Half Marathon\nLocation: Βελιγράδι\, Σερβία\nDistances: 21k\nMore info: https://bgdmarathon.org/?lang=en
-LOCATION:Βελιγράδι\, Σερβία
-SUMMARY:Belgrade Half Marathon
-UID:f24a62f7-d985-43a6-90c4-6af9f20b6026@f24a.org
-URL:https://bgdmarathon.org/?lang=en
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260419
-DESCRIPTION:39. Belgrade Marathon\nLocation: Βελιγράδι\, Σερβία\nDistances: 42k\, 21k\, 10k\, 2\, 3k\nMore info: https://bgdmarathon.org/?lang=en
-LOCATION:Βελιγράδι\, Σερβία
-SUMMARY:39. Belgrade Marathon
-UID:d576aef0-0e8a-477d-969a-dc7bd25897b0@d576.org
-URL:https://bgdmarathon.org/?lang=en
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260607
-DESCRIPTION:Marathon de la Liberte\nLocation: Καέν\, Γαλλία\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://www.marathondelaliberte.fr/en/
-LOCATION:Καέν\, Γαλλία
-SUMMARY:Marathon de la Liberte
-UID:17e555d9-c3d6-4837-a911-00970df4ae2a@17e5.org
-URL:https://www.marathondelaliberte.fr/en/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260829
-DESCRIPTION:Stavanger Marathon\nLocation: Στάβανγκερ\, Νορβηγία\nDistances: 42k\, 21k\, 5k\nMore info: https://stavangermarathon.no/en/
-LOCATION:Στάβανγκερ\, Νορβηγία
-SUMMARY:Stavanger Marathon
-UID:7d2c2531-9607-4994-9369-9f261a41aff4@7d2c.org
-URL:https://stavangermarathon.no/en/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260920
-DESCRIPTION:42. Baden Marathon\nLocation: Καρλσρούη\, Γερμανία\nDistances: 42k\, 21k\, 6\, 1k\nMore info: https://www.badenmarathon.de/
-LOCATION:Καρλσρούη\, Γερμανία
-SUMMARY:42. Baden Marathon
-UID:6c175bb9-8ac3-4e9d-85e9-0ab4d00bafad@6c17.org
-URL:https://www.badenmarathon.de/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261011
-DESCRIPTION:41st Spar Budapest Marathon\nLocation: Βουδαπέστη\, Ουγγαρία\nDistances: 42k\, 30k\, 21k\, 14k\, 10k\, 5k\nMore info: https://www.sparbudapestmaraton.hu/spar-budapest-maraton-2026/
-LOCATION:Βουδαπέστη\, Ουγγαρία
-SUMMARY:41st Spar Budapest Marathon
-UID:dd6e6b94-c61f-462b-b675-68c96a2a4585@dd6e.org
-URL:https://www.sparbudapestmaraton.hu/spar-budapest-maraton-2026/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261025
-DESCRIPTION:Dublin Marathon\nLocation: Δουβλίνο\, Ιρλανδία\nDistances: 42k\nMore info: https://irishlifedublinmarathon.ie/
-LOCATION:Δουβλίνο\, Ιρλανδία
-SUMMARY:Dublin Marathon
-UID:25908022-6549-4cb4-981d-984a025dbd08@2590.org
-URL:https://irishlifedublinmarathon.ie/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:48th Istanbul Maratonu\nLocation: Κωνσταντινούπολη\, Τουρκία\nDistances: 42k\, 15\, 5k\nMore info: https://maraton.istanbul/?lang=en
-LOCATION:Κωνσταντινούπολη\, Τουρκία
-SUMMARY:48th Istanbul Maratonu
-UID:447a5e0c-d595-4f10-8ef5-fa00e9f244ce@447a.org
-URL:https://maraton.istanbul/?lang=en
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260425
-DESCRIPTION:Fjordkraft Bergen City Marathon\nLocation: Μπέργκεν\, Νορβηγία\nMore info: https://www.bergencitymarathon.no/
-LOCATION:Μπέργκεν\, Νορβηγία
-SUMMARY:Fjordkraft Bergen City Marathon
-UID:112c4704-ca3a-4cf9-8bed-cf167a5d436c@112c.org
-URL:https://www.bergencitymarathon.no/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260510
-DESCRIPTION:35th Leiden Marathon\nLocation: Λέιντεν\, Ολλανδία\nDistances: 42k\, 21k\, 10k\, 5k\, 2k\nMore info: https://marathon.nl/en/home-english/
-LOCATION:Λέιντεν\, Ολλανδία
-SUMMARY:35th Leiden Marathon
-UID:5e9eb753-0efa-463e-9e06-c096bffc7c4c@5e9e.org
-URL:https://marathon.nl/en/home-english/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260227
-DESCRIPTION:5ος Μαραθώνιος Μπολόνια\nLocation: Μπολόνια\, Ιταλία\nMore info: https://irunmag.gr/races/world-race/world-marathons-2026/#top
-LOCATION:Μπολόνια\, Ιταλία
-SUMMARY:5ος Μαραθώνιος Μπολόνια
-UID:391ccbc2-20b8-4fbd-843e-4edf33ec12f7@391c.org
-URL:https://irunmag.gr/races/world-race/world-marathons-2026/#top
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260830
-DESCRIPTION:26th Abbott Longford Marathon\nLocation: Λόνγκφορντ\, Ιρλανδία\nDistances: 63k\, 42k\, 21k\, 5k\nMore info: https://longfordmarathon.com/enter/
-LOCATION:Λόνγκφορντ\, Ιρλανδία
-SUMMARY:26th Abbott Longford Marathon
-UID:fc24b2a3-7957-4eae-86a9-653899e7a880@fc24.org
-URL:https://longfordmarathon.com/enter/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260222
-DESCRIPTION:Turnbridge Wells Half Marathon\nLocation: Κεντ\, Αγγλία\nDistances: 21k\nMore info: https://www.twharriers.org.uk/tunbridge-wells-half-marathon/
-LOCATION:Κεντ\, Αγγλία
-SUMMARY:Turnbridge Wells Half Marathon
-UID:54c9754e-1f87-474f-93b4-e16ecef20ea6@54c9.org
-URL:https://www.twharriers.org.uk/tunbridge-wells-half-marathon/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260215
-DESCRIPTION:Romeo & Julietta Run\nLocation: Βερόνα\, Ιταλία\nDistances: 21k\nMore info: https://irunmag.gr/travel/romeo-giulietta-run/
-LOCATION:Βερόνα\, Ιταλία
-SUMMARY:Romeo & Julietta Run
-UID:b5de5592-56b4-4ab2-babe-02886b3059dc@b5de.org
-URL:https://irunmag.gr/travel/romeo-giulietta-run/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260913
-DESCRIPTION:Rimi Vilniaus Marathon\nLocation: Βίλνιους\, Λιθουανία\nDistances: 42k\, 21k\, 10k\, 5k\, 1\, 6k\nMore info: https://www.vilniausmaratonas.lt/en/
-LOCATION:Βίλνιους\, Λιθουανία
-SUMMARY:Rimi Vilniaus Marathon
-UID:9ba45e65-a773-43ad-ba78-325acd6980c7@9ba4.org
-URL:https://www.vilniausmaratonas.lt/en/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260905
-DESCRIPTION:39e Marathon Chateaux Medoc\nLocation: Μπορντό\, Γαλλία\nDistances: 42k\nMore info: https://www.marathondumedoc.com/en/
-LOCATION:Μπορντό\, Γαλλία
-SUMMARY:39e Marathon Chateaux Medoc
-UID:3e1b7f45-0ab4-4065-8806-e670d26ce776@3e1b.org
-URL:https://www.marathondumedoc.com/en/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260208
-DESCRIPTION:Bergamo Half Marathon\nLocation: Μπέργκαμο\, Ιταλία\nDistances: 21k\, 12\, 5k\, 10k\nMore info: https://irunmag.gr/travel/bergamo21-2026/
-LOCATION:Μπέργκαμο\, Ιταλία
-SUMMARY:Bergamo Half Marathon
-UID:208de350-2d6d-4a83-b0e1-95386dd05b02@208d.org
-URL:https://irunmag.gr/travel/bergamo21-2026/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260419
-DESCRIPTION:Marathon Annecy Lake\nLocation: Ανεσί\, Γαλλία\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://event.ahsa-athletisme.com/language/en/races-en/annecy-lake-marathon/
-LOCATION:Ανεσί\, Γαλλία
-SUMMARY:Marathon Annecy Lake
-UID:21d253f0-f939-4807-acf1-a34bd5e7de7f@21d2.org
-URL:https://event.ahsa-athletisme.com/language/en/races-en/annecy-lake-marathon/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260607
-DESCRIPTION:Torshavn Marathon\nLocation: Τόρσαουν\, Νησιά Φερόε\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://torshavnmarathon.com/
-LOCATION:Τόρσαουν\, Νησιά Φερόε
-SUMMARY:Torshavn Marathon
-UID:7d66694c-b87e-4765-9814-c3bfb3c08c9b@7d66.org
-URL:https://torshavnmarathon.com/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-DESCRIPTION:Half Marathon Firenze\nLocation: Φλωρεντία\, Ιταλία\nDistances: 21k\nMore info: https://www.halfmarathonfirenze.it/en/
-LOCATION:Φλωρεντία\, Ιταλία
-SUMMARY:Half Marathon Firenze
-UID:04591f88-029f-4bb5-8ad0-5d3dfe3b8e72@0459.org
-URL:https://www.halfmarathonfirenze.it/en/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260201
-DESCRIPTION:Warwick Half Marathon\nLocation: Γουόργουικ\, Αγγλία\nDistances: 21k\nMore info: https://www.warwickhalf.com/
-LOCATION:Γουόργουικ\, Αγγλία
-SUMMARY:Warwick Half Marathon
-UID:c5698276-630a-44d7-8cca-80b5215475a7@c569.org
-URL:https://www.warwickhalf.com/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260419
-DESCRIPTION:Genova Half Marathon\nLocation: Γένοβα\, Ιταλία\nDistances: 21k\, 13k\, 3k\nMore info: https://lamezzadigenova.it/
-LOCATION:Γένοβα\, Ιταλία
-SUMMARY:Genova Half Marathon
-UID:8a043856-13a1-4266-b3ca-e3ec493756f1@8a04.org
-URL:https://lamezzadigenova.it/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261122
-DESCRIPTION:San Francesco Marathon\nLocation: Ασίζι\, Ιταλία\nDistances: 42k\, 21k\, 10k\nMore info: https://sanfrancescomarathon.it/en/
-LOCATION:Ασίζι\, Ιταλία
-SUMMARY:San Francesco Marathon
-UID:ab097798-2c3b-41fe-b119-7ed89d6f5c11@ab09.org
-URL:https://sanfrancescomarathon.it/en/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260913
-DESCRIPTION:37. Tallinna Maraton\nLocation: 12-13/9\, Τάλιν\nDistances: Εσθονία\, 42k\, 21k\, 10k\, 5k\nMore info: https://irunmag.gr/travel/37-tallinn-marathon/
-LOCATION:12-13/9\, Τάλιν
-SUMMARY:37. Tallinna Maraton
-UID:c9a7ed36-f1e1-4060-92f6-458956a2d778@c9a7.org
-URL:https://irunmag.gr/travel/37-tallinn-marathon/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260516
-DESCRIPTION:15. Jesolo Moonlight Half Marathon\nLocation: Γιέσολο\, Βενετία\nDistances: Ιταλία\, 21k\, 10k\nMore info: https://www.moonlighthalfmarathon.it/en/
-LOCATION:Γιέσολο\, Βενετία
-SUMMARY:15. Jesolo Moonlight Half Marathon
-UID:a564a0d7-8fc2-4d7c-b1d5-f2b779be50c4@a564.org
-URL:https://www.moonlighthalfmarathon.it/en/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260426
-DESCRIPTION:Padova Marathon\nLocation: Πάντοβα\, Ιταλία\nMore info: https://irunmag.gr/travel/padova-marathon-2026/
-LOCATION:Πάντοβα\, Ιταλία
-SUMMARY:Padova Marathon
-UID:9b2da145-a5d0-4670-bbe0-5c0e7cf3035a@9b2d.org
-URL:https://irunmag.gr/travel/padova-marathon-2026/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261108
-DESCRIPTION:Lake Maggiore Marathon\nLocation: Αρόνα\, Ιταλία\nDistances: 42k\, 33k\, 21k\, 10k\nMore info: https://lagomaggioremarathon.it/en/
-LOCATION:Αρόνα\, Ιταλία
-SUMMARY:Lake Maggiore Marathon
-UID:f9d81fec-343e-4fc4-9e88-433c2c2ffff8@f9d8.org
-URL:https://lagomaggioremarathon.it/en/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260920
 DESCRIPTION:Marathon de Colmar\nLocation: Κολμάρ\, Γαλλία\nDistances: 42k\, 21k\, 10k\nMore info: https://www.marathondecolmar.fr/
 LOCATION:Κολμάρ\, Γαλλία
 SUMMARY:Marathon de Colmar
-UID:0e04de06-49d6-4681-94c6-f9fe01538c4c@0e04.org
+UID:62c79e52-4ab9-4807-a5d1-ba2c6642d428@62c7.org
 URL:https://www.marathondecolmar.fr/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261025
-DESCRIPTION:40th Venicemarathon\nLocation: Βενετία\, Ιταλία\nDistances: 42k\, 21k\, 10k\nMore info: https://irunmag.gr/travel/40th-venice-marathon/
-LOCATION:Βενετία\, Ιταλία
-SUMMARY:40th Venicemarathon
-UID:061c5ef5-ad46-4ac1-be41-2ebd78272669@061c.org
-URL:https://irunmag.gr/travel/40th-venice-marathon/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261011
-DESCRIPTION:Leicester Half Marathon\nLocation: Λέστερ\, Αγγλία\nDistances: 21k\, 10k\nMore info: https://runleicester.co.uk/
-LOCATION:Λέστερ\, Αγγλία
-SUMMARY:Leicester Half Marathon
-UID:c1920f09-c6e7-4a0a-8ba5-eba92f4f3fa5@c192.org
-URL:https://runleicester.co.uk/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261018
-DESCRIPTION:Parma Marathon\nLocation: Πάρμα\, Ιταλία\nDistances: 42k\, 31k\, 24\, 7k\, 10k\, 5k\nMore info: https://irunmag.gr/travel/10-parma-marathon/
-LOCATION:Πάρμα\, Ιταλία
-SUMMARY:Parma Marathon
-UID:7c1d4639-9f6c-4dbe-9987-3d6f0235e078@7c1d.org
-URL:https://irunmag.gr/travel/10-parma-marathon/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261220
-DESCRIPTION:22ος Πρωτοχρονιάτικος Μαραθώνιος Ζυρίχης\nLocation: Ζυρίχη\, Ελβετία\nDistances: 42k\, 21k\, 10\, 55k\, 750μ.\nMore info: https://www.neujahrsmarathon.ch/en/home/
-LOCATION:Ζυρίχη\, Ελβετία
-SUMMARY:22ος Πρωτοχρονιάτικος Μαραθώνιος Ζυρίχης
-UID:5fe78779-7c91-4b06-8348-e3849fd721ca@5fe7.org
-URL:https://www.neujahrsmarathon.ch/en/home/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260412
-DESCRIPTION:24th Milano Marathon\nLocation: Μιλάνο\, Ιταλία\nDistances: 42k\nMore info: https://irunmag.gr/travel/24th-milano-marathon/
-LOCATION:Μιλάνο\, Ιταλία
-SUMMARY:24th Milano Marathon
-UID:3f5e0d11-0ee5-452b-acee-dfe0e353845b@3f5e.org
-URL:https://irunmag.gr/travel/24th-milano-marathon/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260503
-DESCRIPTION:Kazan Marathon\nLocation: Καζάν\, Ρωσία\nDistances: 42k\, 21k\, 10k\, 3k\nMore info: https://kazan.run/
-LOCATION:Καζάν\, Ρωσία
-SUMMARY:Kazan Marathon
-UID:1534a438-a589-415c-a23c-1348b509fad0@1534.org
-URL:https://kazan.run/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261025
-DESCRIPTION:Timisoara City Marathon\nLocation: Τιμισοάρα\, Ρουμανία\nDistances: 42k\, 21k\, 10\, 5k\, 4k\nMore info: https://timisoaracitymarathon.ro/
-LOCATION:Τιμισοάρα\, Ρουμανία
-SUMMARY:Timisoara City Marathon
-UID:04a29634-8d6e-4233-8c46-c4990becee1a@04a2.org
-URL:https://timisoaracitymarathon.ro/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260322
-DESCRIPTION:La Valette Marathon\nLocation: Βαλέτα\, Μάλτα\nDistances: 42k\, 21k\, 10k\nMore info: https://lavalettemarathon.com/
-LOCATION:Βαλέτα\, Μάλτα
-SUMMARY:La Valette Marathon
-UID:2ff14132-1395-4ad8-a7b7-082b6a829539@2ff1.org
-URL:https://lavalettemarathon.com/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260503
-DESCRIPTION:Newcastle-Gateshead Marathon\nLocation: Νιούκαστλ\, Αγγλία\nDistances: 42k\, 21k\, 10k\nMore info: https://www.newcastlegatesheadmarathon.com/
-LOCATION:Νιούκαστλ\, Αγγλία
-SUMMARY:Newcastle-Gateshead Marathon
-UID:7f280812-8a3f-4b48-9699-d84c949dd566@7f28.org
-URL:https://www.newcastlegatesheadmarathon.com/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261025
-DESCRIPTION:Banja Luka Marathon\nLocation: Μπάνια Λούκα\, Βοσνία/Ερζεγοβίνη\nDistances: 42k\, 21k\, 10k\nMore info: https://www.banjalukamarathon.com/
+DTSTART;VALUE=DATE:20260524
+DESCRIPTION:Banja Luka Half Marathon\nLocation: Μπάνια Λούκα\, Βοσνία/Ερζεγοβίνη\nDistances: 21k\nMore info: https://runandmore.org/en/races/half-marathon/67
 LOCATION:Μπάνια Λούκα\, Βοσνία/Ερζεγοβίνη
-SUMMARY:Banja Luka Marathon
-UID:b00933f4-1520-4cab-8971-f796b11440fa@b009.org
-URL:https://www.banjalukamarathon.com/
+SUMMARY:Banja Luka Half Marathon
+UID:9ae4796a-5a55-4217-b778-607d0ed0b4e2@9ae4.org
+URL:https://runandmore.org/en/races/half-marathon/67
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260425
-DESCRIPTION:Reykjavik Spring Marathon\nLocation: Ρέικιαβικ\, Ισλανδία\nMore info: https://marathonhlaup.is/
-LOCATION:Ρέικιαβικ\, Ισλανδία
-SUMMARY:Reykjavik Spring Marathon
-UID:fbb2b2d0-d66e-4751-bc60-3c98f45c73a3@fbb2.org
-URL:https://marathonhlaup.is/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260516
-DESCRIPTION:Great Wall Marathon\nLocation: Χουανγκιαγκουάν\, Κίνα\nDistances: 42k\, 21k\, 8.5k\nMore info: https://great-wall-marathon.com/
-LOCATION:Χουανγκιαγκουάν\, Κίνα
-SUMMARY:Great Wall Marathon
-UID:40f6c0df-dd3c-429f-9684-1d59775998f2@40f6.org
-URL:https://great-wall-marathon.com/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261025
-DESCRIPTION:31. Stra Salerno Half\nLocation: Σαλέρνο\, Ιταλία\nDistances: 21k\nMore info: https://www.visnovasalerno.it/strasalerno/
-LOCATION:Σαλέρνο\, Ιταλία
-SUMMARY:31. Stra Salerno Half
-UID:96b2ebbc-db8a-4462-9ae0-a5734479ab4b@96b2.org
-URL:https://www.visnovasalerno.it/strasalerno/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261011
-DESCRIPTION:12. Cracovia Half Marathon\nLocation: Κρακοβία\, Πολωνία\nDistances: 21k\nMore info: https://cracoviapolmaraton.pl/?hl=en
-LOCATION:Κρακοβία\, Πολωνία
-SUMMARY:12. Cracovia Half Marathon
-UID:9f93ab58-79f9-4bd3-8e34-8b6588a79439@9f93.org
-URL:https://cracoviapolmaraton.pl/?hl=en
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261115
-DESCRIPTION:Verona Marathon\nLocation: Βερόνα\, Ιταλία\nDistances: 42k\, 21k\, 10k\nMore info: https://www.veronarunmarathon.it/?lang=en
-LOCATION:Βερόνα\, Ιταλία
-SUMMARY:Verona Marathon
-UID:ad2222fa-be44-4680-a419-1a14b828891f@ad22.org
-URL:https://www.veronarunmarathon.it/?lang=en
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260919
-DESCRIPTION:Espoo Rantamaraton\nLocation: Εσποο\, Φινλανδία\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://www.rantamaraton.fi/
-LOCATION:Εσποο\, Φινλανδία
-SUMMARY:Espoo Rantamaraton
-UID:14591555-0a8b-4d7d-8e6a-2b590312d170@1459.org
-URL:https://www.rantamaraton.fi/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260906
-DESCRIPTION:Flensburg Liebt Dich Marathon\nLocation: Φλένσμπουργκ\, Γερμανία\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://flensburg-marathon.de/
-LOCATION:Φλένσμπουργκ\, Γερμανία
-SUMMARY:Flensburg Liebt Dich Marathon
-UID:dbcba0d4-a9f6-419a-838f-4e3f66fa3ff6@dbcb.org
-URL:https://flensburg-marathon.de/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260412
-DESCRIPTION:24. Oberbank Linz Donau Maraton\nLocation: Λιντς\, Αυστρία\nDistances: 42k\, 21k\, 10\, 5k\, 5k\nMore info: https://www.linzmarathon.at/en/index.html
-LOCATION:Λιντς\, Αυστρία
-SUMMARY:24. Oberbank Linz Donau Maraton
-UID:4c822087-b169-45d2-b0cc-d52e9c3dc7b4@4c82.org
-URL:https://www.linzmarathon.at/en/index.html
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260412
-DESCRIPTION:Zurich Marathon\nLocation: Ζυρίχη\, Ελβετία\nDistances: 42k\, 21k\, 10k\nMore info: https://irunmag.gr/travel/zurich-marathon-2026/
-LOCATION:Ζυρίχη\, Ελβετία
-SUMMARY:Zurich Marathon
-UID:74467800-719f-47a5-bf7a-c1ef0d59ea23@7446.org
-URL:https://irunmag.gr/travel/zurich-marathon-2026/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260131
-DESCRIPTION:Midwinter Marathon\nLocation: Απελντοορν\, Ολλανδία\nDistances: 42k\, 25k\, 16k\, 8k\nMore info: https://www.midwintermarathon.nl/en/
-LOCATION:Απελντοορν\, Ολλανδία
-SUMMARY:Midwinter Marathon
-UID:3b71c732-bbd5-4828-a632-c995bba92df6@3b71.org
-URL:https://www.midwintermarathon.nl/en/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260510
-DESCRIPTION:Cesme Half Maratonu\nLocation: Τσεσμές\, Τουρκία\nDistances: 21k\, 10k\, 5k\nMore info: https://irunmag.gr/travel/cesme-maratonu/
-LOCATION:Τσεσμές\, Τουρκία
-SUMMARY:Cesme Half Maratonu
-UID:b45bfbdf-c2a4-4030-847b-caf9c37a6258@b45b.org
-URL:https://irunmag.gr/travel/cesme-maratonu/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260419
-DESCRIPTION:Leipzig Marathon\nLocation: Λειψία\, Γερμανία\nDistances: 42k\, 21k\, 10\, 4k\nMore info: https://leipzigmarathon.de/
-LOCATION:Λειψία\, Γερμανία
-SUMMARY:Leipzig Marathon
-UID:6037f4d9-8e0a-40c5-aaaa-9c3927794623@6037.org
-URL:https://leipzigmarathon.de/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261025
-DESCRIPTION:Oldenburg Marathon\nLocation: Ολντενμπουργκ\, Γερμανία\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://oldenburg-marathon.de/
-LOCATION:Ολντενμπουργκ\, Γερμανία
-SUMMARY:Oldenburg Marathon
-UID:4057e299-1e43-4d1b-83b7-be076bb22934@4057.org
-URL:https://oldenburg-marathon.de/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260927
-DESCRIPTION:20th Stra Lugano\nLocation: 26-27/10\, Λουγκάνο\nDistances: Ελβετία\, 21k\, 10k\, 5k\, 3k\nMore info: https://www.stralugano.ch/en-home/
-LOCATION:26-27/10\, Λουγκάνο
-SUMMARY:20th Stra Lugano
-UID:5a430616-901f-4601-ac72-88091bd457fe@5a43.org
-URL:https://www.stralugano.ch/en-home/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-DESCRIPTION:1ος Μαραθώνιος Ηπείρου «Βασιλιάς Πύρρος»\nLocation: Αρτα\, Ελλάδα\nDistances: 42k\, 10k\, 5k\nMore info: https://irunmag.gr/news/marathonios-ipeirou-dynamika/
-LOCATION:Αρτα\, Ελλάδα
-SUMMARY:1ος Μαραθώνιος Ηπείρου «Βασιλιάς Πύρρος»
-UID:1fc68b99-05a5-4581-8e32-1dd192cfdb65@1fc6.org
-URL:https://irunmag.gr/news/marathonios-ipeirou-dynamika/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261220
-DESCRIPTION:27. Maratona di Pisa\nLocation: Πίζα\, Ιταλία\nDistances: 42k\, 21k\, 6\, 5k\nMore info: https://irunmag.gr/travel/27-pisa-marathon/
-LOCATION:Πίζα\, Ιταλία
-SUMMARY:27. Maratona di Pisa
-UID:d209a845-8534-45ab-a535-bc2dbfecf1e2@d209.org
-URL:https://irunmag.gr/travel/27-pisa-marathon/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260510
-DESCRIPTION:Bucharest Half Marathon\nLocation: Βουκουρέστι\, Ρουμανία\nDistances: 21k\, 10k\, 2\, 5k\nMore info: https://www.bucuresti21km.ro/en/
-LOCATION:Βουκουρέστι\, Ρουμανία
-SUMMARY:Bucharest Half Marathon
-UID:e491db1b-272f-4a45-a212-7b1d4aee23cb@e491.org
-URL:https://www.bucuresti21km.ro/en/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-DESCRIPTION:Gulf Of Saint Tropez Marathon\nLocation: Σαν Τροπέ\, Γαλλία\nDistances: 42k\, 21k\, 10k\nMore info: https://www.marathondugolfedesainttropez.com/2024/fr/
-LOCATION:Σαν Τροπέ\, Γαλλία
-SUMMARY:Gulf Of Saint Tropez Marathon
-UID:f8b94146-f9b7-4fdc-bdb7-aa060290eadf@f8b9.org
-URL:https://www.marathondugolfedesainttropez.com/2024/fr/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260419
-DESCRIPTION:10ος Μαραθώνιος Κρήτης\nLocation: Χανιά\, Ελλάδα\nDistances: 42k\, 10k\, 5k\, 2\, 5k\nMore info: https://irunmag.gr/races/road/10os-marathonios-kritis/
-LOCATION:Χανιά\, Ελλάδα
-SUMMARY:10ος Μαραθώνιος Κρήτης
-UID:6af7860c-b959-4d65-916b-0a87ea33b3c6@6af7.org
-URL:https://irunmag.gr/races/road/10os-marathonios-kritis/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261004
-DESCRIPTION:Kosice Marathon\nLocation: Κόζιτσε\, Σλοβακία\nDistances: 42k\, 21k\nMore info: https://www.kosicemarathon.com/
-LOCATION:Κόζιτσε\, Σλοβακία
-SUMMARY:Kosice Marathon
-UID:b84add72-feab-4a11-aafd-fbbfb7fb7e81@b84a.org
-URL:https://www.kosicemarathon.com/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260510
-DESCRIPTION:Rob Burrow Leeds Marathon\nLocation: Λιντς\, Αγγλία\nDistances: 42k\, 21k\nMore info: https://www.runforall.com/events/marathon/leeds-marathon/
-LOCATION:Λιντς\, Αγγλία
-SUMMARY:Rob Burrow Leeds Marathon
-UID:1466d866-54fb-4047-91a7-1e0086a64ea4@1466.org
-URL:https://www.runforall.com/events/marathon/leeds-marathon/
+DTSTART;VALUE=DATE:20260829
+DESCRIPTION:Rauhalahti Kuopio Marathon\nLocation: Κούοπιο\, Φινλανδία\nDistances: 42k\, 21k\, 10k\nMore info: https://www.kuopiomaraton.com/
+LOCATION:Κούοπιο\, Φινλανδία
+SUMMARY:Rauhalahti Kuopio Marathon
+UID:ae6c44f9-077f-4293-b657-6c27262ffe0c@ae6c.org
+URL:https://www.kuopiomaraton.com/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260404
 DESCRIPTION:Easter Saturday Marathon\nLocation: Μίλτον Κέινς\, Αγγλία\nDistances: 42k\, 21k\nMore info: http://www.enigmarunning.co.uk/events/2026_Easter.shtml?fbclid=IwY2xjawMsnZ5leHRuA2FlbQIxMABicmlkETFTdWFPRXlsYnNiaTMzTEk5AR6kYO_txWmiKqCQJKF7qJ7JHwvhxXEPqUtSHIRFc6wZRVK_It9e5cgumEgPUA_aem_7pbHM9xptcWXMRKh4lWdKQ
 LOCATION:Μίλτον Κέινς\, Αγγλία
 SUMMARY:Easter Saturday Marathon
-UID:cf9ca2f1-a1e3-4b1d-9744-1a64beab85e0@cf9c.org
+UID:cff3a958-a484-4b62-aa68-8d6d2eda353a@cff3.org
 URL:http://www.enigmarunning.co.uk/events/2026_Easter.shtml?fbclid=IwY2xjawMsnZ5leHRuA2FlbQIxMABicmlkETFTdWFPRXlsYnNiaTMzTEk5AR6kYO_txWmiKqCQJKF7qJ7JHwvhxXEPqUtSHIRFc6wZRVK_It9e5cgumEgPUA_aem_7pbHM9xptcWXMRKh4lWdKQ
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261129
-DESCRIPTION:Torino City Marathon\nLocation: Τορίνο\, Ιταλία\nDistances: 42k\, 21k\, 5k\nMore info: https://irunmag.gr/travel/torino-marathon-2026/
-LOCATION:Τορίνο\, Ιταλία
-SUMMARY:Torino City Marathon
-UID:f25464f7-eb4f-4b47-8724-c713d38817e0@f254.org
-URL:https://irunmag.gr/travel/torino-marathon-2026/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260426
-DESCRIPTION:Abalone Marathon de Nantes\nLocation: Ναντ\, Γαλλία\nMore info: https://marathondenantes.com/
-LOCATION:Ναντ\, Γαλλία
-SUMMARY:Abalone Marathon de Nantes
-UID:c973b3ea-d4d2-4578-89e4-b3705e81777b@c973.org
-URL:https://marathondenantes.com/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261004
-DESCRIPTION:AJ Bell Great Scottish Run\nLocation: Γλασκώβη\, Σκωτία\nDistances: 21k\, 10k\nMore info: https://www.greatrun.org/events/great-scottish-run/
-LOCATION:Γλασκώβη\, Σκωτία
-SUMMARY:AJ Bell Great Scottish Run
-UID:b8466e93-b71b-4eff-9248-4bb149f9d777@b846.org
-URL:https://www.greatrun.org/events/great-scottish-run/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261115
-DESCRIPTION:7. Maratona della Grecia Salentina\nLocation: Γκρετσία Σαλεντίνα\, Ιταλία\nDistances: 42k\, 21k\nMore info: https://www.maratonadellagreciasalentina.it/
-LOCATION:Γκρετσία Σαλεντίνα\, Ιταλία
-SUMMARY:7. Maratona della Grecia Salentina
-UID:171d0af4-26e4-4d60-b77f-8e49369dea6c@171d.org
-URL:https://www.maratonadellagreciasalentina.it/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261011
-DESCRIPTION:16th MBNA Chester Marathon\nLocation: Τσέστερ\, Αγγλία\nDistances: 42k\nMore info: https://www.activeleisureevents.co.uk/marathon
-LOCATION:Τσέστερ\, Αγγλία
-SUMMARY:16th MBNA Chester Marathon
-UID:81a6819e-5d32-447d-9905-1475bb7157a4@81a6.org
-URL:https://www.activeleisureevents.co.uk/marathon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261011
-DESCRIPTION:Wizz Air Sofia Marathon\nLocation: Σόφια\, Βουλγαρία\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://irunmag.gr/travel/43th-sofia-marathon/
-LOCATION:Σόφια\, Βουλγαρία
-SUMMARY:Wizz Air Sofia Marathon
-UID:2c25012e-553a-4f30-99cd-0b46563f23a2@2c25.org
-URL:https://irunmag.gr/travel/43th-sofia-marathon/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261018
-DESCRIPTION:Antwerp Marathon\nLocation: Αμβέρσα\, Βέλγιο\nDistances: 42k\, 21k\nMore info: https://antwerpmarathon.com/en/
-LOCATION:Αμβέρσα\, Βέλγιο
-SUMMARY:Antwerp Marathon
-UID:54b0d657-9c29-4069-b2e7-888609b1e757@54b0.org
-URL:https://antwerpmarathon.com/en/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261011
-DESCRIPTION:58th Schwarzwald Marathon\nLocation: Μπρόινλιγκεν\, Γερμανία\nDistances: 42k\, 21k\, 10k\, 5k\, 1k\nMore info: https://www.schwarzwaldmarathon.de/
-LOCATION:Μπρόινλιγκεν\, Γερμανία
-SUMMARY:58th Schwarzwald Marathon
-UID:4be98aa3-aa22-464a-b4a4-a4485504b12c@4be9.org
-URL:https://www.schwarzwaldmarathon.de/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261025
-DESCRIPTION:Swiss City Marathon\nLocation: Λουκέρνη\, Ελβετία\nDistances: 42k\, 21k\, 10k\nMore info: https://www.swisscitymarathon.ch/en/
-LOCATION:Λουκέρνη\, Ελβετία
-SUMMARY:Swiss City Marathon
-UID:8efc7715-a6be-487e-93e5-aea626ebf56d@8efc.org
-URL:https://www.swisscitymarathon.ch/en/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260516
-DESCRIPTION:ING Night Marathon Luxembourg\nLocation: Λουξεμβούργο\, 42k\nDistances: 21k\, 5k\, 4\, 2k\, 1k\nMore info: https://www.ing-night-marathon.lu/en.html
-LOCATION:Λουξεμβούργο\, 42k
-SUMMARY:ING Night Marathon Luxembourg
-UID:32295950-1c57-487c-9f6f-b88affa53c13@3229.org
-URL:https://www.ing-night-marathon.lu/en.html
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260517
-DESCRIPTION:34. 3Länder Lauf\nLocation: Βασιλεία\, Ελβετία\nDistances: 42k\, 21k\, 10k\nMore info: https://3laenderlauf.org/en/home/
-LOCATION:Βασιλεία\, Ελβετία
-SUMMARY:34. 3Länder Lauf
-UID:400cf2bb-2d62-4564-94de-f24cab24a5e3@400c.org
-URL:https://3laenderlauf.org/en/home/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261018
-DESCRIPTION:22th TUI Palma Marathon Mallorca\nLocation: Μαγιόρκα\, Ισπανία\nDistances: 42k\, 21k\, 10k\nMore info: https://www.palmademallorcamarathon.com/
-LOCATION:Μαγιόρκα\, Ισπανία
-SUMMARY:22th TUI Palma Marathon Mallorca
-UID:2446f6e0-7426-4de0-8dbe-4cd3e5ec6965@2446.org
-URL:https://www.palmademallorcamarathon.com/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260412
-DESCRIPTION:21st Freiburg Marathon\nLocation: Φράιμπουργκ\, Γερμανία\nDistances: 42k\, 21k\, 10k\nMore info: https://www.mein-freiburgmarathon.de/
-LOCATION:Φράιμπουργκ\, Γερμανία
-SUMMARY:21st Freiburg Marathon
-UID:3b50706b-e4de-4ccb-8e93-bf39018558d3@3b50.org
-URL:https://www.mein-freiburgmarathon.de/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261017
-DESCRIPTION:Bilbao Running Fest\nLocation: Μπιλμπάο\, Ισπανία\nDistances: 21k\, 10k\nMore info: https://www.totalenergiesbilbaonightrun.com/en-gb
-LOCATION:Μπιλμπάο\, Ισπανία
-SUMMARY:Bilbao Running Fest
-UID:18f1f878-dfea-486c-b180-d8b62a3d3c43@18f1.org
-URL:https://www.totalenergiesbilbaonightrun.com/en-gb
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260426
-DESCRIPTION:Düsseldorf Marathon\nLocation: Ντίσελντορφ\, Γερμανία\nMore info: https://irunmag.gr/travel/dusseldorf-marathon-2026/
-LOCATION:Ντίσελντορφ\, Γερμανία
-SUMMARY:Düsseldorf Marathon
-UID:fccc82da-8e23-47a1-a1de-f5ca7271f0b1@fccc.org
-URL:https://irunmag.gr/travel/dusseldorf-marathon-2026/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261003
-DESCRIPTION:Vantaa Marathon\nLocation: Βάνταα\, Φινλανδία\nDistances: 42k\, 21k\, 10k\nMore info: https://www.vantaanmaraton.fi/
-LOCATION:Βάνταα\, Φινλανδία
-SUMMARY:Vantaa Marathon
-UID:1aa585d1-fa5c-46f6-98cc-462e9c0d0847@1aa5.org
-URL:https://www.vantaanmaraton.fi/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260510
-DESCRIPTION:20th Generali Genève Marathon\nLocation: Γενεύη\, Ελβετία\nDistances: 42k\, 21k\, 10k\, 5k\, 3k\, 2\, 5k\, 2k\, 1k\nMore info: https://www.generaligenevemarathon.com/en
-LOCATION:Γενεύη\, Ελβετία
-SUMMARY:20th Generali Genève Marathon
-UID:7c91a1df-5ecd-48e3-abe3-d18d70af7ee1@7c91.org
-URL:https://www.generaligenevemarathon.com/en
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261004
-DESCRIPTION:27th Generali Köln Marathon\nLocation: Κολωνία\, Γερμανία\nDistances: 42k\, 21k\nMore info: https://generali-koeln-marathon.de/en/events/marathon/?all-time-best=0
-LOCATION:Κολωνία\, Γερμανία
-SUMMARY:27th Generali Köln Marathon
-UID:dec0db64-0f9e-4970-bab2-0bac73b13473@dec0.org
-URL:https://generali-koeln-marathon.de/en/events/marathon/?all-time-best=0
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260815
-DESCRIPTION:35. Paavo Nurmi Marathon\nLocation: Τούρκου\, Φινλανδία\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://irunmag.gr/travel/35-paavo-nurmi-marathon/
-LOCATION:Τούρκου\, Φινλανδία
-SUMMARY:35. Paavo Nurmi Marathon
-UID:a113c9b2-c068-4f7f-a973-7a8a1d9793e6@a113.org
-URL:https://irunmag.gr/travel/35-paavo-nurmi-marathon/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261004
-DESCRIPTION:Wizz Air Skopje Marathon\nLocation: Σκόπια\, Βόρεια Μακεδονία\nDistances: 42k\, 21k\, 5k\nMore info: http://skopskimaraton.com.mk/en/
-LOCATION:Σκόπια\, Βόρεια Μακεδονία
-SUMMARY:Wizz Air Skopje Marathon
-UID:fc6531b3-9941-48ff-b691-bd9807b34db2@fc65.org
-URL:http://skopskimaraton.com.mk/en/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260426
-DESCRIPTION:Shakespeare Marathon\nLocation: Στράτφορντ Απόν Εϊβον\, Αγγλία\nMore info: https://www.shakespearemarathon.org.uk/
-LOCATION:Στράτφορντ Απόν Εϊβον\, Αγγλία
-SUMMARY:Shakespeare Marathon
-UID:b6981344-4508-47fe-ac15-fb396fd3a89e@b698.org
-URL:https://www.shakespearemarathon.org.uk/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260621
-DESCRIPTION:Waterford Viking Marathon\nLocation: Γουότερφορντ\, Ιρλανδία\nDistances: 42k\, 21k\, 10k\nMore info: https://www.waterfordvikingmarathon.com/
-LOCATION:Γουότερφορντ\, Ιρλανδία
-SUMMARY:Waterford Viking Marathon
-UID:d948b5cc-92cf-4c1a-8ef3-d89e9935fb42@d948.org
-URL:https://www.waterfordvikingmarathon.com/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261129
-DESCRIPTION:Μαραθώνιος Ολυμπίας\nLocation: 28-29/11\, Αρχαία Ολυμπία\nDistances: Ελλάδα\, 42k\, 21k\, 10k\, 3k\nMore info: https://www.olympiamarathon.gr/
-LOCATION:28-29/11\, Αρχαία Ολυμπία
-SUMMARY:Μαραθώνιος Ολυμπίας
-UID:ff96d5c2-b09a-4881-aca8-075d7c0ed675@ff96.org
-URL:https://www.olympiamarathon.gr/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260322
-DESCRIPTION:20. Polmaraton Warszawski\nLocation: Βαρσοβία\, Πολωνία\nDistances: 21k\nMore info: https://rejestracja.maratonwarszawski.com/en/
-LOCATION:Βαρσοβία\, Πολωνία
-SUMMARY:20. Polmaraton Warszawski
-UID:c27f9bb6-678e-4062-9ec4-1bdd175275b6@c27f.org
-URL:https://rejestracja.maratonwarszawski.com/en/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261122
-DESCRIPTION:11. Caserta Reggia Reggia\nLocation: Καζέρτα\, Ιταλία\nDistances: 21k\nMore info: https://reggiareggia.it/
-LOCATION:Καζέρτα\, Ιταλία
-SUMMARY:11. Caserta Reggia Reggia
-UID:8d93b866-a6ac-40f6-85f9-80b1e408d63e@8d93.org
-URL:https://reggiareggia.it/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261003
-DESCRIPTION:Skagen Marathon\nLocation: Σκάγκεν\, Δανία\nDistances: 42k\, 30k\, 21k\, 10k\, 5k\nMore info: https://www.skagenmarathon.dk/
-LOCATION:Σκάγκεν\, Δανία
-SUMMARY:Skagen Marathon
-UID:78a7f851-05b6-472a-83d5-3b4f4cc4f4f7@78a7.org
-URL:https://www.skagenmarathon.dk/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260117
-DESCRIPTION:17. Winter Marathon\nLocation: Λειψία\, Γερμανία\nDistances: 42k\, 21k\nMore info: https://wintermarathon.de/
-LOCATION:Λειψία\, Γερμανία
-SUMMARY:17. Winter Marathon
-UID:9a103562-fb82-4a6a-94bf-99abdc27fadb@9a10.org
-URL:https://wintermarathon.de/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260516
-DESCRIPTION:Helsinki City Running Day\nLocation: Ελσίνκι\, Φινλανδία\nDistances: 63k\, 42k\, 21k\, 5k\, 1k\nMore info: https://helsinkicityrunningday.fi/en/
-LOCATION:Ελσίνκι\, Φινλανδία
-SUMMARY:Helsinki City Running Day
-UID:4531032b-afe3-47c8-abd0-9928b40677e7@4531.org
-URL:https://helsinkicityrunningday.fi/en/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260125
-DESCRIPTION:31ος Ημιμαραθώνιος Σεβίλλης\nLocation: Σεβίλλη\, Ισπανία\nDistances: 21k\nMore info: https://www.mediomaratondesevilla.es/
-LOCATION:Σεβίλλη\, Ισπανία
-SUMMARY:31ος Ημιμαραθώνιος Σεβίλλης
-UID:70545a0a-1369-4627-a9c5-b515643f422f@7054.org
-URL:https://www.mediomaratondesevilla.es/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261129
-DESCRIPTION:32ος Ημιμαραθώνιος Σεβίλλης\nLocation: Σεβίλλη\, Ισπανία\nDistances: 21k\nMore info: https://www.mediomaratondesevilla.es/
-LOCATION:Σεβίλλη\, Ισπανία
-SUMMARY:32ος Ημιμαραθώνιος Σεβίλλης
-UID:cb12acf8-6a3b-4123-a2f2-d63cd419d1fc@cb12.org
-URL:https://www.mediomaratondesevilla.es/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260503
-DESCRIPTION:Prague International Marathon\nLocation: Πράγα\, Τσεχία\nDistances: 42k\nMore info: https://www.runczech.com/en/events/prague-international-marathon
-LOCATION:Πράγα\, Τσεχία
-SUMMARY:Prague International Marathon
-UID:0d2aa397-c640-43c8-8c46-7a163aec6593@0d2a.org
-URL:https://www.runczech.com/en/events/prague-international-marathon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261004
-DESCRIPTION:Manchester Half Marathon\nLocation: Μάντσεστερ\, Αγγλία\nDistances: 21k\nMore info: https://www.manchesterhalfmarathon.com/
-LOCATION:Μάντσεστερ\, Αγγλία
-SUMMARY:Manchester Half Marathon
-UID:948f4bec-14f0-4494-953b-4604708c7d0d@948f.org
-URL:https://www.manchesterhalfmarathon.com/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261115
-DESCRIPTION:9th Radisson Blu Larnaka International Marathon\nLocation: Λάρνακα\, Κύπρος\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://larnakamarathon.com/el/
-LOCATION:Λάρνακα\, Κύπρος
-SUMMARY:9th Radisson Blu Larnaka International Marathon
-UID:aae964d4-504f-4b48-b1cc-4534a1b663f8@aae9.org
-URL:https://larnakamarathon.com/el/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260327
-DESCRIPTION:Jerusalem Marathon\nLocation: Ιερουσαλήμ\, Ισραήλ\nMore info: https://jerusalem-marathon.com/en/home-page/
-LOCATION:Ιερουσαλήμ\, Ισραήλ
-SUMMARY:Jerusalem Marathon
-UID:291d5a86-840b-45c4-9cce-aefc8c010a2a@291d.org
-URL:https://jerusalem-marathon.com/en/home-page/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260419
-DESCRIPTION:Almaty Half Marathon\nLocation: Αλμάτι\, Καζακστάν\nDistances: 21k\nMore info: https://aims-worldrunning.org/countries/117.html
-LOCATION:Αλμάτι\, Καζακστάν
-SUMMARY:Almaty Half Marathon
-UID:160fb2a4-0bb8-424d-970c-b44ace920f3f@160f.org
-URL:https://aims-worldrunning.org/countries/117.html
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261025
-DESCRIPTION:Brussels Marathon\nLocation: Βρυξέλλες\, Βέλγιο\nDistances: 42k\, 21k\nMore info: https://brusselsairportmarathon.be/en/next-editions/
-LOCATION:Βρυξέλλες\, Βέλγιο
-SUMMARY:Brussels Marathon
-UID:a8cf3e09-b445-40cb-969f-4017994c1306@a8cf.org
-URL:https://brusselsairportmarathon.be/en/next-editions/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260920
-DESCRIPTION:Maratonina di Udine\nLocation: Ούντινε\, Ιταλία\nDistances: 21k\nMore info: https://maratoninadiudine.it/
-LOCATION:Ούντινε\, Ιταλία
-SUMMARY:Maratonina di Udine
-UID:dff1d5e1-f855-44c7-bb50-489de453f3e8@dff1.org
-URL:https://maratoninadiudine.it/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260510
-DESCRIPTION:47ος Copenhagen Marathon\nLocation: Κοπεγχάγη\, Δανία\nDistances: 42k\nMore info: https://irunmag.gr/travel/47-copenhagen-marathon/
-LOCATION:Κοπεγχάγη\, Δανία
-SUMMARY:47ος Copenhagen Marathon
-UID:1649b8cb-58d1-418f-a13e-044b3160b1c7@1649.org
-URL:https://irunmag.gr/travel/47-copenhagen-marathon/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260103
-DESCRIPTION:Polar Night Marathon\nLocation: Τρούμσε\, Νορβηγία\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://msm.no/en/events/polarnightmarathon/
-LOCATION:Τρούμσε\, Νορβηγία
-SUMMARY:Polar Night Marathon
-UID:dbf38b4e-3716-4560-9940-4ee0bffa6287@dbf3.org
-URL:https://msm.no/en/events/polarnightmarathon/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260405
-DESCRIPTION:19ος Μαραθώνιος Μεσσήνης\nLocation: Μεσσήνη\, Ελλάδα\nDistances: 42k\, 10k\, 3k\, 1k\nMore info: https://marathon.messini.gr/
-LOCATION:Μεσσήνη\, Ελλάδα
-SUMMARY:19ος Μαραθώνιος Μεσσήνης
-UID:7d58ac22-0e0b-49ec-8034-b12fb37a560b@7d58.org
-URL:https://marathon.messini.gr/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260530
-DESCRIPTION:adidas Stockholm Marathon\nLocation: Στοκχόλμη\, Σουηδία\nDistances: 42k\nMore info: https://irunmag.gr/travel/stockholm-marathon-2026/
-LOCATION:Στοκχόλμη\, Σουηδία
-SUMMARY:adidas Stockholm Marathon
-UID:330e8596-0238-4868-9272-dde7f13c089b@330e.org
-URL:https://irunmag.gr/travel/stockholm-marathon-2026/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261004
-DESCRIPTION:Silesia Marathon\nLocation: Χορζόφ\, Πολωνία\nDistances: 50k\, 42k\, 21k\nMore info: https://silesiamarathon.pl/en/
-LOCATION:Χορζόφ\, Πολωνία
-SUMMARY:Silesia Marathon
-UID:858161d4-e4ec-4149-b207-728544aa061d@8581.org
-URL:https://silesiamarathon.pl/en/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261010
-DESCRIPTION:Lisbon Marathon\nLocation: 10-11/10\, Λισσαβώνα\nDistances: Πορτογαλία\, 42k\, 21k\, 8k\nMore info: https://maratonaclubedeportugal.com/en/prova/edp-lisbon-marathon-2026/
-LOCATION:10-11/10\, Λισσαβώνα
-SUMMARY:Lisbon Marathon
-UID:482e205a-76fe-4787-9325-e10381d8fe4a@482e.org
-URL:https://maratonaclubedeportugal.com/en/prova/edp-lisbon-marathon-2026/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260222
-DESCRIPTION:41 Malta Marathon\nLocation: Σλιέμα\, Μάλτα\nDistances: 42k\, 21k\nMore info: https://irunmag.gr/travel/41os-marathonios-maltas-stis-22-fevrouariou-2026/
-LOCATION:Σλιέμα\, Μάλτα
-SUMMARY:41 Malta Marathon
-UID:9deb4a7b-a823-4f90-b7aa-dba7dd972817@9deb.org
-URL:https://irunmag.gr/travel/41os-marathonios-maltas-stis-22-fevrouariou-2026/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261108
-DESCRIPTION:27ος Maratona di Ravenna Citta D’ Arte\nLocation: Ραβένα\, Ιταλία\nDistances: 42k\, 21k\, 10k\, 3k\, 2k\nMore info: https://maratonadiravenna.com/wp/
-LOCATION:Ραβένα\, Ιταλία
-SUMMARY:27ος Maratona di Ravenna Citta D’ Arte
-UID:d338e937-db07-49f8-b896-5cfd5e6a0066@d338.org
-URL:https://maratonadiravenna.com/wp/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260328
-DESCRIPTION:Prague Half Marathon\nLocation: Πράγα\, Τσεχία\nMore info: https://www.runczech.com/en/events/prague-half-marathon-2025
-LOCATION:Πράγα\, Τσεχία
-SUMMARY:Prague Half Marathon
-UID:ede14190-08dd-4c70-a830-959143f19eef@ede1.org
-URL:https://www.runczech.com/en/events/prague-half-marathon-2025
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260613
-DESCRIPTION:25. LGT Alpin Marathon\nLocation: Μπέντερν\, Λίχτενσταϊν\nDistances: 42k\, 25k\nMore info: https://www.lgt-alpin-marathon.li/
-LOCATION:Μπέντερν\, Λίχτενσταϊν
-SUMMARY:25. LGT Alpin Marathon
-UID:9c3611c8-c1be-48f9-ab23-948c796c8826@9c36.org
-URL:https://www.lgt-alpin-marathon.li/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260801
-DESCRIPTION:Siberian International Marathon\nLocation: Ομσκ\, Ρωσία\nDistances: 42k\, 10k\, 2\, 5k\nMore info: https://runsim.ru/events/sibirskii-mezdunarodnyi-marafon2026
-LOCATION:Ομσκ\, Ρωσία
-SUMMARY:Siberian International Marathon
-UID:819e25e0-6a2f-4b95-b888-bc99a947e8ea@819e.org
-URL:https://runsim.ru/events/sibirskii-mezdunarodnyi-marafon2026
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260503
-DESCRIPTION:Belfast City Marathon\nLocation: Μπέλφαστ\, ΒόρειαΙρλανδία\nDistances: 42k\nMore info: https://belfastcitymarathon.com/
-LOCATION:Μπέλφαστ\, ΒόρειαΙρλανδία
-SUMMARY:Belfast City Marathon
-UID:d9f0d70d-de6e-4d2f-88bc-2a8852457ada@d9f0.org
-URL:https://belfastcitymarathon.com/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260111
-DESCRIPTION:Central Lancashire New Years Half Marathon\nLocation: Πρέστον\, Αγγλία\nDistances: 21k\nMore info: https://www.fyldecoastrunners.com/central-lancashire-new-years-half-marathon.html
-LOCATION:Πρέστον\, Αγγλία
-SUMMARY:Central Lancashire New Years Half Marathon
-UID:1523aaea-51d0-4570-8889-334cfd5cd55f@1523.org
-URL:https://www.fyldecoastrunners.com/central-lancashire-new-years-half-marathon.html
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-DESCRIPTION:15.Cluj-Napoca Marathon\nLocation: Κλουζ-Ναπόκα\, Ρουμανία\nDistances: 42k\, 21k\, 10k\, 4k\nMore info: https://maraton-cluj.ro/
-LOCATION:Κλουζ-Ναπόκα\, Ρουμανία
-SUMMARY:15.Cluj-Napoca Marathon
-UID:5493d7fd-3838-4878-8738-a88b5d2d8d81@5493.org
-URL:https://maraton-cluj.ro/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261206
-DESCRIPTION:Nature Marathonman\nLocation: Σαν Ματιέ ντε Τραβιέρ\, Γαλλία\nDistances: 42k\, 21k\, 10k\nMore info: https://www.naturemarathonman.com/
-LOCATION:Σαν Ματιέ ντε Τραβιέρ\, Γαλλία
-SUMMARY:Nature Marathonman
-UID:ca90f9bb-0bcc-4b57-8452-d5beca5900af@ca90.org
-URL:https://www.naturemarathonman.com/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-DESCRIPTION:Run For Autism Half Marathon\nLocation: Αγία Νάπα\, Κύπρος\nDistances: 21k\, 10k\, 5k\, 1k\, 500μ.\nMore info: https://irunmag.gr/travel/5o-run-for-autism-half-marathon/
-LOCATION:Αγία Νάπα\, Κύπρος
-SUMMARY:Run For Autism Half Marathon
-UID:3fd19648-2671-4f5f-aa58-8cc315d1bf7a@3fd1.org
-URL:https://irunmag.gr/travel/5o-run-for-autism-half-marathon/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261004
 DESCRIPTION:11. Telesia Half Marathon\nLocation: Τελέζε Τέρμε\, Ιταλία\nDistances: 21k\, 10k\nMore info: https://telesiasportevent.it/?fbclid=IwY2xjawQGn0NleHRuA2FlbQIxMABicmlkETE3RXZJTzJlNk1oekF5czRZc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHg33lQRaDQO6Aya1ZEP3urSZ9B9srWv1jKJN6_r_yYJ6WEiP0kbcGMhvKcPk_aem_PJrEgVS0omsxW7_Z-zNFzw
 LOCATION:Τελέζε Τέρμε\, Ιταλία
 SUMMARY:11. Telesia Half Marathon
-UID:0acca275-abb2-4587-a10d-7adc6269c347@0acc.org
+UID:b947c70a-7b3b-4836-97c3-348d9f6c566c@b947.org
 URL:https://telesiasportevent.it/?fbclid=IwY2xjawQGn0NleHRuA2FlbQIxMABicmlkETE3RXZJTzJlNk1oekF5czRZc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHg33lQRaDQO6Aya1ZEP3urSZ9B9srWv1jKJN6_r_yYJ6WEiP0kbcGMhvKcPk_aem_PJrEgVS0omsxW7_Z-zNFzw
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260419
-DESCRIPTION:18th Poznan Half Marathon\nLocation: Πόζναν\, Πολωνία\nDistances: 21k\nMore info: https://marathon.poznan.pl/en/
-LOCATION:Πόζναν\, Πολωνία
-SUMMARY:18th Poznan Half Marathon
-UID:ceaf0e76-5f0e-481c-bd8c-e8bba85a4ff9@ceaf.org
-URL:https://marathon.poznan.pl/en/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260524
-DESCRIPTION:Edinburgh Marathon Festival\nLocation: Εδιμβούργο\, Σκωτία\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://irunmag.gr/travel/emf-2026/
-LOCATION:Εδιμβούργο\, Σκωτία
-SUMMARY:Edinburgh Marathon Festival
-UID:cba56e5b-1ce9-4e96-b980-6257ecc85569@cba5.org
-URL:https://irunmag.gr/travel/emf-2026/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260419
-DESCRIPTION:43. Vienna City Marathon\nLocation: Βιέννη\, Αυστρία\nDistances: 42k\, 21k\, 5k\, 1\, 6k\, 800μ.\nMore info: https://irunmag.gr/travel/43os-marathonios-viennis/
-LOCATION:Βιέννη\, Αυστρία
-SUMMARY:43. Vienna City Marathon
-UID:baa2bb5b-d37b-4f64-a94c-e05eb4767bfa@baa2.org
-URL:https://irunmag.gr/travel/43os-marathonios-viennis/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260227
-DESCRIPTION:Tel Aviv Bank Leumi Marathon\nLocation: Τελ Αβίβ\, Ισραήλ\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://www.tlvmarathon.co.il/regTLVMarathon_en.aspx
-LOCATION:Τελ Αβίβ\, Ισραήλ
-SUMMARY:Tel Aviv Bank Leumi Marathon
-UID:5c1ca7ed-b990-4b7d-8e9b-1dad5301081b@5c1c.org
-URL:https://www.tlvmarathon.co.il/regTLVMarathon_en.aspx
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261108
-DESCRIPTION:Podgorica Millenium Run\nLocation: Ποντγκόριτσα\, Μαυροβούνιο\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://irunmag.gr/travel/podgorica-marathon/
-LOCATION:Ποντγκόριτσα\, Μαυροβούνιο
-SUMMARY:Podgorica Millenium Run
-UID:e6f53ad2-bdf5-4baf-8559-e4ab5b7779df@e6f5.org
-URL:https://irunmag.gr/travel/podgorica-marathon/
+DTSTART;VALUE=DATE:20260426
+DESCRIPTION:Shakespeare Marathon\nLocation: Στράτφορντ Απόν Εϊβον\, Αγγλία\nMore info: https://www.shakespearemarathon.org.uk/
+LOCATION:Στράτφορντ Απόν Εϊβον\, Αγγλία
+SUMMARY:Shakespeare Marathon
+UID:29e1ebb2-b84b-4d30-9843-a5e5eca6a8ee@29e1.org
+URL:https://www.shakespearemarathon.org.uk/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260322
-DESCRIPTION:Run Carlisle\nLocation: Κάρλαϊλ\, Αγγλία\nDistances: 21k\, 10k\nMore info: https://runcarlisle.co.uk/
-LOCATION:Κάρλαϊλ\, Αγγλία
-SUMMARY:Run Carlisle
-UID:9b51e74a-272f-4365-971e-e4fc58891878@9b51.org
-URL:https://runcarlisle.co.uk/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261213
-DESCRIPTION:Maratona di Reggio Emilia\nLocation: Ρέτζο Εμίλια\, Ιταλία\nDistances: 42k\, 21k\nMore info: https://www.maratonadireggioemilia.it/
-LOCATION:Ρέτζο Εμίλια\, Ιταλία
-SUMMARY:Maratona di Reggio Emilia
-UID:238daf64-727b-4780-a2fc-7f487d7153b8@238d.org
-URL:https://www.maratonadireggioemilia.it/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260118
-DESCRIPTION:Bank Of Cyprus Nicosia Marathon\nLocation: Λευκωσία\, Κύπρος\nDistances: 42k\, 21k\, 10k\, 5k\, 1k\nMore info: https://irunmag.gr/travel/nicosia-marathon-2026/
-LOCATION:Λευκωσία\, Κύπρος
-SUMMARY:Bank Of Cyprus Nicosia Marathon
-UID:5a52a029-379d-4be6-95d5-4a2085894df5@5a52.org
-URL:https://irunmag.gr/travel/nicosia-marathon-2026/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260125
-DESCRIPTION:36ος Μαραθώνιος Μαρακές\nLocation: Μαρακές\, Μαρόκο\nDistances: 42k\, 21k\nMore info: https://irunmag.gr/travel/36os-marathonios-marakes/
-LOCATION:Μαρακές\, Μαρόκο
-SUMMARY:36ος Μαραθώνιος Μαρακές
-UID:a58d8aff-c30c-4765-a51c-69fb7f89473a@a58d.org
-URL:https://irunmag.gr/travel/36os-marathonios-marakes/
+DESCRIPTION:OPAP Limassol Marathon\nLocation: 21-22/3\, Λεμεσός\nDistances: Κύπρος\, 42k\, 21k\, 10k\, 5k\, 1k\nMore info: https://irunmag.gr/travel/limassol-marathon-2026/
+LOCATION:21-22/3\, Λεμεσός
+SUMMARY:OPAP Limassol Marathon
+UID:c61724e8-0bc4-47ff-b563-bf7faaf99b49@c617.org
+URL:https://irunmag.gr/travel/limassol-marathon-2026/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260426
 DESCRIPTION:Kaunas Akropolis Maratonas\nLocation: Κάουνας\, Λιθουανία\nMore info: https://www.kaunasmarathon.lt/page
 LOCATION:Κάουνας\, Λιθουανία
 SUMMARY:Kaunas Akropolis Maratonas
-UID:f247d076-55e7-43df-8bd1-aad7344606ea@f247.org
+UID:837a2dd7-1868-4dd8-8077-f5badadba300@837a.org
 URL:https://www.kaunasmarathon.lt/page
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260920
+DESCRIPTION:42. Baden Marathon\nLocation: Καρλσρούη\, Γερμανία\nDistances: 42k\, 21k\, 6\, 1k\nMore info: https://www.badenmarathon.de/
+LOCATION:Καρλσρούη\, Γερμανία
+SUMMARY:42. Baden Marathon
+UID:b9389f7a-f3f2-4ca4-92f1-d05ced293ff3@b938.org
+URL:https://www.badenmarathon.de/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261003
+DESCRIPTION:Skagen Marathon\nLocation: Σκάγκεν\, Δανία\nDistances: 42k\, 30k\, 21k\, 10k\, 5k\nMore info: https://www.skagenmarathon.dk/
+LOCATION:Σκάγκεν\, Δανία
+SUMMARY:Skagen Marathon
+UID:8879adba-a343-4b35-a4e3-79b6e02d5564@8879.org
+URL:https://www.skagenmarathon.dk/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260822
+DESCRIPTION:BMW Helsinki Marathon\nLocation: Ελσίνκι\, Φινλανδία\nDistances: 42k\, 21k\, 10k\, 1k\nMore info: https://irunmag.gr/travel/bjorn-borg-helsinki-marathon/
+LOCATION:Ελσίνκι\, Φινλανδία
+SUMMARY:BMW Helsinki Marathon
+UID:3d0dbb5c-41a0-4987-96d5-2598ce59e6f4@3d0d.org
+URL:https://irunmag.gr/travel/bjorn-borg-helsinki-marathon/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260117
+DESCRIPTION:17. Winter Marathon\nLocation: Λειψία\, Γερμανία\nDistances: 42k\, 21k\nMore info: https://wintermarathon.de/
+LOCATION:Λειψία\, Γερμανία
+SUMMARY:17. Winter Marathon
+UID:fa5b9db0-4e37-4ea7-9db5-876128981eb2@fa5b.org
+URL:https://wintermarathon.de/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261115
+DESCRIPTION:9th Radisson Blu Larnaka International Marathon\nLocation: Λάρνακα\, Κύπρος\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://larnakamarathon.com/el/
+LOCATION:Λάρνακα\, Κύπρος
+SUMMARY:9th Radisson Blu Larnaka International Marathon
+UID:ad7422d6-d29c-411b-a6cc-869784e7447f@ad74.org
+URL:https://larnakamarathon.com/el/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260809
+DESCRIPTION:48. Monschau Marathon\nLocation: Μονσάου\, Γερμανία\nDistances: 70k\, 56k\, 42k\, 10k\nMore info: https://monschau-marathon.de/
+LOCATION:Μονσάου\, Γερμανία
+SUMMARY:48. Monschau Marathon
+UID:4d1b9968-9afb-4048-a672-af357cbc90f6@4d1b.org
+URL:https://monschau-marathon.de/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260215
+DESCRIPTION:Maratona di San Valentino\nLocation: Τέρνι\, Ιταλία\nDistances: 42k\, 21k\, 8k\, 2k\nMore info: https://www.maratonadisanvalentino.it/la-gara/
+LOCATION:Τέρνι\, Ιταλία
+SUMMARY:Maratona di San Valentino
+UID:b2c6d785-6a16-4ea5-ab4f-cbe8fdb493f6@b2c6.org
+URL:https://www.maratonadisanvalentino.it/la-gara/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260419
+DESCRIPTION:Genova Half Marathon\nLocation: Γένοβα\, Ιταλία\nDistances: 21k\, 13k\, 3k\nMore info: https://lamezzadigenova.it/
+LOCATION:Γένοβα\, Ιταλία
+SUMMARY:Genova Half Marathon
+UID:562f3e9b-2632-45ba-9a4c-8e00c23fc095@562f.org
+URL:https://lamezzadigenova.it/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260222
+DESCRIPTION:Turnbridge Wells Half Marathon\nLocation: Κεντ\, Αγγλία\nDistances: 21k\nMore info: https://www.twharriers.org.uk/tunbridge-wells-half-marathon/
+LOCATION:Κεντ\, Αγγλία
+SUMMARY:Turnbridge Wells Half Marathon
+UID:2cbb892b-30e5-433d-9867-c7fc0289d01c@2cbb.org
+URL:https://www.twharriers.org.uk/tunbridge-wells-half-marathon/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261018
+DESCRIPTION:22th TUI Palma Marathon Mallorca\nLocation: Μαγιόρκα\, Ισπανία\nDistances: 42k\, 21k\, 10k\nMore info: https://www.palmademallorcamarathon.com/
+LOCATION:Μαγιόρκα\, Ισπανία
+SUMMARY:22th TUI Palma Marathon Mallorca
+UID:708303fc-1667-4bff-a575-7137c63f0ace@7083.org
+URL:https://www.palmademallorcamarathon.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261025
+DESCRIPTION:Banja Luka Marathon\nLocation: Μπάνια Λούκα\, Βοσνία/Ερζεγοβίνη\nDistances: 42k\, 21k\, 10k\nMore info: https://www.banjalukamarathon.com/
+LOCATION:Μπάνια Λούκα\, Βοσνία/Ερζεγοβίνη
+SUMMARY:Banja Luka Marathon
+UID:a09ea531-66fd-412d-aff4-1aa496d3aa4a@a09e.org
+URL:https://www.banjalukamarathon.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260503
+DESCRIPTION:ABP Southampton Marathon\nLocation: Σαουθάμπτον\, Αγγλία\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://irunmag.gr/travel/southampton-marathon-2026/
+LOCATION:Σαουθάμπτον\, Αγγλία
+SUMMARY:ABP Southampton Marathon
+UID:3be0fc99-c417-4d03-8bd4-ec6c69bcddb5@3be0.org
+URL:https://irunmag.gr/travel/southampton-marathon-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260419
+DESCRIPTION:Deutsche Post Marathon Bonn\nLocation: Βόννη\, Γερμανία\nDistances: 42k\, 21k\, 10k\nMore info: https://www.deutschepostmarathonbonn.de/
+LOCATION:Βόννη\, Γερμανία
+SUMMARY:Deutsche Post Marathon Bonn
+UID:5adcdc7b-48b0-4f17-8bec-74cf33fcaf9d@5adc.org
+URL:https://www.deutschepostmarathonbonn.de/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261122
+DESCRIPTION:Belgrade Half Marathon\nLocation: Βελιγράδι\, Σερβία\nDistances: 21k\nMore info: https://bgdmarathon.org/?lang=en
+LOCATION:Βελιγράδι\, Σερβία
+SUMMARY:Belgrade Half Marathon
+UID:07b31b4a-6974-4574-8737-f72dd873580e@07b3.org
+URL:https://bgdmarathon.org/?lang=en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261017
+DESCRIPTION:Bilbao Running Fest\nLocation: Μπιλμπάο\, Ισπανία\nDistances: 21k\, 10k\nMore info: https://www.totalenergiesbilbaonightrun.com/en-gb
+LOCATION:Μπιλμπάο\, Ισπανία
+SUMMARY:Bilbao Running Fest
+UID:196c510b-f71d-410e-81d9-b95e05e5bf23@196c.org
+URL:https://www.totalenergiesbilbaonightrun.com/en-gb
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261122
+DESCRIPTION:Milano21\nLocation: Μιλάνο\, Ιταλία\nDistances: 21k\, 10k\nMore info: https://followyourpassion.it/en/milano21/
+LOCATION:Μιλάνο\, Ιταλία
+SUMMARY:Milano21
+UID:9e5ae764-053d-4262-9aa1-c5e2a4bf6104@9e5a.org
+URL:https://followyourpassion.it/en/milano21/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261025
+DESCRIPTION:Polar Circle Marathon\nLocation: Κάνγκερλουσουακ\, Γροιλανδία\nDistances: 42k\, 21k\nMore info: https://polar-circle-marathon.com/
+LOCATION:Κάνγκερλουσουακ\, Γροιλανδία
+SUMMARY:Polar Circle Marathon
+UID:d7963eb5-9b4b-4e52-8183-2cc01791f981@d796.org
+URL:https://polar-circle-marathon.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261017
+DESCRIPTION:Uppsala Marathon\nLocation: Ουψάλα\, Σουηδία\nDistances: 42k\, 21k\nMore info: https://www.uppsalamarathon.se/en/welcome-2/
+LOCATION:Ουψάλα\, Σουηδία
+SUMMARY:Uppsala Marathon
+UID:af4a1012-cdca-447d-bb46-f6631d8a2a3d@af4a.org
+URL:https://www.uppsalamarathon.se/en/welcome-2/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260328
+DESCRIPTION:Prague Half Marathon\nLocation: Πράγα\, Τσεχία\nDistances: 21k\nMore info: https://www.runczech.com/en/events/prague-half-marathon-2025
+LOCATION:Πράγα\, Τσεχία
+SUMMARY:Prague Half Marathon
+UID:4c545c26-a304-42fc-b0ed-ad468aabc366@4c54.org
+URL:https://www.runczech.com/en/events/prague-half-marathon-2025
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261010
+DESCRIPTION:Lisbon Marathon\nLocation: 10-11/10\, Λισσαβώνα\nDistances: Πορτογαλία\, 42k\, 21k\, 8k\nMore info: https://maratonaclubedeportugal.com/en/prova/edp-lisbon-marathon-2026/
+LOCATION:10-11/10\, Λισσαβώνα
+SUMMARY:Lisbon Marathon
+UID:e0fb88bf-e094-4597-bc51-2c2f48ca6310@e0fb.org
+URL:https://maratonaclubedeportugal.com/en/prova/edp-lisbon-marathon-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261129
+DESCRIPTION:Spijkenisse-SPARK Marathon\nLocation: Σπαϊκένισε\, Ολλανδία\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://www.ahotu.com/event/spijkenisse-spark-marathon
+LOCATION:Σπαϊκένισε\, Ολλανδία
+SUMMARY:Spijkenisse-SPARK Marathon
+UID:a9c4f4d1-f00a-47a5-a27d-d1c33fbc94b3@a9c4.org
+URL:https://www.ahotu.com/event/spijkenisse-spark-marathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260801
+DESCRIPTION:Siberian International Marathon\nLocation: Ομσκ\, Ρωσία\nDistances: 42k\, 10k\, 2\, 5k\nMore info: https://runsim.ru/events/sibirskii-mezdunarodnyi-marafon2026
+LOCATION:Ομσκ\, Ρωσία
+SUMMARY:Siberian International Marathon
+UID:2bfc781b-cc7e-4e03-80bc-28164bef862c@2bfc.org
+URL:https://runsim.ru/events/sibirskii-mezdunarodnyi-marafon2026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260927
+DESCRIPTION:52. BMW Berlin Marathon\nLocation: Βερολίνο\, Γερμανία\nDistances: 42k\nMore info: https://www.bmw-berlin-marathon.com/en/
+LOCATION:Βερολίνο\, Γερμανία
+SUMMARY:52. BMW Berlin Marathon
+UID:2fd622e5-4ab4-4fff-b3d4-53a1a5793a7d@2fd6.org
+URL:https://www.bmw-berlin-marathon.com/en/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+DESCRIPTION:Generali Berlin Half Marathon\nLocation: Βερολίνο\, Γερμανία\nDistances: 21k\nMore info: https://www.generali-berliner-halbmarathon.de/en/
+LOCATION:Βερολίνο\, Γερμανία
+SUMMARY:Generali Berlin Half Marathon
+UID:0138fba2-ec9a-42a9-bb6a-f1fff5c8c763@0138.org
+URL:https://www.generali-berliner-halbmarathon.de/en/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260905
+DESCRIPTION:Helsingborg Marathon\nLocation: Χέλσινμπορι\, Σουηδία\nDistances: 42k\, 21k\nMore info: https://helsingborgmarathon.se/en/marathon/
+LOCATION:Χέλσινμπορι\, Σουηδία
+SUMMARY:Helsingborg Marathon
+UID:90c377a2-fe78-46e1-a7ba-e5c2de75bc9d@90c3.org
+URL:https://helsingborgmarathon.se/en/marathon/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260913
+DESCRIPTION:26. Wachau Marathon\nLocation: Βαχάου\, Αυστρία\nDistances: 42k\, 21k\, 10.5k\nMore info: https://www.wachaumarathon.com/en/
+LOCATION:Βαχάου\, Αυστρία
+SUMMARY:26. Wachau Marathon
+UID:5bf74b8f-d1f3-482e-8d57-5f76ebf1c416@5bf7.org
+URL:https://www.wachaumarathon.com/en/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261025
+DESCRIPTION:26th Dresden Marathon\nLocation: Δρέσδη\, Γερμανία\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://www.dresden-marathon.com/en/
+LOCATION:Δρέσδη\, Γερμανία
+SUMMARY:26th Dresden Marathon
+UID:bb147e9d-5a27-4b89-bddf-4ecc3e8bb6af@bb14.org
+URL:https://www.dresden-marathon.com/en/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261025
+DESCRIPTION:Dublin Marathon\nLocation: Δουβλίνο\, Ιρλανδία\nDistances: 42k\nMore info: https://irishlifedublinmarathon.ie/
+LOCATION:Δουβλίνο\, Ιρλανδία
+SUMMARY:Dublin Marathon
+UID:cc21478d-001e-4cc5-8fef-af5df35e2071@cc21.org
+URL:https://irishlifedublinmarathon.ie/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260531
+DESCRIPTION:Maratonul International Sibiu\nLocation: Σίμπιου\, Ρουμανία\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://maratonsibiu.ro/
+LOCATION:Σίμπιου\, Ρουμανία
+SUMMARY:Maratonul International Sibiu
+UID:63ddb3b0-cd8f-4078-9c67-b387438c203d@63dd.org
+URL:https://maratonsibiu.ro/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260426
+DESCRIPTION:Abalone Marathon de Nantes\nLocation: Ναντ\, Γαλλία\nMore info: https://marathondenantes.com/
+LOCATION:Ναντ\, Γαλλία
+SUMMARY:Abalone Marathon de Nantes
+UID:fc2fb85a-f4e2-46d0-a590-dd015f622f66@fc2f.org
+URL:https://marathondenantes.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260905
+DESCRIPTION:Trondheim Marathon\nLocation: Τρόντχαϊμ\, Νορβηγία\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://www.trondheimmaraton.no/en/
+LOCATION:Τρόντχαϊμ\, Νορβηγία
+SUMMARY:Trondheim Marathon
+UID:06155763-cac8-46a1-841f-67e8286fac4b@0615.org
+URL:https://www.trondheimmaraton.no/en/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260913
 DESCRIPTION:19. Hyundai Porto Half Marathon\nLocation: Πόρτο\, Πορτογαλία\nDistances: 21k\, 5k\nMore info: https://www.porto-half-marathon.com/en/home.html
 LOCATION:Πόρτο\, Πορτογαλία
 SUMMARY:19. Hyundai Porto Half Marathon
-UID:84e262e6-8f40-4a22-bb59-2a384f9669ec@84e2.org
+UID:79b176bd-f7bc-4408-bda9-a2018e910e2f@79b1.org
 URL:https://www.porto-half-marathon.com/en/home.html
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260418
-DESCRIPTION:Glasgow Green Half Marathon\nLocation: Γλασκώβη\, Σκωτία\nDistances: 21k\, 10k\, 5k\nMore info: https://www.runningcalendar.co.uk/event/glasgow-green-half-marathon/
-LOCATION:Γλασκώβη\, Σκωτία
-SUMMARY:Glasgow Green Half Marathon
-UID:51df82cc-331c-4fee-a128-8c5c9e8a2676@51df.org
-URL:https://www.runningcalendar.co.uk/event/glasgow-green-half-marathon/
+DTSTART;VALUE=DATE:20261025
+DESCRIPTION:Oldenburg Marathon\nLocation: Ολντενμπουργκ\, Γερμανία\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://oldenburg-marathon.de/
+LOCATION:Ολντενμπουργκ\, Γερμανία
+SUMMARY:Oldenburg Marathon
+UID:8ff83d32-8ce7-4db7-847d-b3d5f70ffa61@8ff8.org
+URL:https://oldenburg-marathon.de/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260503
+DESCRIPTION:AJ Bell Birmingham Run\nLocation: Μπέρμιγχαμ\, Αγγλία\nDistances: 21k\, 10k\nMore info: https://www.greatrun.org/events/great-birmingham-run/
+LOCATION:Μπέρμιγχαμ\, Αγγλία
+SUMMARY:AJ Bell Birmingham Run
+UID:9511a5cc-734f-4aca-893c-de873b8db41d@9511.org
+URL:https://www.greatrun.org/events/great-birmingham-run/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260920
+DESCRIPTION:Belfast City Half Marathon\nLocation: Μπέλφαστ\, Βόρεια Ιρλανδία\nDistances: 21k\nMore info: https://belfastcitymarathon.com/events/half-marathon
+LOCATION:Μπέλφαστ\, Βόρεια Ιρλανδία
+SUMMARY:Belfast City Half Marathon
+UID:45d6aa56-16a2-4eaa-9b89-92a966cf456e@45d6.org
+URL:https://belfastcitymarathon.com/events/half-marathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260913
+DESCRIPTION:37. Tallinna Maraton\nLocation: 12-13/9\, Τάλιν\nDistances: Εσθονία\, 42k\, 21k\, 10k\, 5k\nMore info: https://irunmag.gr/travel/37-tallinn-marathon/
+LOCATION:12-13/9\, Τάλιν
+SUMMARY:37. Tallinna Maraton
+UID:c0dce1ea-c69f-4aa4-878c-d34ddb18570e@c0dc.org
+URL:https://irunmag.gr/travel/37-tallinn-marathon/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260419
+DESCRIPTION:Marathon Annecy Lake\nLocation: Ανεσί\, Γαλλία\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://event.ahsa-athletisme.com/language/en/races-en/annecy-lake-marathon/
+LOCATION:Ανεσί\, Γαλλία
+SUMMARY:Marathon Annecy Lake
+UID:0489a580-2559-4c42-8a3e-a023c32c29b5@0489.org
+URL:https://event.ahsa-athletisme.com/language/en/races-en/annecy-lake-marathon/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260606
+DESCRIPTION:Spitzbergen Marathon\nLocation: Σβάλμπαρ\, Νορβηγία\nDistances: 42k\, 21k\, 10k\, 4k\nMore info: https://spitsbergenmarathon.no/
+LOCATION:Σβάλμπαρ\, Νορβηγία
+SUMMARY:Spitzbergen Marathon
+UID:68a43c2a-f24a-47ee-891f-810ba8d617f5@68a4.org
+URL:https://spitsbergenmarathon.no/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260412
+DESCRIPTION:44ος NN Marathon Rotterdam\nLocation: Ρότερνταμ\, Ολλανδία\nDistances: 42k\, 10\, 5k\, 4\, 2k\nMore info: https://www.nnmarathonrotterdam.org/
+LOCATION:Ρότερνταμ\, Ολλανδία
+SUMMARY:44ος NN Marathon Rotterdam
+UID:0f114ad9-d3a2-41a1-8d32-6f76527e8830@0f11.org
+URL:https://www.nnmarathonrotterdam.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261004
+DESCRIPTION:Kosice Marathon\nLocation: Κόζιτσε\, Σλοβακία\nDistances: 42k\, 21k\nMore info: https://www.kosicemarathon.com/
+LOCATION:Κόζιτσε\, Σλοβακία
+SUMMARY:Kosice Marathon
+UID:24b55939-f32d-4462-a1e6-fb89270d10c6@24b5.org
+URL:https://www.kosicemarathon.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261011
+DESCRIPTION:Pisa Half Marathon\nLocation: Πίζα\, Ιταλία\nDistances: 21k\nMore info: https://www.mezzamaratonapisa.it/en
+LOCATION:Πίζα\, Ιταλία
+SUMMARY:Pisa Half Marathon
+UID:25cbc3fd-c8ca-4f3a-8cad-0671eb5d0148@25cb.org
+URL:https://www.mezzamaratonapisa.it/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260412
+DESCRIPTION:ADAC Hannover Marathon\nLocation: Ανόβερο\, Γερμανία\nDistances: 42k\, 21k\, 10k\nMore info: https://www.marathon-hannover.de/index.html
+LOCATION:Ανόβερο\, Γερμανία
+SUMMARY:ADAC Hannover Marathon
+UID:510a8fd3-dca3-4a80-83d6-1e7ca8746171@510a.org
+URL:https://www.marathon-hannover.de/index.html
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260510
+DESCRIPTION:Bucharest Half Marathon\nLocation: Βουκουρέστι\, Ρουμανία\nDistances: 21k\, 10k\, 2\, 5k\nMore info: https://www.bucuresti21km.ro/en/
+LOCATION:Βουκουρέστι\, Ρουμανία
+SUMMARY:Bucharest Half Marathon
+UID:86e49cfc-7abb-402b-9a71-2d73a4481a65@86e4.org
+URL:https://www.bucuresti21km.ro/en/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260531
+DESCRIPTION:Cork City Marathon\nLocation: Κορκ\, Ιρλανδία\nDistances: 42k\, 21k\, 10k\nMore info: https://www.corkcity.ie/en/cork-city-marathon/
+LOCATION:Κορκ\, Ιρλανδία
+SUMMARY:Cork City Marathon
+UID:b90f7b18-75a1-4727-bc7f-ddb9505e5957@b90f.org
+URL:https://www.corkcity.ie/en/cork-city-marathon/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260322
+DESCRIPTION:Run Carlisle\nLocation: Κάρλαϊλ\, Αγγλία\nDistances: 21k\, 10k\nMore info: https://runcarlisle.co.uk/
+LOCATION:Κάρλαϊλ\, Αγγλία
+SUMMARY:Run Carlisle
+UID:fa64b3ef-3140-4587-accd-fb0b0c62409d@fa64.org
+URL:https://runcarlisle.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260510
+DESCRIPTION:35th Leiden Marathon\nLocation: Λέιντεν\, Ολλανδία\nDistances: 42k\, 21k\, 10k\, 5k\, 2k\nMore info: https://marathon.nl/en/home-english/
+LOCATION:Λέιντεν\, Ολλανδία
+SUMMARY:35th Leiden Marathon
+UID:cfbb24df-e4d7-4488-9481-4f8047a2f5d2@cfbb.org
+URL:https://marathon.nl/en/home-english/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260906
+DESCRIPTION:41st Wizz Air Budapest Half Marathon\nLocation: Βουδαπέστη\, Ουγγαρία\nDistances: 21k\, 10k\nMore info: https://halfmarathon.runinbudapest.com/wizz-air-budapest-half-marathon-2026/#:~:text=41th%20Wizz%20Air%20Budapest%20Half\,as%20well%20as%20the%20relays.
+LOCATION:Βουδαπέστη\, Ουγγαρία
+SUMMARY:41st Wizz Air Budapest Half Marathon
+UID:ee777ffb-96cf-4ed2-9f6c-bd3176fd5397@ee77.org
+URL:https://halfmarathon.runinbudapest.com/wizz-air-budapest-half-marathon-2026/#:~:text=41th%20Wizz%20Air%20Budapest%20Half\,as%20well%20as%20the%20relays.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260503
+DESCRIPTION:Newcastle-Gateshead Marathon\nLocation: Νιούκαστλ\, Αγγλία\nDistances: 42k\, 21k\, 10k\nMore info: https://www.newcastlegatesheadmarathon.com/
+LOCATION:Νιούκαστλ\, Αγγλία
+SUMMARY:Newcastle-Gateshead Marathon
+UID:36a399a8-f15a-4f17-8984-33096f533fb3@36a3.org
+URL:https://www.newcastlegatesheadmarathon.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260322
+DESCRIPTION:La Valette Marathon\nLocation: Βαλέτα\, Μάλτα\nDistances: 42k\, 21k\, 10k\nMore info: https://lavalettemarathon.com/
+LOCATION:Βαλέτα\, Μάλτα
+SUMMARY:La Valette Marathon
+UID:5da5fa4f-883d-402f-b347-62cbd8229796@5da5.org
+URL:https://lavalettemarathon.com/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261108
 DESCRIPTION:18e Marathon des Alpes Maritimes Nice-Cannes\nLocation: Νίκαια\, Κάννες\nDistances: Γαλλία\, 42k\, 2x21k\, 20k\nMore info: https://www.marathon06.com/2024/#
 LOCATION:Νίκαια\, Κάννες
 SUMMARY:18e Marathon des Alpes Maritimes Nice-Cannes
-UID:8c79a608-f1ea-4de5-9caa-693c1995def2@8c79.org
+UID:0c72e4d6-2060-425c-a7b2-71d72d7e6cc9@0c72.org
 URL:https://www.marathon06.com/2024/#
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260830
+DESCRIPTION:26th Abbott Longford Marathon\nLocation: Λόνγκφορντ\, Ιρλανδία\nDistances: 63k\, 42k\, 21k\, 5k\nMore info: https://longfordmarathon.com/enter/
+LOCATION:Λόνγκφορντ\, Ιρλανδία
+SUMMARY:26th Abbott Longford Marathon
+UID:e857843a-ce26-4904-99b6-48a933f7e0c0@e857.org
+URL:https://longfordmarathon.com/enter/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261011
+DESCRIPTION:Kleine Zeitung Graz Marathon\nLocation: Γκρατς\, Αυστρία\nDistances: 42k\, 21k\, 10\, 5k\, 5k\nMore info: https://www.grazmarathon.at/
+LOCATION:Γκρατς\, Αυστρία
+SUMMARY:Kleine Zeitung Graz Marathon
+UID:1124b909-2a4d-4473-93e1-8951c8611084@1124.org
+URL:https://www.grazmarathon.at/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261025
+DESCRIPTION:31. Stra Salerno Half\nLocation: Σαλέρνο\, Ιταλία\nDistances: 21k\nMore info: https://www.visnovasalerno.it/strasalerno/
+LOCATION:Σαλέρνο\, Ιταλία
+SUMMARY:31. Stra Salerno Half
+UID:713f8c40-78e7-47b3-9818-25ce70472041@713f.org
+URL:https://www.visnovasalerno.it/strasalerno/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261004
+DESCRIPTION:Manchester Half Marathon\nLocation: Μάντσεστερ\, Αγγλία\nDistances: 21k\nMore info: https://www.manchesterhalfmarathon.com/
+LOCATION:Μάντσεστερ\, Αγγλία
+SUMMARY:Manchester Half Marathon
+UID:0a66a69a-bae5-4c9e-8d9b-56d4a5a9052f@0a66.org
+URL:https://www.manchesterhalfmarathon.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261108
+DESCRIPTION:Podgorica Millenium Run\nLocation: Ποντγκόριτσα\, Μαυροβούνιο\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://irunmag.gr/travel/podgorica-marathon/
+LOCATION:Ποντγκόριτσα\, Μαυροβούνιο
+SUMMARY:Podgorica Millenium Run
+UID:b18d7788-fc83-48df-9660-935a9f8391b1@b18d.org
+URL:https://irunmag.gr/travel/podgorica-marathon/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260412
+DESCRIPTION:Zurich Marathon\nLocation: Ζυρίχη\, Ελβετία\nDistances: 42k\, 21k\, 10k\nMore info: https://irunmag.gr/travel/zurich-marathon-2026/
+LOCATION:Ζυρίχη\, Ελβετία
+SUMMARY:Zurich Marathon
+UID:1e6730e4-8934-40dc-b994-022397a59d78@1e67.org
+URL:https://irunmag.gr/travel/zurich-marathon-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261025
+DESCRIPTION:Galaxy Vladivostok Marathon\nLocation: Βλαδιβοστόκ\, Ρωσία\nDistances: 42k\, 28k\, 21k\, 10k\, 7k\, 3k\, 1k\nMore info: https://galaxymarathon.com/25en
+LOCATION:Βλαδιβοστόκ\, Ρωσία
+SUMMARY:Galaxy Vladivostok Marathon
+UID:b8543b1b-1048-4918-b51c-92ff1dcacbc0@b854.org
+URL:https://galaxymarathon.com/25en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260328
+DESCRIPTION:10th Venice Trail\nLocation: Βενετία\, Ιταλία\nMore info: https://irunmag.gr/travel/10th-venice-night-trail/
+LOCATION:Βενετία\, Ιταλία
+SUMMARY:10th Venice Trail
+UID:1bd1a292-dbeb-431b-8573-62d33c3642f2@1bd1.org
+URL:https://irunmag.gr/travel/10th-venice-night-trail/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260426
+DESCRIPTION:Blackpool Festival Marathon\nLocation: 25-26/4\, Μπλάκπουλ\nDistances: Αγγλία\nMore info: https://www.runblackpoolfestival.com/
+LOCATION:25-26/4\, Μπλάκπουλ
+SUMMARY:Blackpool Festival Marathon
+UID:bc0bd889-c62e-4e21-b805-7694683964fd@bc0b.org
+URL:https://www.runblackpoolfestival.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260920
+DESCRIPTION:Maratonina di Udine\nLocation: Ούντινε\, Ιταλία\nDistances: 21k\nMore info: https://maratoninadiudine.it/
+LOCATION:Ούντινε\, Ιταλία
+SUMMARY:Maratonina di Udine
+UID:9c8ce719-9c76-46f0-a1d9-bf7ac133ee74@9c8c.org
+URL:https://maratoninadiudine.it/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260503
+DESCRIPTION:Great Limerick Run\nLocation: Λίμερικ\, Ιρλανδία\nDistances: 42k\, 21k\, 9\, 6k\nMore info: https://greatlimerickrun.com/
+LOCATION:Λίμερικ\, Ιρλανδία
+SUMMARY:Great Limerick Run
+UID:e62ede4d-0d85-42af-8698-ac7196e87f7f@e62e.org
+URL:https://greatlimerickrun.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260516
+DESCRIPTION:44. Three Hearts Marathon\nLocation: Ραντέντσι\, Σλοβενία\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://www.maraton-radenci.si/en/
+LOCATION:Ραντέντσι\, Σλοβενία
+SUMMARY:44. Three Hearts Marathon
+UID:465ea725-558b-4aea-be42-0a2e550818ae@465e.org
+URL:https://www.maraton-radenci.si/en/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260829
+DESCRIPTION:Jönköping Marathon\nLocation: Γιονσέπινγκ\, Σουηδία\nDistances: 42k\, 21k\nMore info: https://jonkopingmarathon.se/en/
+LOCATION:Γιονσέπινγκ\, Σουηδία
+SUMMARY:Jönköping Marathon
+UID:05a88181-61e1-487e-abdd-27dd7a8e1432@05a8.org
+URL:https://jonkopingmarathon.se/en/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260201
+DESCRIPTION:Warwick Half Marathon\nLocation: Γουόργουικ\, Αγγλία\nDistances: 21k\nMore info: https://www.warwickhalf.com/
+LOCATION:Γουόργουικ\, Αγγλία
+SUMMARY:Warwick Half Marathon
+UID:56f0716d-900f-420f-8487-ea4eeac63955@56f0.org
+URL:https://www.warwickhalf.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260801
+DESCRIPTION:Hella Marathon Nacht Rostock\nLocation: Ροστόκ\, Γερμανία\nDistances: 42k\, 21k\, 7\, 7k\, 1\, 7k\nMore info: https://www.rostocker-marathon-nacht.com/
+LOCATION:Ροστόκ\, Γερμανία
+SUMMARY:Hella Marathon Nacht Rostock
+UID:7345f9e7-b77f-46dc-a4a4-9d09bb3ab390@7345.org
+URL:https://www.rostocker-marathon-nacht.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261108
+DESCRIPTION:Maratona do Porto\nLocation: Πόρτο\, Πορτογαλία\nDistances: 42k\, 10k\, 6k\nMore info: https://www.maratonadoporto.com/en/
+LOCATION:Πόρτο\, Πορτογαλία
+SUMMARY:Maratona do Porto
+UID:44bb584a-e6d4-4024-9a08-5793e03255b1@44bb.org
+URL:https://www.maratonadoporto.com/en/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260215
+DESCRIPTION:Split Marathon\nLocation: Σπλιτ\, Κροατία\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://www.splitmarathon.com/marathon/?lang=en
+LOCATION:Σπλιτ\, Κροατία
+SUMMARY:Split Marathon
+UID:a16e5b46-fe0c-464a-a804-c4eb594885fb@a16e.org
+URL:https://www.splitmarathon.com/marathon/?lang=en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260516
+DESCRIPTION:ING Night Marathon Luxembourg\nLocation: Λουξεμβούργο\, 42k\nDistances: 21k\, 5k\, 4\, 2k\, 1k\nMore info: https://www.ing-night-marathon.lu/en.html
+LOCATION:Λουξεμβούργο\, 42k
+SUMMARY:ING Night Marathon Luxembourg
+UID:51610048-2894-4a45-915b-edffbf2e3af0@5161.org
+URL:https://www.ing-night-marathon.lu/en.html
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260412
+DESCRIPTION:24th Milano Marathon\nLocation: Μιλάνο\, Ιταλία\nDistances: 42k\nMore info: https://irunmag.gr/travel/24th-milano-marathon/
+LOCATION:Μιλάνο\, Ιταλία
+SUMMARY:24th Milano Marathon
+UID:0dd59fb1-61a9-4468-a3be-9e96cb329db1@0dd5.org
+URL:https://irunmag.gr/travel/24th-milano-marathon/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261025
+DESCRIPTION:Lausanne Marathon\nLocation: Λωζάννη\, Ελβετία\nDistances: 42k\, 21k\, 10k\nMore info: https://en.lausanne-marathon.com/
+LOCATION:Λωζάννη\, Ελβετία
+SUMMARY:Lausanne Marathon
+UID:a70febec-f13a-4633-adf0-6b80ab63b17d@a70f.org
+URL:https://en.lausanne-marathon.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261025
+DESCRIPTION:Brussels Marathon\nLocation: Βρυξέλλες\, Βέλγιο\nDistances: 42k\, 21k\nMore info: https://brusselsairportmarathon.be/en/next-editions/
+LOCATION:Βρυξέλλες\, Βέλγιο
+SUMMARY:Brussels Marathon
+UID:4f4816f2-6be5-4dc0-b7b4-a2639966c41b@4f48.org
+URL:https://brusselsairportmarathon.be/en/next-editions/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261108
+DESCRIPTION:27ος Maratona di Ravenna Citta D’ Arte\nLocation: Ραβένα\, Ιταλία\nDistances: 42k\, 21k\, 10k\, 3k\, 2k\nMore info: https://maratonadiravenna.com/wp/
+LOCATION:Ραβένα\, Ιταλία
+SUMMARY:27ος Maratona di Ravenna Citta D’ Arte
+UID:83140ddf-140d-4b8f-bc25-b7958aa42312@8314.org
+URL:https://maratonadiravenna.com/wp/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260510
+DESCRIPTION:20th Generali Genève Marathon\nLocation: Γενεύη\, Ελβετία\nDistances: 42k\, 21k\, 10k\, 5k\, 3k\, 2\, 5k\, 2k\, 1k\nMore info: https://www.generaligenevemarathon.com/en
+LOCATION:Γενεύη\, Ελβετία
+SUMMARY:20th Generali Genève Marathon
+UID:bd366be5-08db-4e40-941b-e363ecb72184@bd36.org
+URL:https://www.generaligenevemarathon.com/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260426
+DESCRIPTION:40ός Μαραθώνιος Αμβούργου\nLocation: Αμβούργο\, Γερμανία\nMore info: https://haspa-marathon-hamburg.de/en/
+LOCATION:Αμβούργο\, Γερμανία
+SUMMARY:40ός Μαραθώνιος Αμβούργου
+UID:5eb410bc-f2b1-4394-9e9c-88ddfa31be79@5eb4.org
+URL:https://haspa-marathon-hamburg.de/en/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260103
+DESCRIPTION:Polar Night Marathon\nLocation: Τρούμσε\, Νορβηγία\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://msm.no/en/events/polarnightmarathon/
+LOCATION:Τρούμσε\, Νορβηγία
+SUMMARY:Polar Night Marathon
+UID:f86a3b8c-e5e2-4f82-98f5-f96af3a8c915@f86a.org
+URL:https://msm.no/en/events/polarnightmarathon/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260516
+DESCRIPTION:15. Jesolo Moonlight Half Marathon\nLocation: Γιέσολο\, Βενετία\nDistances: Ιταλία\, 21k\, 10k\nMore info: https://www.moonlighthalfmarathon.it/en/
+LOCATION:Γιέσολο\, Βενετία
+SUMMARY:15. Jesolo Moonlight Half Marathon
+UID:e36249ef-dbb8-4106-8366-7dd825548936@e362.org
+URL:https://www.moonlighthalfmarathon.it/en/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260419
+DESCRIPTION:39. Belgrade Marathon\nLocation: Βελιγράδι\, Σερβία\nDistances: 42k\, 21k\, 10k\, 2\, 3k\nMore info: https://bgdmarathon.org/?lang=en
+LOCATION:Βελιγράδι\, Σερβία
+SUMMARY:39. Belgrade Marathon
+UID:0cfcb4a7-2c99-45e8-be75-6dbea66e773e@0cfc.org
+URL:https://bgdmarathon.org/?lang=en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261018
+DESCRIPTION:30th Ljubljana Marathon\nLocation: Λιουμπλιάνα\, Σλοβενία\nDistances: 42k\, 21k\, 10k\nMore info: https://ljubljanskimaraton.si/en/
+LOCATION:Λιουμπλιάνα\, Σλοβενία
+SUMMARY:30th Ljubljana Marathon
+UID:b23ab068-bb74-4ca4-8c0a-ee6586d1d9fc@b23a.org
+URL:https://ljubljanskimaraton.si/en/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+DESCRIPTION:Half Marathon Firenze\nLocation: Φλωρεντία\, Ιταλία\nDistances: 21k\nMore info: https://www.halfmarathonfirenze.it/en/
+LOCATION:Φλωρεντία\, Ιταλία
+SUMMARY:Half Marathon Firenze
+UID:847aab48-dc71-4c30-919b-c6ce45fc801a@847a.org
+URL:https://www.halfmarathonfirenze.it/en/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260405
+DESCRIPTION:Berat Green Half Marathon\nLocation: Μπέρατ\, Αλβανία\nDistances: 21k\, 10k\, 3k\nMore info: https://beratgreenhalfmarathon.com/
+LOCATION:Μπέρατ\, Αλβανία
+SUMMARY:Berat Green Half Marathon
+UID:1c73fa25-84a7-457c-8a47-ab15bc8ef54b@1c73.org
+URL:https://beratgreenhalfmarathon.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260607
+DESCRIPTION:Torshavn Marathon\nLocation: Τόρσαουν\, Νησιά Φερόε\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://torshavnmarathon.com/
+LOCATION:Τόρσαουν\, Νησιά Φερόε
+SUMMARY:Torshavn Marathon
+UID:6cfd8347-63ca-43e5-a76a-55e42ca1c4c9@6cfd.org
+URL:https://torshavnmarathon.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261011
+DESCRIPTION:12. Cracovia Half Marathon\nLocation: Κρακοβία\, Πολωνία\nDistances: 21k\nMore info: https://cracoviapolmaraton.pl/?hl=en
+LOCATION:Κρακοβία\, Πολωνία
+SUMMARY:12. Cracovia Half Marathon
+UID:2acc6cdf-3ebc-4a06-80c7-c4424e70c543@2acc.org
+URL:https://cracoviapolmaraton.pl/?hl=en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261031
+DESCRIPTION:Åland Marathon\nLocation: Μάριεχαμν\, Φινλανδία\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://www.alandmarathon.ax/?fbclid=IwY2xjawKrc5VleHRuA2FlbQIxMABicmlkETFCSjBmM2k4azh6bmtzdTZHAR7slGyX4WA5M6GHK5Gy6tbu1WcIN84mIRzq0AQ9s7r6yHclxjYHY154srSYYg_aem_y2T3thEQLXJms-Crx_deQw
+LOCATION:Μάριεχαμν\, Φινλανδία
+SUMMARY:Åland Marathon
+UID:442e1787-fbaa-458c-883b-89fd7ad4bd7c@442e.org
+URL:https://www.alandmarathon.ax/?fbclid=IwY2xjawKrc5VleHRuA2FlbQIxMABicmlkETFCSjBmM2k4azh6bmtzdTZHAR7slGyX4WA5M6GHK5Gy6tbu1WcIN84mIRzq0AQ9s7r6yHclxjYHY154srSYYg_aem_y2T3thEQLXJms-Crx_deQw
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261011
+DESCRIPTION:16th MBNA Chester Marathon\nLocation: Τσέστερ\, Αγγλία\nDistances: 42k\nMore info: https://www.activeleisureevents.co.uk/marathon
+LOCATION:Τσέστερ\, Αγγλία
+SUMMARY:16th MBNA Chester Marathon
+UID:b78a6e8b-1400-49aa-9e89-0a17d316a475@b78a.org
+URL:https://www.activeleisureevents.co.uk/marathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261108
+DESCRIPTION:43ος Αυθεντικός Μαραθώνιος\nLocation: 7-8/11\, Αθήνα\nDistances: Ελλάδα42k\, 10k\, 5k\, 1.2k\nMore info: https://irunmag.gr/news/43-authentic-registrations/
+LOCATION:7-8/11\, Αθήνα
+SUMMARY:43ος Αυθεντικός Μαραθώνιος
+UID:61e2b261-2fd5-4f3a-926e-258c756ea8db@61e2.org
+URL:https://irunmag.gr/news/43-authentic-registrations/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Jerusalem Marathon\nLocation: Ιερουσαλήμ\, Ισραήλ\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://jerusalem-marathon.com/en/home-page/
+LOCATION:Ιερουσαλήμ\, Ισραήλ
+SUMMARY:Jerusalem Marathon
+UID:3c9461db-68ce-44f4-bd60-6ae1e7e61251@3c94.org
+URL:https://jerusalem-marathon.com/en/home-page/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261115
+DESCRIPTION:Verona Marathon\nLocation: Βερόνα\, Ιταλία\nDistances: 42k\, 21k\, 10k\nMore info: https://www.veronarunmarathon.it/?lang=en
+LOCATION:Βερόνα\, Ιταλία
+SUMMARY:Verona Marathon
+UID:c7e8eabf-181c-4080-af18-fe6d442584b0@c7e8.org
+URL:https://www.veronarunmarathon.it/?lang=en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260419
+DESCRIPTION:Almaty Half Marathon\nLocation: Αλμάτι\, Καζακστάν\nDistances: 21k\nMore info: https://aims-worldrunning.org/countries/117.html
+LOCATION:Αλμάτι\, Καζακστάν
+SUMMARY:Almaty Half Marathon
+UID:05f416ef-b019-4665-8832-1d260bdf561c@05f4.org
+URL:https://aims-worldrunning.org/countries/117.html
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260426
+DESCRIPTION:TCS London Marathon\nLocation: Λονδίνο\, Αγγλία\nMore info: https://www.tcslondonmarathon.com/
+LOCATION:Λονδίνο\, Αγγλία
+SUMMARY:TCS London Marathon
+UID:85069e25-74e0-4b86-82f7-bc945f41d21e@8506.org
+URL:https://www.tcslondonmarathon.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260405
+DESCRIPTION:19ος Μαραθώνιος Μεσσήνης\nLocation: Μεσσήνη\, Ελλάδα\nDistances: 42k\, 10k\, 3k\, 1k\nMore info: https://marathon.messini.gr/
+LOCATION:Μεσσήνη\, Ελλάδα
+SUMMARY:19ος Μαραθώνιος Μεσσήνης
+UID:7e35d806-f2f0-4b2d-b337-d3dca11dd92a@7e35.org
+URL:https://marathon.messini.gr/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260621
+DESCRIPTION:Waterford Viking Marathon\nLocation: Γουότερφορντ\, Ιρλανδία\nDistances: 42k\, 21k\, 10k\nMore info: https://www.waterfordvikingmarathon.com/
+LOCATION:Γουότερφορντ\, Ιρλανδία
+SUMMARY:Waterford Viking Marathon
+UID:9e6b962a-42ad-4a69-92dd-57e5314b0899@9e6b.org
+URL:https://www.waterfordvikingmarathon.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260920
+DESCRIPTION:PSD Bank Halbmarathon\nLocation: Αμβούργο\, Γερμανία\nDistances: 21k\, 2\, 1k\nMore info: https://www.halb-marathon.hamburg/
+LOCATION:Αμβούργο\, Γερμανία
+SUMMARY:PSD Bank Halbmarathon
+UID:d70cec12-3788-45d7-a61a-67c6fbcbd8f9@d70c.org
+URL:https://www.halb-marathon.hamburg/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Tel Aviv Bank Leumi Marathon\nLocation: Τελ Αβίβ\, Ισραήλ\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://www.tlvmarathon.co.il/regTLVMarathon_en.aspx
+LOCATION:Τελ Αβίβ\, Ισραήλ
+SUMMARY:Tel Aviv Bank Leumi Marathon
+UID:89fd4874-7aa9-4293-b74d-0446df353204@89fd.org
+URL:https://www.tlvmarathon.co.il/regTLVMarathon_en.aspx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260405
+DESCRIPTION:Runtalya Marathon\nLocation: Αττάλεια\, Τουρκία\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://tursetsports.com/en/races/runtalya
+LOCATION:Αττάλεια\, Τουρκία
+SUMMARY:Runtalya Marathon
+UID:c5a08fac-105c-47c3-bff5-885cbae0abfb@c5a0.org
+URL:https://tursetsports.com/en/races/runtalya
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260503
+DESCRIPTION:Prague International Marathon\nLocation: Πράγα\, Τσεχία\nDistances: 42k\nMore info: https://www.runczech.com/en/events/prague-international-marathon
+LOCATION:Πράγα\, Τσεχία
+SUMMARY:Prague International Marathon
+UID:e229e939-e9ac-430a-a843-8b87c05b8add@e229.org
+URL:https://www.runczech.com/en/events/prague-international-marathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260131
+DESCRIPTION:Midwinter Marathon\nLocation: Απελντοορν\, Ολλανδία\nDistances: 42k\, 25k\, 16k\, 8k\nMore info: https://www.midwintermarathon.nl/en/
+LOCATION:Απελντοορν\, Ολλανδία
+SUMMARY:Midwinter Marathon
+UID:eb48de21-1f97-47f6-b699-34017be3d62e@eb48.org
+URL:https://www.midwintermarathon.nl/en/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260419
+DESCRIPTION:Rimini Marathon\nLocation: Ρίμινι\, Ιταλία\nDistances: 42k\, 21k\, 16k\, 7k\, 4k\nMore info: https://www.riminimarathon.it/?lang=en
+LOCATION:Ρίμινι\, Ιταλία
+SUMMARY:Rimini Marathon
+UID:e8672a55-f581-48b2-9be4-301ad2bbf3be@e867.org
+URL:https://www.riminimarathon.it/?lang=en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261025
+DESCRIPTION:40th Venicemarathon\nLocation: Βενετία\, Ιταλία\nDistances: 42k\, 21k\, 10k\nMore info: https://irunmag.gr/travel/40th-venice-marathon/
+LOCATION:Βενετία\, Ιταλία
+SUMMARY:40th Venicemarathon
+UID:8249c59a-54d9-4c91-85f5-de85b45f78c3@8249.org
+URL:https://irunmag.gr/travel/40th-venice-marathon/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260426
+DESCRIPTION:Zurich Rock n’ Roll Madrid\nLocation: Μαδρίτη\, Ισπανία\nMore info: https://rocknrollmadridrun.com/?lang=en
+LOCATION:Μαδρίτη\, Ισπανία
+SUMMARY:Zurich Rock n’ Roll Madrid
+UID:7102e24b-3727-4dff-be42-700b88a3871c@7102.org
+URL:https://rocknrollmadridrun.com/?lang=en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260419
+DESCRIPTION:18th Poznan Half Marathon\nLocation: Πόζναν\, Πολωνία\nDistances: 21k\nMore info: https://marathon.poznan.pl/en/
+LOCATION:Πόζναν\, Πολωνία
+SUMMARY:18th Poznan Half Marathon
+UID:d834d1a1-40d0-4e95-9d6c-50e1e7c9eb37@d834.org
+URL:https://marathon.poznan.pl/en/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260426
+DESCRIPTION:Düsseldorf Marathon\nLocation: Ντίσελντορφ\, Γερμανία\nMore info: https://irunmag.gr/travel/dusseldorf-marathon-2026/
+LOCATION:Ντίσελντορφ\, Γερμανία
+SUMMARY:Düsseldorf Marathon
+UID:7fc06914-b69f-4774-958b-d1f2c5d57b24@7fc0.org
+URL:https://irunmag.gr/travel/dusseldorf-marathon-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260111
+DESCRIPTION:Central Lancashire New Years Half Marathon\nLocation: Πρέστον\, Αγγλία\nDistances: 21k\nMore info: https://www.fyldecoastrunners.com/central-lancashire-new-years-half-marathon.html
+LOCATION:Πρέστον\, Αγγλία
+SUMMARY:Central Lancashire New Years Half Marathon
+UID:87ab5c7c-27d4-4c25-9c89-ba5c4c7f09a6@87ab.org
+URL:https://www.fyldecoastrunners.com/central-lancashire-new-years-half-marathon.html
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Good Friday Marathon\nLocation: Μίλτον Κέινς\, Αγγλία\nDistances: 42k\, 21k\nMore info: http://www.enigmarunning.co.uk/events/2026_Easter.shtml?fbclid=IwY2xjawMsnZ5leHRuA2FlbQIxMABicmlkETFTdWFPRXlsYnNiaTMzTEk5AR6kYO_txWmiKqCQJKF7qJ7JHwvhxXEPqUtSHIRFc6wZRVK_It9e5cgumEgPUA_aem_7pbHM9xptcWXMRKh4lWdKQ
+LOCATION:Μίλτον Κέινς\, Αγγλία
+SUMMARY:Good Friday Marathon
+UID:d03f0428-8bf0-4472-9761-96fd65807de0@d03f.org
+URL:http://www.enigmarunning.co.uk/events/2026_Easter.shtml?fbclid=IwY2xjawMsnZ5leHRuA2FlbQIxMABicmlkETFTdWFPRXlsYnNiaTMzTEk5AR6kYO_txWmiKqCQJKF7qJ7JHwvhxXEPqUtSHIRFc6wZRVK_It9e5cgumEgPUA_aem_7pbHM9xptcWXMRKh4lWdKQ
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261011
+DESCRIPTION:Bucharest Marathon\nLocation: Βουκουρέστι\, Ρουμανία\nDistances: 42k\, 21k\, 10k\, 2\, 5k\nMore info: https://irunmag.gr/travel/bucharest-marathon-2026/
+LOCATION:Βουκουρέστι\, Ρουμανία
+SUMMARY:Bucharest Marathon
+UID:1a94f61b-8972-4078-93aa-4a7af9eac6fe@1a94.org
+URL:https://irunmag.gr/travel/bucharest-marathon-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261025
+DESCRIPTION:43th Frankfurt Marathon\nLocation: Φρανκφούρτη\, Γερμανία\nDistances: 42k\, 4k\nMore info: https://irunmag.gr/travel/43-frankfurt-marathon/
+LOCATION:Φρανκφούρτη\, Γερμανία
+SUMMARY:43th Frankfurt Marathon
+UID:34cdb0a9-485f-4529-b92a-046dec8bce5f@34cd.org
+URL:https://irunmag.gr/travel/43-frankfurt-marathon/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261025
+DESCRIPTION:Swiss City Marathon\nLocation: Λουκέρνη\, Ελβετία\nDistances: 42k\, 21k\, 10k\nMore info: https://www.swisscitymarathon.ch/en/
+LOCATION:Λουκέρνη\, Ελβετία
+SUMMARY:Swiss City Marathon
+UID:f0d0509d-445d-4d7a-af60-5c0bca1f5d52@f0d0.org
+URL:https://www.swisscitymarathon.ch/en/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260927
+DESCRIPTION:48th Warsaw Marathon\nLocation: Βαρσοβία\, Πολωνία\nDistances: 42k\, 10k\nMore info: https://nnmaratonwarszawski.com/en/news/we-know-the-date-of-the-next-edition-of-the-warsaw-marathon/
+LOCATION:Βαρσοβία\, Πολωνία
+SUMMARY:48th Warsaw Marathon
+UID:b6a58ef5-7c45-48a2-8438-160d120056a3@b6a5.org
+URL:https://nnmaratonwarszawski.com/en/news/we-know-the-date-of-the-next-edition-of-the-warsaw-marathon/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261003
+DESCRIPTION:Vantaa Marathon\nLocation: Βάνταα\, Φινλανδία\nDistances: 42k\, 21k\, 10k\nMore info: https://www.vantaanmaraton.fi/
+LOCATION:Βάνταα\, Φινλανδία
+SUMMARY:Vantaa Marathon
+UID:849e5ee9-2e58-4ddf-98d4-06634aeaab36@849e.org
+URL:https://www.vantaanmaraton.fi/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260419
+DESCRIPTION:23rd Cracovia Marathon\nLocation: Κρακοβία\, Πολωνία\nDistances: 42k\, 10k\, 4\, 2k\nMore info: https://cracoviamaraton.pl/
+LOCATION:Κρακοβία\, Πολωνία
+SUMMARY:23rd Cracovia Marathon
+UID:f8725655-731b-4625-99f9-0b3d67d869a6@f872.org
+URL:https://cracoviamaraton.pl/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261025
+DESCRIPTION:Timisoara City Marathon\nLocation: Τιμισοάρα\, Ρουμανία\nDistances: 42k\, 21k\, 10\, 5k\, 4k\nMore info: https://timisoaracitymarathon.ro/
+LOCATION:Τιμισοάρα\, Ρουμανία
+SUMMARY:Timisoara City Marathon
+UID:b47af271-2bc8-4574-a2e4-d2c834b2a12b@b47a.org
+URL:https://timisoaracitymarathon.ro/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261205
+DESCRIPTION:Lanzarote International Marathon\nLocation: Λανζαρότε\, Ισπανία\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://www.lanzaroteinternationalmarathon.com/
+LOCATION:Λανζαρότε\, Ισπανία
+SUMMARY:Lanzarote International Marathon
+UID:78be0d10-f402-445d-ad81-a812817df96f@78be.org
+URL:https://www.lanzaroteinternationalmarathon.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260913
+DESCRIPTION:Rimi Vilniaus Marathon\nLocation: Βίλνιους\, Λιθουανία\nDistances: 42k\, 21k\, 10k\, 5k\, 1\, 6k\nMore info: https://www.vilniausmaratonas.lt/en/
+LOCATION:Βίλνιους\, Λιθουανία
+SUMMARY:Rimi Vilniaus Marathon
+UID:62c787ee-aeb1-4d90-a0b4-16741340973f@62c7.org
+URL:https://www.vilniausmaratonas.lt/en/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260913
+DESCRIPTION:21. swb Marathon Bremen\nLocation: Βρέμη\, Γερμανία\nDistances: 42k\, 21k\, 10k\nMore info: https://irunmag.gr/travel/21-bremen-marathon/
+LOCATION:Βρέμη\, Γερμανία
+SUMMARY:21. swb Marathon Bremen
+UID:5be65c6d-9df3-4e71-a663-dbe45d8a4d68@5be6.org
+URL:https://irunmag.gr/travel/21-bremen-marathon/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260517
+DESCRIPTION:36ος Rimi Riga Marathon\nLocation: Ρίγα\, Λετονία\nDistances: 42k\, 21k\, 10k\, 5k\, 1\, 6k\nMore info: https://irunmag.gr/travel/36-riga-marathon/
+LOCATION:Ρίγα\, Λετονία
+SUMMARY:36ος Rimi Riga Marathon
+UID:ebf45393-e542-47e3-b5c4-833747530d9c@ebf4.org
+URL:https://irunmag.gr/travel/36-riga-marathon/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260906
+DESCRIPTION:67. Ostrava City Marathon\nLocation: Οστράβα\, Τσεχία\nDistances: 42k\, 21k\, 10k\nMore info: https://ostravacitymarathon.cz/?fbclid=IwY2xjawIgUCVleHRuA2FlbQIxMAABHXnhstA-GnI12KFRcX2q8S5SnDhGIjCwkyMw01kBkaMXlAPh7kwFbiiQfw_aem_w8X2_8Gmi4TrK93KK8ckyw
+LOCATION:Οστράβα\, Τσεχία
+SUMMARY:67. Ostrava City Marathon
+UID:d37db676-e28e-44e4-a27c-79c7770ad142@d37d.org
+URL:https://ostravacitymarathon.cz/?fbclid=IwY2xjawIgUCVleHRuA2FlbQIxMAABHXnhstA-GnI12KFRcX2q8S5SnDhGIjCwkyMw01kBkaMXlAPh7kwFbiiQfw_aem_w8X2_8Gmi4TrK93KK8ckyw
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260322
+DESCRIPTION:31ος Μαραθώνιος Ρώμης\nLocation: Ρώμη\, Ιταλία\nDistances: 42k\, 5k\nMore info: https://irunmag.gr/travel/31-run-rome-the-marathon/
+LOCATION:Ρώμη\, Ιταλία
+SUMMARY:31ος Μαραθώνιος Ρώμης
+UID:61a1e6c8-d857-45ca-95d6-6d309b9843d1@61a1.org
+URL:https://irunmag.gr/travel/31-run-rome-the-marathon/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260919
+DESCRIPTION:Espoo Rantamaraton\nLocation: Εσποο\, Φινλανδία\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://www.rantamaraton.fi/
+LOCATION:Εσποο\, Φινλανδία
+SUMMARY:Espoo Rantamaraton
+UID:3a7680fd-24b8-4e61-9b9e-ed984e1bdf1d@3a76.org
+URL:https://www.rantamaraton.fi/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260412
+DESCRIPTION:Brighton Marathon Weekend\nLocation: Μπράιτον\, Αγγλία\nDistances: 42k\, 10k\nMore info: https://www.brightonmarathonweekend.co.uk/
+LOCATION:Μπράιτον\, Αγγλία
+SUMMARY:Brighton Marathon Weekend
+UID:0c5f97b7-ca6a-43cd-8fcb-ea690e2faf8d@0c5f.org
+URL:https://www.brightonmarathonweekend.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260201
+DESCRIPTION:6th Maratona Maga Circe\nLocation: Σαμπάουντια\, Ιταλία\nDistances: 42k\, 28k\, 10k\, 2.5k\nMore info: https://maratonamagacirce.it/?fbclid=IwY2xjawIXS_BleHRuA2FlbQIxMAABHbYhEob634INS5ZyHXVcCQmrlw70cwvfWIrCClAlK6_mtC4BCfr8npjrKA_aem_b77GE0Z9Htd4QHcgrdCTHg
+LOCATION:Σαμπάουντια\, Ιταλία
+SUMMARY:6th Maratona Maga Circe
+UID:e831dbeb-30fe-4957-bf6f-7ae3084978d7@e831.org
+URL:https://maratonamagacirce.it/?fbclid=IwY2xjawIXS_BleHRuA2FlbQIxMAABHbYhEob634INS5ZyHXVcCQmrlw70cwvfWIrCClAlK6_mtC4BCfr8npjrKA_aem_b77GE0Z9Htd4QHcgrdCTHg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260927
+DESCRIPTION:20th Stra Lugano\nLocation: 26-27/10\, Λουγκάνο\nDistances: Ελβετία\, 21k\, 10k\, 5k\, 3k\nMore info: https://www.stralugano.ch/en-home/
+LOCATION:26-27/10\, Λουγκάνο
+SUMMARY:20th Stra Lugano
+UID:7d457bac-afdb-4281-97d5-8eec3f8796cc@7d45.org
+URL:https://www.stralugano.ch/en-home/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260405
+DESCRIPTION:Marathon d’ Ajaccio\nLocation: Αζαξιό\, Γαλλία\nDistances: 42k\, 21k\, 10k\nMore info: https://www.aspttajaccioathletisme.fr/
+LOCATION:Αζαξιό\, Γαλλία
+SUMMARY:Marathon d’ Ajaccio
+UID:91f36bd7-f770-48db-8a14-032d36108d5e@91f3.org
+URL:https://www.aspttajaccioathletisme.fr/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261018
+DESCRIPTION:Altra Yorkshire Marathon\nLocation: Γιορκ\, Αγγλία\nDistances: 42k\nMore info: https://www.runforall.com/events/marathon/yorkshire-marathon/
+LOCATION:Γιορκ\, Αγγλία
+SUMMARY:Altra Yorkshire Marathon
+UID:f54d5b14-6d49-40d5-8e6a-b0560a58a63f@f54d.org
+URL:https://www.runforall.com/events/marathon/yorkshire-marathon/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261011
+DESCRIPTION:Munchen Marathon\nLocation: Μόναχο\, Γερμανία\nDistances: 42k\, 21k\, 10k\nMore info: https://irunmag.gr/travel/munchen-marathon/
+LOCATION:Μόναχο\, Γερμανία
+SUMMARY:Munchen Marathon
+UID:13a0c58d-62b0-41ff-ac96-0e4acc6fe494@13a0.org
+URL:https://irunmag.gr/travel/munchen-marathon/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261018
+DESCRIPTION:51st TCS Amsterdam Marathon\nLocation: Αμστερνταμ\, Ολλανδία\nDistances: 42k\, 21k\, 7.5k\nMore info: https://www.tcsamsterdammarathon.eu/
+LOCATION:Αμστερνταμ\, Ολλανδία
+SUMMARY:51st TCS Amsterdam Marathon
+UID:b5a2c5b1-d201-4e40-b3e6-91ba61aaa158@b5a2.org
+URL:https://www.tcsamsterdammarathon.eu/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260418
+DESCRIPTION:Ibiza Marathon\nLocation: Ιμπιθα\, Ισπανία\nDistances: 42k\nMore info: https://irunmag.gr/travel/8os-marathonios-ibiza/
+LOCATION:Ιμπιθα\, Ισπανία
+SUMMARY:Ibiza Marathon
+UID:07640d5d-cb95-4925-adc2-185a7fa07c6e@0764.org
+URL:https://irunmag.gr/travel/8os-marathonios-ibiza/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260215
+DESCRIPTION:Mitja Marato Barcelona\nLocation: Βαρκελώνη\, Ισπανία\nDistances: 21k\nMore info: https://irunmag.gr/travel/mitja-barcelona/
+LOCATION:Βαρκελώνη\, Ισπανία
+SUMMARY:Mitja Marato Barcelona
+UID:d81c2398-4006-4b58-b246-45797a369a6f@d81c.org
+URL:https://irunmag.gr/travel/mitja-barcelona/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260503
+DESCRIPTION:Trieste 21k\nLocation: Τριέστε\, Ιταλία\nDistances: 21k\, 7k\nMore info: https://www.trieste21k.com/en/
+LOCATION:Τριέστε\, Ιταλία
+SUMMARY:Trieste 21k
+UID:5164d25b-6a87-4acc-80ec-ccdfcdc80632@5164.org
+URL:https://www.trieste21k.com/en/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261011
+DESCRIPTION:41st Spar Budapest Marathon\nLocation: Βουδαπέστη\, Ουγγαρία\nDistances: 42k\, 30k\, 21k\, 14k\, 10k\, 5k\nMore info: https://www.sparbudapestmaraton.hu/spar-budapest-maraton-2026/
+LOCATION:Βουδαπέστη\, Ουγγαρία
+SUMMARY:41st Spar Budapest Marathon
+UID:de94a1da-b4e9-4871-92da-43254b5b96c5@de94.org
+URL:https://www.sparbudapestmaraton.hu/spar-budapest-maraton-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260913
+DESCRIPTION:Tampere Marathon\nLocation: Τάμπερε\, Φινλανδία\nDistances: 42k\, 21k\, 10\, 5k\nMore info: https://www.tampereenmaratonklubi.com/tamperemaraton/?fbclid=PAZXh0bgNhZW0CMTEAAafOb8pQ5MCRi2hmOtBNXMfyVDpi0OJH88hqybTt8HnKZC1PxvOrKfVykViwKg_aem_PVgHz6snu6qLDlUhm8Blog
+LOCATION:Τάμπερε\, Φινλανδία
+SUMMARY:Tampere Marathon
+UID:0a8e7bc6-7556-46fa-b886-329578f81c34@0a8e.org
+URL:https://www.tampereenmaratonklubi.com/tamperemaraton/?fbclid=PAZXh0bgNhZW0CMTEAAafOb8pQ5MCRi2hmOtBNXMfyVDpi0OJH88hqybTt8HnKZC1PxvOrKfVykViwKg_aem_PVgHz6snu6qLDlUhm8Blog
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+DESCRIPTION:15.Cluj-Napoca Marathon\nLocation: Κλουζ-Ναπόκα\, Ρουμανία\nDistances: 42k\, 21k\, 10k\, 4k\nMore info: https://maraton-cluj.ro/
+LOCATION:Κλουζ-Ναπόκα\, Ρουμανία
+SUMMARY:15.Cluj-Napoca Marathon
+UID:ce84e4bc-2365-465d-8a57-58d7b81d6359@ce84.org
+URL:https://maraton-cluj.ro/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260516
+DESCRIPTION:Great Wall Marathon\nLocation: Χουανγκιαγκουάν\, Κίνα\nDistances: 42k\, 21k\, 8.5k\nMore info: https://great-wall-marathon.com/
+LOCATION:Χουανγκιαγκουάν\, Κίνα
+SUMMARY:Great Wall Marathon
+UID:a8eb53e3-aec8-41d8-a2be-6db4b582aa70@a8eb.org
+URL:https://great-wall-marathon.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260517
+DESCRIPTION:Salzburg Marathon\nLocation: Ζάλτσμπουργκ\, Αυστρία\nDistances: 42k\, 21k\, 10k\, 5\, 5k\nMore info: https://irunmag.gr/travel/23th-salzburg-marathon/
+LOCATION:Ζάλτσμπουργκ\, Αυστρία
+SUMMARY:Salzburg Marathon
+UID:e2016559-9efa-4ff8-a355-fc8043948502@e201.org
+URL:https://irunmag.gr/travel/23th-salzburg-marathon/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260607
+DESCRIPTION:Marathon de la Liberte\nLocation: Καέν\, Γαλλία\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://www.marathondelaliberte.fr/en/
+LOCATION:Καέν\, Γαλλία
+SUMMARY:Marathon de la Liberte
+UID:4a568ef1-dde7-454f-86a1-f690309eedf9@4a56.org
+URL:https://www.marathondelaliberte.fr/en/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260620
+DESCRIPTION:Aabenraa Mountain Marathon\nLocation: Ομπενρο\, Δανία\nDistances: 42k\, 21k\, 10k\, 5\, 8k\nMore info: https://bjergmarathon.dk/?lang=en
+LOCATION:Ομπενρο\, Δανία
+SUMMARY:Aabenraa Mountain Marathon
+UID:998b0202-0761-4c9d-9b25-08ad8bf26793@998b.org
+URL:https://bjergmarathon.dk/?lang=en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260912
+DESCRIPTION:Finlandia Marathon\nLocation: Γιούβασκιουλα\, Φινλανδία\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://finlandiamarathon.fi/
+LOCATION:Γιούβασκιουλα\, Φινλανδία
+SUMMARY:Finlandia Marathon
+UID:61457344-2545-4940-b279-da83a58ed54e@6145.org
+URL:https://finlandiamarathon.fi/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261025
+DESCRIPTION:Valencia Half Marathon\nLocation: Βαλένθια\, Ισπανία\nDistances: 21k\nMore info: https://www.valenciaciudaddelrunning.com/en/half/half-marathon/
+LOCATION:Βαλένθια\, Ισπανία
+SUMMARY:Valencia Half Marathon
+UID:a4feca70-9d72-4ca3-9e0b-970724161df2@a4fe.org
+URL:https://www.valenciaciudaddelrunning.com/en/half/half-marathon/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:48th Istanbul Maratonu\nLocation: Κωνσταντινούπολη\, Τουρκία\nDistances: 42k\, 15\, 5k\nMore info: https://maraton.istanbul/?lang=en
+LOCATION:Κωνσταντινούπολη\, Τουρκία
+SUMMARY:48th Istanbul Maratonu
+UID:c1bd4149-5aa5-4dc6-9fcf-0afc1f59ac91@c1bd.org
+URL:https://maraton.istanbul/?lang=en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261115
+DESCRIPTION:31st Maratona di Palermo\nLocation: Παλέρμο\, Ιταλία\nDistances: 42k\, 21k\nMore info: https://www.palermomaratona.it/
+LOCATION:Παλέρμο\, Ιταλία
+SUMMARY:31st Maratona di Palermo
+UID:7677a111-89ce-4d3a-aaaa-4956d8f8d2a5@7677.org
+URL:https://www.palermomaratona.it/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260517
+DESCRIPTION:Pescara Half Marathon\nLocation: Πεσκάρα\, Ιταλία\nDistances: 21k\, 10k\nMore info: https://www.pescarahalfmarathon.it/
+LOCATION:Πεσκάρα\, Ιταλία
+SUMMARY:Pescara Half Marathon
+UID:6b76a522-96d4-4bdd-9636-116aa235bbb0@6b76.org
+URL:https://www.pescarahalfmarathon.it/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260503
+DESCRIPTION:Kazan Marathon\nLocation: Καζάν\, Ρωσία\nDistances: 42k\, 21k\, 10k\, 3k\nMore info: https://kazan.run/
+LOCATION:Καζάν\, Ρωσία
+SUMMARY:Kazan Marathon
+UID:b7a045c2-ab95-4917-b83a-0631dc6fd92e@b7a0.org
+URL:https://kazan.run/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260201
+DESCRIPTION:Murcia Marathon\nLocation: Μούρθια\, Ισπανία\nDistances: 42k\, 21k\, 10k\nMore info: https://www.maratonmurcia.com/en
+LOCATION:Μούρθια\, Ισπανία
+SUMMARY:Murcia Marathon
+UID:8e91ec6f-4429-40f9-9750-74f2daa4ee20@8e91.org
+URL:https://www.maratonmurcia.com/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260830
+DESCRIPTION:Wörthersee Half Marathon\nLocation: Κέρντεν\, Αυστρία\nDistances: 21k\nMore info: https://www.kaerntenlaeuft.at/en/
+LOCATION:Κέρντεν\, Αυστρία
+SUMMARY:Wörthersee Half Marathon
+UID:c42ed64b-da02-40a7-a19b-3f9b26d4ed3e@c42e.org
+URL:https://www.kaerntenlaeuft.at/en/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261004
+DESCRIPTION:Silesia Marathon\nLocation: Χορζόφ\, Πολωνία\nDistances: 50k\, 42k\, 21k\nMore info: https://silesiamarathon.pl/en/
+LOCATION:Χορζόφ\, Πολωνία
+SUMMARY:Silesia Marathon
+UID:28f3747c-9cbc-4cc2-8eff-e5b3a4eccb15@28f3.org
+URL:https://silesiamarathon.pl/en/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260517
+DESCRIPTION:34. 3Länder Lauf\nLocation: Βασιλεία\, Ελβετία\nDistances: 42k\, 21k\, 10k\nMore info: https://3laenderlauf.org/en/home/
+LOCATION:Βασιλεία\, Ελβετία
+SUMMARY:34. 3Länder Lauf
+UID:d8dafe6c-5c4d-4d99-a9f6-bfe6944d5a3e@d8da.org
+URL:https://3laenderlauf.org/en/home/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261122
+DESCRIPTION:11. Caserta Reggia Reggia\nLocation: Καζέρτα\, Ιταλία\nDistances: 21k\nMore info: https://reggiareggia.it/
+LOCATION:Καζέρτα\, Ιταλία
+SUMMARY:11. Caserta Reggia Reggia
+UID:e66ee5c2-e9c5-49e8-91d6-3b323ef0244a@e66e.org
+URL:https://reggiareggia.it/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260906
+DESCRIPTION:Flensburg Liebt Dich Marathon\nLocation: Φλένσμπουργκ\, Γερμανία\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://flensburg-marathon.de/
+LOCATION:Φλένσμπουργκ\, Γερμανία
+SUMMARY:Flensburg Liebt Dich Marathon
+UID:3da80c29-0812-47c6-b5a7-e0b7efed162b@3da8.org
+URL:https://flensburg-marathon.de/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261004
+DESCRIPTION:Cardiff Half Marathon\nLocation: Κάρντιφ\, Ουαλία\nDistances: 21k\nMore info: https://www.cardiffhalfmarathon.co.uk/
+LOCATION:Κάρντιφ\, Ουαλία
+SUMMARY:Cardiff Half Marathon
+UID:0c959e3f-e46b-4ab5-964d-5a039706c620@0c95.org
+URL:https://www.cardiffhalfmarathon.co.uk/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260412
 DESCRIPTION:CSOB Bratislava Marathon\nLocation: Μπρατισλάβα\, Σλοβακία\nDistances: 42k\, 21k\, 10k\, 4\, 2k\nMore info: https://www.bratislavamarathon.com/event/bratislava-marathon-2021/
 LOCATION:Μπρατισλάβα\, Σλοβακία
 SUMMARY:CSOB Bratislava Marathon
-UID:b4aed5a7-9eaa-450b-b0ed-f16b1a357640@b4ae.org
+UID:878eb96d-ffc4-4830-b35d-a199a374e942@878e.org
 URL:https://www.bratislavamarathon.com/event/bratislava-marathon-2021/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260912
-DESCRIPTION:Oslo Maraton\nLocation: Οσλο\, Νορβηγία\nDistances: 73k\, 42k\, 21k\, 10k\nMore info: https://irunmag.gr/travel/oslo-maraton-2026/
-LOCATION:Οσλο\, Νορβηγία
-SUMMARY:Oslo Maraton
-UID:88b4f047-fcd2-4a8d-8723-8db6fe4ca713@88b4.org
-URL:https://irunmag.gr/travel/oslo-maraton-2026/
+DTSTART;VALUE=DATE:20260418
+DESCRIPTION:Glasgow Green Half Marathon\nLocation: Γλασκώβη\, Σκωτία\nDistances: 21k\, 10k\, 5k\nMore info: https://www.runningcalendar.co.uk/event/glasgow-green-half-marathon/
+LOCATION:Γλασκώβη\, Σκωτία
+SUMMARY:Glasgow Green Half Marathon
+UID:4d8a778e-c2d5-40f7-a02e-cd5946b8bffb@4d8a.org
+URL:https://www.runningcalendar.co.uk/event/glasgow-green-half-marathon/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261003
-DESCRIPTION:15. Tartu City Marathon\nLocation: Τάρτου\, Εσθονία\nDistances: 42k\, 21k\, 10k\nMore info: https://tartumaraton.ee/en/tartu-maraton-events-in-2026
-LOCATION:Τάρτου\, Εσθονία
-SUMMARY:15. Tartu City Marathon
-UID:66d5f984-d202-4f41-83da-34eaf8020b0c@66d5.org
-URL:https://tartumaraton.ee/en/tartu-maraton-events-in-2026
+DTSTART;VALUE=DATE:20261213
+DESCRIPTION:Maratona di Reggio Emilia\nLocation: Ρέτζο Εμίλια\, Ιταλία\nDistances: 42k\, 21k\nMore info: https://www.maratonadireggioemilia.it/
+LOCATION:Ρέτζο Εμίλια\, Ιταλία
+SUMMARY:Maratona di Reggio Emilia
+UID:297efe91-0396-4390-aee0-f9886a2c14de@297e.org
+URL:https://www.maratonadireggioemilia.it/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260524
+DESCRIPTION:Edinburgh Marathon Festival\nLocation: Εδιμβούργο\, Σκωτία\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://irunmag.gr/travel/emf-2026/
+LOCATION:Εδιμβούργο\, Σκωτία
+SUMMARY:Edinburgh Marathon Festival
+UID:3b0f3937-550f-4bdb-9777-4042e46eda7d@3b0f.org
+URL:https://irunmag.gr/travel/emf-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+DESCRIPTION:1ος Μαραθώνιος Ηπείρου «Βασιλιάς Πύρρος»\nLocation: Αρτα\, Ελλάδα\nDistances: 42k\, 10k\, 5k\nMore info: https://irunmag.gr/news/marathonios-ipeirou-dynamika/
+LOCATION:Αρτα\, Ελλάδα
+SUMMARY:1ος Μαραθώνιος Ηπείρου «Βασιλιάς Πύρρος»
+UID:6b873c4e-124e-410d-9e5e-71be331a083f@6b87.org
+URL:https://irunmag.gr/news/marathonios-ipeirou-dynamika/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260516
+DESCRIPTION:Helsinki City Running Day\nLocation: Ελσίνκι\, Φινλανδία\nDistances: 63k\, 42k\, 21k\, 5k\, 1k\nMore info: https://helsinkicityrunningday.fi/en/
+LOCATION:Ελσίνκι\, Φινλανδία
+SUMMARY:Helsinki City Running Day
+UID:b9e1f05e-d192-4a14-acf1-cbd7ca8c4870@b9e1.org
+URL:https://helsinkicityrunningday.fi/en/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261018
 DESCRIPTION:Wizz Air Rome Half Marathon\nLocation: Ρώμη\, Ιταλία\nDistances: 21k\nMore info: https://www.romehalfmarathon.it/en/
 LOCATION:Ρώμη\, Ιταλία
 SUMMARY:Wizz Air Rome Half Marathon
-UID:30ca4cbf-8a85-4acd-b96f-82941d2b9303@30ca.org
+UID:0e8a9ff4-4abe-4c68-b50b-35c6b850bb19@0e8a.org
 URL:https://www.romehalfmarathon.it/en/
 END:VEVENT
 BEGIN:VEVENT
@@ -1454,615 +1302,791 @@ DTSTART;VALUE=DATE:20260822
 DESCRIPTION:Reykjavikur Marathon Islandsbanka\nLocation: Ρέικιαβικ\, Ισλανδία\nDistances: 42k\, 21k\, 10k\, 3k\nMore info: https://www.rmi.is/en
 LOCATION:Ρέικιαβικ\, Ισλανδία
 SUMMARY:Reykjavikur Marathon Islandsbanka
-UID:7945b22b-a7dd-4d9e-b611-dec849983116@7945.org
+UID:73038898-951a-4895-8343-95b0f1fc490f@7303.org
 URL:https://www.rmi.is/en
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260412
-DESCRIPTION:Enschede Marathon\nLocation: Ενσχεντε\, Ολλανδία\nDistances: 42k\, 21k\, 10k\, 5k\, 3k\nMore info: https://irunmag.gr/travel/enschede-marathon-2026/
-LOCATION:Ενσχεντε\, Ολλανδία
-SUMMARY:Enschede Marathon
-UID:95255603-f5ca-4aee-bd91-089dbae686dc@9525.org
-URL:https://irunmag.gr/travel/enschede-marathon-2026/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260419
-DESCRIPTION:Deutsche Post Marathon Bonn\nLocation: Βόννη\, Γερμανία\nDistances: 42k\, 21k\, 10k\nMore info: https://www.deutschepostmarathonbonn.de/
-LOCATION:Βόννη\, Γερμανία
-SUMMARY:Deutsche Post Marathon Bonn
-UID:e1cc016b-5e2b-4061-8de8-e91b4739882a@e1cc.org
-URL:https://www.deutschepostmarathonbonn.de/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261206
 DESCRIPTION:Maraton Valencia\nLocation: Βαλένθια\, Ισπανία\nDistances: 42k\nMore info: https://www.valenciaciudaddelrunning.com/en/marathon/maraton/
 LOCATION:Βαλένθια\, Ισπανία
 SUMMARY:Maraton Valencia
-UID:a2974874-6233-4bde-b4f9-b57b3ef9b0d0@a297.org
+UID:c690b1b0-2287-49ae-8b61-4bf5bd90bf26@c690.org
 URL:https://www.valenciaciudaddelrunning.com/en/marathon/maraton/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261122
-DESCRIPTION:Zurich Maraton San Sebastian\nLocation: Σαν Σεμπαστιάν\, Ισπανία\nDistances: 42k\, 21k\nMore info: https://zurichmaratonsansebastian.com/en/registration/
-LOCATION:Σαν Σεμπαστιάν\, Ισπανία
-SUMMARY:Zurich Maraton San Sebastian
-UID:fe9b9997-de54-46cb-8e46-ab055c8b009c@fe9b.org
-URL:https://zurichmaratonsansebastian.com/en/registration/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260830
-DESCRIPTION:Wörthersee Half Marathon\nLocation: Κέρντεν\, Αυστρία\nDistances: 21k\nMore info: https://www.kaerntenlaeuft.at/en/
-LOCATION:Κέρντεν\, Αυστρία
-SUMMARY:Wörthersee Half Marathon
-UID:dc88f569-6d91-4f02-a235-e352a220bb39@dc88.org
-URL:https://www.kaerntenlaeuft.at/en/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261025
-DESCRIPTION:43th Frankfurt Marathon\nLocation: Φρανκφούρτη\, Γερμανία\nDistances: 42k\, 4k\nMore info: https://irunmag.gr/travel/43-frankfurt-marathon/
-LOCATION:Φρανκφούρτη\, Γερμανία
-SUMMARY:43th Frankfurt Marathon
-UID:6e84a383-6bfb-47d5-a845-4b307842e5f5@6e84.org
-URL:https://irunmag.gr/travel/43-frankfurt-marathon/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260906
-DESCRIPTION:41st Wizz Air Budapest Half Marathon\nLocation: Βουδαπέστη\, Ουγγαρία\nDistances: 21k\, 10k\nMore info: https://halfmarathon.runinbudapest.com/wizz-air-budapest-half-marathon-2026/#:~:text=41th%20Wizz%20Air%20Budapest%20Half\,as%20well%20as%20the%20relays.
-LOCATION:Βουδαπέστη\, Ουγγαρία
-SUMMARY:41st Wizz Air Budapest Half Marathon
-UID:b8882c69-d2d6-4c9e-a106-e899880b0b2d@b888.org
-URL:https://halfmarathon.runinbudapest.com/wizz-air-budapest-half-marathon-2026/#:~:text=41th%20Wizz%20Air%20Budapest%20Half\,as%20well%20as%20the%20relays.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260927
-DESCRIPTION:Loch Ness Marathon\nLocation: Ινβερνές\, Σκωτία\nDistances: 42k\, 10k\, 5k\nMore info: https://irunmag.gr/travel/loch-ness-marathon-2026/
-LOCATION:Ινβερνές\, Σκωτία
-SUMMARY:Loch Ness Marathon
-UID:7cee28a9-4e26-4c14-8ebc-5b2bdc827ec2@7cee.org
-URL:https://irunmag.gr/travel/loch-ness-marathon-2026/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261011
-DESCRIPTION:Kleine Zeitung Graz Marathon\nLocation: Γκρατς\, Αυστρία\nDistances: 42k\, 21k\, 10\, 5k\, 5k\nMore info: https://www.grazmarathon.at/
-LOCATION:Γκρατς\, Αυστρία
-SUMMARY:Kleine Zeitung Graz Marathon
-UID:3c5d01b4-8667-43e8-8ab9-76c2f4c718a5@3c5d.org
-URL:https://www.grazmarathon.at/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261011
-DESCRIPTION:Bucharest Marathon\nLocation: Βουκουρέστι\, Ρουμανία\nDistances: 42k\, 21k\, 10k\, 2\, 5k\nMore info: https://irunmag.gr/travel/bucharest-marathon-2026/
-LOCATION:Βουκουρέστι\, Ρουμανία
-SUMMARY:Bucharest Marathon
-UID:18664f37-6cd9-4a6c-ae78-9862023678e2@1866.org
-URL:https://irunmag.gr/travel/bucharest-marathon-2026/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261018
-DESCRIPTION:51st TCS Amsterdam Marathon\nLocation: Αμστερνταμ\, Ολλανδία\nDistances: 42k\, 21k\, 7.5k\nMore info: https://www.tcsamsterdammarathon.eu/
-LOCATION:Αμστερνταμ\, Ολλανδία
-SUMMARY:51st TCS Amsterdam Marathon
-UID:66f96e57-36c0-46ed-8dfc-f5ef44f099d1@66f9.org
-URL:https://www.tcsamsterdammarathon.eu/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260201
-DESCRIPTION:6th Maratona Maga Circe\nLocation: Σαμπάουντια\, Ιταλία\nDistances: 42k\, 28k\, 10k\, 2.5k\nMore info: https://maratonamagacirce.it/?fbclid=IwY2xjawIXS_BleHRuA2FlbQIxMAABHbYhEob634INS5ZyHXVcCQmrlw70cwvfWIrCClAlK6_mtC4BCfr8npjrKA_aem_b77GE0Z9Htd4QHcgrdCTHg
-LOCATION:Σαμπάουντια\, Ιταλία
-SUMMARY:6th Maratona Maga Circe
-UID:16ee2057-a7f8-42a6-bd77-314b3950cfa6@16ee.org
-URL:https://maratonamagacirce.it/?fbclid=IwY2xjawIXS_BleHRuA2FlbQIxMAABHbYhEob634INS5ZyHXVcCQmrlw70cwvfWIrCClAlK6_mtC4BCfr8npjrKA_aem_b77GE0Z9Htd4QHcgrdCTHg
+DTSTART;VALUE=DATE:20260425
+DESCRIPTION:Reykjavik Spring Marathon\nLocation: Ρέικιαβικ\, Ισλανδία\nMore info: https://marathonhlaup.is/
+LOCATION:Ρέικιαβικ\, Ισλανδία
+SUMMARY:Reykjavik Spring Marathon
+UID:a9b9fb0f-5ca1-48fe-b49a-d1ead49c0230@a9b9.org
+URL:https://marathonhlaup.is/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260215
-DESCRIPTION:Mitja Marato Barcelona\nLocation: Βαρκελώνη\, Ισπανία\nDistances: 21k\nMore info: https://irunmag.gr/travel/mitja-barcelona/
-LOCATION:Βαρκελώνη\, Ισπανία
-SUMMARY:Mitja Marato Barcelona
-UID:68859679-5738-4dd6-a0a7-ae3a4f6f418f@6885.org
-URL:https://irunmag.gr/travel/mitja-barcelona/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260920
-DESCRIPTION:Belfast City Half Marathon\nLocation: Μπέλφαστ\, Βόρεια Ιρλανδία\nDistances: 21k\nMore info: https://belfastcitymarathon.com/events/half-marathon
-LOCATION:Μπέλφαστ\, Βόρεια Ιρλανδία
-SUMMARY:Belfast City Half Marathon
-UID:b2b85ff7-b7a3-4797-a767-ae84a29e0d44@b2b8.org
-URL:https://belfastcitymarathon.com/events/half-marathon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261108
-DESCRIPTION:43ος Αυθεντικός Μαραθώνιος\nLocation: 7-8/11\, Αθήνα\nDistances: Ελλάδα42k\, 10k\, 5k\, 1.2k\nMore info: https://irunmag.gr/news/43-authentic-marathon/
-LOCATION:7-8/11\, Αθήνα
-SUMMARY:43ος Αυθεντικός Μαραθώνιος
-UID:668e5218-1101-44e7-a774-ae46687fc60e@668e.org
-URL:https://irunmag.gr/news/43-authentic-marathon/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260920
-DESCRIPTION:Nieuwpoort Marathon\nLocation: Νιούποορτ\, Βέλγιο\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://www.nieuwpoortmarathon.com/
-LOCATION:Νιούποορτ\, Βέλγιο
-SUMMARY:Nieuwpoort Marathon
-UID:44a2ac9e-2080-4370-ad0b-8126b916b258@44a2.org
-URL:https://www.nieuwpoortmarathon.com/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261108
-DESCRIPTION:Maraton Malaga\nLocation: Μάλαγα\, Ισπανία\nDistances: 42k\nMore info: https://www.generalimaratonmalaga.com/marathon-malaga-en/
-LOCATION:Μάλαγα\, Ισπανία
-SUMMARY:Maraton Malaga
-UID:8c467865-0d2e-4d4a-84e4-cb1671badf29@8c46.org
-URL:https://www.generalimaratonmalaga.com/marathon-malaga-en/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260913
-DESCRIPTION:26. Wachau Marathon\nLocation: Βαχάου\, Αυστρία\nDistances: 42k\, 21k\, 10.5k\nMore info: https://www.wachaumarathon.com/en/
-LOCATION:Βαχάου\, Αυστρία
-SUMMARY:26. Wachau Marathon
-UID:57e60397-25f6-4409-80ca-d0eee61ab66b@57e6.org
-URL:https://www.wachaumarathon.com/en/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260426
-DESCRIPTION:Zurich Rock n’ Roll Madrid\nLocation: Μαδρίτη\, Ισπανία\nMore info: https://rocknrollmadridrun.com/?lang=en
-LOCATION:Μαδρίτη\, Ισπανία
-SUMMARY:Zurich Rock n’ Roll Madrid
-UID:c19af23d-7fe6-44e4-bf5f-29127e317d79@c19a.org
-URL:https://rocknrollmadridrun.com/?lang=en
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260503
-DESCRIPTION:ABP Southampton Marathon\nLocation: Σαουθάμπτον\, Αγγλία\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://irunmag.gr/travel/southampton-marathon-2026/
-LOCATION:Σαουθάμπτον\, Αγγλία
-SUMMARY:ABP Southampton Marathon
-UID:5956567b-a31a-4424-8b2b-ad9d7f3483f5@5956.org
-URL:https://irunmag.gr/travel/southampton-marathon-2026/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261108
-DESCRIPTION:Maratona do Porto\nLocation: Πόρτο\, Πορτογαλία\nDistances: 42k\, 10k\, 6k\nMore info: https://www.maratonadoporto.com/en/
-LOCATION:Πόρτο\, Πορτογαλία
-SUMMARY:Maratona do Porto
-UID:5f3d9e20-ee47-49e7-bead-d7eb1596de53@5f3d.org
-URL:https://www.maratonadoporto.com/en/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260418
-DESCRIPTION:Ibiza Marathon\nLocation: Ιμπιθα\, Ισπανία\nDistances: 42k\nMore info: https://irunmag.gr/travel/8os-marathonios-ibiza/
-LOCATION:Ιμπιθα\, Ισπανία
-SUMMARY:Ibiza Marathon
-UID:f5e3f55a-aecb-4270-8c9a-6da0f1b59d94@f5e3.org
-URL:https://irunmag.gr/travel/8os-marathonios-ibiza/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260620
-DESCRIPTION:Midnight Sun Marathon\nLocation: Τρούμσε\, Νορβηγία\nDistances: 42k\, 21k\, 10k\nMore info: https://msm.no/en/
-LOCATION:Τρούμσε\, Νορβηγία
-SUMMARY:Midnight Sun Marathon
-UID:10105b8d-383e-42a2-85ac-90fd0f28c43a@1010.org
-URL:https://msm.no/en/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260913
-DESCRIPTION:24. Volksbank Münster Marathon\nLocation: Μούνστερ\, Γερμανία\nDistances: 42k\, 28k\, 10k\, 6k\nMore info: https://www.volksbank-muenster-marathon.de/_rubric/index.php?rubric=Home+DE
-LOCATION:Μούνστερ\, Γερμανία
-SUMMARY:24. Volksbank Münster Marathon
-UID:9089ffa8-efd5-465f-aa3f-0ad046d0ddc8@9089.org
-URL:https://www.volksbank-muenster-marathon.de/_rubric/index.php?rubric=Home+DE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261122
-DESCRIPTION:Milano21\nLocation: Μιλάνο\, Ιταλία\nDistances: 21k\, 10k\nMore info: https://followyourpassion.it/en/milano21/
-LOCATION:Μιλάνο\, Ιταλία
-SUMMARY:Milano21
-UID:6ddcabb6-3235-4338-9f70-15043702d857@6ddc.org
-URL:https://followyourpassion.it/en/milano21/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260517
-DESCRIPTION:36ος Rimi Riga Marathon\nLocation: Ρίγα\, Λετονία\nDistances: 42k\, 21k\, 10k\, 5k\, 1\, 6k\nMore info: https://irunmag.gr/travel/36-riga-marathon/
-LOCATION:Ρίγα\, Λετονία
-SUMMARY:36ος Rimi Riga Marathon
-UID:bec1468d-8683-4a31-a26f-971701af46b2@bec1.org
-URL:https://irunmag.gr/travel/36-riga-marathon/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260412
-DESCRIPTION:44ος NN Marathon Rotterdam\nLocation: Ρότερνταμ\, Ολλανδία\nDistances: 42k\, 10\, 5k\, 4\, 2k\nMore info: https://www.nnmarathonrotterdam.org/
-LOCATION:Ρότερνταμ\, Ολλανδία
-SUMMARY:44ος NN Marathon Rotterdam
-UID:3e589f7b-d0e5-402f-809b-68bc06eaf03c@3e58.org
-URL:https://www.nnmarathonrotterdam.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260614
-DESCRIPTION:2. Maratonul Nordului\nLocation: Μποτοσάν\, Ρουμανία\nDistances: 42k\, 21k\, 10k\, 5k\, 1\, 5k\, 1k\, 500μ.\nMore info: https://irunmag.gr/travel/2nd-maratonul-nordului/
-LOCATION:Μποτοσάν\, Ρουμανία
-SUMMARY:2. Maratonul Nordului
-UID:1866ab1d-f6aa-475c-a8d2-00ce58aa83b6@1866.org
-URL:https://irunmag.gr/travel/2nd-maratonul-nordului/
+DESCRIPTION:Zurich Maraton Sevilla\nLocation: Σεβίλλη\, Ισπανία\nDistances: 42k\, 5k\nMore info: https://en.zurichmaratonsevilla.es/
+LOCATION:Σεβίλλη\, Ισπανία
+SUMMARY:Zurich Maraton Sevilla
+UID:7860ec4d-5d7c-4c07-9049-6e59bf5fe8f9@7860.org
+URL:https://en.zurichmaratonsevilla.es/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261018
 DESCRIPTION:Neapolis Marathon\nLocation: Νάπολι\, Ιταλία\nDistances: 42k\, 21k\, 11k\nMore info: https://irunmag.gr/travel/6os-marathonios-napoli/
 LOCATION:Νάπολι\, Ιταλία
 SUMMARY:Neapolis Marathon
-UID:080d0f7a-3c73-4558-9965-278e2936d0a4@080d.org
+UID:ef2b14ac-bdf5-4d55-815c-413f1caf9ccc@ef2b.org
 URL:https://irunmag.gr/travel/6os-marathonios-napoli/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260920
-DESCRIPTION:World Athletics Road Running Championships\nLocation: Κοπεγχάγη\, Δανία\nDistances: 21k\, 5k\, 1\, 6k\nMore info: https://cphhalf.dk/en/wrrc-copenhagen-26/
-LOCATION:Κοπεγχάγη\, Δανία
-SUMMARY:World Athletics Road Running Championships
-UID:824abdbf-0bc2-4da3-8c2b-52749286e575@824a.org
-URL:https://cphhalf.dk/en/wrrc-copenhagen-26/
+DTSTART;VALUE=DATE:20260419
+DESCRIPTION:10ος Μαραθώνιος Κρήτης\nLocation: Χανιά\, Ελλάδα\nDistances: 42k\, 10k\, 5k\, 2\, 5k\nMore info: https://irunmag.gr/races/road/10os-marathonios-kritis/
+LOCATION:Χανιά\, Ελλάδα
+SUMMARY:10ος Μαραθώνιος Κρήτης
+UID:891f6d35-2df2-48fb-865e-9fb45bf9963d@891f.org
+URL:https://irunmag.gr/races/road/10os-marathonios-kritis/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260503
-DESCRIPTION:Great Limerick Run\nLocation: Λίμερικ\, Ιρλανδία\nDistances: 42k\, 21k\, 9\, 6k\nMore info: https://greatlimerickrun.com/
-LOCATION:Λίμερικ\, Ιρλανδία
-SUMMARY:Great Limerick Run
-UID:c0d7fbd3-6cca-4751-a8d1-22885015f4f2@c0d7.org
-URL:https://greatlimerickrun.com/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261011
-DESCRIPTION:Munchen Marathon\nLocation: Μόναχο\, Γερμανία\nDistances: 42k\, 21k\, 10k\nMore info: https://irunmag.gr/travel/munchen-marathon/
-LOCATION:Μόναχο\, Γερμανία
-SUMMARY:Munchen Marathon
-UID:a9581b91-dd2c-41cf-9701-59aa6c709765@a958.org
-URL:https://irunmag.gr/travel/munchen-marathon/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260405
-DESCRIPTION:Runtalya Marathon\nLocation: Αττάλεια\, Τουρκία\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://tursetsports.com/en/races/runtalya
-LOCATION:Αττάλεια\, Τουρκία
-SUMMARY:Runtalya Marathon
-UID:de47bf63-a49f-4835-8533-4b55a0cf8f2e@de47.org
-URL:https://tursetsports.com/en/races/runtalya
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260912
-DESCRIPTION:Finlandia Marathon\nLocation: Γιούβασκιουλα\, Φινλανδία\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://finlandiamarathon.fi/
-LOCATION:Γιούβασκιουλα\, Φινλανδία
-SUMMARY:Finlandia Marathon
-UID:b38a263b-286c-4a55-9160-bb4ea4621d1e@b38a.org
-URL:https://finlandiamarathon.fi/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261031
-DESCRIPTION:Åland Marathon\nLocation: Μάριεχαμν\, Φινλανδία\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://www.alandmarathon.ax/?fbclid=IwY2xjawKrc5VleHRuA2FlbQIxMABicmlkETFCSjBmM2k4azh6bmtzdTZHAR7slGyX4WA5M6GHK5Gy6tbu1WcIN84mIRzq0AQ9s7r6yHclxjYHY154srSYYg_aem_y2T3thEQLXJms-Crx_deQw
-LOCATION:Μάριεχαμν\, Φινλανδία
-SUMMARY:Åland Marathon
-UID:f6e43d47-58ef-4c1f-b107-47d1dba98cff@f6e4.org
-URL:https://www.alandmarathon.ax/?fbclid=IwY2xjawKrc5VleHRuA2FlbQIxMABicmlkETFCSjBmM2k4azh6bmtzdTZHAR7slGyX4WA5M6GHK5Gy6tbu1WcIN84mIRzq0AQ9s7r6yHclxjYHY154srSYYg_aem_y2T3thEQLXJms-Crx_deQw
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260906
-DESCRIPTION:67. Ostrava City Marathon\nLocation: Οστράβα\, Τσεχία\nDistances: 42k\, 21k\, 10k\nMore info: https://ostravacitymarathon.cz/?fbclid=IwY2xjawIgUCVleHRuA2FlbQIxMAABHXnhstA-GnI12KFRcX2q8S5SnDhGIjCwkyMw01kBkaMXlAPh7kwFbiiQfw_aem_w8X2_8Gmi4TrK93KK8ckyw
-LOCATION:Οστράβα\, Τσεχία
-SUMMARY:67. Ostrava City Marathon
-UID:6793fe2c-a053-4552-af2e-3088032b7488@6793.org
-URL:https://ostravacitymarathon.cz/?fbclid=IwY2xjawIgUCVleHRuA2FlbQIxMAABHXnhstA-GnI12KFRcX2q8S5SnDhGIjCwkyMw01kBkaMXlAPh7kwFbiiQfw_aem_w8X2_8Gmi4TrK93KK8ckyw
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260403
-DESCRIPTION:Good Friday Marathon\nLocation: Μίλτον Κέινς\, Αγγλία\nDistances: 42k\, 21k\nMore info: http://www.enigmarunning.co.uk/events/2026_Easter.shtml?fbclid=IwY2xjawMsnZ5leHRuA2FlbQIxMABicmlkETFTdWFPRXlsYnNiaTMzTEk5AR6kYO_txWmiKqCQJKF7qJ7JHwvhxXEPqUtSHIRFc6wZRVK_It9e5cgumEgPUA_aem_7pbHM9xptcWXMRKh4lWdKQ
-LOCATION:Μίλτον Κέινς\, Αγγλία
-SUMMARY:Good Friday Marathon
-UID:ca4aa090-fe7e-403b-b98a-cf2eb606f324@ca4a.org
-URL:http://www.enigmarunning.co.uk/events/2026_Easter.shtml?fbclid=IwY2xjawMsnZ5leHRuA2FlbQIxMABicmlkETFTdWFPRXlsYnNiaTMzTEk5AR6kYO_txWmiKqCQJKF7qJ7JHwvhxXEPqUtSHIRFc6wZRVK_It9e5cgumEgPUA_aem_7pbHM9xptcWXMRKh4lWdKQ
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260222
-DESCRIPTION:13. Napoli City Half Marathon\nLocation: Νάπολι\, Ιταλία\nDistances: 21k\, 2k\nMore info: https://irunmag.gr/travel/napoli-half-2026/
-LOCATION:Νάπολι\, Ιταλία
-SUMMARY:13. Napoli City Half Marathon
-UID:47a5b8db-b545-4caa-9b04-05b37e9ae020@47a5.org
-URL:https://irunmag.gr/travel/napoli-half-2026/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260101
-DESCRIPTION:21ος Πρωτοχρονιάτικος Μαραθώνιος Ζυρίχης\nLocation: Ζυρίχη\, Ελβετία\nDistances: 42k\, 21k\, 10\, 55k\, 750μ.\nMore info: https://irunmag.gr/travel/neujahrsmarathon-zurich-2026/
-LOCATION:Ζυρίχη\, Ελβετία
-SUMMARY:21ος Πρωτοχρονιάτικος Μαραθώνιος Ζυρίχης
-UID:08cac332-547c-4a57-92a4-b3a2fe8ed1c5@08ca.org
-URL:https://irunmag.gr/travel/neujahrsmarathon-zurich-2026/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260328
-DESCRIPTION:10th Venice Trail\nLocation: Βενετία\, Ιταλία\nMore info: https://irunmag.gr/travel/10th-venice-night-trail/
-LOCATION:Βενετία\, Ιταλία
-SUMMARY:10th Venice Trail
-UID:23692701-dcb9-4907-9dd9-23930895f894@2369.org
-URL:https://irunmag.gr/travel/10th-venice-night-trail/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260809
-DESCRIPTION:48. Monschau Marathon\nLocation: Μονσάου\, Γερμανία\nDistances: 70k\, 56k\, 42k\, 10k\nMore info: https://monschau-marathon.de/
-LOCATION:Μονσάου\, Γερμανία
-SUMMARY:48. Monschau Marathon
-UID:71b97c9d-d28a-454a-8bc7-12bcd699350e@71b9.org
-URL:https://monschau-marathon.de/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260412
-DESCRIPTION:Brighton Marathon Weekend\nLocation: Μπράιτον\, Αγγλία\nDistances: 42k\, 10k\nMore info: https://www.brightonmarathonweekend.co.uk/
-LOCATION:Μπράιτον\, Αγγλία
-SUMMARY:Brighton Marathon Weekend
-UID:536317ae-5001-4d59-81c3-a0aad36f396c@5363.org
-URL:https://www.brightonmarathonweekend.co.uk/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260905
-DESCRIPTION:Trondheim Marathon\nLocation: Τρόντχαϊμ\, Νορβηγία\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://www.trondheimmaraton.no/en/
-LOCATION:Τρόντχαϊμ\, Νορβηγία
-SUMMARY:Trondheim Marathon
-UID:f3430f76-7963-441b-87b9-3d61f42ac3c4@f343.org
-URL:https://www.trondheimmaraton.no/en/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260913
-DESCRIPTION:NGO Sarajevo Marathon\nLocation: Σαράγιεβο\, Βοσνία/Ερζεγοβίνη\nDistances: 21k\, 5k\nMore info: https://irunmag.gr/travel/sarajevo-half-2026/
-LOCATION:Σαράγιεβο\, Βοσνία/Ερζεγοβίνη
-SUMMARY:NGO Sarajevo Marathon
-UID:ace174a3-a0ad-4f54-9eb1-0b87603ddfca@ace1.org
-URL:https://irunmag.gr/travel/sarajevo-half-2026/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260504
-DESCRIPTION:Milton Keynes Marathon Weekend\nLocation: 4-5/5\, Μίλτον Κέινς\nDistances: Αγγλία\, 42k\, 21k\, 5k\nMore info: https://mkmarathon.com/
-LOCATION:4-5/5\, Μίλτον Κέινς
-SUMMARY:Milton Keynes Marathon Weekend
-UID:dba4ef7d-b1f5-475a-8be0-903b5587e8cb@dba4.org
-URL:https://mkmarathon.com/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260815
-DESCRIPTION:Raatteen Marathon\nLocation: Σούομοσαλμι\, Φινλανδία\nDistances: 42k\, 21k\, 10k\nMore info: https://endurancekainuu.fi/en/raatteen-maraton-en/
-LOCATION:Σούομοσαλμι\, Φινλανδία
-SUMMARY:Raatteen Marathon
-UID:1b940fe4-2fb8-4c9f-830b-391f793d7231@1b94.org
-URL:https://endurancekainuu.fi/en/raatteen-maraton-en/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260822
-DESCRIPTION:BMW Helsinki Marathon\nLocation: Ελσίνκι\, Φινλανδία\nDistances: 42k\, 21k\, 10k\, 1k\nMore info: https://irunmag.gr/travel/bjorn-borg-helsinki-marathon/
-LOCATION:Ελσίνκι\, Φινλανδία
-SUMMARY:BMW Helsinki Marathon
-UID:ad504288-7c39-49d1-a1ab-bcd52253331c@ad50.org
-URL:https://irunmag.gr/travel/bjorn-borg-helsinki-marathon/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261127
-DESCRIPTION:Eilat Desert Marathon\nLocation: Εϊλάτ\, Ισραήλ\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://www.marathonisrael.co.il/en/event/eilat-desert-marathon/
-LOCATION:Εϊλάτ\, Ισραήλ
-SUMMARY:Eilat Desert Marathon
-UID:9c83f481-f7b4-4e09-bcec-f850b3bfdbe7@9c83.org
-URL:https://www.marathonisrael.co.il/en/event/eilat-desert-marathon/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261018
-DESCRIPTION:Altra Yorkshire Marathon\nLocation: Γιορκ\, Αγγλία\nDistances: 42k\nMore info: https://www.runforall.com/events/marathon/yorkshire-marathon/
-LOCATION:Γιορκ\, Αγγλία
-SUMMARY:Altra Yorkshire Marathon
-UID:d60ee936-ddda-40db-a9ec-5a18e41d544e@d60e.org
-URL:https://www.runforall.com/events/marathon/yorkshire-marathon/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260222
-DESCRIPTION:16th Marató bp Castello\nLocation: Καστεγιόν\, Ισπανία\nDistances: 42k\, 10k\nMore info: https://www.maratonbpcastellon.com/
-LOCATION:Καστεγιόν\, Ισπανία
-SUMMARY:16th Marató bp Castello
-UID:890891c2-a782-4812-8b31-07942f00e17a@8908.org
-URL:https://www.maratonbpcastellon.com/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261004
-DESCRIPTION:Cardiff Half Marathon\nLocation: Κάρντιφ\, Ουαλία\nDistances: 21k\nMore info: https://www.cardiffhalfmarathon.co.uk/
-LOCATION:Κάρντιφ\, Ουαλία
-SUMMARY:Cardiff Half Marathon
-UID:fb0a36c1-1333-4dd7-bc51-17a1f2479af8@fb0a.org
-URL:https://www.cardiffhalfmarathon.co.uk/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261025
-DESCRIPTION:Galaxy Vladivostok Marathon\nLocation: Βλαδιβοστόκ\, Ρωσία\nDistances: 42k\, 28k\, 21k\, 10k\, 7k\, 3k\, 1k\nMore info: https://galaxymarathon.com/25en
-LOCATION:Βλαδιβοστόκ\, Ρωσία
-SUMMARY:Galaxy Vladivostok Marathon
-UID:0bbeadf9-aafc-4246-93c0-49340d416b41@0bbe.org
-URL:https://galaxymarathon.com/25en
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260927
-DESCRIPTION:Hans Christian Andersen Marathon\nLocation: Οντενσε\, Δανία\nDistances: 42k\, 21k\, 10k\, 4k\nMore info: https://hcamarathon.dk/en/
-LOCATION:Οντενσε\, Δανία
-SUMMARY:Hans Christian Andersen Marathon
-UID:20d491eb-333d-4258-8a14-34936e6de9eb@20d4.org
-URL:https://hcamarathon.dk/en/
+DTSTART;VALUE=DATE:20261220
+DESCRIPTION:27. Maratona di Pisa\nLocation: Πίζα\, Ιταλία\nDistances: 42k\, 21k\, 6\, 5k\nMore info: https://irunmag.gr/travel/27-pisa-marathon/
+LOCATION:Πίζα\, Ιταλία
+SUMMARY:27. Maratona di Pisa
+UID:f80b4064-e701-4fed-bc6a-5a3b41201683@f80b.org
+URL:https://irunmag.gr/travel/27-pisa-marathon/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260215
-DESCRIPTION:Maratona di San Valentino\nLocation: Τέρνι\, Ιταλία\nDistances: 42k\, 21k\, 8k\, 2k\nMore info: https://www.maratonadisanvalentino.it/la-gara/
-LOCATION:Τέρνι\, Ιταλία
-SUMMARY:Maratona di San Valentino
-UID:881eace9-dbae-4940-8af2-d44082098ea8@881e.org
-URL:https://www.maratonadisanvalentino.it/la-gara/
+DESCRIPTION:Romeo & Julietta Run\nLocation: Βερόνα\, Ιταλία\nDistances: 21k\nMore info: https://irunmag.gr/travel/romeo-giulietta-run/
+LOCATION:Βερόνα\, Ιταλία
+SUMMARY:Romeo & Julietta Run
+UID:d97247cf-ca1f-4414-af03-d79493ca4d8d@d972.org
+URL:https://irunmag.gr/travel/romeo-giulietta-run/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261205
-DESCRIPTION:Lanzarote International Marathon\nLocation: Λανζαρότε\, Ισπανία\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://www.lanzaroteinternationalmarathon.com/
-LOCATION:Λανζαρότε\, Ισπανία
-SUMMARY:Lanzarote International Marathon
-UID:7b8466d4-d5d4-419f-867a-fe2ca668e261@7b84.org
-URL:https://www.lanzaroteinternationalmarathon.com/
+DTSTART;VALUE=DATE:20260510
+DESCRIPTION:47ος Copenhagen Marathon\nLocation: Κοπεγχάγη\, Δανία\nDistances: 42k\nMore info: https://irunmag.gr/travel/47-copenhagen-marathon/
+LOCATION:Κοπεγχάγη\, Δανία
+SUMMARY:47ος Copenhagen Marathon
+UID:7f431a32-743c-4319-b8af-13f434b6a26e@7f43.org
+URL:https://irunmag.gr/travel/47-copenhagen-marathon/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261011
-DESCRIPTION:3-Lander-Marathon\nLocation: Λιντάου\, Γερμανία– Σεντ Μαργκρέτεν\nDistances: Ελβετία– Μπρέγκεντς\, Αυστρία\, 42k\, 21k\, 10.5k\nMore info: https://www.sparkasse-3-laender-marathon.at/de/wettbewerbe/sparkasse-marathon/
-LOCATION:Λιντάου\, Γερμανία– Σεντ Μαργκρέτεν
-SUMMARY:3-Lander-Marathon
-UID:bc080108-780e-49ae-a412-d928f60511ef@bc08.org
-URL:https://www.sparkasse-3-laender-marathon.at/de/wettbewerbe/sparkasse-marathon/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260503
-DESCRIPTION:AJ Bell Birmingham Run\nLocation: Μπέρμιγχαμ\, Αγγλία\nDistances: 21k\, 10k\nMore info: https://www.greatrun.org/events/great-birmingham-run/
-LOCATION:Μπέρμιγχαμ\, Αγγλία
-SUMMARY:AJ Bell Birmingham Run
-UID:a8642899-7344-4fb0-a09e-c56425bfdaef@a864.org
-URL:https://www.greatrun.org/events/great-birmingham-run/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261003
-DESCRIPTION:Itämeri Maraton\nLocation: Χάνκο\, Φινλανδία\nDistances: 42k\, 21k\, 10\, 5k\nMore info: https://www.itamerimaraton.com/en/home
-LOCATION:Χάνκο\, Φινλανδία
-SUMMARY:Itämeri Maraton
-UID:f6d189c7-25a1-473f-b1f2-c436d031d2c0@f6d1.org
-URL:https://www.itamerimaraton.com/en/home
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-DESCRIPTION:Generali Berlin Half Marathon\nLocation: Βερολίνο\, Γερμανία\nDistances: 21k\nMore info: https://www.generali-berliner-halbmarathon.de/en/
-LOCATION:Βερολίνο\, Γερμανία
-SUMMARY:Generali Berlin Half Marathon
-UID:de6f0564-f45a-46f7-91bf-72fe93ea4eed@de6f.org
-URL:https://www.generali-berliner-halbmarathon.de/en/
+DTSTART;VALUE=DATE:20261129
+DESCRIPTION:Μαραθώνιος Ολυμπίας\nLocation: 28-29/11\, Αρχαία Ολυμπία\nDistances: Ελλάδα\, 42k\, 21k\, 10k\, 3k\, 1k\nMore info: https://irunmag.gr/races/road/olympia-marathon-2026/
+LOCATION:28-29/11\, Αρχαία Ολυμπία
+SUMMARY:Μαραθώνιος Ολυμπίας
+UID:22ad9562-947e-443d-9815-0dcb17cee167@22ad.org
+URL:https://irunmag.gr/races/road/olympia-marathon-2026/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260912
 DESCRIPTION:43. Ruskamaraton Lapland\nLocation: Κίτιλα\, Φινλανδία\nDistances: 42k\, 21k\, 16k\, 10k\, 6\, 5k\nMore info: https://www.ruskamaraton.com/
 LOCATION:Κίτιλα\, Φινλανδία
 SUMMARY:43. Ruskamaraton Lapland
-UID:6d14f1da-5799-45aa-b2f1-42347e19e50a@6d14.org
+UID:f2102419-5ced-4ca1-bbe1-e6263663e123@f210.org
 URL:https://www.ruskamaraton.com/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261011
-DESCRIPTION:Pisa Half Marathon\nLocation: Πίζα\, Ιταλία\nDistances: 21k\nMore info: https://www.mezzamaratonapisa.it/en
-LOCATION:Πίζα\, Ιταλία
-SUMMARY:Pisa Half Marathon
-UID:5029f8c1-787a-4c4d-b6a8-65bab8b32701@5029.org
-URL:https://www.mezzamaratonapisa.it/en
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260829
-DESCRIPTION:Rauhalahti Kuopio Marathon\nLocation: Κούοπιο\, Φινλανδία\nDistances: 42k\, 21k\, 10k\nMore info: https://www.kuopiomaraton.com/
-LOCATION:Κούοπιο\, Φινλανδία
-SUMMARY:Rauhalahti Kuopio Marathon
-UID:3b45ad75-833d-499f-a3bd-fb7107bfcab6@3b45.org
-URL:https://www.kuopiomaraton.com/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260704
-DESCRIPTION:Sberprime White Nights Marathon\nLocation: Αγία Πετρούπολη\, Ρωσία\nDistances: 42k\, 10k\nMore info: https://wnmarathon.runc.run/
-LOCATION:Αγία Πετρούπολη\, Ρωσία
-SUMMARY:Sberprime White Nights Marathon
-UID:1299964f-ab56-4b05-a254-a8e83e2f71f2@1299.org
-URL:https://wnmarathon.runc.run/
+DTSTART;VALUE=DATE:20260329
+DESCRIPTION:10ος Μαραθώνιος Ναυπλίου\nLocation: Ναύπλιο\, Ελλάδα\nDistances: 42k\, 21k\, 5k\, 1k\nMore info: https://irunmag.gr/races/road/10os-marathonios-nafpliou-stis-29-martiou-2026/
+LOCATION:Ναύπλιο\, Ελλάδα
+SUMMARY:10ος Μαραθώνιος Ναυπλίου
+UID:9e528ce9-9959-40d4-9ab6-e7caf83547c2@9e52.org
+URL:https://irunmag.gr/races/road/10os-marathonios-nafpliou-stis-29-martiou-2026/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260208
-DESCRIPTION:Llanelli Half Marathon\nLocation: Λιανέλι\, Ουαλία\nDistances: 21k\, 10k\nMore info: https://www.llanellihalf.co.uk/
-LOCATION:Λιανέλι\, Ουαλία
-SUMMARY:Llanelli Half Marathon
-UID:90337edc-7a80-4dae-b5aa-3ced806cf24b@9033.org
-URL:https://www.llanellihalf.co.uk/
+DESCRIPTION:Bergamo Half Marathon\nLocation: Μπέργκαμο\, Ιταλία\nDistances: 21k\, 12\, 5k\, 10k\nMore info: https://irunmag.gr/travel/bergamo21-2026/
+LOCATION:Μπέργκαμο\, Ιταλία
+SUMMARY:Bergamo Half Marathon
+UID:8388dc04-7dcd-43b9-b225-5c672e971f5d@8388.org
+URL:https://irunmag.gr/travel/bergamo21-2026/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261025
-DESCRIPTION:26th Dresden Marathon\nLocation: Δρέσδη\, Γερμανία\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://www.dresden-marathon.com/en/
-LOCATION:Δρέσδη\, Γερμανία
-SUMMARY:26th Dresden Marathon
-UID:89cd54b3-51ec-45cf-abd8-420fcbbaad5d@89cd.org
-URL:https://www.dresden-marathon.com/en/
+DTSTART;VALUE=DATE:20260419
+DESCRIPTION:Leipzig Marathon\nLocation: Λειψία\, Γερμανία\nDistances: 42k\, 21k\, 10\, 4k\nMore info: https://leipzigmarathon.de/
+LOCATION:Λειψία\, Γερμανία
+SUMMARY:Leipzig Marathon
+UID:63e1de02-61de-42e9-9d40-2ddc59fb78e0@63e1.org
+URL:https://leipzigmarathon.de/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260524
-DESCRIPTION:Banja Luka Half Marathon\nLocation: Μπάνια Λούκα\, Βοσνία/Ερζεγοβίνη\nDistances: 21k\nMore info: https://runandmore.org/en/races/half-marathon/67
-LOCATION:Μπάνια Λούκα\, Βοσνία/Ερζεγοβίνη
-SUMMARY:Banja Luka Half Marathon
-UID:1b104770-9a5a-4c05-bf93-09be62d26553@1b10.org
-URL:https://runandmore.org/en/races/half-marathon/67
+DTSTART;VALUE=DATE:20260118
+DESCRIPTION:Bank Of Cyprus Nicosia Marathon\nLocation: Λευκωσία\, Κύπρος\nDistances: 42k\, 21k\, 10k\, 5k\, 1k\nMore info: https://irunmag.gr/travel/nicosia-marathon-2026/
+LOCATION:Λευκωσία\, Κύπρος
+SUMMARY:Bank Of Cyprus Nicosia Marathon
+UID:704aed0f-d24c-4d7f-9f65-56b31a936891@704a.org
+URL:https://irunmag.gr/travel/nicosia-marathon-2026/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260322
-DESCRIPTION:OPAP Limassol Marathon\nLocation: 21-22/3\, Λεμεσός\nDistances: Κύπρος\, 42k\, 21k\, 10k\, 5k\, 1k\nMore info: https://irunmag.gr/travel/limassol-marathon-2026/
-LOCATION:21-22/3\, Λεμεσός
-SUMMARY:OPAP Limassol Marathon
-UID:3fe5f5b1-569a-491b-b8be-20c09a403fba@3fe5.org
-URL:https://irunmag.gr/travel/limassol-marathon-2026/
+DTSTART;VALUE=DATE:20260815
+DESCRIPTION:Raatteen Marathon\nLocation: Σούομοσαλμι\, Φινλανδία\nDistances: 42k\, 21k\, 10k\nMore info: https://endurancekainuu.fi/en/raatteen-maraton-en/
+LOCATION:Σούομοσαλμι\, Φινλανδία
+SUMMARY:Raatteen Marathon
+UID:ca3e133d-d3e2-4c89-aa01-92521df18ae5@ca3e.org
+URL:https://endurancekainuu.fi/en/raatteen-maraton-en/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261211
-DESCRIPTION:Marakez Pyramids Half Marathon\nLocation: 11-12/12\, Γκίζα\nDistances: Κάιρο\, Αίγυπτος\, 21k\, 10k\, 5k\nMore info: https://www.thetrifactory.com/
-LOCATION:11-12/12\, Γκίζα
-SUMMARY:Marakez Pyramids Half Marathon
-UID:b04689c8-87de-4656-bb52-1629bc39197c@b046.org
-URL:https://www.thetrifactory.com/
+DTSTART;VALUE=DATE:20260530
+DESCRIPTION:adidas Stockholm Marathon\nLocation: Στοκχόλμη\, Σουηδία\nDistances: 42k\nMore info: https://irunmag.gr/travel/stockholm-marathon-2026/
+LOCATION:Στοκχόλμη\, Σουηδία
+SUMMARY:adidas Stockholm Marathon
+UID:bef299c6-ccb2-42cb-b696-73e1eb7e6aa5@bef2.org
+URL:https://irunmag.gr/travel/stockholm-marathon-2026/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260426
-DESCRIPTION:Blackpool Festival Marathon\nLocation: 25-26/4\, Μπλάκπουλ\nDistances: Αγγλία\nMore info: https://www.runblackpoolfestival.com/
-LOCATION:25-26/4\, Μπλάκπουλ
-SUMMARY:Blackpool Festival Marathon
-UID:bb50920b-b9ee-4965-a273-c2714066ce4a@bb50.org
-URL:https://www.runblackpoolfestival.com/
+DTSTART;VALUE=DATE:20260614
+DESCRIPTION:2. Maratonul Nordului\nLocation: Μποτοσάν\, Ρουμανία\nDistances: 42k\, 21k\, 10k\, 5k\, 1\, 5k\, 1k\, 500μ.\nMore info: https://irunmag.gr/travel/2nd-maratonul-nordului/
+LOCATION:Μποτοσάν\, Ρουμανία
+SUMMARY:2. Maratonul Nordului
+UID:069a787d-9956-4906-9462-8e46b57ad40a@069a.org
+URL:https://irunmag.gr/travel/2nd-maratonul-nordului/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261018
-DESCRIPTION:13th Palermo International Half Marathon\nLocation: Παλέρμο\, Ιταλία\nDistances: 21k\, 10k\, 5k\nMore info: https://irunmag.gr/travel/13th-palermo-half-marathon/
-LOCATION:Παλέρμο\, Ιταλία
-SUMMARY:13th Palermo International Half Marathon
-UID:d36a46a2-541a-4a1f-8ac3-c288fa5bc648@d36a.org
-URL:https://irunmag.gr/travel/13th-palermo-half-marathon/
+DTSTART;VALUE=DATE:20260920
+DESCRIPTION:World Athletics Road Running Championships\nLocation: Κοπεγχάγη\, Δανία\nDistances: 21k\, 5k\, 1\, 6k\nMore info: https://cphhalf.dk/en/wrrc-copenhagen-26/
+LOCATION:Κοπεγχάγη\, Δανία
+SUMMARY:World Athletics Road Running Championships
+UID:fe487e8e-4860-49ea-b66c-e98e98d4559d@fe48.org
+URL:https://cphhalf.dk/en/wrrc-copenhagen-26/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260405
-DESCRIPTION:Berat Green Half Marathon\nLocation: Μπέρατ\, Αλβανία\nDistances: 21k\, 10k\, 3k\nMore info: https://beratgreenhalfmarathon.com/
-LOCATION:Μπέρατ\, Αλβανία
-SUMMARY:Berat Green Half Marathon
-UID:3535e40e-f19d-451d-ac18-ddb40bfb53ae@3535.org
-URL:https://beratgreenhalfmarathon.com/
+DTSTART;VALUE=DATE:20260504
+DESCRIPTION:Milton Keynes Marathon Weekend\nLocation: 4-5/5\, Μίλτον Κέινς\nDistances: Αγγλία\, 42k\, 21k\, 5k\nMore info: https://mkmarathon.com/
+LOCATION:4-5/5\, Μίλτον Κέινς
+SUMMARY:Milton Keynes Marathon Weekend
+UID:2f1731d0-72a1-48d7-b9ec-5ca6bfb4ac55@2f17.org
+URL:https://mkmarathon.com/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260503
 DESCRIPTION:Schneider Electric Maasmarathon\nLocation: Βιζέ\, Βέλγιο\nDistances: 42k\, 21k\, 10k\, 7k\nMore info: https://schneiderelectricmaasmarathon.com/en/
 LOCATION:Βιζέ\, Βέλγιο
 SUMMARY:Schneider Electric Maasmarathon
-UID:9321ac8d-b659-4711-8208-55eb4f78fe7b@9321.org
+UID:533d25b1-c129-4c97-8cfb-37ac33c32d3b@533d.org
 URL:https://schneiderelectricmaasmarathon.com/en/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260517
-DESCRIPTION:Beer Lovers’ Marathon\nLocation: Λιέγη\, Βέλγιο\nDistances: 42k\nMore info: https://www.beerloversmarathon.be/
-LOCATION:Λιέγη\, Βέλγιο
-SUMMARY:Beer Lovers’ Marathon
-UID:48392b9f-5e24-47ef-ae55-d9443023ff3e@4839.org
-URL:https://www.beerloversmarathon.be/
+DTSTART;VALUE=DATE:20260620
+DESCRIPTION:Midnight Sun Marathon\nLocation: Τρούμσε\, Νορβηγία\nDistances: 42k\, 21k\, 10k\nMore info: https://msm.no/en/
+LOCATION:Τρούμσε\, Νορβηγία
+SUMMARY:Midnight Sun Marathon
+UID:d32aa285-93ec-46d6-bd3f-6fb92fcaaf89@d32a.org
+URL:https://msm.no/en/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260905
-DESCRIPTION:Helsingborg Marathon\nLocation: Χέλσινμπορι\, Σουηδία\nDistances: 42k\, 21k\nMore info: https://helsingborgmarathon.se/en/marathon/
-LOCATION:Χέλσινμπορι\, Σουηδία
-SUMMARY:Helsingborg Marathon
-UID:9134308e-c675-472c-a319-56569b21f347@9134.org
-URL:https://helsingborgmarathon.se/en/marathon/
+DTSTART;VALUE=DATE:20260927
+DESCRIPTION:Almaty Marathon\nLocation: Αλμάτι\, Καζακστάν\nDistances: 42k\, 21k\, 10k\nMore info: https://almaty-marathon.kz/en/
+LOCATION:Αλμάτι\, Καζακστάν
+SUMMARY:Almaty Marathon
+UID:7a126e22-856f-42c1-8564-09bb2d6a88bd@7a12.org
+URL:https://almaty-marathon.kz/en/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261004
+DESCRIPTION:Wizz Air Skopje Marathon\nLocation: Σκόπια\, Βόρεια Μακεδονία\nDistances: 42k\, 21k\, 5k\nMore info: http://skopskimaraton.com.mk/en/
+LOCATION:Σκόπια\, Βόρεια Μακεδονία
+SUMMARY:Wizz Air Skopje Marathon
+UID:d2ef316d-8f05-4d08-9b4e-ec77aa6bc332@d2ef.org
+URL:http://skopskimaraton.com.mk/en/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261018
+DESCRIPTION:13th Palermo International Half Marathon\nLocation: Παλέρμο\, Ιταλία\nDistances: 21k\, 10k\, 5k\nMore info: https://irunmag.gr/travel/13th-palermo-half-marathon/
+LOCATION:Παλέρμο\, Ιταλία
+SUMMARY:13th Palermo International Half Marathon
+UID:6a58a9c9-6517-4926-9aeb-ef39d8f40131@6a58.org
+URL:https://irunmag.gr/travel/13th-palermo-half-marathon/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261129
+DESCRIPTION:42. Firenze Marathon\nLocation: Φλωρεντία\, Ιταλία\nDistances: 42k\nMore info: https://www.firenzemarathon.it/en/marathon/
+LOCATION:Φλωρεντία\, Ιταλία
+SUMMARY:42. Firenze Marathon
+UID:bc37c7aa-29e7-4545-a17f-ab1b10530dca@bc37.org
+URL:https://www.firenzemarathon.it/en/marathon/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261011
+DESCRIPTION:3-Lander-Marathon\nLocation: Λιντάου\, Γερμανία– Σεντ Μαργκρέτεν\nDistances: Ελβετία– Μπρέγκεντς\, Αυστρία\, 42k\, 21k\, 10.5k\nMore info: https://www.sparkasse-3-laender-marathon.at/de/wettbewerbe/sparkasse-marathon/
+LOCATION:Λιντάου\, Γερμανία– Σεντ Μαργκρέτεν
+SUMMARY:3-Lander-Marathon
+UID:4b95bee1-df83-4aa0-97ab-61cd325bd46f@4b95.org
+URL:https://www.sparkasse-3-laender-marathon.at/de/wettbewerbe/sparkasse-marathon/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260426
+DESCRIPTION:11ος Μαραθώνιος Ρόδου\nLocation: Ρόδος\, Ελλάδα\nMore info: https://irunmag.gr/races/road/11-rhodes-marathon/
+LOCATION:Ρόδος\, Ελλάδα
+SUMMARY:11ος Μαραθώνιος Ρόδου
+UID:7826dc32-eab1-4e07-a8e6-e87f4dd3c581@7826.org
+URL:https://irunmag.gr/races/road/11-rhodes-marathon/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260517
 DESCRIPTION:Chester Half Marathon\nLocation: Τσέστερ\, Αγγλία\nDistances: 21k\nMore info: https://www.activeleisureevents.co.uk/half-marathon
 LOCATION:Τσέστερ\, Αγγλία
 SUMMARY:Chester Half Marathon
-UID:b09ff5f4-4f65-408b-8bb0-d2fab4d2daa7@b09f.org
+UID:0aec9f4a-9ab1-4e68-94ff-d70f49744704@0aec.org
 URL:https://www.activeleisureevents.co.uk/half-marathon
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260927
+DESCRIPTION:Loch Ness Marathon\nLocation: Ινβερνές\, Σκωτία\nDistances: 42k\, 10k\, 5k\nMore info: https://irunmag.gr/travel/loch-ness-marathon-2026/
+LOCATION:Ινβερνές\, Σκωτία
+SUMMARY:Loch Ness Marathon
+UID:67e66fb9-80a3-42f6-a42b-0d76de194098@67e6.org
+URL:https://irunmag.gr/travel/loch-ness-marathon-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261129
+DESCRIPTION:Christmas Run To Tree\nLocation: Αμβούργο\, Γερμανία\nDistances: 12k\, 6k\nMore info: https://christmasrun.de/
+LOCATION:Αμβούργο\, Γερμανία
+SUMMARY:Christmas Run To Tree
+UID:4fcb7893-be3d-4560-acbe-57268a74aace@4fcb.org
+URL:https://christmasrun.de/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261206
+DESCRIPTION:Sanremo Marathon\nLocation: Σανρέμο\, Ιταλία\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://sanremomarathon.it/en/
+LOCATION:Σανρέμο\, Ιταλία
+SUMMARY:Sanremo Marathon
+UID:c4358684-6d3a-4619-8f6f-f67865534370@c435.org
+URL:https://sanremomarathon.it/en/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260613
+DESCRIPTION:25. LGT Alpin Marathon\nLocation: Μπέντερν\, Λίχτενσταϊν\nDistances: 42k\, 25k\nMore info: https://www.lgt-alpin-marathon.li/
+LOCATION:Μπέντερν\, Λίχτενσταϊν
+SUMMARY:25. LGT Alpin Marathon
+UID:a97dbcc4-8710-4929-b3f5-a7c1de9c27d6@a97d.org
+URL:https://www.lgt-alpin-marathon.li/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261122
+DESCRIPTION:San Francesco Marathon\nLocation: Ασίζι\, Ιταλία\nDistances: 42k\, 21k\, 10k\nMore info: https://sanfrancescomarathon.it/en/
+LOCATION:Ασίζι\, Ιταλία
+SUMMARY:San Francesco Marathon
+UID:2b8bc80a-f8c9-4e62-8bde-cd9b72e8c793@2b8b.org
+URL:https://sanfrancescomarathon.it/en/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261122
+DESCRIPTION:Zurich Maraton San Sebastian\nLocation: Σαν Σεμπαστιάν\, Ισπανία\nDistances: 42k\, 21k\nMore info: https://zurichmaratonsansebastian.com/en/registration/
+LOCATION:Σαν Σεμπαστιάν\, Ισπανία
+SUMMARY:Zurich Maraton San Sebastian
+UID:77dcabec-91a6-4e64-9822-156a98ccd287@77dc.org
+URL:https://zurichmaratonsansebastian.com/en/registration/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+DESCRIPTION:Gulf Of Saint Tropez Marathon\nLocation: Σαν Τροπέ\, Γαλλία\nDistances: 42k\, 21k\, 10k\nMore info: https://www.marathondugolfedesainttropez.com/2024/fr/
+LOCATION:Σαν Τροπέ\, Γαλλία
+SUMMARY:Gulf Of Saint Tropez Marathon
+UID:a74a3e0a-8f3d-4233-be96-b45076e1ab3b@a74a.org
+URL:https://www.marathondugolfedesainttropez.com/2024/fr/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260419
+DESCRIPTION:Adidas Manchester Marathon\nLocation: Μάντσεστερ\, Αγγλία\nDistances: 42k\nMore info: https://irunmag.gr/travel/manchester-marathon/
+LOCATION:Μάντσεστερ\, Αγγλία
+SUMMARY:Adidas Manchester Marathon
+UID:38c2fe8b-f553-4ad4-aab8-5cfb93fff30a@38c2.org
+URL:https://irunmag.gr/travel/manchester-marathon/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260101
+DESCRIPTION:21ος Πρωτοχρονιάτικος Μαραθώνιος Ζυρίχης\nLocation: Ζυρίχη\, Ελβετία\nDistances: 42k\, 21k\, 10\, 55k\, 750μ.\nMore info: https://irunmag.gr/travel/neujahrsmarathon-zurich-2026/
+LOCATION:Ζυρίχη\, Ελβετία
+SUMMARY:21ος Πρωτοχρονιάτικος Μαραθώνιος Ζυρίχης
+UID:ee13e459-da02-4941-9f51-447743f5162e@ee13.org
+URL:https://irunmag.gr/travel/neujahrsmarathon-zurich-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260523
+DESCRIPTION:Göteborgsvarvet Marathon\nLocation: Γέτεμπορι\, Σουηδία\nDistances: 21k\nMore info: https://www.goteborgsvarvet.se/en/
+LOCATION:Γέτεμπορι\, Σουηδία
+SUMMARY:Göteborgsvarvet Marathon
+UID:fdeae8c7-9679-45fe-a333-0eb05d23e919@fdea.org
+URL:https://www.goteborgsvarvet.se/en/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260704
+DESCRIPTION:Sberprime White Nights Marathon\nLocation: Αγία Πετρούπολη\, Ρωσία\nDistances: 42k\, 10k\nMore info: https://wnmarathon.runc.run/
+LOCATION:Αγία Πετρούπολη\, Ρωσία
+SUMMARY:Sberprime White Nights Marathon
+UID:f1893496-9c92-42c3-9d27-e5841eb58a39@f189.org
+URL:https://wnmarathon.runc.run/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260704
+DESCRIPTION:Mikkeli Marathon\nLocation: Μίκελι\, Φινλανδία\nDistances: 42k\, 21k\, 10\, 5k\, 5k\nMore info: https://www.mikkelinklassikot.fi/mikkelijuoksu/in-english/
+LOCATION:Μίκελι\, Φινλανδία
+SUMMARY:Mikkeli Marathon
+UID:3407287d-6780-497f-bb2d-56f4b6ff192d@3407.org
+URL:https://www.mikkelinklassikot.fi/mikkelijuoksu/in-english/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260208
+DESCRIPTION:Llanelli Half Marathon\nLocation: Λιανέλι\, Ουαλία\nDistances: 21k\, 10k\nMore info: https://www.llanellihalf.co.uk/
+LOCATION:Λιανέλι\, Ουαλία
+SUMMARY:Llanelli Half Marathon
+UID:0906410d-10fc-4373-981e-4ee8d6306191@0906.org
+URL:https://www.llanellihalf.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260222
+DESCRIPTION:13. Napoli City Half Marathon\nLocation: Νάπολι\, Ιταλία\nDistances: 21k\, 2k\nMore info: https://irunmag.gr/travel/napoli-half-2026/
+LOCATION:Νάπολι\, Ιταλία
+SUMMARY:13. Napoli City Half Marathon
+UID:980e64f0-39ed-4634-8136-c04a981720d5@980e.org
+URL:https://irunmag.gr/travel/napoli-half-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261206
+DESCRIPTION:Nature Marathonman\nLocation: Σαν Ματιέ ντε Τραβιέρ\, Γαλλία\nDistances: 42k\, 21k\, 10k\nMore info: https://www.naturemarathonman.com/
+LOCATION:Σαν Ματιέ ντε Τραβιέρ\, Γαλλία
+SUMMARY:Nature Marathonman
+UID:fefd871e-5af3-45a3-b22f-e90ccd2bd8e1@fefd.org
+URL:https://www.naturemarathonman.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260125
+DESCRIPTION:31ος Ημιμαραθώνιος Σεβίλλης\nLocation: Σεβίλλη\, Ισπανία\nDistances: 21k\nMore info: https://www.mediomaratondesevilla.es/
+LOCATION:Σεβίλλη\, Ισπανία
+SUMMARY:31ος Ημιμαραθώνιος Σεβίλλης
+UID:ac023b41-b79d-4d5e-b704-9aaef9ad24f1@ac02.org
+URL:https://www.mediomaratondesevilla.es/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260510
+DESCRIPTION:Rob Burrow Leeds Marathon\nLocation: Λιντς\, Αγγλία\nDistances: 42k\, 21k\nMore info: https://www.runforall.com/events/marathon/leeds-marathon/
+LOCATION:Λιντς\, Αγγλία
+SUMMARY:Rob Burrow Leeds Marathon
+UID:b7c9cbca-abbe-477d-b802-81235a1ca79c@b7c9.org
+URL:https://www.runforall.com/events/marathon/leeds-marathon/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261220
+DESCRIPTION:22ος Πρωτοχρονιάτικος Μαραθώνιος Ζυρίχης\nLocation: Ζυρίχη\, Ελβετία\nDistances: 42k\, 21k\, 10\, 55k\, 750μ.\nMore info: https://www.neujahrsmarathon.ch/en/home/
+LOCATION:Ζυρίχη\, Ελβετία
+SUMMARY:22ος Πρωτοχρονιάτικος Μαραθώνιος Ζυρίχης
+UID:9cd4f4ea-72a5-48ba-a69e-2cb57df68d94@9cd4.org
+URL:https://www.neujahrsmarathon.ch/en/home/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260913
+DESCRIPTION:24. Volksbank Münster Marathon\nLocation: Μούνστερ\, Γερμανία\nDistances: 42k\, 28k\, 10k\, 6k\nMore info: https://www.volksbank-muenster-marathon.de/_rubric/index.php?rubric=Home+DE
+LOCATION:Μούνστερ\, Γερμανία
+SUMMARY:24. Volksbank Münster Marathon
+UID:7565f063-6451-400b-ab0c-167f31ec061c@7565.org
+URL:https://www.volksbank-muenster-marathon.de/_rubric/index.php?rubric=Home+DE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261211
+DESCRIPTION:Marakez Pyramids Half Marathon\nLocation: 11-12/12\, Γκίζα\nDistances: Κάιρο\, Αίγυπτος\, 21k\, 10k\, 5k\nMore info: https://www.thetrifactory.com/
+LOCATION:11-12/12\, Γκίζα
+SUMMARY:Marakez Pyramids Half Marathon
+UID:9f1e805c-13c3-4b53-929b-0ca41db4c2ed@9f1e.org
+URL:https://www.thetrifactory.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261115
+DESCRIPTION:7. Maratona della Grecia Salentina\nLocation: Γκρετσία Σαλεντίνα\, Ιταλία\nDistances: 42k\, 21k\nMore info: https://www.maratonadellagreciasalentina.it/
+LOCATION:Γκρετσία Σαλεντίνα\, Ιταλία
+SUMMARY:7. Maratona della Grecia Salentina
+UID:04a1f6f7-ec7a-4df8-8bfb-a3a6b236f413@04a1.org
+URL:https://www.maratonadellagreciasalentina.it/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260412
+DESCRIPTION:24. Oberbank Linz Donau Maraton\nLocation: Λιντς\, Αυστρία\nDistances: 42k\, 21k\, 10\, 5k\, 5k\nMore info: https://www.linzmarathon.at/en/index.html
+LOCATION:Λιντς\, Αυστρία
+SUMMARY:24. Oberbank Linz Donau Maraton
+UID:a340a7d1-a0ea-4f92-998b-4bedb5cd65f4@a340.org
+URL:https://www.linzmarathon.at/en/index.html
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260913
+DESCRIPTION:NGO Sarajevo Marathon\nLocation: Σαράγιεβο\, Βοσνία/Ερζεγοβίνη\nDistances: 21k\, 5k\nMore info: https://irunmag.gr/travel/sarajevo-half-2026/
+LOCATION:Σαράγιεβο\, Βοσνία/Ερζεγοβίνη
+SUMMARY:NGO Sarajevo Marathon
+UID:ff22e56e-5da5-4aa5-9b65-81d86e102771@ff22.org
+URL:https://irunmag.gr/travel/sarajevo-half-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261011
+DESCRIPTION:58th Schwarzwald Marathon\nLocation: Μπρόινλιγκεν\, Γερμανία\nDistances: 42k\, 21k\, 10k\, 5k\, 1k\nMore info: https://www.schwarzwaldmarathon.de/
+LOCATION:Μπρόινλιγκεν\, Γερμανία
+SUMMARY:58th Schwarzwald Marathon
+UID:7ce60b4b-d636-4327-b443-41259a64275c@7ce6.org
+URL:https://www.schwarzwaldmarathon.de/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260222
+DESCRIPTION:16th Marató bp Castello\nLocation: Καστεγιόν\, Ισπανία\nDistances: 42k\, 10k\nMore info: https://www.maratonbpcastellon.com/
+LOCATION:Καστεγιόν\, Ισπανία
+SUMMARY:16th Marató bp Castello
+UID:2036c01f-05fe-427d-9647-a6765a95ccb1@2036.org
+URL:https://www.maratonbpcastellon.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260503
+DESCRIPTION:Belfast City Marathon\nLocation: Μπέλφαστ\, ΒόρειαΙρλανδία\nDistances: 42k\nMore info: https://belfastcitymarathon.com/
+LOCATION:Μπέλφαστ\, ΒόρειαΙρλανδία
+SUMMARY:Belfast City Marathon
+UID:f5f1a976-5a56-4c5d-8eb7-3f4667c185ec@f5f1.org
+URL:https://belfastcitymarathon.com/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260322
-DESCRIPTION:31ος Μαραθώνιος Ρώμης\nLocation: Ρώμη\, Ιταλία\nDistances: 42k\, 5k\nMore info: https://irunmag.gr/travel/31-run-rome-the-marathon/
-LOCATION:Ρώμη\, Ιταλία
-SUMMARY:31ος Μαραθώνιος Ρώμης
-UID:97f141e5-4877-497e-8118-7db0d371366e@97f1.org
-URL:https://irunmag.gr/travel/31-run-rome-the-marathon/
+DESCRIPTION:20. Polmaraton Warszawski\nLocation: Βαρσοβία\, Πολωνία\nDistances: 21k\nMore info: https://rejestracja.maratonwarszawski.com/en/
+LOCATION:Βαρσοβία\, Πολωνία
+SUMMARY:20. Polmaraton Warszawski
+UID:f1163a7c-9528-4752-b929-b4a9d6952f03@f116.org
+URL:https://rejestracja.maratonwarszawski.com/en/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260322
+DESCRIPTION:11th Zagreb21\nLocation: Ζάγκρεμπ\, Κροατία\nDistances: 21k\, 5k\nMore info: https://zagreb21.run/?lang=en
+LOCATION:Ζάγκρεμπ\, Κροατία
+SUMMARY:11th Zagreb21
+UID:f511bd03-3c24-442c-8892-7ce4277133d7@f511.org
+URL:https://zagreb21.run/?lang=en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260927
+DESCRIPTION:Hans Christian Andersen Marathon\nLocation: Οντενσε\, Δανία\nDistances: 42k\, 21k\, 10k\, 4k\nMore info: https://hcamarathon.dk/en/
+LOCATION:Οντενσε\, Δανία
+SUMMARY:Hans Christian Andersen Marathon
+UID:75af72a5-711e-41fa-8aaf-5794c72dc25a@75af.org
+URL:https://hcamarathon.dk/en/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Aalborg Brutal Marathon\nLocation: Ολμποργκ\, Δανία\nDistances: 42k\, 21k\nMore info: https://www.marathoniaalborg.dk/english.htm
+LOCATION:Ολμποργκ\, Δανία
+SUMMARY:Aalborg Brutal Marathon
+UID:ef59e5d0-9ca9-4623-a331-d65ebfb9a7d5@ef59.org
+URL:https://www.marathoniaalborg.dk/english.htm
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260412
+DESCRIPTION:21st Freiburg Marathon\nLocation: Φράιμπουργκ\, Γερμανία\nDistances: 42k\, 21k\, 10k\nMore info: https://www.mein-freiburgmarathon.de/
+LOCATION:Φράιμπουργκ\, Γερμανία
+SUMMARY:21st Freiburg Marathon
+UID:81dff576-c43c-4023-8289-264a9e3a454c@81df.org
+URL:https://www.mein-freiburgmarathon.de/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260920
+DESCRIPTION:Nieuwpoort Marathon\nLocation: Νιούποορτ\, Βέλγιο\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://www.nieuwpoortmarathon.com/
+LOCATION:Νιούποορτ\, Βέλγιο
+SUMMARY:Nieuwpoort Marathon
+UID:4c7e9bf8-1f3c-43ef-84e6-1d54e36e00be@4c7e.org
+URL:https://www.nieuwpoortmarathon.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260426
+DESCRIPTION:20ός Διεθνής Μαραθώνιος «Μέγας Αλέξανδρος»\nLocation: Θεσσαλονίκη\, Ελλάδα\nMore info: https://irunmag.gr/races/road/20os-marathonios-thessalonikis/
+LOCATION:Θεσσαλονίκη\, Ελλάδα
+SUMMARY:20ός Διεθνής Μαραθώνιος «Μέγας Αλέξανδρος»
+UID:61534e98-201e-43d8-ae15-bcdfffb1a417@6153.org
+URL:https://irunmag.gr/races/road/20os-marathonios-thessalonikis/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261003
+DESCRIPTION:15. Tartu City Marathon\nLocation: Τάρτου\, Εσθονία\nDistances: 42k\, 21k\, 10k\nMore info: https://tartumaraton.ee/en/tartu-maraton-events-in-2026
+LOCATION:Τάρτου\, Εσθονία
+SUMMARY:15. Tartu City Marathon
+UID:006e9031-83a1-40a8-9a5a-04742833834f@006e.org
+URL:https://tartumaraton.ee/en/tartu-maraton-events-in-2026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261003
+DESCRIPTION:Itämeri Maraton\nLocation: Χάνκο\, Φινλανδία\nDistances: 42k\, 21k\, 10\, 5k\nMore info: https://www.itamerimaraton.com/en/home
+LOCATION:Χάνκο\, Φινλανδία
+SUMMARY:Itämeri Maraton
+UID:95e0f4d2-6c78-4131-b9bd-00cdabcf45ae@95e0.org
+URL:https://www.itamerimaraton.com/en/home
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261018
+DESCRIPTION:Parma Marathon\nLocation: Πάρμα\, Ιταλία\nDistances: 42k\, 31k\, 24\, 7k\, 10k\, 5k\nMore info: https://irunmag.gr/travel/10-parma-marathon/
+LOCATION:Πάρμα\, Ιταλία
+SUMMARY:Parma Marathon
+UID:4bd60bec-56e4-4f73-ba9c-9c3569a8c1cd@4bd6.org
+URL:https://irunmag.gr/travel/10-parma-marathon/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:5ος Μαραθώνιος Μπολόνια\nLocation: Μπολόνια\, Ιταλία\nMore info: https://irunmag.gr/races/world-race/world-marathons-2026/#top
+LOCATION:Μπολόνια\, Ιταλία
+SUMMARY:5ος Μαραθώνιος Μπολόνια
+UID:25ca0917-ef94-4aa4-81d4-331c0348dd64@25ca.org
+URL:https://irunmag.gr/races/world-race/world-marathons-2026/#top
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261018
+DESCRIPTION:Antwerp Marathon\nLocation: Αμβέρσα\, Βέλγιο\nDistances: 42k\, 21k\nMore info: https://antwerpmarathon.com/en/
+LOCATION:Αμβέρσα\, Βέλγιο
+SUMMARY:Antwerp Marathon
+UID:eb50c61f-60ad-433b-9516-d33a7cbdd2ed@eb50.org
+URL:https://antwerpmarathon.com/en/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261129
+DESCRIPTION:Torino City Marathon\nLocation: Τορίνο\, Ιταλία\nDistances: 42k\, 21k\, 5k\nMore info: https://irunmag.gr/travel/torino-marathon-2026/
+LOCATION:Τορίνο\, Ιταλία
+SUMMARY:Torino City Marathon
+UID:d156f9c7-3421-4de6-93ee-c5e8217b86b7@d156.org
+URL:https://irunmag.gr/travel/torino-marathon-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260426
+DESCRIPTION:Padova Marathon\nLocation: Πάντοβα\, Ιταλία\nMore info: https://irunmag.gr/travel/padova-marathon-2026/
+LOCATION:Πάντοβα\, Ιταλία
+SUMMARY:Padova Marathon
+UID:48cf4ec6-9c2c-4e43-b1ab-b0363175262e@48cf.org
+URL:https://irunmag.gr/travel/padova-marathon-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260510
+DESCRIPTION:Cesme Half Maratonu\nLocation: Τσεσμές\, Τουρκία\nDistances: 21k\, 10k\, 5k\nMore info: https://irunmag.gr/travel/cesme-maratonu/
+LOCATION:Τσεσμές\, Τουρκία
+SUMMARY:Cesme Half Maratonu
+UID:d505b9ac-0607-4601-b5ce-473236354d1c@d505.org
+URL:https://irunmag.gr/travel/cesme-maratonu/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260412
+DESCRIPTION:Zaragoza International Marathon\nLocation: Σαραγόσα\, Ισπανία\nDistances: 42k\, 10k\nMore info: https://www.spain.info/en/calendar/zaragoza-international-marathon/
+LOCATION:Σαραγόσα\, Ισπανία
+SUMMARY:Zaragoza International Marathon
+UID:f0f0a428-e267-4616-aa46-f4f0f977839d@f0f0.org
+URL:https://www.spain.info/en/calendar/zaragoza-international-marathon/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261004
+DESCRIPTION:27th Generali Köln Marathon\nLocation: Κολωνία\, Γερμανία\nDistances: 42k\, 21k\nMore info: https://generali-koeln-marathon.de/en/events/marathon/?all-time-best=0
+LOCATION:Κολωνία\, Γερμανία
+SUMMARY:27th Generali Köln Marathon
+UID:bd7b0344-e465-463c-8867-4aca258268d1@bd7b.org
+URL:https://generali-koeln-marathon.de/en/events/marathon/?all-time-best=0
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261025
+DESCRIPTION:Höstrusket\nLocation: Στοκχόλμη\, Σουηδία\nDistances: 42k\, 10k\nMore info: https://hostrusket.se/
+LOCATION:Στοκχόλμη\, Σουηδία
+SUMMARY:Höstrusket
+UID:45ff6018-41c8-4600-816a-22952af5d65e@45ff.org
+URL:https://hostrusket.se/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260510
+DESCRIPTION:Würzburg Marathon\nLocation: Βούρτσμπουργκ\, Γερμανία\nDistances: 42k\, 21k\, 10k\nMore info: https://www.wuerzburg-marathon.de/
+LOCATION:Βούρτσμπουργκ\, Γερμανία
+SUMMARY:Würzburg Marathon
+UID:fa72ab48-2895-432b-89a3-5dbe7ba8eebf@fa72.org
+URL:https://www.wuerzburg-marathon.de/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260920
+DESCRIPTION:Kassel Marathon\nLocation: 18-20/9\, Κάσελ\nDistances: Γερμανία\, 42k\, 21k\, 4k\nMore info: https://kassel-marathon.de/
+LOCATION:18-20/9\, Κάσελ
+SUMMARY:Kassel Marathon
+UID:54d7a3b3-cf2b-49db-9de6-ac86b6c80578@54d7.org
+URL:https://kassel-marathon.de/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260829
+DESCRIPTION:Stavanger Marathon\nLocation: Στάβανγκερ\, Νορβηγία\nDistances: 42k\, 21k\, 5k\nMore info: https://stavangermarathon.no/en/
+LOCATION:Στάβανγκερ\, Νορβηγία
+SUMMARY:Stavanger Marathon
+UID:d4c1476f-c7f6-47ac-ba53-7e66b64873b5@d4c1.org
+URL:https://stavangermarathon.no/en/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261011
+DESCRIPTION:34. Zagrebacki Maraton\nLocation: Ζάγκρεμπ\, Κροατία\nDistances: 42k\, 21k\, 10k\nMore info: https://www.zagreb-marathon.com/en/
+LOCATION:Ζάγκρεμπ\, Κροατία
+SUMMARY:34. Zagrebacki Maraton
+UID:1bd258de-d188-452c-977b-95e0242d4c52@1bd2.org
+URL:https://www.zagreb-marathon.com/en/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260517
+DESCRIPTION:Beer Lovers’ Marathon\nLocation: Λιέγη\, Βέλγιο\nDistances: 42k\nMore info: https://www.beerloversmarathon.be/
+LOCATION:Λιέγη\, Βέλγιο
+SUMMARY:Beer Lovers’ Marathon
+UID:469adeeb-fee0-4ff3-89d9-133630415fac@469a.org
+URL:https://www.beerloversmarathon.be/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+DESCRIPTION:Run For Autism Half Marathon\nLocation: Αγία Νάπα\, Κύπρος\nDistances: 21k\, 10k\, 5k\, 1k\, 500μ.\nMore info: https://irunmag.gr/travel/5o-run-for-autism-half-marathon/
+LOCATION:Αγία Νάπα\, Κύπρος
+SUMMARY:Run For Autism Half Marathon
+UID:ef559bf1-591d-44d5-a23e-27bb57d40e24@ef55.org
+URL:https://irunmag.gr/travel/5o-run-for-autism-half-marathon/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260222
+DESCRIPTION:41 Malta Marathon\nLocation: Σλιέμα\, Μάλτα\nDistances: 42k\, 21k\nMore info: https://irunmag.gr/travel/41os-marathonios-maltas-stis-22-fevrouariou-2026/
+LOCATION:Σλιέμα\, Μάλτα
+SUMMARY:41 Malta Marathon
+UID:3b979ed2-0cd8-4868-982a-0fb0c0a816cd@3b97.org
+URL:https://irunmag.gr/travel/41os-marathonios-maltas-stis-22-fevrouariou-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260815
+DESCRIPTION:35. Paavo Nurmi Marathon\nLocation: Τούρκου\, Φινλανδία\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://irunmag.gr/travel/35-paavo-nurmi-marathon/
+LOCATION:Τούρκου\, Φινλανδία
+SUMMARY:35. Paavo Nurmi Marathon
+UID:2f61c601-e84d-44b2-9701-238c080a7d1c@2f61.org
+URL:https://irunmag.gr/travel/35-paavo-nurmi-marathon/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261011
+DESCRIPTION:Leicester Half Marathon\nLocation: Λέστερ\, Αγγλία\nDistances: 21k\, 10k\nMore info: https://runleicester.co.uk/
+LOCATION:Λέστερ\, Αγγλία
+SUMMARY:Leicester Half Marathon
+UID:0bdcc852-44d5-40c6-bb1b-42797d30ffc6@0bdc.org
+URL:https://runleicester.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261108
+DESCRIPTION:Maraton Malaga\nLocation: Μάλαγα\, Ισπανία\nDistances: 42k\nMore info: https://www.generalimaratonmalaga.com/marathon-malaga-en/
+LOCATION:Μάλαγα\, Ισπανία
+SUMMARY:Maraton Malaga
+UID:ff93a06e-7338-44e7-9468-a41aeaa4cdf0@ff93.org
+URL:https://www.generalimaratonmalaga.com/marathon-malaga-en/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261004
+DESCRIPTION:25. Poznan Marathon\nLocation: Πόζναν\, Πολωνία\nDistances: 42k\, 5k\nMore info: https://marathon.poznan.pl/en/
+LOCATION:Πόζναν\, Πολωνία
+SUMMARY:25. Poznan Marathon
+UID:fb5eb2c0-c196-47ca-b5bd-f7377eebdb92@fb5e.org
+URL:https://marathon.poznan.pl/en/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260412
+DESCRIPTION:Marathon de Paris\nLocation: Παρίσι\, Γαλλία\nDistances: 42k\nMore info: https://www.schneiderelectricparismarathon.com/en/
+LOCATION:Παρίσι\, Γαλλία
+SUMMARY:Marathon de Paris
+UID:8af1cc1e-f671-4706-a5dd-472de5bad13d@8af1.org
+URL:https://www.schneiderelectricparismarathon.com/en/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260905
+DESCRIPTION:39e Marathon Chateaux Medoc\nLocation: Μπορντό\, Γαλλία\nDistances: 42k\nMore info: https://www.marathondumedoc.com/en/
+LOCATION:Μπορντό\, Γαλλία
+SUMMARY:39e Marathon Chateaux Medoc
+UID:6b75b11f-31e5-47e6-990c-2606a7eb240d@6b75.org
+URL:https://www.marathondumedoc.com/en/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261129
+DESCRIPTION:32ος Ημιμαραθώνιος Σεβίλλης\nLocation: Σεβίλλη\, Ισπανία\nDistances: 21k\nMore info: https://www.mediomaratondesevilla.es/
+LOCATION:Σεβίλλη\, Ισπανία
+SUMMARY:32ος Ημιμαραθώνιος Σεβίλλης
+UID:16882985-1f9a-46d6-9a06-8b0d597e22af@1688.org
+URL:https://www.mediomaratondesevilla.es/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260725
+DESCRIPTION:41. Hämeenlinna City Marathon\nLocation: Χάμεενλινα\, Φινλανδία\nDistances: 42k\, 21k\, 10k\nMore info: https://hameenlinnantarmo.sporttisaitti.com/kilpailut/kaupunki-maraton/
+LOCATION:Χάμεενλινα\, Φινλανδία
+SUMMARY:41. Hämeenlinna City Marathon
+UID:635e0ca1-888e-4517-a8d1-a5e5fc679112@635e.org
+URL:https://hameenlinnantarmo.sporttisaitti.com/kilpailut/kaupunki-maraton/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261108
+DESCRIPTION:Lake Maggiore Marathon\nLocation: Αρόνα\, Ιταλία\nDistances: 42k\, 33k\, 21k\, 10k\nMore info: https://lagomaggioremarathon.it/en/
+LOCATION:Αρόνα\, Ιταλία
+SUMMARY:Lake Maggiore Marathon
+UID:86837260-34ea-4e30-bcc9-f4842aa5420f@8683.org
+URL:https://lagomaggioremarathon.it/en/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261004
+DESCRIPTION:AJ Bell Great Scottish Run\nLocation: Γλασκώβη\, Σκωτία\nDistances: 21k\, 10k\nMore info: https://www.greatrun.org/events/great-scottish-run/
+LOCATION:Γλασκώβη\, Σκωτία
+SUMMARY:AJ Bell Great Scottish Run
+UID:3c09c5e2-bad1-4a71-9348-89c4f6b70c68@3c09.org
+URL:https://www.greatrun.org/events/great-scottish-run/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+DESCRIPTION:Fjordkraft Bergen City Marathon\nLocation: Μπέργκεν\, Νορβηγία\nMore info: https://www.bergencitymarathon.no/
+LOCATION:Μπέργκεν\, Νορβηγία
+SUMMARY:Fjordkraft Bergen City Marathon
+UID:e28ef7de-8568-4e9f-ab8f-132556b8b88f@e28e.org
+URL:https://www.bergencitymarathon.no/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260531
+DESCRIPTION:Ruddy Rothwell’s Cakeathon Marathon\nLocation: Λιντς\, Αγγλία\nDistances: 48k\, 42k\, 21k\, 10\, 7k\nMore info: https://www.itsgrimupnorthrunning.co.uk/e/ruddy-rothwells-cakeathon-11604
+LOCATION:Λιντς\, Αγγλία
+SUMMARY:Ruddy Rothwell’s Cakeathon Marathon
+UID:559a382d-cafc-4838-b426-712b14c0a138@559a.org
+URL:https://www.itsgrimupnorthrunning.co.uk/e/ruddy-rothwells-cakeathon-11604
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261127
+DESCRIPTION:Eilat Desert Marathon\nLocation: Εϊλάτ\, Ισραήλ\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://www.marathonisrael.co.il/en/event/eilat-desert-marathon/
+LOCATION:Εϊλάτ\, Ισραήλ
+SUMMARY:Eilat Desert Marathon
+UID:ab3294a8-f6ac-46a2-9ed4-8e1bcaaa6da0@ab32.org
+URL:https://www.marathonisrael.co.il/en/event/eilat-desert-marathon/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260118
+DESCRIPTION:Maratona do Funchal\nLocation: Φουνσάλ\, Πορτογαλία\nDistances: 42k\, 21k\, 8k\nMore info: https://www.madeiramarathon.com/
+LOCATION:Φουνσάλ\, Πορτογαλία
+SUMMARY:Maratona do Funchal
+UID:291f973f-85df-4a35-8eb7-062502c880c0@291f.org
+URL:https://www.madeiramarathon.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260419
+DESCRIPTION:43. Vienna City Marathon\nLocation: Βιέννη\, Αυστρία\nDistances: 42k\, 21k\, 5k\, 1\, 6k\, 800μ.\nMore info: https://irunmag.gr/travel/43os-marathonios-viennis/
+LOCATION:Βιέννη\, Αυστρία
+SUMMARY:43. Vienna City Marathon
+UID:7f477af1-23c7-46f8-8991-bfd8f36ee69f@7f47.org
+URL:https://irunmag.gr/travel/43os-marathonios-viennis/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261011
+DESCRIPTION:Wizz Air Sofia Marathon\nLocation: Σόφια\, Βουλγαρία\nDistances: 42k\, 21k\, 10k\, 5k\nMore info: https://irunmag.gr/travel/43th-sofia-marathon/
+LOCATION:Σόφια\, Βουλγαρία
+SUMMARY:Wizz Air Sofia Marathon
+UID:8fbe5d68-d1cd-43d7-b163-e94463942da7@8fbe.org
+URL:https://irunmag.gr/travel/43th-sofia-marathon/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260912
+DESCRIPTION:Oslo Maraton\nLocation: Οσλο\, Νορβηγία\nDistances: 73k\, 42k\, 21k\, 10k\nMore info: https://irunmag.gr/travel/oslo-maraton-2026/
+LOCATION:Οσλο\, Νορβηγία
+SUMMARY:Oslo Maraton
+UID:e2a69b7c-c421-45a0-a5ce-c7a85e8cc658@e2a6.org
+URL:https://irunmag.gr/travel/oslo-maraton-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260412
+DESCRIPTION:Enschede Marathon\nLocation: Ενσχεντε\, Ολλανδία\nDistances: 42k\, 21k\, 10k\, 5k\, 3k\nMore info: https://irunmag.gr/travel/enschede-marathon-2026/
+LOCATION:Ενσχεντε\, Ολλανδία
+SUMMARY:Enschede Marathon
+UID:200e1ce1-5e3f-4977-a473-63df52e871d9@200e.org
+URL:https://irunmag.gr/travel/enschede-marathon-2026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260125
+DESCRIPTION:36ος Μαραθώνιος Μαρακές\nLocation: Μαρακές\, Μαρόκο\nDistances: 42k\, 21k\nMore info: https://irunmag.gr/travel/36os-marathonios-marakes/
+LOCATION:Μαρακές\, Μαρόκο
+SUMMARY:36ος Μαραθώνιος Μαρακές
+UID:7b8275e7-d656-44ff-96ff-af29b06aa7cc@7b82.org
+URL:https://irunmag.gr/travel/36os-marathonios-marakes/
 END:VEVENT
 END:VCALENDAR
